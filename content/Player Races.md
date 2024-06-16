@@ -1,5 +1,5 @@
 ---
-title: Races
+title: Player Races
 draft: false
 tags:
   - example-tag
