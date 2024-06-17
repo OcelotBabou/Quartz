@@ -17,8 +17,8 @@ Western Siar'Morrin is composed of several key areas:
 - 🌲 [[Ridgeback Forest]]: A dense, resource-rich forest to the north.
 - 🏞 [[Shadow Aisle Mountains]]: Eastern mountains, home to hidden valleys and ancient ruins.
 - 🌿 [[Paloto Swamplands]]: Southern marshlands, rich in biodiversity.
-- 🌄 [[Phemus Hills]]: Rolling hills and rugged karst-land, difficult to traverse.
-- 🌅 [[Seagate]]: A once bustling coastal city vital for trade and maritime activities.
+- 🌄 [[Phemus Reach]]: Rolling hills and rugged karst-land, difficult to traverse.
+- 🌅 [[Portum]]: A once bustling coastal city vital for trade and maritime activities.
 - 🏜 [[Donatus Stultitia]]: A mysterious and largely avoided desert area.
 
 ### 3. **Geography**

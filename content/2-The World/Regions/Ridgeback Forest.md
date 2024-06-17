@@ -7,6 +7,7 @@ tags:
 
 The Ridgeback Forest is the largest continuous forest in Siar'Morrin. Once a mysterious expanse, it is now known as one of the most perilous locales in the region. Serving as a gateway to the untamed wilderness of the past, Ridgeback Forest stands as a living testament to a bygone era, encapsulating the wild, untamed beauty that once dominated the landscape.
 
+![[e2264127-99cd-45a9-85b8-a9bd9c01765d.webp]]
 ### 2. **Geography**
 
 Ridgeback Forest, named after the towering Ridgeback Mountain range it borders, is a vast forest characterized by its dense canopy and sprawling undergrowth. This thick foliage creates a natural labyrinth, casting the forest floor into perpetual twilight and preserving ancient conditions within its depths. The mountains contribute to the forest’s isolated and perilous nature, creating a microclimate that sustains its ancient ecosystems.

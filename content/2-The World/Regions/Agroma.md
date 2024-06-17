@@ -10,6 +10,7 @@ tags:
 
 Agroma is the agricultural heartland of Siar’Morrin, stretching from the tranquil shores of Lake Novus Mare to the rugged coastline of the Periculosus Ocean. Celebrated as a bastion of productivity, its vast fertile plains are blanketed with fields of grain, orchards, and pastures that not only sustain the local population but also drive the regional economy, with trade to the East.
 
+![[80aedfa5-a09f-4eee-a99b-54750fa98e8a.webp]]
 ### 2. **Geography**
 
 The geography of Agroma is dominated by vast, flat plains that are ideal for agriculture but also prone to flooding due to the region's numerous rivers. These waterways, essential for irrigation, become both a blessing and a risk in heavy rainfall seasons. To manage this, Agroma has constructed an intricate system of dykes and canals, engineering marvels that control water flow and protect the land.

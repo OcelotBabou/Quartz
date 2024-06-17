@@ -2,7 +2,10 @@
 title: Scurrier
 draft: false
 tags:
-  - example-tag
+  - Alberine
+  - PlayerRace
+  - Sub-race
+  - Scurrier
 ---
 ![[Squirrel 2.webp]]
 
