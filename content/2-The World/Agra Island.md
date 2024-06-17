@@ -10,8 +10,8 @@ Start with a general introduction to the larger area, including its name, geogra
 
 ### 2. **Regions**
 
-List of key regions within
-- 
+- Northern
+- Southern
 
 ### 3. **Geography**
 
