@@ -2,7 +2,10 @@
 title: Tribe Eilearian
 draft: false
 tags:
-  - example-tag
+  - Harpies
+  - Sub-race
+  - PlayerRace
+  - TribeEilearian
 ---
 Image
 

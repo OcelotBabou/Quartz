@@ -2,7 +2,10 @@
 title: Burrower
 draft: false
 tags:
-  - example-tag
+  - Sub-race
+  - PlayerRace
+  - Alberine
+  - Burrower
 ---
 ![[Badger1 (1).webp]]
 

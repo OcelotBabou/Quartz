@@ -2,8 +2,10 @@
 title: Timber Wolf
 draft: false
 tags:
-  - example-tag
   - Sub-race
+  - Ciaan
+  - PlayerRace
+  - TimberWolf
 ---
 ![[887390db-289a-49ae-b26e-5e0ddf79944c.webp]]
 

@@ -2,7 +2,10 @@
 title: Tribe Kairn
 draft: false
 tags:
-  - example-tag
+  - Harpies
+  - Sub-race
+  - PlayerRace
+  - TribeKairn
 ---
 Image
 

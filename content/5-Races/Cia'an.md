@@ -2,7 +2,8 @@
 title: Cia'an
 draft: false
 tags:
-  - example-tag
+  - Ciaan
+  - PlayerRace
 ---
 ![[fa8eda77-9ff6-4030-9ef2-da7a50119c70.webp]]
 

@@ -2,7 +2,8 @@
 title: Ratfolk
 draft: false
 tags:
-  - example-tag
+  - Ratfolk
+  - PlayerRace
 ---
 ![[ad453c2b-068c-4f81-a34c-623e27c5b940.webp]]
 
@@ -33,6 +34,6 @@ As the sun sets on their ramshackled cities, casting long shadows across the cro
 **Scurry**: You can move through the space of any hostile creature as if it were difficult terrain.
 
 **Sub-races:**
-- [[Lab Rats]]
+- [[Lab Rat]]
 - [[Shadow Scurriers]]
 - [[Blighted Brutes]] 

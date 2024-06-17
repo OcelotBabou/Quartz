@@ -2,7 +2,10 @@
 title: Blighted Brutes
 draft: false
 tags:
-  - example-tag
+  - Sub-race
+  - Ratfolk
+  - PlayerRace
+  - BlightedBrute
 ---
 ![[eaa1e64d-687a-4ba7-8f97-4340027e6a9b.webp]]
 

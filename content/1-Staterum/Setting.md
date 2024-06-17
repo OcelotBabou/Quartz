@@ -1,9 +1,11 @@
 ---
 cssclasses:
   - special-layout
+tags:
+  - Setting
 ---
 
-# The World
+# Staterum - The Setting
 
 ![[DALL·E 2024-05-06 15.26.13 - A vibrant and lush scene showing Biran, Mercio, Ratura, and Vilcren leading humanity across the newly created lands of Staterum. The landscape is lush.webp]]
 

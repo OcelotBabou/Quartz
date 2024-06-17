@@ -2,7 +2,10 @@
 title: Tribe Invera
 draft: false
 tags:
-  - example-tag
+  - Harpies
+  - Sub-race
+  - PlayerRace
+  - TribeInvera
 ---
 Image
 

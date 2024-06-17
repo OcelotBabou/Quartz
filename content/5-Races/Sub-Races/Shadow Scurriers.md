@@ -2,7 +2,10 @@
 title: Shadow Scurriers
 draft: false
 tags:
-  - example-tag
+  - PlayerRace
+  - Sub-race
+  - Ratfolk
+  - ShadowScurrier
 ---
 ![[3ce00f16-5b7d-4524-830b-432cd399b996.webp]]
 

@@ -2,7 +2,8 @@
 title: Alberine
 draft: false
 tags:
-  - example-tag
+  - PlayerRace
+  - Alberine
 ---
 ![[Alberine1.webp]]
 

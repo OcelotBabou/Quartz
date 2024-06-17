@@ -2,7 +2,10 @@
 title: Streamrunner
 draft: false
 tags:
-  - example-tag
+  - Alberine
+  - Sub-race
+  - PlayerRace
+  - Streamrunner
 ---
 ![[Otter2.webp]]
 

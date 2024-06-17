@@ -2,7 +2,8 @@
 title: Harpies
 draft: false
 tags:
-  - example-tag
+  - PlayerRace
+  - Harpies
 ---
 Image (if I can ever get a good one)
 

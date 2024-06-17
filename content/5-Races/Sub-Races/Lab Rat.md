@@ -1,8 +1,11 @@
 ---
-title: Lab Rats
+title: Lab Rat
 draft: false
 tags:
-  - example-tag
+  - Sub-race
+  - PlayerRace
+  - Ratfolk
+  - LabRat
 ---
 
 ![[ff55a6d5-254a-42ad-b38a-3c2403f6dae7 1.webp]]
