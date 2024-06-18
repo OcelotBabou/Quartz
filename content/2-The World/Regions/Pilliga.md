@@ -8,6 +8,7 @@ tags:
 
 Welcome to Pilliga, a vast region defined by the sprawling expanse of dry landscapes that radiate from the banks of the majestic [[Fluvitae River]]. Stretching from the fortified stronghold of Fort Logos to the bandit-infested hills of [[Collis Brigantium]], Pilliga is a land marked by its arid terrain and drought-resistant flora. Despite its harsh conditions, this region plays a crucial role in connecting the eastern and western territories of Siar’Morrin, serving as a vital conduit for trade and travel.
 
+![[Pilliga.webp]]
 ### 2. **Geography**
 
 Pilliga is characterized by its dry, rugged landscape which stretches far beyond the Fluvitae River, a critical source of water that trickles through the region fed by its massive watershed. Sparse vegetation and dried-out forests dominate the area, with only the hardiest trees and most resilient grasses able to thrive under the relentless sun. The terrain here is unforgiving, with dried leaves and twigs crackling underfoot, and the air is perpetually filled with the scent of cattle and dust.
