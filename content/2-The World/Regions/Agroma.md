@@ -6,6 +6,7 @@ tags:
   - Agroma
   - region
 ---
+*[ag-roh-mah]*
 ### 1. **Overview**
 
 Agroma is the agricultural heartland of Siar’Morrin, stretching from the tranquil shores of Lake Novus Mare to the rugged coastline of the Periculosus Ocean. Celebrated as a bastion of productivity, its vast fertile plains are blanketed with fields of grain, orchards, and pastures that not only sustain the local population but also drive the regional economy, with trade to the East.
