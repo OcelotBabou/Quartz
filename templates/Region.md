@@ -3,6 +3,7 @@ title: {{title}}
 tags:
   - region
 ---
+*[Phonetic]*
 ### 1. **Overview**
 
 Overview

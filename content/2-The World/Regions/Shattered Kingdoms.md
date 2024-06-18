@@ -4,6 +4,7 @@ tags:
   - region
   - EasternSiarMorrin
 ---
+*[shat-erd king-dums]*
 ### 1. **Overview**
 
 The Shattered Kingdoms, a region aptly named for its fractured and tumultuous nature, lying to the north of New Birania. Once a part of the grand Biranian empire, these lands have splintered into a myriad of petty kingdoms following the empire's decline. Today, these realms are a mosaic of conflict and ambition, each controlled by leaders ranging from ambitious lords and cunning generals to opportunistic social climbers.

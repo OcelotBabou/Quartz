@@ -3,6 +3,7 @@ title: Paloto Swamplands
 tags:
   - region
 ---
+*[puh-loh-toh swamp-lands]*
 ### 1. **Overview**
 
 The Paloto Swamplands, a vast and treacherous tropical forest region characterized by its dense, muggy jungles and expansive murky swamps. This inhospitable landscape is the domain of the Ratfolk, a resourceful and resilient species whose sprawling cities, built in a seemingly chaotic fashion on stilts and woven through dense foliage, cling to the coastal edges of the region.

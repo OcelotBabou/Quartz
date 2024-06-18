@@ -4,6 +4,7 @@ tags:
   - region
   - EasternSiarMorrin
 ---
+*[nyoo bee-rah-nee-uh]*
 ### 1. **Overview**
 
 New Birania, the largest cohesive realm in Eastern Siar’Morrin, represents the remnants of the once-great Biranian empire. In a world now devoid of gods, New Birania stands as a testament to the resilience and adaptability of its people, who have transformed their once-glorious empire into a beacon of hope and progress in a time of uncertainty.
