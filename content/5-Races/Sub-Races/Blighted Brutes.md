@@ -7,9 +7,9 @@ tags:
   - PlayerRace
   - BlightedBrute
 ---
-![[eaa1e64d-687a-4ba7-8f97-4340027e6a9b.webp]]
+![[ratogre.webp]]
 
-But actually![[Pasted image 20240611175547.jpg]]
+But actually![[Brandonrat.jpg]]
 
 **ASI**: +2 Con, +1 Dex
 

@@ -7,7 +7,7 @@ tags:
   - Ratfolk
   - ShadowScurrier
 ---
-![[3ce00f16-5b7d-4524-830b-432cd399b996.webp]]
+![[Shadowscurrier.webp]]
 
 
 **ASI**: +2 Dex, +1 Cha or Wis

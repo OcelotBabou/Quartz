@@ -9,7 +9,7 @@ tags:
 
 Portum is most famous for its capital city, Seagate, a once a bustling port city thriving with the activity of a vibrant harbor on the westernmost point of Siar’Morrin. Known for its strategic position by the Periculosus Ocean, Portum was a hub of trade and cultural exchange, connecting distant lands with the heart of Siar’Morrin. However, following the AoD, it has become a shadow of its former vibrant self, transformed into a relic of past prosperity.
 
-![[d3bbd1d1-c6ce-40f5-8977-40a629a0287f.webp]]
+![[seagate.webp]]
 
 ### 2. **Geography**
 

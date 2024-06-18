@@ -7,7 +7,7 @@ tags:
   - Ciaan
   - PlayerRace
 ---
-![[79a7d0da-0902-4628-8f1a-cf358d2105d1.webp]]
+![[arcticwolf.webp]]
 
 **ASI**: +1 Str
 

@@ -8,9 +8,11 @@ tags:
 
 The Western Scar, a haunting testament to the catastrophic events that heralded the Age of Darkness, marks a stark division between Siar'Morrin and Kair'Thear. Once a vibrant landscape teeming with life, this region now lies barren and desolate, its ecosystems devastated by the rift that once tore through reality. This scarred land, forever altered by the dark energies unleashed during that tumultuous time, remains a buffer zone against the unknown horrors that still linger in the rift's shadows.
 
+![[WesternRift.webp]]
+
 ### 2. **Geography**
 
-
+The geography of the Western Scar is, frankly, a bit of a bummer. It’s where the rift tore through reality, leaving a landscape so scarred and twisted it makes a crumpled piece of paper look flat. The ground is imbued with dark energies, and the air buzzes with an eerie crackle—perfect for those who miss the ambiance of haunted houses.
 
 ### 3. **History**
 

@@ -5,7 +5,7 @@ tags:
   - Ratfolk
   - PlayerRace
 ---
-![[ad453c2b-068c-4f81-a34c-623e27c5b940.webp]]
+![[gentlemanrat.webp]]
 
 Emerging as the newest race to grace the lands of Staterum, the Ratfolk embody innovation, intellect, and an insatiable curiosity that knows no bounds. Yet, despite their prodigious talents and boundless potential, they face the harsh sting of prejudice from other races, who view them with a mixture of fear and disdain.
 

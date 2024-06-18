@@ -7,7 +7,7 @@ tags:
 
 # Staterum - The Setting
 
-![[DALL·E 2024-05-06 15.26.13 - A vibrant and lush scene showing Biran, Mercio, Ratura, and Vilcren leading humanity across the newly created lands of Staterum. The landscape is lush.webp]]
+![[settingopenworld.webp]]
 
 ![[Setting1.webp]]
 Welcome, adventurers, to the world of Staterum, a land shrouded in the aftermath of a cataclysmic event that shook the very foundations of existence. Once this realm thrived under the benevolent gaze of gods and the ingenuity of mortals, the land of Siar Morrin united as one under the banner of the grand kingdom of Birania. But that time is now a distant memory, fading like whispers in the wind.

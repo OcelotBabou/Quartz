@@ -8,7 +8,7 @@ tags:
 
 The Paloto Swamplands, a vast and treacherous tropical forest region characterized by its dense, muggy jungles and expansive murky swamps. This inhospitable landscape is the domain of the Ratfolk, a resourceful and resilient species whose sprawling cities, built in a seemingly chaotic fashion on stilts and woven through dense foliage, cling to the coastal edges of the region.
 
-![[09ae6207-ba99-4cfd-b07a-a896dea4dca6.webp]]
+![[Paloto.webp]]
 ### 2. **Geography**
 
 The Paloto Swamplands, present a formidable barrier to outsiders, featuring treacherous marshlands that can swallow unwary travelers and jungles that envelop with a stifling embrace. The landscape is a labyrinth of shifting muddy shallows and deceptive depths, under a canopy so dense that the air is thick with humidity and the rich scents of decaying plant matter.

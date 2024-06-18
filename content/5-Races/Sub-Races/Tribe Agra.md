@@ -7,7 +7,7 @@ tags:
   - Harpies
   - TribeAgra
 ---
-![[ce4a4b0a-8d40-4e5c-8d18-754f962f97bb.webp]]
+![[tribeagra.webp]]
 
 **ASI**: +1 Cha
 

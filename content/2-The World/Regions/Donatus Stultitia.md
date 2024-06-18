@@ -8,7 +8,7 @@ tags:
 
 Donatus Stultitia, otherwise known as the Mirage Plains, is a vast expanse of arid land characterized by relentless sun and parched earth. Most of the year, this desolate landscape endures a severe drought, believed to be the result of a curse inflicted by the Vilcren, the Goddess of agriculture, in response to the arrogance of men. Despite its harshness, the plains experience a miraculous transformation during its brief rainy season, which brings a riot of life and colour to the otherwise barren region.
 
-![[4ae9c766-00ba-466a-b6df-454d90492cd1.webp]]
+![[mirageplains.webp]]
 
 ### 2. **Geography**
 

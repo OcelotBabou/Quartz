@@ -8,7 +8,7 @@ tags:
 
 The lands surrounding the Shadow Aisle Mountains, were once a bustling hub of trade and commerce across the vast Novus Mare Lake. This region, stretching from the lake, along the Perfidus River and into the imposing peaks of the mountains, has recently retreated into isolation. The gates of [Place Holder Name], the primary gateway between the eastern and western realms of Siar’Morrin, are now closed to outsiders, and the land has become shrouded in secrecy and mistrust.
 
-![[Pasted image 20240617121618.jpg]]
+![[ShadowAisle.jpg]]
 
 ### 2. **Geography**
 

@@ -7,7 +7,7 @@ tags:
   - Ciaan
   - Wanderer
 ---
-![[f5e6745f-4362-4573-b651-06bcd15a3564.webp]]
+![[Ciaan warrior.webp]]
 
 **ASI:** +1 Cha
 

@@ -6,7 +6,7 @@ tags:
   - PlayerRace
 ---
 
-![[c6d435d4-2cfc-4cc9-9ecf-1b184b5c05d6.webp]]
+![[kitsunea.webp]]
 
 In the far reaches of the East, nestled amidst the mist-shrouded forests of the South Kiar'Thear, dwell the enigmatic Kitsune. These cunning and elusive beings are steeped in a tumultuous history of conflict and exploitation by humans. Now, their numbers are few, and a Kitsune sighting has become so rare that some believe them to be extinct.
 
@@ -14,7 +14,7 @@ Cloaked in mystery and legend, the Kitsune are known for their reclusive nature 
 
 ​As the world of Staterum stands on the precipice of change, the Kitsune watch from the shadows, ever vigilant and ever wary of the encroaching tide of humanity. For in their ancient wisdom, they know that some secrets are best left undisturbed, and some mysteries are best left unsolved.
 
-![[4d1eb3f4-ed7d-4fb3-881e-f08ae29e6892.webp]]
+![[kitsuneb.webp]]
 
 **Age**: Kitsune are very long lived, taking around 30 years to reach maturity. They can live for up 300 years.
 

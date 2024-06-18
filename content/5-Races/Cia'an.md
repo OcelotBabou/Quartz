@@ -5,7 +5,7 @@ tags:
   - Ciaan
   - PlayerRace
 ---
-![[fa8eda77-9ff6-4030-9ef2-da7a50119c70.webp]]
+![[Cia'anold.webp]]
 
 Cia'an, also known as wolf-folk, are believed to be the offspring of Fi-an and Madra, revered deities of the forests and the wild. They possess the form of anthropomorphic wolves, standing upright on powerful hind legs with fur ranging from shades of grey to deep black. Their keen eyes gleam with intelligence, reflecting their innate connection to the natural world.
 

@@ -8,7 +8,7 @@ tags:
   - LabRat
 ---
 
-![[ff55a6d5-254a-42ad-b38a-3c2403f6dae7 1.webp]]
+![[Labratglow.webp]]
 
 **ASI**: +2 Int, +1 Dex
 
