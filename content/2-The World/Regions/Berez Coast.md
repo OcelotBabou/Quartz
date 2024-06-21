@@ -13,6 +13,8 @@ The Berez Coast, stretching across the western boundary of the continent, is a r
 
 The Berez Coast is marked by a desolate landscape, where the relentless encroachment of the desert leaves little room for terrestrial life. The terrain is predominantly sandy and arid, extending right up to the water's edge, creating a stark boundary between land and sea. However, beneath the clear ocean waters lies a bustling hub of aquatic biodiversity, with diverse marine life thriving in stark contrast to the barren shores. The southern edge of the coast is particularly dramatic, where the Ridgeback Mountains plunge into the Periculosus Ocean, creating perilous waters churned by eternal storms.
 
+![[Pasted image 20240621164720.jpg]]
+
 ### 3. **History**
 
 Historically, the Berez Coast has been a place of exile and survival against the odds. The inhospitable land forced early inhabitants to turn to the sea for sustenance. The discovery of rich marine resources led to the establishment of ground-hewn villages along the coast, where residents developed unique survival strategies tailored to the harsh environment. The southern storm, raging for centuries, has been woven into local lore, often speculated to be the result of ancient, mystical forces, some speculating it may even be home to [[Poraal Oir]]. 
