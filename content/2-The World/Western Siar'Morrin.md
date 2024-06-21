@@ -2,13 +2,16 @@
 title: Western Siar'Morrin
 draft: false
 tags:
-  - example-tag
+  - WesternSiarMorrin
 ---
+*[west-uhn si-arh mor-in]*
+
 Map of Western Siar'Morrin
 
 ### 1. **Overview**
 
 Welcome to Western Siar'Morrin, a land defined by its rugged beauty and fertile lands. Stretching from the Periculosus Ocean to the foothills of the [[Shadow Aisle Mountains]], Western Siar'Morrin serves as a crucial agricultural and ecological region within the continent of Siar'Morrin. This vast expanse is not only pivotal for its bountiful harvests but also for its diverse ecosystems, ranging from dense forests and vast plains to treacherous swamplands.
+
 ### 2. **Regions**
 
 Western Siar'Morrin is composed of several key areas:

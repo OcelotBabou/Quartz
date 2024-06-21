@@ -1,9 +1,10 @@
 ---
-title:
-  "{ title }": 
+title: Agra Island
 draft: false
 tags:
+  - example-tag
 ---
+
 ### 1. **Overview**
 
 Start with a general introduction to the larger area, including its name, geographical boundaries, and its significance within the broader world (e.g., a continent or a large empire). Provide an overarching narrative that ties the regions together, such as common historical roots, cultural ties, or shared economic interests.

@@ -4,6 +4,8 @@ draft: false
 tags:
   - example-tag
 ---
+*[naw-dhuhn si-arh mor-in]*
+
 Northern Siar'Morrin, a vast and diverse region that encompasses a wide range of landscapes, from the blistering desert sands of the west to the icy tundra of the north. However, it is the eastern reaches of the region that boast the greatest diversity, with temperate rainforests, rugged coastlines, and rolling plains all converging in a stunning tapestry of natural beauty.
 
 Insert Image
@@ -17,16 +19,16 @@ Amidst the rugged landscapes of the east, nomadic and tribalistic peoples eke ou
 Yet despite the myriad challenges that abound, Northern Siar'Morrin remains a land of boundless opportunity and untold adventure, where the spirit of exploration and discovery thrives amidst the untamed wilderness.
 
 **East**
-1. [[Sabhaile Forest]] 
-2. [[Aegir Coast]] 
-3. [[Draumr Forest]] 
-4. [[Windsept Marches]] 
-5. [[Nordholt]] 
-6. [[Arctic Expanse]] 
+1. 🌲 [[Sabhaile Forest]] 
+2. 🌊 [[Aegir Coast]] 
+3. 🌳 [[Draumr Forest]] 
+4. 🍃 [[Windsept Marches]] 
+5.  [[Nordholt]] 
+6. ❄ [[Arctic Expanse]] 
 
 **West**
-1. [[Berez Coast]] 
-2. [[Sceel wastelands]]
-3. [[Kish Dolina]] 
-4. [[Gor'Zemya]] 
-5. [[Led'Zemya]] 
+1. 🌅 [[Berez Coast]] 
+2. 🌵 [[Sceel wastelands]]
+3. 🏞 [[Kish Dolina]] 
+4. 💀 [[Gor'Zemya]] 
+5. ❄ [[Led'Zemya]] 
