@@ -5,11 +5,12 @@ tags:
   - example-tag
 ---
 1. [[Staterum]]
-2. [[Map of Staterum]]
-3. [[content/3-Religion/Religion]]
-4. [[Factions]]
-5. [[Player Races]]
-6. [[Changes]]
+2. [[Setting]]
+3. [[Map of Staterum]]
+4. [[Religion]]
+5. [[Factions]]
+6. [[Player Races]]
+7. [[Changes]]
 
 This is a blank Quartz installation.
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
