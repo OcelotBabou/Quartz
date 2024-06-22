@@ -6,7 +6,7 @@ tags:
 ---
 1. [[Staterum]]
 2. [[Map of Staterum]]
-3. [[Religion]]
+3. [[content/3-Religion/Religion]]
 4. [[Factions]]
 5. [[Player Races]]
 6. [[Changes]]
