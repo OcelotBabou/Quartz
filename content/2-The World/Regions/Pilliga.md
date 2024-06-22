@@ -2,6 +2,9 @@
 title: Pilliga
 tags:
   - region
+  - EasternSiarMorrin
+  - SiarMorrin
+  - Pilliga
 ---
 *[pil-lee-guh]*
 ### 1. **Overview**

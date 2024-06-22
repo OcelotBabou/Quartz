@@ -2,6 +2,10 @@
 title: Kish Dolina
 tags:
   - region
+  - NorthernSiarMorrin
+  - SiarMorrin
+  - KishDolina
+  - Orcs
 ---
 *[kish doh-lee-nah]*
 ### 1. **Overview**

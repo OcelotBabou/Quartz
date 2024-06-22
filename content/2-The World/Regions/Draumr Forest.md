@@ -2,8 +2,13 @@
 title: Draumr Forest
 tags:
   - region
+  - NorthernSiarMorrin
+  - SiarMorrin
+  - DraumrForest
+  - Fictor
+  - DathGea
 ---
-*[Phonetic]*
+*[drow-mer forest]*
 ### 1. **Overview**
 
 Draumr Forest, also known locally as Fictor Forest, is an enchanting realm of ancient woodlands cradled by the towering presence of Mount Huginn. This verdant expanse serves as the sacred homeland of the [[Fictors]], a unique tribe of [[Kobolds]] with a peaceful disposition, deeply connected to the mystical teachings of [[Dath-Gea]], the Dreaming Dragon. The forest embodies a blend of serene beauty and profound spirituality.

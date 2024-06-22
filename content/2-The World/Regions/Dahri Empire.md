@@ -2,6 +2,9 @@
 title: Dahri Empire
 tags:
   - region
+  - KairThear
+  - WesternKairThear
+  - DahriEmpire
 ---
 *[dah-ree em-pyre]*
 ### 1. **Overview**

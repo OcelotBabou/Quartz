@@ -3,6 +3,9 @@ title: New Birania
 tags:
   - region
   - EasternSiarMorrin
+  - SiarMorrin
+  - NewBirania
+  - Vitaurum
 ---
 *[nyoo bee-rah-nee-uh]*
 ### 1. **Overview**

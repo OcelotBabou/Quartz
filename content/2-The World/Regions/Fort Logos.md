@@ -2,6 +2,9 @@
 title: Fort Logos
 tags:
   - region
+  - EasternSiarMorrin
+  - SiarMorrin
+  - FortLogos
 ---
 *[fort lo-gohs]*
 ### 1. **Overview**

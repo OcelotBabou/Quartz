@@ -2,6 +2,9 @@
 title: Arctic Expanse
 tags:
   - region
+  - NorthernSiarMorrin
+  - SiarMorrin
+  - ArcticExpanse
 ---
 *[ar-tik ex-spans]*
 ### 1. **Overview**

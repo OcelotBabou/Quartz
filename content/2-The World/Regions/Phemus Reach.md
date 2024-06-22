@@ -3,6 +3,8 @@ title: Phemus Reach
 tags:
   - region
   - WesternSiarMorrin
+  - SiarMorrin
+  - PhemusReach
 ---
 *[fee-muhs reech]*
 ### 1. **Overview**

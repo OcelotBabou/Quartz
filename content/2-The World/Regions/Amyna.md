@@ -3,6 +3,8 @@ title: Amyna
 tags:
   - region
   - EasternSiarMorrin
+  - SiarMorrin
+  - Amyna
 ---
 *[ah-me-nuh]*
 ### 1. **Overview**

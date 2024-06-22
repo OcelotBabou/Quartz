@@ -22,7 +22,7 @@ Yet despite the myriad challenges that abound, Northern Siar'Morrin remains a la
 1. 🌲 [[Sabhaile Forest]] 
 2. 🌊 [[Aegir Coast]] 
 3. 🌳 [[Draumr Forest]] 
-4. 🍃 [[Windsept Marches]] 
+4. 🍃 [[Windswept Marches]] 
 5.  [[Nordholt]] 
 6. ❄ [[Arctic Expanse]] 
 

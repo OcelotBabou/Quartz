@@ -2,6 +2,9 @@
 title: Paloto Swamplands
 tags:
   - region
+  - WesternKairThear
+  - SiarMorrin
+  - PalotoSwamplands
 ---
 *[puh-loh-toh swamp-lands]*
 ### 1. **Overview**

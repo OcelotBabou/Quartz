@@ -2,6 +2,9 @@
 title: Gor'Zemya
 tags:
   - region
+  - NorthernSiarMorrin
+  - SiarMorrin
+  - GorZemya
 ---
 *[gor-zem-yah]*
 ### 1. **Overview**

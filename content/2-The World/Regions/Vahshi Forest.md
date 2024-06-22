@@ -2,6 +2,9 @@
 title: Vahshi Forest
 tags:
   - region
+  - KairThear
+  - WesternKairThear
+  - VahshiForest
 ---
 *[vah-shee for-est]*
 ### 1. **Overview**

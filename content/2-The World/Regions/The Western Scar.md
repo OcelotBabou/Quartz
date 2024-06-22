@@ -2,6 +2,9 @@
 title: The Western Scar
 tags:
   - region
+  - EasternSiarMorrin
+  - SiarMorrin
+  - WesternScar
 ---
 *[wes-tern scar]*
 ### 1. **Overview**

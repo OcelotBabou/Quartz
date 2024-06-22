@@ -4,6 +4,8 @@ draft: false
 tags:
   - example-tag
 ---
+*[stah-teer-rum]*
+
 ![[World Homes.jpg]]
 1. [[Western Siar'Morrin]] 
 2. [[Eastern Siar'Morrin]]

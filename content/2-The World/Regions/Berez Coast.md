@@ -2,6 +2,9 @@
 title: Berez Coast
 tags:
   - region
+  - NorthernSiarMorrin
+  - SiarMorrin
+  - BerezCoast
 ---
 *[buh-rez kohst]*
 ### 1. **Overview**

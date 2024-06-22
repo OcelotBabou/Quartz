@@ -2,6 +2,9 @@
 title: Shadow Aisle Mountains
 tags:
   - region
+  - WesternSiarMorrin
+  - SiarMorrin
+  - ShadowAisleMountains
 ---
 *[sha-doh ayl moun-tins]*
 ### 1. **Overview**
