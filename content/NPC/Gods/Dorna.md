@@ -1,6 +1,6 @@
 ---
-title:
-  "{ title }": 
+title: Dorna
+"{ title }": 
 draft: false
 tags:
   - Religion

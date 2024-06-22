@@ -1,6 +1,6 @@
 ---
-title:
-  "{ title }": 
+title: Eris
+"{ title }": 
 draft: false
 tags:
   - Religion
