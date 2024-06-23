@@ -2,7 +2,13 @@
 title: Welcome to Staterum
 draft: false
 tags:
-  - example-tag
+  - index
+  - Staterum
+  - WorldMap
+  - Religion
+  - Faction
+  - PlayerRace
+  - Setting
 ---
 1. [[Staterum]]
 2. [[Setting]]

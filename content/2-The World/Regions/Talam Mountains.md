@@ -15,7 +15,7 @@ From the lush, steep flanks adjoining the Vahshi Forest in the south to the spar
 
 ### 3. **History**
 
-The Talam Mountains are steeped in history, serving as the ancestral homeland of the dwarves. Their rich legacy is visible in the ruins and relics scattered throughout the range. The mountains have witnessed numerous legendary events, including the creation of the secretive Caziums Pass, which links the ancient dwarven city of Kair'Croi to the wider world. 
+The Talam Mountains are steeped in history, serving as the ancestral homeland of the dwarves. Their rich legacy is visible in the ruins and relics scattered throughout the range. The mountains have witnessed numerous legendary events, including the creation of the secretive Caziums Pass, which links the ancient dwarven city of [[Kair'Croi]] to the wider world. 
 
 ### 4. **Political Structure**
 

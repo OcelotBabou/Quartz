@@ -2,7 +2,9 @@
 title: Western Kair'Thear
 draft: false
 tags:
-  - example-tag
+  - WesternKairThear
+  - KairThear
+  - WorldMap
 ---
 Intro 
 

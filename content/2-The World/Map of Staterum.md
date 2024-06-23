@@ -2,7 +2,7 @@
 title: Map of Staterum
 draft: false
 tags:
-  - example-tag
+  - WorldMap
 ---
 *[stah-teer-rum]*
 
@@ -17,7 +17,7 @@ tags:
 7. [[Mon Olympus]] 
 8. [[Dragon Teeth Islands]] 
 9. [[Agra Island]] 
-10. [[Dellesis' Island]] 
+10. [[Dellesis' Islands]] 
 11. [[Entnakes' End]]
 
 Staterum, a sprawling tapestry of ancient wonders and untamed wilderness, unfurls its vast expanse beneath the watchful gaze of the deities responsible for its creation. Over countless millennia, this world has borne witness to the rise and fall of empires, the clash of titanic forces, and cataclysmic events that have reshaped the land itself.

@@ -2,7 +2,9 @@
 title: Northern Siar'Morrin
 draft: false
 tags:
-  - example-tag
+  - NorthernSiarMorrin
+  - SiarMorrin
+  - WorldMap
 ---
 *[naw-dhuhn si-arh mor-in]*
 
