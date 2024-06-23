@@ -12,11 +12,12 @@ tags:
 ---
 1. [[Staterum]]
 2. [[Setting]]
-3. [[Map of Staterum]]
-4. [[Religion]]
-5. [[Factions]]
-6. [[Player Races]]
-7. [[Changes]]
+3. [[The Players]]
+4. [[Map of Staterum]]
+5. [[Religion]]
+6. [[Factions]]
+7. [[Player Races]]
+8. [[Changes]]
 
 This is a blank Quartz installation.
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
