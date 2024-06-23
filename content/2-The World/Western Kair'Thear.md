@@ -11,7 +11,7 @@ Image
 1. [[Dahri Empire]] 
 2. [[Vahshi Forest]] 
 3. [[Bor'Tarnay]] 
-4. Dwarf Mountain Range
+4. [[Talam Mountains]]
 5. [[Riben]]
 6. [[Yorudo]] 
 7. [[The Rift Lands]] 

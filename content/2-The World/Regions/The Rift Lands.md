@@ -1,19 +1,16 @@
 ---
-title: Aegir Coast
+title: The Rift Lands
 tags:
   - region
-  - NorthernSiarMorrin
-  - SiarMorrin
-  - AegirCoast
 ---
-*[ay-gear coast]*
+*[Phonetic]*
 ### 1. **Overview**
 
-The Aegir Coast is a rugged and breathtaking region that forms the northeastern edge of Siar'Morrin. Known for its dramatic cliffs and the relentless pounding of the ocean waves, the Aegir Coast is a place of raw power and untamed beauty. Here, the sea carves the land with both fury and artistry, shaping a coastline that is both a challenge and a spectacle. Despite the harsh and unforgiving nature of the coastline, several cities have taken root along its shores, their inhabitants eking out a living amidst the tumult of the ocean, relying on the bounty of the sea for sustenance and trade. These communities are perched along the cliffs, defying the elemental forces with their resilience and adaptability.
+Overview
 
 ### 2. **Geography**
 
-The geography of the Aegir Coast is defined by its sheer cliffs that rise dramatically from the churning ocean below, and its towering promontories that stretch defiantly into the sea. The relentless tides and fierce storms have sculpted this landscape over centuries, creating a series of rugged headlands and secluded coves. The tumultuous interaction between land and sea is a constant here, making the coastline a dynamic and ever-changing boundary where nature displays its most forceful elements.
+Detail the region's topographical features such as mountains, rivers, forests, plains, and climate. Describe how these geographical characteristics influence the lifestyle, culture, and economy of the inhabitants.
 
 ### 3. **History**
 

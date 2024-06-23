@@ -6,6 +6,7 @@ tags:
   - SiarMorrin
   - NewBirania
   - Vitaurum
+  - BiranianGuard
 ---
 *[nyoo bee-rah-nee-uh]*
 ### 1. **Overview**
