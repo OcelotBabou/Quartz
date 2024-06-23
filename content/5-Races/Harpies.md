@@ -4,6 +4,11 @@ draft: false
 tags:
   - PlayerRace
   - Harpies
+  - TribeAgra
+  - TribeKairn
+  - TribeInvera
+  - TribeEilearian
+  - RidgebackForest
 ---
 Image (if I can ever get a good one)
 

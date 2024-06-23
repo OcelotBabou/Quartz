@@ -1,6 +1,5 @@
 ---
-title:
-  "{ title }": 
+title: The Vices
 tags:
   - Religion
   - TheVices

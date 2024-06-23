@@ -9,7 +9,7 @@ tags:
 *[ah-me-nuh]*
 ### 1. **Overview**
 
-Welcome to Amyna, a region renowned for housing the Paleomyna Wall, an architectural marvel and the largest single structure in the world. Stretching across the landscape, this immense wall forms a formidable defense line against the ancient and formidable trogs from the Anteanus Peninsula. The presence of the Paleomyna Wall has catalyzed the development of numerous cities and settlements along its length, evolving into bustling urban centers that cater to the needs of the soldiers who perpetually man the wall.
+Welcome to Amyna, a region renowned for housing the [[Paleomyna Wall]], an architectural marvel and the largest single structure in the world. Stretching across the landscape, this immense wall forms a formidable defense line against the ancient and formidable [[trogs]] from the Anteanus Peninsula. The presence of the Paleomyna Wall has catalyzed the development of numerous cities and settlements along its length, evolving into bustling urban centers that cater to the needs of the soldiers who perpetually man the wall.
 
 ![[Wall P.webp]]
 
@@ -23,7 +23,7 @@ On the safer western side of the Paleomyna Wall, the geography varies significan
 
 The history of the Paleomyna Wall dates back millennia, constructed as a monumental defense against the trogs from the Anteanus Peninsula. This massive structure was engineered not just as a physical barrier but as a symbol of enduring protection against the darkness lurking beyond. Initially manned by iron golems, these guardians were created through ancient means now lost to time, symbolizing the pinnacle of past defensive strategies.
 
-During the Age of Darkness (AoD), the Paleomyna Wall faced its most significant threat when invading demons targeted it as a strategic point for conquest. Their major ploy was to tear down the wall and unleash the trogs onto the broader region, aiming to sow chaos and destruction. The valiant defense mounted by the inhabitants of Amyna, supported by the remnants of the golem guardians, prevented this catastrophic fate. However, the conflict took a tremendous toll on the wall's defenders and its infrastructure. Now with it's ancient guardians much diminished its reliance on mortal soldiers has increased significantly. 
+During the Age of Darkness ([[AoD]]), the Paleomyna Wall faced its most significant threat when invading demons targeted it as a strategic point for conquest. Their major ploy was to tear down the wall and unleash the trogs onto the broader region, aiming to sow chaos and destruction. The valiant defense mounted by the inhabitants of Amyna, supported by the remnants of the golem guardians, prevented this catastrophic fate. However, the conflict took a tremendous toll on the wall's defenders and its infrastructure. Now with it's ancient guardians much diminished its reliance on mortal soldiers has increased significantly. 
 
 ### 4. **Political Structure**
 

@@ -1,6 +1,5 @@
 ---
-title:
-  "{ title }": 
+title: The Unknown Gods
 draft: true
 tags:
   - Religion

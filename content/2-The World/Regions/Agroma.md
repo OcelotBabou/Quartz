@@ -9,7 +9,7 @@ tags:
 *[ag-roh-mah]*
 ### 1. **Overview**
 
-Agroma is the agricultural heartland of Siar’Morrin, stretching from the tranquil shores of Lake Novus Mare to the rugged coastline of the Periculosus Ocean. Celebrated as a bastion of productivity, its vast fertile plains are blanketed with fields of grain, orchards, and pastures that not only sustain the local population but also drive the regional economy, with trade to the East.
+Agroma is the agricultural heartland of Siar’Morrin, stretching from the tranquil shores of [[Lake Novus Mare]] to the rugged coastline of the Periculosus Ocean. Celebrated as a bastion of productivity, its vast fertile plains are blanketed with fields of grain, orchards, and pastures that not only sustain the local population but also drive the regional economy, with trade to the East.
 
 ![[agroma.webp]]
 ### 2. **Geography**
@@ -18,17 +18,17 @@ The geography of Agroma is dominated by vast, flat plains that are ideal for agr
 
 ### 3. **History**
 
-Historically, Agroma consisted of fragmented city-states, each governed independently and often in competition for resources. The AoD led to the unification of these city-states under a single banner, driven by a collective need for security and stability. This unification marked a new era, transforming Agroma into a cohesive region with centralized governance.
+Historically, Agroma consisted of fragmented city-states, each governed independently and often in competition for resources. The [[AoD]] led to the unification of these city-states under a single banner, driven by a collective need for security and stability. This unification marked a new era, transforming Agroma into a cohesive region with centralized governance.
 
 ### 4. **Political Structure**
 
-Agroma's political system is uniquely structured around a tripartite council, with each representative elected democratically to oversee one of the three domains of the "Ascended Gods": agriculture, commerce, and literature. This form of governance ensures a balanced representation of Agroma's core societal values and sectors. The representatives rule collectively from the capital, Flown, and decisions are made through a majority vote, requiring at least two of the three representatives to agree before any policies can be implemented. This system, known as a triumvirate, ensures that no single domain can dominate the decision-making process, promoting a balanced approach to governance that reflects the diverse needs and priorities of Agroma’s populace. This political structure is integral to maintaining harmony and forward momentum in the region's development and governance.
+Agroma's political system is uniquely structured around a tripartite council, with each representative elected democratically to oversee one of the three domains of the "[[Ascended Gods]]": agriculture, commerce, and literature. This form of governance ensures a balanced representation of Agroma's core societal values and sectors. The representatives rule collectively from the capital, Flown, and decisions are made through a majority vote, requiring at least two of the three representatives to agree before any policies can be implemented. This system, known as a triumvirate, ensures that no single domain can dominate the decision-making process, promoting a balanced approach to governance that reflects the diverse needs and priorities of Agroma’s populace. This political structure is integral to maintaining harmony and forward momentum in the region's development and governance.
 
 ### 5. **Economy**
 
 Agroma’s economy is predominantly agricultural, with extensive fields and orchards forming the backbone of the region's prosperity. Supporting this primary industry are burgeoning sectors in food processing and agricultural technology, which contribute to economic stability and growth. The region’s unified governance has attracted investment, leading to infrastructure improvements and a boost in trade, particularly with neighboring regions.
 
-A key factor enhancing Agroma’s economic prowess is its innovative partnership with the Glacimancer of the Arctic Expanse. This collaboration has revolutionized the transportation of perishable goods, utilizing advanced ice magic to preserve freshness during transit. This has not only extended the reach of Agroma’s agricultural products but also increased the profitability of trade with the East. The ability to efficiently transport food over long distances without spoilage has positioned Agroma as a critical food supplier, bolstering its economic standing and enhancing its strategic importance in the broader regional economy.
+A key factor enhancing Agroma’s economic prowess is its innovative partnership with the glacimancers of the [[Arctic Expanse]]. This collaboration has revolutionized the transportation of perishable goods, utilizing advanced ice magic to preserve freshness during transit. This has not only extended the reach of Agroma’s agricultural products but also increased the profitability of trade with the East. The ability to efficiently transport food over long distances without spoilage has positioned Agroma as a critical food supplier, bolstering its economic standing and enhancing its strategic importance in the broader regional economy.
 
 ### 6. **Culture and Society**
 
@@ -40,15 +40,15 @@ As one travels further west across Agroma, the culture undergoes a noticeable sh
 
 Agroma, as a unified region, maintains a formidable standing military force, which ranks as the second largest in Siar'Morrin. The military's primary role is to secure the extensive borders of Agroma, safeguarding its vital agricultural resources and trade routes. However, due to the vastness of the region, the military presence is spread thinly across a wide area, which poses logistical challenges in rapid assembly and mobilization.
 
-The more remote western territories of Agroma are particularly vulnerable because of this dispersion. These areas often lack immediate military support, relying instead on local measures and rapid response units that can be outmatched by larger threats. The main concentration of military forces is strategically positioned around key areas such as the capital, Flown, and along major trade routes that connect with the East, to protect the economic lifelines of the region.
+The more remote western territories of Agroma are particularly vulnerable because of this dispersion. These areas often lack immediate military support, relying instead on local measures and rapid response units that can be outmatched by larger threats. The main concentration of military forces is strategically positioned around key areas such as the capital, [[Flown]], and along major trade routes that connect with the East, to protect the economic lifelines of the region.
 
 Despite these challenges, the Agroma defense force is a potent military entity. If given sufficient time to mobilize and concentrate its resources, it can be marshaled into a formidable force capable of wielding deadly effect. This capacity to rally a powerful defense is a critical aspect of Agroma's regional security strategy and plays a vital role in maintaining its stability and protecting its interests within Siar'Morrin.
 
 ### 8. **Notable Locations**
 
-- Flown
+- [[Flown]]
 - The Canals
-- Lake Novus Mare
+- [[Lake Novus Mare]]
 - 
 
 ### 9. **Significant Characters**

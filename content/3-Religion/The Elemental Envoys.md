@@ -1,6 +1,5 @@
 ---
-title:
-  "{ title }": 
+title: The Elemental Envoys
 tags:
   - Religion
   - TheElementalEnvoys

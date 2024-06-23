@@ -6,6 +6,7 @@ tags:
   - PlayerRace
   - Harpies
   - TribeAgra
+  - AgraIsland
 ---
 ![[tribeagra.webp]]
 

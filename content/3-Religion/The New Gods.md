@@ -1,6 +1,5 @@
 ---
-title:
-  "{ title }": 
+title: The New Gods
 tags:
   - Religion
   - TheNewGods

@@ -4,6 +4,10 @@ draft: false
 tags:
   - PlayerRace
   - Alberine
+  - VahshiForest
+  - Burrower
+  - Scurrier
+  - Streamrunner
 ---
 ![[Alberine1.webp]]
 

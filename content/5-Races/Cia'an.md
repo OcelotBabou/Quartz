@@ -4,6 +4,10 @@ draft: false
 tags:
   - Ciaan
   - PlayerRace
+  - TimberWolf
+  - SabhaileForest
+  - ArcticWolf
+  - Wanderer
 ---
 ![[Cia'anold.webp]]
 

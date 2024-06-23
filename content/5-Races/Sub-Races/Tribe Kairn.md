@@ -6,6 +6,8 @@ tags:
   - Sub-race
   - PlayerRace
   - TribeKairn
+  - RidgebackMountains
+  - TalamMountains
 ---
 Image
 
@@ -16,7 +18,7 @@ Image
 **Rugged Survivors:** Gain proficiency in survival checks. Isolationist
 
 **Description:**
-The Kairn Harpies, also known as mountain harpies, are the most common and widespread of their kind, with two main clans inhabiting the rugged Ridgeback Mountains and the towering peaks of the Kair'Thear Mountains. Smaller clans can also be found scattered throughout the region, each staking their claim to the craggy landscapes they call home.
+The Kairn Harpies, also known as mountain harpies, are the most common and widespread of their kind, with two main clans inhabiting the rugged [[Ridgeback Mountains]] and the towering peaks of the [[Talam Mountains]]. Smaller clans can also be found scattered throughout the region, each staking their claim to the craggy landscapes they call home.
 
 Taller and hardier than their counterparts, the Kairn Harpies have adapted to thrive amidst the harsh winds and unforgiving terrain of the mountains. Their plumage reflects the colours of their surroundings, blending seamlessly with the rocky outcrops and snow-capped peaks that dominate their homeland.
 

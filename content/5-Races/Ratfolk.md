@@ -4,6 +4,10 @@ draft: false
 tags:
   - Ratfolk
   - PlayerRace
+  - PalotoSwamplands
+  - LabRat
+  - BlightedBrute
+  - ShadowScurrier
 ---
 ![[gentlemanrat.webp]]
 

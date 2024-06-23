@@ -4,6 +4,8 @@ draft: false
 tags:
   - Kitsune
   - PlayerRace
+  - Riben
+  - Yorudo
 ---
 
 ![[kitsunea.webp]]
