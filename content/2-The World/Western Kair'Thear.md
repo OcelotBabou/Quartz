@@ -16,5 +16,4 @@ Image
 6. [[Yorudo]] 
 7. [[The Rift Lands]] 
 8. [[Centaur Plains]] 
-9. North area
-10. Cradle of life area
+9. [[Chorkas Forest]] 

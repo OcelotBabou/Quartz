@@ -5,6 +5,7 @@ tags:
   - WesternKairThear
   - KairThear
   - Kitsune
+  - Voluptia
 ---
 *[rye-ben]*
 ### 1. **Overview**
