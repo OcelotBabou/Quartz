@@ -22,14 +22,14 @@ Despite varying beliefs and the degree of reverence towards different deities in
 - [[Aperkepsi]]
 - [[Spatalos]]
 - [[Paysius]]
-- [[sddC]]
+- [[Voluptia]]
 - [[Pesmin]]
 - [[Xietem]]
 - [[Ormos]]
 
 **Void
 - [[Chyntum]]
-- [[Dellesi]]
+- [[Dellesis]]
 - [[Listunos]]
 - [[Fivolam]]
 - [[Anhedonia]]

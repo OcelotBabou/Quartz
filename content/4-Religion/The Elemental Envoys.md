@@ -23,17 +23,17 @@ The Elemental Envoys are the progeny of the Primordial Elementals, created to ac
 - [[Gaoth Oir]]
 
 **Elemental Envoys**
-- Poraal Oir
-- Rezza Oir
-- Etnake
-- Hodophis
-- Oikos
-- Siar
-- Niphar
-- Kair
-- Thear
-- Eilear
-- Agra
+- [[Poraal Oir]]
+- [[Rezza Oir]]
+- [[Etnake]]
+- [[Hodophis]]
+- [[Oikos]]
+- [[Siar]]
+- [[Niphar]]
+- [[Kair]]
+- [[Thear]]
+- [[Eilear]]
+- [[Agra]]
 - 
 
 ### 3. **Perspectives**

@@ -5,6 +5,8 @@ tags:
   - Religion
   - God
   - TheOldGods
+  - Statera
+  - TheChurchofStatera
 ---
 *[stah-teer-rah]*
 ## Basic Information
