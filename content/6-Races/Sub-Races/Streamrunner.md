@@ -13,10 +13,12 @@ tags:
 
 **Aquatic Adaptation**: You have a swimming speed equal to their walking speed and can hold their breath for up to 15 minutes.
 
-**Lithe Frame**: Once per short rest, you can utilise your remarkable agility and flexes to avoid danger, choosing one of the following:
+**Lithe Frame**: You can utilise your remarkable agility and flexes to avoid danger, choosing one of the following:
 
 - Use your reaction to gain advantage on a Dex save.
 - Use your reaction to impose disadvantage on an weapon (ranged or melee) attack against you.
+
+You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 ![[Otter1.jpg]]
 

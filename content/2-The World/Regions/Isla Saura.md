@@ -2,12 +2,15 @@
 title: Isla Saura
 tags:
   - region
+  - ForgottenIsles
+  - SiarMorrin
 ---
-*[Phonetic]*
+*[eye-lah saw-rah]*
 ### 1. **Overview**
 
 Isla Saura, the more Southern of the Forgotten Isles, is a rugged island dominated by the [[Deccan Mountain Range]]. Known for its active volcanoes and rich mineral deposits, particularly the world’s largest source of adamantine, this island has historically been a bustling hub of economic activity due to its mining operations.
 
+![[IslaSaura 1.jpg]]
 ### 2. **Geography**
 
 The landscape of Isla Saura is dramatically split between the towering Deccan Mountain Range with its active volcanoes and the lush, dense tropical forests that envelop much of the rest of the island. These primeval forests, teeming with biodiversity, extend almost to the bases of the volcanic peaks, creating a stark contrast between the fiery mountain tops and the verdant forest canopy below.

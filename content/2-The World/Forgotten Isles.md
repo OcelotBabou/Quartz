@@ -10,7 +10,7 @@ tags:
 
 The Forgotten Isles are two remote islands at the southern tip of Siar'Morrin that once thrummed with the bustling activity of merchant ships. These islands, Isla Saura and Isla Thera, are steeped in a rich history of commerce, conflict, and isolation, each taking a unique path in the wake of global changes brought about by the Age of Darkness (AoD).
 
-![[IslaSaura.jpg]]
+![[content/Images/IslaSaura.jpg]]
 
 ### 2. **Regions**
 

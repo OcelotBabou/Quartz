@@ -8,7 +8,7 @@ tags:
 ---
 Intro 
 
-Image
+![[Kair'Thear Zones.jpg]]
 
 1. [[Dahri Empire]] 
 2. [[Vahshi Forest]] 
