@@ -7,29 +7,29 @@ tags:
   - Mavera
   - TheNewGods
 ---
-*[Phonetic]*
+*[mah-verhr-ah]*
 ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Name**:- Mavera
+- **Domain**: Spring, Renewal, Growth
+- **Title**: Herald of Renewal
+- **Alignment**: Chaotic Excess
+- **Symbol**: A sprouting seed or a young leaf
+- **Primary Worship Area**: Gardens, orchards, and places undergoing renewal
 
 ## Physical Description
 
-- **Appearance**: (Description of the god’s most common form seen by worshipers or depicted in religious art)
-- **Height**: (If applicable)
-- **Weight**: (If applicable)
-- **Distinguishing Features**: (Unique attributes such as glowing eyes, ethereal voice, etc.)
+- **Appearance**: Mavera is depicted as a youthful and vibrant figure, her hair adorned with fresh flowers and her attire made of soft greens and bright pastels, reflecting the new life of spring.
+- **Height**: 164cm
+- **Weight**: 56kg
+- **Distinguishing Features**: Always surrounded by blooming flora and newborn animals, her presence brings a sense of freshness and optimism.
 
 ## Personality
 
-- **Traits**: (Key personality traits)
-- **Strengths**: (Divine powers and positive traits)
-- **Weaknesses**: (Any known divine limitations or emotional vulnerabilities)
-- **Goals and Motivations**: (What drives this god? What are their divine objectives?)
+- **Traits**: - Cheerful, nurturing, and revitalizing
+- **Strengths**: Inspires growth and renewal, rejuvenates the weary
+- **Weaknesses**: Her transient nature means her influence is short-lived, naive and overly optimistic nature.
+- **Goals and Motivations**: To awaken the world from winter's slumber, spreading joy and revitalizing the earth.
 
 ## Relationships
 

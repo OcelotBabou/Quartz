@@ -7,29 +7,29 @@ tags:
   - TheNewGods
   - Invera
 ---
-*[Phonetic]*
+*[in-veh-rah]*
 ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Name**: Invera
+- **Domain**: Winter, Rest, Endurance
+- **Title**: Herald of Reflection
+- **Alignment**: Lawful Void
+- **Symbol**: A snowflake or an icicle
+- **Primary Worship Area**: Mountain peaks, frozen lakes, and homes seeking shelter from the cold
 
 ## Physical Description
 
-- **Appearance**: (Description of the god’s most common form seen by worshipers or depicted in religious art)
-- **Height**: (If applicable)
-- **Weight**: (If applicable)
-- **Distinguishing Features**: (Unique attributes such as glowing eyes, ethereal voice, etc.)
+- **Appearance**: Invera is depicted as an elegant yet aged figure robed in shimmering whites and icy blues, her presence both chilling and majestic. Her hair and skin seem frosted, sparkling with ice.
+- **Height**: Ethereal and imposing like a winter storm
+- **Weight**: Seemingly insubstantial, like a cold wind
+- **Distinguishing Features**: Her breath mists the air, and her touch brings frost.
 
 ## Personality
 
-- **Traits**: (Key personality traits)
-- **Strengths**: (Divine powers and positive traits)
-- **Weaknesses**: (Any known divine limitations or emotional vulnerabilities)
-- **Goals and Motivations**: (What drives this god? What are their divine objectives?)
+- **Traits**: Reserved, enduring, and introspective
+- **Strengths**: Brings the necessary rest and dormancy for renewal, teaches resilience and conservation
+- **Weaknesses**: Her cold nature can seem harsh or uncaring
+- **Goals and Motivations**: To envelop the world in quiet and cold, providing a time for rest and reflection, ensuring all are prepared for the rebirth of spring.
 
 ## Relationships
 

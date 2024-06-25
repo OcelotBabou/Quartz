@@ -8,6 +8,7 @@ tags:
   - TheOldGods
   - TheVices
   - ExcessVice
+  - Eris
 ---
 *[oh-lahs]*
 

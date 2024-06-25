@@ -7,29 +7,29 @@ tags:
   - TheNewGods
   - Riero
 ---
-*[Phonetic]*
+*[ree-eh-ro]*
 ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Name**: Riero
+- **Domain**: War, Strategy, Valor
+- **Title**: The Warlord, Strategist Supreme
+- **Alignment**: Lawful Neutral
+- **Symbol**: A crossed sword and shield
+- **Primary Worship Area**: Battlefields, military forts, and war memorials
 
 ## Physical Description
 
-- **Appearance**: (Description of the god’s most common form seen by worshipers or depicted in religious art)
-- **Height**: (If applicable)
-- **Weight**: (If applicable)
-- **Distinguishing Features**: (Unique attributes such as glowing eyes, ethereal voice, etc.)
+- **Appearance**: - Riero is depicted as a formidable warrior, clad in battle-worn armour that shines despite its scars. His presence is commanding, with a stern gaze and a firm stance.
+- **Height**: 218cm
+- **Weight**: 128kg
+- **Distinguishing Features**: His armour is engraved with ancient runes of protection and depictions of his victory.
 
 ## Personality
 
-- **Traits**: (Key personality traits)
-- **Strengths**: (Divine powers and positive traits)
-- **Weaknesses**: (Any known divine limitations or emotional vulnerabilities)
-- **Goals and Motivations**: (What drives this god? What are their divine objectives?)
+- **Traits**: Disciplined, tactical, unyielding
+- **Strengths**: Master tactician, inspires courage and fearlessness in his followers
+- **Weaknesses**: His warlike nature can make diplomacy difficult, sometimes seeing conflicts as the first solution and only solution
+- **Goals and Motivations**: To uphold the virtues of honour and valour in combat, ensuring that war is waged justly and that warriors act with integrity and bravery.
 
 ## Relationships
 

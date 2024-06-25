@@ -7,29 +7,29 @@ tags:
   - Tunera
   - TheNewGods
 ---
-*[Phonetic]*
+*[too-neh-rah]*
 ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Name**: Tunera
+- **Domain**: Autumn, Harvest, Preparation
+- **Title**: Herald of Preparation
+- **Alignment**: Chaotic Void
+- **Symbol**: A fallen leaf or a basket of harvested crops
+- **Primary Worship Area**: Fields, vineyards, and storerooms preparing for winter
 
 ## Physical Description
 
-- **Appearance**: (Description of the god’s most common form seen by worshipers or depicted in religious art)
-- **Height**: (If applicable)
-- **Weight**: (If applicable)
-- **Distinguishing Features**: (Unique attributes such as glowing eyes, ethereal voice, etc.)
+- **Appearance**: Tunera is portrayed as a mature woman, her attire a tapestry of autumnal colours—deep oranges, rich browns, and fading greens. Her presence evokes a sense of fulfillment and readiness.
+- **Height**: 172cm
+- **Weight**: 58kg
+- **Distinguishing Features**: Often seen with a scythe or a basket, symbolizing harvest and preparation.
 
 ## Personality
 
-- **Traits**: (Key personality traits)
-- **Strengths**: (Divine powers and positive traits)
-- **Weaknesses**: (Any known divine limitations or emotional vulnerabilities)
-- **Goals and Motivations**: (What drives this god? What are their divine objectives?)
+- **Traits**: - Wise, organised, and methodical
+- **Strengths**: Ensures bountiful harvests and prepares the world for the coming cold
+- **Weaknesses**: Her seriousness can make her seem melancholic or distant
+- **Goals and Motivations**: To gather the rewards of the growing season and prepare all for the hardships of winter.
 
 ## Relationships
 

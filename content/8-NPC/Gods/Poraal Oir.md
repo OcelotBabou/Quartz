@@ -7,29 +7,29 @@ tags:
   - TheElementalEnvoys
   - PoraalOir
 ---
-*[Phonetic]*
+*[poh-rahl ohr]*
 ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Name**:- Poraal Oir
+- **Domain**: Storms, Thunder
+- **Title**: Herald of the Tempest, The Stormbringer
+- **Alignment**: Chaotic Excess
+- **Symbol**: A lightning bolt striking a cloud
+- **Primary Worship Area**: Coastal regions, high peaks, and storm-prone areas
 
 ## Physical Description
 
-- **Appearance**: (Description of the god’s most common form seen by worshipers or depicted in religious art)
-- **Height**: (If applicable)
-- **Weight**: (If applicable)
-- **Distinguishing Features**: (Unique attributes such as glowing eyes, ethereal voice, etc.)
+- **Appearance**: - Poraal Oir is depicted as a dynamic and formidable presence, his form constantly shifting with the storm clouds that surround him. He appears clad in swirling greys and dark blues, with flashes of lightning occasionally illuminating his figure.
+- **Height**: Variable
+- **Weight**: Variable
+- **Distinguishing Features**: His eyes spark with electricity, and his voice booms like thunder.
 
 ## Personality
 
-- **Traits**: (Key personality traits)
-- **Strengths**: (Divine powers and positive traits)
-- **Weaknesses**: (Any known divine limitations or emotional vulnerabilities)
-- **Goals and Motivations**: (What drives this god? What are their divine objectives?)
+- **Traits**:- **Traits**: Impulsive, powerful, and unpredictable
+- **Strengths**: Commands the raw power of storms, able to bring rain to parched lands or cleanse areas with his tempests
+- **Weaknesses**: His chaotic nature can lead to destruction without regard for consequences. He is apathetic of the turmoil his storms bring
+- **Goals and Motivations**: Poraal Oirs goals and motivations are unknown, he simply acts as his chaotic nature guides him
 
 ## Relationships
 

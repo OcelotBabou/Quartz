@@ -7,29 +7,29 @@ tags:
   - TheNewGods
   - Estera
 ---
-*[Phonetic]*
+*[es-teh-rah]*
 ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Name**: Estera
+- **Domain**: Summer, Warmth, Abundance
+- **Title**: Herald of Abundance
+- **Alignment**: Lawful Excess
+- **Symbol**: The sun in its zenith or a golden wheat sheaf
+- **Primary Worship Area**: 
 
 ## Physical Description
 
-- **Appearance**: (Description of the god’s most common form seen by worshipers or depicted in religious art)
-- **Height**: (If applicable)
-- **Weight**: (If applicable)
-- **Distinguishing Features**: (Unique attributes such as glowing eyes, ethereal voice, etc.)
+- **Appearance**: - : Estera is depicted as a radiant figure, her skin glowing like the sun, dressed in shimmering golds and fiery reds that reflect the heat and energy of summer.
+- **Height**: 177cm
+- **Weight**: 62kg
+- **Distinguishing Features**: Her eyes shine like the sun, casting light in her gaze. Her golden tanned skin
 
 ## Personality
 
-- **Traits**: (Key personality traits)
-- **Strengths**: (Divine powers and positive traits)
-- **Weaknesses**: (Any known divine limitations or emotional vulnerabilities)
-- **Goals and Motivations**: (What drives this god? What are their divine objectives?)
+- **Traits**: Passionate, vibrant, and generous
+- **Strengths**: Brings warmth and fosters growth, encourages celebration and joy
+- **Weaknesses**: Can be overly intense, and overbearing
+- **Goals and Motivations**: To celebrate life at its peak, promoting abundance, joy, and the glory of the sun. 
 
 ## Relationships
 

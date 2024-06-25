@@ -7,29 +7,32 @@ tags:
   - TheNewGods
   - Kakurcia
 ---
-*[Phonetic]*
+*[kah-kur-see-ah]*
+
+Image
 ## Basic Information
 
 - **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Domain**: - Kakurcia
+- **Domain**: Hunting, Wilderness, Survival
+- **Title**: The Hunter, Patron of the Wilds
+- **Alignment**: Chaotic Neutral
+- **Symbol**: A bow with a quiver of arrows, set against a backdrop of deep woods
+- **Primary Worship Area**: Forests, wildlands, and hunters guilds
 
 ## Physical Description
 
-- **Appearance**: (Description of the god’s most common form seen by worshipers or depicted in religious art)
-- **Height**: (If applicable)
-- **Weight**: (If applicable)
-- **Distinguishing Features**: (Unique attributes such as glowing eyes, ethereal voice, etc.)
+- **Appearance**: - Kakurcia is often portrayed as a lithe and agile hunter, dressed in leathers and furs of the creatures he has respectfully hunted. His eyes are sharp and keen, mirroring those of a predatory bird.
+- **Height**: 187cm
+- **Weight**: 92kg
+- **Distinguishing Features**: Often accompanied by a spectral wolf, his constant companion in the hunt. His piercing hawk like eyes
 
 ## Personality
 
-- **Traits**: (Key personality traits)
-- **Strengths**: (Divine powers and positive traits)
-- **Weaknesses**: (Any known divine limitations or emotional vulnerabilities)
-- **Goals and Motivations**: (What drives this god? What are their divine objectives?)
+- **Traits**: Fierce, independent, deeply connected to nature
+- **Strengths**: Unparalleled tracker, protector of the natural order, ensures the balance of predator and prey
+- **Weaknesses**: His wild nature can make him seem aloof or distant from the concerns of civilization
+- **Goals and Motivations**: To protect the sanctity of the wild and teach the respect and skills necessary for ethical hunting and coexistence with nature.
 
 ## Relationships
 
@@ -39,7 +42,7 @@ tags:
 
 ## Mythology and Worship
 
-- **Creation Myth**: (Stories of their origin or significant mythological tales)
+- **Creation Myth**: Son of Dorna
 - **Major Cults and Religious Practices**: (Description of main worship practices and any associated cults)
 - **Festivals**: (Special times of the year dedicated to this deity, including rituals and celebrations)
 - **Clergy and Temples**: (Description of priests, holy orders, and sacred sites dedicated to the deity)
