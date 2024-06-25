@@ -1,5 +1,5 @@
 ---
-title: 
+title: Krenos
 draft: false
 tags:
   - Religion

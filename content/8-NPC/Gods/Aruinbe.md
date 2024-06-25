@@ -1,5 +1,5 @@
 ---
-title: 
+title: Aruinbe
 draft: false
 tags:
   - Religion
@@ -7,35 +7,36 @@ tags:
   - TheOldGods
   - Aruinbe
 ---
-*[Phonetic]*
+*[ah-roo-in-bay]*
+
 ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Name**: Aruinbe
+- **Domain**: Love, Affection, Relationships
+- **Title**: The Heart's Whisper, The Lost Embrace
+- **Alignment**: Chaotic Excess
+- **Symbol**: A heart entwined with a floral vine
+- **Primary Worship Area**: 
 
 ## Physical Description
 
-- **Appearance**: (Description of the god’s most common form seen by worshipers or depicted in religious art)
-- **Height**: (If applicable)
-- **Weight**: (If applicable)
-- **Distinguishing Features**: (Unique attributes such as glowing eyes, ethereal voice, etc.)
+- **Appearance**: - Aruinbe is often depicted as a figure of ethereal beauty, with features that are both gentle and alluring. Specifics about his appearance tend to vary, with some portrayals highlighting his warm, inviting eyes and others focusing on his silhouette surrounded by a soft, radiant glow.
+- **Height**: Unknown
+- **Weight**: Unknown
+- **Distinguishing Features**: 
 
 ## Personality
 
-- **Traits**: (Key personality traits)
-- **Strengths**: (Divine powers and positive traits)
-- **Weaknesses**: (Any known divine limitations or emotional vulnerabilities)
-- **Goals and Motivations**: (What drives this god? What are their divine objectives?)
+- **Traits**: Aruinbe embodies compassion and an encompassing love, yet there's a noted melancholy due to his insatiable desire for affection
+- **Strengths**: 
+- **Weaknesses**: 
+- **Goals and Motivations**: Historically sought to spread love and joy, but current motivations are unclear due to his reduced interaction with the mortal world.
 
 ## Relationships
 
-- **Allies**: (Other gods or celestial beings they align with)
-- **Rivals/Enemies**: (Antagonistic relationships within the pantheon)
-- **Attitude towards Mortals**: (How they generally treat or interact with their followers and other mortals)
+- **Allies**: 
+- **Rivals/Enemies**:
+- **Attitude towards Mortals**: Traditionally seen as a benevolent figure nurturing lovers and promoting happiness, though his direct involvement with mortals has become rare. His antics also commonly led to dispute, not all as accepting of polyamorous relations. 
 
 ## Mythology and Worship
 
@@ -51,7 +52,7 @@ tags:
 
 ## Quotes
 
-- **Key Quotes**: (Iconic sayings or teachings attributed to the deity)
+"Love is the truth at the heart of all creation."
 
 ## Background
 

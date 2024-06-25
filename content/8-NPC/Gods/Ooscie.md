@@ -1,5 +1,5 @@
 ---
-title: 
+title: Ooscie
 draft: false
 tags:
   - Religion
@@ -8,29 +8,31 @@ tags:
   - Primordial
   - Ooscie
 ---
-*[Phonetic]*
+*[oo-see]*
+
+![[Oosciea.webp]]
 ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Name**: Ooscie
+- **Domain**: Water, Seas, Purification
+- **Title**: The Endless Tide, Keeper of Depths
+- **Alignment**: Lawful Neutral
+- **Symbol**: A cresting wave encircling a pearl
+- **Primary Worship Area**: Oceans, rivers, lakes, and springs
 
 ## Physical Description
 
-- **Appearance**: (Description of the god’s most common form seen by worshipers or depicted in religious art)
-- **Height**: (If applicable)
-- **Weight**: (If applicable)
-- **Distinguishing Features**: (Unique attributes such as glowing eyes, ethereal voice, etc.)
+- **Appearance**: Ooscie appears as a fluid, ever-changing being, composed of water in all its forms—from mist to ice to flowing liquid. Her SOMETHING MORE LIKE a waterfall or something
+- **Height**: Fluid, often appearing to rise and fall like the tide
+- **Weight**: As variable as water itself
+- **Distinguishing Features**:
 
 ## Personality
 
-- **Traits**: (Key personality traits)
-- **Strengths**: (Divine powers and positive traits)
-- **Weaknesses**: (Any known divine limitations or emotional vulnerabilities)
-- **Goals and Motivations**: (What drives this god? What are their divine objectives?)
+- **Traits**: Adaptable, nurturing, mysterious
+- **Strengths**: Brings life and cleanliness, her waters are essential for growth and healing
+- **Weaknesses**: Can be as destructive as she is life-giving, with moods that can change from calm to stormy without warning
+- **Goals and Motivations**: To maintain the cycle of life through water, overseeing all aspects of its flow and use in the world
 
 ## Relationships
 
@@ -58,4 +60,4 @@ tags:
 
 - **Legends and Lore**: (Lesser-known tales and esoteric knowledge about the deity)
 
-This template should provide a comprehensive overview that can be used to detail each god within your pantheon, giving depth and context to their roles within your fantasy world.
+

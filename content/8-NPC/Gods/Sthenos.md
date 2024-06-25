@@ -1,5 +1,5 @@
 ---
-title: 
+title: Sthenos
 draft: false
 tags:
   - Religion

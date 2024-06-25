@@ -1,5 +1,5 @@
 ---
-title: 
+title: Skoteinos
 draft: false
 tags:
   - Religion

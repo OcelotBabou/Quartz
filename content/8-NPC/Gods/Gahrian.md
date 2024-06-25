@@ -1,5 +1,5 @@
 ---
-title: 
+title: Gahrian
 draft: false
 tags:
   - Religion
@@ -8,35 +8,39 @@ tags:
   - TheAncients
   - Lux
 ---
-*[Phonetic]*
+*[gahr-ee-an]*
+
+![[Modern Gahrian.webp]]
 ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Name**: Gahrian
+- **Domain**: Light, Sun, Vigilance
+- **Title**: The Illuminator, Guardian of the Day, Dayman
+- **Alignment**: Excess
+- **Symbol**: A radiant sun with beams extending outward
+- **Primary Worship Area**: 
 
 ## Physical Description
 
-- **Appearance**: (Description of the god’s most common form seen by worshipers or depicted in religious art)
-- **Height**: (If applicable)
-- **Weight**: (If applicable)
-- **Distinguishing Features**: (Unique attributes such as glowing eyes, ethereal voice, etc.)
+- **Appearance**: Gahrian is either depicted as a radiant figure, cloaked in shimmering golden armor that seems to emit a gentle, warming light. Alternatively he is depicted clad in flowing robes that end on golden rings, his face missing replaced by empty space, behind his head is a multi-ringed halo.  
+- **Height**: A giant even by the standards of Gods
+- **Weight**: Variable
+- **Distinguishing Features**: A large multi-ringed halo emanating light. Pure white robes that flow like wispy clouds. 
 
 ## Personality
 
-- **Traits**: (Key personality traits)
-- **Strengths**: (Divine powers and positive traits)
-- **Weaknesses**: (Any known divine limitations or emotional vulnerabilities)
-- **Goals and Motivations**: (What drives this god? What are their divine objectives?)
+- **Traits**: Protective, enlightening, confident
+- **Strengths**: Extreme strength and fortitude, master of light and sacred flame. 
+- **Weaknesses**: Unknown
+- **Goals and Motivations**: To watch over the world ensuring its protection from the Vices and any other threat to its balance. Gahrian seeks to protect the innocent and guide the lost.
+
+*Elistar Solis, Lux Pontifex of Gahrian* May need to put at end, and make title clearer.
 
 ## Relationships
 
-- **Allies**: (Other gods or celestial beings they align with)
-- **Rivals/Enemies**: (Antagonistic relationships within the pantheon)
-- **Attitude towards Mortals**: (How they generally treat or interact with their followers and other mortals)
+- **Allies**: Alache, Lux Elves
+- **Rivals/Enemies**: All Vices
+- **Attitude towards Mortals**: Unknown
 
 ## Mythology and Worship
 
@@ -59,3 +63,10 @@ tags:
 - **Legends and Lore**: (Lesser-known tales and esoteric knowledge about the deity)
 
 This template should provide a comprehensive overview that can be used to detail each god within your pantheon, giving depth and context to their roles within your fantasy world.
+
+Modern Depiction
+
+Traditional Depiction
+![[TradGahrian.png]]
+Credit Peter Mohrbacher
+

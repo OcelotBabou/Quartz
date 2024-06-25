@@ -1,5 +1,5 @@
 ---
-title: 
+title: Lasair
 draft: false
 tags:
   - Religion
@@ -8,29 +8,31 @@ tags:
   - Primordial
   - Lasair
 ---
-*[Phonetic]*
+*[lah-sair]*
+
+![[Lasair.webp]]
 ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Name**: Lasair
+- **Domain**: Fire, Heat, Renewal
+- **Title**: The Blazing Architect, Flame of Creation
+- **Alignment**: Chaotic Neutral
+- **Symbol**: A flaming anvil or a phoenix rising from flames
+- **Primary Worship Area**: Volcanoes, forges, and places touched by fire
 
 ## Physical Description
 
-- **Appearance**: (Description of the god’s most common form seen by worshipers or depicted in religious art)
-- **Height**: (If applicable)
-- **Weight**: (If applicable)
-- **Distinguishing Features**: (Unique attributes such as glowing eyes, ethereal voice, etc.)
+- **Appearance**: - Lasair is depicted as a towering figure composed entirely of dancing flames. Her form shifts between the likeness of a massive, fiery beast and a more humanoid shape that radiates intense heat and light.
+- **Height**: Varies, usually depicted as enormous
+- **Weight**: Weightless, as fire itself
+- **Distinguishing Features**: Eyes that burn like coals,
 
 ## Personality
 
-- **Traits**: (Key personality traits)
-- **Strengths**: (Divine powers and positive traits)
-- **Weaknesses**: (Any known divine limitations or emotional vulnerabilities)
-- **Goals and Motivations**: (What drives this god? What are their divine objectives?)
+- **Traits**: Passionate, unpredictable, fiercely independent
+- **Strengths**: Power to create and destroy, bringing warmth and facilitating transformation and change
+- **Weaknesses**: 
+- **Goals and Motivations**: 
 
 ## Relationships
 

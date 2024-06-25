@@ -1,5 +1,5 @@
 ---
-title: 
+title: Ratura
 draft: false
 tags:
   - Religion
@@ -8,29 +8,31 @@ tags:
   - TheAscendedChurch
   - Ratura
 ---
-*[Phonetic]*
+*[rah-too-rah]*
+
+![[Raturaa.webp]]
 ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Name**: Ratura
+- **Domain**: Literature, Music, Art
+- **Title**: The Muse of Many Voices, The Scribe of Souls
+- **Alignment**: Chaotic Neutral
+- **Symbol**: A lyre and quill crossed over an open book
+- **Primary Worship Area**: Libraries, academies, theaters, and any places dedicated to the arts
 
 ## Physical Description
 
-- **Appearance**: (Description of the god’s most common form seen by worshipers or depicted in religious art)
-- **Height**: (If applicable)
-- **Weight**: (If applicable)
-- **Distinguishing Features**: (Unique attributes such as glowing eyes, ethereal voice, etc.)
+- **Appearance**: Ratura is depicted as an ethereal and graceful figure, draped in robes that shimmer with the hues of creativity—vibrant blues, deep purples, and silvers. Her eyes sparkle with inspiration. She has a thin frame, and NEED MORE
+- **Height**: 181cm
+- **Weight**: 62kg
+- **Distinguishing Features**: Often shown with a musical instrument or a book, her hands depicted in the act of creation, either writing a new poem or strumming melodies that could stir the soul.
 
 ## Personality
 
-- **Traits**: (Key personality traits)
-- **Strengths**: (Divine powers and positive traits)
-- **Weaknesses**: (Any known divine limitations or emotional vulnerabilities)
-- **Goals and Motivations**: (What drives this god? What are their divine objectives?)
+- **Traits**: Creative, inspiring, whimsically unpredictable
+- **Strengths**: Can inspire profound creativity in her followers, elevating their artistic abilities to divine levels
+- **Weaknesses**: Aloof and single minded… until distracted
+- **Goals and Motivations**: To enrich the world with beauty and truth through art and to inspire mortals to express their innermost thoughts and feelings.
 
 ## Relationships
 

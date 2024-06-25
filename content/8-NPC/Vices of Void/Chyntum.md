@@ -1,5 +1,5 @@
 ---
-title: 
+title: Chyntum
 draft: false
 tags:
   - Religion

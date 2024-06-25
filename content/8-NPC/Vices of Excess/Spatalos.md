@@ -1,5 +1,5 @@
 ---
-title: 
+title: Spatalos
 draft: false
 tags:
   - Religion

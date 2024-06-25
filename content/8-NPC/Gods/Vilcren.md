@@ -1,5 +1,5 @@
 ---
-title: 
+title: Vilcren
 draft: false
 tags:
   - Religion
@@ -8,29 +8,31 @@ tags:
   - TheAscendedChurch
   - Vilcren
 ---
-*[Phonetic]*
+*[vil-kren]*
+
+![[Vilcrena.webp]]
 ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+-  **Name**: Vilcren
+- **Domain**: Agriculture
+- **Title**: The Harvest Queen
+- **Alignment**: Lawful Neutral
+- **Symbol**: A sheaf of golden wheat crossed with a sickle
+- **Primary Worship Area**: Farmlands, gardens, rural temples
 
 ## Physical Description
 
-- **Appearance**: (Description of the god’s most common form seen by worshipers or depicted in religious art)
-- **Height**: (If applicable)
-- **Weight**: (If applicable)
-- **Distinguishing Features**: (Unique attributes such as glowing eyes, ethereal voice, etc.)
+- **Appearance**: - Vilcren is depicted as a nurturing figure, robed in verdant greens and earth tones that reflect her connection to the soil and plants. Her hair is often shown as flowing locks that resemble flowing grain.
+- **Height**: 176cm
+- **Weight**: 64kg
+- **Distinguishing Features**: Adorned in a verdant robe adorned with blossoming flora, their long golden hair that cascades nearly to the ground.
 
 ## Personality
 
-- **Traits**: (Key personality traits)
-- **Strengths**: (Divine powers and positive traits)
-- **Weaknesses**: (Any known divine limitations or emotional vulnerabilities)
-- **Goals and Motivations**: (What drives this god? What are their divine objectives?)
+- **Traits**: Nurturing, patient, tirelessly dedicated to the cycles of life
+- **Strengths**: - Ability to promote growth and fertility, bringing prosperity to those who honour her
+- **Weaknesses**: Inability to say no, finds it difficult to relax always working which can distance her from others. 
+- **Goals and Motivations**: To ensure the Earth's fertility and help mortals achieve harmony with the natural world.
 
 ## Relationships
 

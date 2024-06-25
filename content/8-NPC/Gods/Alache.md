@@ -1,5 +1,5 @@
 ---
-title: 
+title: Alache
 draft: false
 tags:
   - Religion
@@ -8,29 +8,30 @@ tags:
   - TheAncients
   - Tenebrim
 ---
-*[Phonetic]*
+*[ah-lah-chee]*
+
+
 ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
-
+- **Name**: Alache
+- **Domain**: Darkness, Secrets, Serenity
+- **Title**: The Concealer, Keeper of the Night
+- **Alignment**: Void
+- **Symbol**: A crescent moon partially obscured by shadows
+- **Primary Worship Area**: Caves, secret sanctuaries, places of solitude and reflection
 ## Physical Description
 
-- **Appearance**: (Description of the god’s most common form seen by worshipers or depicted in religious art)
-- **Height**: (If applicable)
-- **Weight**: (If applicable)
-- **Distinguishing Features**: (Unique attributes such as glowing eyes, ethereal voice, etc.)
+- **Appearance**: Alache is often depicted as a figure cloaked in deep, impenetrable shadows, with only his chilling, reflective eyes visible. The elven depiction of him show dark, flowing garments that merge into the shadows, while his head is adorned with a dark, elongated helmet and a dark halo that encircles his head. 
+- **Height**: Varies, often difficult to determine due to shadowy nature.
+- **Weight**: Variable
+- **Distinguishing Features**: His dark halo that seems to engulf light itself. Dark, flowing garments that blend into the shadows.
 
 ## Personality
 
-- **Traits**: (Key personality traits)
-- **Strengths**: (Divine powers and positive traits)
-- **Weaknesses**: (Any known divine limitations or emotional vulnerabilities)
-- **Goals and Motivations**: (What drives this god? What are their divine objectives?)
+- **Traits**: Enigmatic, introspective, detached
+- **Strengths**: Master of stealth, otherwise not much is known
+- **Weaknesses**: Unknown
+- **Goals and Motivations**: Alache watches over the world alongside Gahrian, against the Vices and any other would be threats to Staterum. He aims to teach that secrets and solitude bring their own form of enlightenment
 
 ## Relationships
 
@@ -59,3 +60,7 @@ tags:
 - **Legends and Lore**: (Lesser-known tales and esoteric knowledge about the deity)
 
 This template should provide a comprehensive overview that can be used to detail each god within your pantheon, giving depth and context to their roles within your fantasy world.
+
+Traditional Depiction
+![[TradAlache.png]]
+Credit Peter Moh

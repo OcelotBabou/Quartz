@@ -1,5 +1,5 @@
 ---
-title: 
+title: Ormos
 draft: false
 tags:
   - Religion

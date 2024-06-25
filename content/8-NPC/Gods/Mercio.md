@@ -1,5 +1,5 @@
 ---
-title: 
+title: Mercio
 draft: false
 tags:
   - Religion
@@ -8,29 +8,31 @@ tags:
   - Mercio
   - TheAscendedChurch
 ---
-*[Phonetic]*
+*[mer-see-oh]*
+
+![[Mercio.webp]]
 ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Name**: Mercio
+- **Domain**:  Commerce, Trade, Wealth
+- **Title**: The Merchant King, The Golden Hand
+- **Alignment**: Lawful Excess
+- **Symbol**: A coin bag, with several coins spilling out
+- **Primary Worship Area**: Marketplaces, trade routes, banks
 
 ## Physical Description
 
-- **Appearance**: (Description of the god’s most common form seen by worshipers or depicted in religious art)
-- **Height**: (If applicable)
-- **Weight**: (If applicable)
-- **Distinguishing Features**: (Unique attributes such as glowing eyes, ethereal voice, etc.)
+- **Appearance**: Mercio is portrayed as a robust figure, dressed in opulent attire that befits a deity of wealth—often gold-threaded and adorned with symbols of prosperity. His expression is sharp and calculating, eyes gleaming with a shrewd light.
+- **Height**: 190cm
+- **Weight**: 102kg
+- **Distinguishing Features**: Gold streaks through his beard. Opulent clothing, decorated with gold trinkets. 
 
 ## Personality
 
-- **Traits**: (Key personality traits)
-- **Strengths**: (Divine powers and positive traits)
-- **Weaknesses**: (Any known divine limitations or emotional vulnerabilities)
-- **Goals and Motivations**: (What drives this god? What are their divine objectives?)
+- **Traits**: Calculating, pragmatic, influential
+- **Strengths**: Excellent at negotiation and fostering prosperity, ensuring fair and profitable dealings
+- **Weaknesses**: His focus on wealth and trade can sometimes make him seem cold or greedy to those who do not share his values.
+- **Goals and Motivations**: To expand commerce and ensure that trade flows freely and fairly across the world, increasing the wealth and prosperity of his followers.
 
 ## Relationships
 

@@ -1,5 +1,5 @@
 ---
-title: 
+title: Etnake
 draft: false
 tags:
   - Religion

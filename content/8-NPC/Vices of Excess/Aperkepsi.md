@@ -1,5 +1,5 @@
 ---
-title: 
+title: Aperkepsi
 draft: false
 tags:
   - Religion

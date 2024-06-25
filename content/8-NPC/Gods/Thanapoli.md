@@ -1,5 +1,5 @@
 ---
-title: 
+title: Thanapoli
 draft: false
 tags:
   - Religion

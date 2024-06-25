@@ -1,5 +1,5 @@
 ---
-title: 
+title: Pathupem
 draft: false
 tags:
   - Religion

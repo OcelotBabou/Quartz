@@ -1,5 +1,5 @@
 ---
-title: 
+title: Talam
 draft: false
 tags:
   - Religion
@@ -8,29 +8,31 @@ tags:
   - Primordial
   - Talam
 ---
-*[Phonetic]*
+*[tah-lahm]*
+
+![[Talama.webp]]
 ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Name**: Talam
+- **Domain**: Earth, Mountains, Stability
+- **Title**: The Stoneward, Foundation of the World
+- **Alignment**: Lawful Neutral
+- **Symbol**: 
+- **Primary Worship Area**: Mountain ranges, caverns, quarries, and fertile fields
 
 ## Physical Description
 
-- **Appearance**: (Description of the god’s most common form seen by worshipers or depicted in religious art)
-- **Height**: (If applicable)
-- **Weight**: (If applicable)
-- **Distinguishing Features**: (Unique attributes such as glowing eyes, ethereal voice, etc.)
+- **Appearance**: - Talam is visualized as a robust and towering figure made of various stones and minerals. His skin resembles a mosaic of earthy textures, from smooth, dark basalt to sparkling granite. His movements, though slow, resonate with the deep rumbling of tectonic shifts.
+- **Height**: Immense, often depicted as large as a mountain
+- **Weight**: Variable
+- **Distinguishing Features**: Solid and imposing, Talam's eyes gleam like precious ores. His is often depicted cloaked in moss and other greenery.
 
 ## Personality
 
-- **Traits**: (Key personality traits)
-- **Strengths**: (Divine powers and positive traits)
-- **Weaknesses**: (Any known divine limitations or emotional vulnerabilities)
-- **Goals and Motivations**: (What drives this god? What are their divine objectives?)
+- **Traits**: Unyielding, reliable, and patient
+- **Strengths**: Embodies strength and endurance, provides a foundation for civilizations, and nurtures the growth of natural life
+- **Weaknesses**: His nature can be overly rigid, making him resistant to change and slow to react to immediate needs.
+- **Goals and Motivations**: To uphold the physical stability of the world and ensure that all living things have a solid ground on which to thrive.
 
 ## Relationships
 

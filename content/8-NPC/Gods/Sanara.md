@@ -1,5 +1,5 @@
 ---
-title: 
+title: Sanara
 draft: false
 tags:
   - Religion

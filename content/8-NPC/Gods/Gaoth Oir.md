@@ -1,5 +1,5 @@
 ---
-title: 
+title: Gaoth Oir
 draft: false
 tags:
   - Religion
@@ -7,29 +7,30 @@ tags:
   - TheElementalEnvoys
   - GaothOir
 ---
-*[Phonetic]*
+*[gayth ohr]* (kinda sounds like gay thor)
+
+![[GaothOir.webp]]
 ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Name**:- Gaoth Oir
+- **Domain**: Air, Winds, Gas
+- **Title**: The Breath of the World, Whisperer in the Winds
+- **Alignment**: Chaotic Neutral
+- **Symbol**: A swirling cloud or a feather caught in a breeze
+- **Primary Worship Area**: High mountains, open plains, and skyward towers
 
 ## Physical Description
 
-- **Appearance**: (Description of the god’s most common form seen by worshipers or depicted in religious art)
-- **Height**: (If applicable)
-- **Weight**: (If applicable)
-- **Distinguishing Features**: (Unique attributes such as glowing eyes, ethereal voice, etc.)
-
+- **Appearance**: - Gaoth Oir is rarely seen in a solid form, typically appearing as a visible gust of wind or a whirlwind, sometimes taking on a vague humanoid shape within a swirling vortex of air.
+- **Height**: Indeterminate, often extending as high as the skies
+- **Weight**: Variable
+- **Distinguishing Features**: By his very nature lacks distinguishing features
 ## Personality
 
-- **Traits**: (Key personality traits)
-- **Strengths**: (Divine powers and positive traits)
-- **Weaknesses**: (Any known divine limitations or emotional vulnerabilities)
-- **Goals and Motivations**: (What drives this god? What are their divine objectives?)
+- **Traits**: Free-spirited, elusive, ever-present
+- **Strengths**: Controls the weather, facilitates communication and travel, represents freedom
+- **Weaknesses**: His intangible nature can make him seem distant or detached
+- **Goals and Motivations**: Gaoth Oir is an aloof being, caring only of his own freedom.
 
 ## Relationships
 

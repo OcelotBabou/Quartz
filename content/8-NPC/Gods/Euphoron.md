@@ -1,5 +1,5 @@
 ---
-title: 
+title: Euphoron
 draft: false
 tags:
   - Religion

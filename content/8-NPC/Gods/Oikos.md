@@ -1,5 +1,5 @@
 ---
-title: 
+title: Oikos
 draft: false
 tags:
   - Religion
