@@ -18,6 +18,7 @@ tags:
 6. [[Factions]]
 7. [[Player Races]]
 8. [[Changes]]
+9. [[Campaign Focused]]
 
 This is a blank Quartz installation.
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.

@@ -7,22 +7,22 @@ tags:
   - Matiodox
   - ExcessVice
 ---
-*[Phonetic]*
+*[ma-tee-oh-dox]*
 ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Name**: Matiodox
+- **Domain**: Vanity, Self-Obsession, Excessive Pride
+- **Title**: The Mirror's Curse, The Egotist
+- **Alignment**: Lawful Excess
+- **Symbol**: A broken mirror
+- **Primary Worship Area**: Any place focused on beauty and self-image, such as lavish salons and theaters
 
 ## Physical Description
 
-- **Appearance**: (Description of the god’s most common form seen by worshipers or depicted in religious art)
-- **Height**: (If applicable)
-- **Weight**: (If applicable)
-- **Distinguishing Features**: (Unique attributes such as glowing eyes, ethereal voice, etc.)
+- **Appearance**: - Matiodox appears as an excessively beautiful figure, almost unnaturally perfect, with a constant, self-admiring gaze fixed upon a mirror he carries.
+- **Height**: Changes to always be slightly taller than the observer
+- **Weight**: Immaterial
+- **Distinguishing Features**: His eyes, devoid of depth, reflect only his own image.
 
 ## Personality
 

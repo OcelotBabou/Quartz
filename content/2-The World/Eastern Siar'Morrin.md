@@ -13,8 +13,8 @@ tags:
 
 Eastern Siar'Morrin is known for its dynamic urban landscapes and rich cultural heritage. This area stretches from the bustling port cities along the Mare Sanctum Ocean North to the Ridgeback Mountains, and West as far as the Shadow Aisle Mountains. Eastern Siar'Morrin is crucial for its economic dynamism, serving as the primary hub for commerce, education, and politics within the continent, as well as the founding lands for all of humanity when the world was still young. 
 
-Intro with image.
-
+![[448804412_363796109715134_269399711812252018_n.jpg]]
+(fucking nailed it)
 ### 2. **Regions**
 
 1.  [[New Birania]] 

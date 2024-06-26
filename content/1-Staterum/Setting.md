@@ -9,7 +9,6 @@ tags:
 
 ![[settingopenworld.webp]]
 
-![[Setting1.webp]]
 Welcome, adventurers, to the world of Staterum, a land shrouded in the aftermath of a cataclysmic event that shook the very foundations of existence. Once this realm thrived under the benevolent gaze of gods and the ingenuity of mortals, the land of Siar Morrin united as one under the banner of the grand kingdom of Birania. But that time is now a distant memory, fading like whispers in the wind.
 
 ![[Setting2.webp]]
@@ -23,5 +22,4 @@ But even in the face of such despair, hope endured. Heroes rose from the ashes, 
 ![[Setting4.webp]]
 Now, Staterum stands on the precipice of a new era. The scars of the past run deep, etched into the very fabric of reality. The once-great kingdoms lie in ruins, glory faded, and the mortal races' unity fractured. Old alliances have frayed, and once-trusted allies now eye each other with suspicion and distrust. The elves, long regarded as friends and allies, now find themselves marginalized and persecuted, some claim they abandoned humanity in its hour of need, some have even laid the blame for the calamity on the elves. Other non-human races fare little better, their once-celebrated contributions to society now dismissed or forgotten in the chaos of the present.
 
-![Image 5](path_to_image5.jpg)
 Yet amidst the despair and uncertainty, a glimmer of hope remains. New Birania in the East seeks to reunite the lands, the bastions of Wall Paleomyna and Fort Logos have been reclaimed, and the vast lands of Agroma to the West find themselves flourishing through agricultural success. The winds of change are blowing across the land, and with them comes the promise of a brighter future. Will you seize this opportunity, adventurers, and help shape the destiny of Birania for generations to come?

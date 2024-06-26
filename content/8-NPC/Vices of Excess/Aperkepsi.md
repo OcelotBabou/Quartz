@@ -7,22 +7,22 @@ tags:
   - ExcessVice
   - Aperkepsi
 ---
-*[Phonetic]*
+*[ah-per-keh-psee]*
 ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Name**: Aperkepsi
+- **Domain**: Rashness, Recklessness, Impulsivity
+- **Title**: The Blind Leap, The Rash One
+- **Alignment**: Chaotic Excess
+- **Symbol**: A shattered helm
+- **Primary Worship Area**: Battlefields, gambling dens, and other places of high risk
 
 ## Physical Description
 
-- **Appearance**: (Description of the god’s most common form seen by worshipers or depicted in religious art)
-- **Height**: (If applicable)
-- **Weight**: (If applicable)
-- **Distinguishing Features**: (Unique attributes such as glowing eyes, ethereal voice, etc.)
+- **Appearance**: Aperkepsi is depicted as a wild, frenzied warrior in tattered armor, always in motion, never considering the consequences.
+- **Height**: Medium, but appears larger due to his aggressive posture
+- **Weight**: Light, always ready to move
+- **Distinguishing Features**: Constantly bruised or bleeding from recent conflicts.
 
 ## Personality
 
