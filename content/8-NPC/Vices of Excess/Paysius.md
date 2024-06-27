@@ -7,42 +7,44 @@ tags:
   - Paysius
   - ExcessVice
 ---
-*[Phonetic]*
+*[pay-see-us]*
+
+![[Paysius.webp]]
 ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Name**:- Paysius
+- **Domain**: Flagrant Arrogance, Haughtiness, Ignorance
+- **Title**: The Undeserved, The Haughty One
+- **Alignment**: Chaotic Excess
+- **Symbol**: A golden crown with a broken scepter
+- **Primary Worship Area**: No one actively worships Paysius, instead misguided fools seeking Matiodox are often fooled into following Paysius
 
 ## Physical Description
 
-- **Appearance**: (Description of the god’s most common form seen by worshipers or depicted in religious art)
-- **Height**: (If applicable)
-- **Weight**: (If applicable)
-- **Distinguishing Features**: (Unique attributes such as glowing eyes, ethereal voice, etc.)
+- **Appearance**: Paysius is depicted as a truly grotesque, demonic figure, a stark contrast to his self-perceived grandeur. His skin is a pale, sickly hue, marred with cracks and festering sores. His features are twisted and asymmetrical, with a face that appears to be a grotesque parody of handsomeness. Despite his hideous appearance, Paysius adorns himself in the finest clothes and jeweled crowns, wearing opulent robes that drape elegantly over his monstrous form. His expression is haughty and conveys a sense of disdain for others
+- **Height**: 242cm
+- **Weight**: 242kg
+- **Distinguishing Features**: His perpetually, haughty self-important expression. His grotesque sores and blistered skin. 
 
 ## Personality
 
-- **Traits**: (Key personality traits)
-- **Strengths**: (Divine powers and positive traits)
-- **Weaknesses**: (Any known divine limitations or emotional vulnerabilities)
-- **Goals and Motivations**: (What drives this god? What are their divine objectives?)
+- **Traits**: (- Arrogant, domineering, dismissive, ignorant
+- **Strengths**: Commands and manipulates others through sheer force of personality and presence, instilling a sense of inferiority in those around him
+- **Weaknesses**: His pride is extremely fragile, and he is easily offended and goaded into argument
+- **Goals and Motivations**: Paysius seeks to elevate himself above all others, demanding worship and adoration as the epitome of greatness. He thrives on the submission and subjugation of others.
 
 ## Relationships
 
-- **Allies**: (Other gods or celestial beings they align with)
-- **Rivals/Enemies**: (Antagonistic relationships within the pantheon)
-- **Attitude towards Mortals**: (How they generally treat or interact with their followers and other mortals)
+- **Allies**: Paysius has no true allies, as his perceived superiority and lack of genuine ability have led to disdain even among his fellow Vices. His arrogance and dismissive attitude make it difficult for him to form lasting alliances, and other Vices often tolerate him only as long as it serves their purposes.
+- **Rivals/Enemies**: Matiodox
+- **Attitude towards Mortals**: Paysius views mortals as mere subjects to be dominated and controlled, dismissing their individuality and worth unless they serve his purposes.
 
 ## Mythology and Worship
 
-- **Creation Myth**: (Stories of their origin or significant mythological tales)
-- **Major Cults and Religious Practices**: (Description of main worship practices and any associated cults)
-- **Festivals**: (Special times of the year dedicated to this deity, including rituals and celebrations)
-- **Clergy and Temples**: (Description of priests, holy orders, and sacred sites dedicated to the deity)
+- **Creation Myth**: Paysius was born when Gahrian defeated Tefylion, one of the incorpreal deities that predated the universe, dragging his soul into the material plane. To give this soul form, he imbued it with the excess arrogance held within himself. Thus creating the fourth Vice of Excess. As with its siblings Paysius would go on to seek war with its counter part in the Vices of Void, leading to great destabilization in the universe. Eventually, recognizing the folly of their creations Gahrian and Alache would defeat the Vices and banish them to their separate planes. 
+- **Major Cults and Religious Practices**: His followers are often found among those that have fluked success in their lives, or inherited positions of power. 
+- **Rituals**: Paysius has many rituals, often overly intricate, complex and lengthy. 
+- **Clergy and Temples**: Temples dedicated to Paysius appear grandiose and lavish to his worshippers, however, to outside viewers they appear as little more than hovels or rundown structures, with the lavish decorations being mere illusions or poorly executed facades. The grandeur perceived by the worshippers is a manifestation of their collective arrogance and delusion, blinding them to the true state of their surroundings. Ironically, this works greatly to their advantage however, as it makes it far more difficult to discover them. 
 
 ## Significant Historical Impact
 

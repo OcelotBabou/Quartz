@@ -50,13 +50,17 @@ Despite these challenges, the Agroma defense force is a potent military entity. 
 - [[Flown]]
 - The Canals
 - [[Lake Novus Mare]]
-- 
+- [[Hu Dao]]
 
 ### 9. **Significant Characters**
 
-- The three current leader
-- General of Army
-- Key Merchants
+- Agron Thalos, Representative of Agriculture: 
+- Serena Vastori, Representative of Commerce:
+- Remona Raturian, Representative of Literature:
+- General Marcus Ferris Sulla:
+- Logar Oakford: Head of Ascended Church
+- Elena Frostbreathe: Head Glacimancer
+- Garrick Haeream: Top Wizard of Enchantment
 
 ### 10. **Current Issues and Future Prospects**
 
