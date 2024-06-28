@@ -9,56 +9,54 @@ tags:
 ---
 **Basic Information**
 
-- **Name**: Agron Thalos
+- **Name**: Elena Frostbreathe
 - **Species**: Human
-- **Gender**: Male
-- **Age**: 45 years
-- **Occupation**: Representative of Agriculture
-- **Affiliation**: Council of Agroma
-- **Home Region**: Agroma
+- **Gender**: Female
+- **Age**: 35 years
+- **Occupation**: Head Glacimancer
+- **Affiliation**: Glacimancers of the Arctic Expanse, Council of Agroma
+- **Home Region**: The Arctic Expanse
 
 **Physical Description**
 
-- **Appearance**: Agron is a robust man with a weathered, sun-touched face and a broad, muscular build reflective of years working the land.
-- **Height**: 183 cm
-- **Weight**: 90 kg
-- **Distinguishing Features**: He is missing his pinky and ring finger on his left hand  and has dark tanned skin, reflecting his many years in fields.
+- **Appearance**: Elena has a striking appearance, with pale skin and silver-white hair that seems almost luminous. Her eyes, a clear icy blue, reflect her mastery over ice magic. She typically wears light robes that shimmer like frost, adorned with symbols of her craft.
+- **Height**: 170 cm
+- **Weight**: 58 kg
+- **Distinguishing Features**: Her breath appears as a visible mist even in normal temperatures, a side effect of her deep connection to ice magic.
 
 **Personality**
 
-- **Traits**: Grounded, pragmatic, and nurturing.
-- **Strengths**: Deep knowledge of agriculture, leadership, and resilience.
-- **Weaknesses**: Struggles with concepts beyond agriculture, particularly commerce.
-- **Goals and Motivations**: To enhance Agroma’s agricultural output through sustainable practices and ensure the region remains a leading food supplier.
+- **Traits**: Intelligent, composed, and immensely focused. Elena is known for her calm demeanour and the precision with which she handles her responsibilities.
+- **Strengths**: Proficient glacimancer, in addition to being a skilled diplomat, bridging the cultural gap between her people and Agroma.
+- **Weaknesses**: Tends to be reserved, but when angered is fiercely defensive. She can also be overly protective of her people, perceiving unintentional insults
+- **Goals and Motivations**: To ensure the prosperity of her people and to integrate the glacimancers into Agroman society seamlessly, while using their unique skills to benefit the region’s agricultural economy.
 
 **Background**
 
-- **Early Life**: Born and raised on a farm in on the outskirts of Yarrin, immersed in agricultural practices from a young age.
-- **Education**: Learned farming from his family and local community. Attended the Triumvirate Institute, in Flown as a teenager, greatly advancing his education.
-- **Key Events**: Rose to prominence through his innovative agricultural methods and crisis management during the Year of the Long Drought.
-- **Relationships**: Respected by local farmers and fellow council members, viewed as a father figure in the agricultural community.
+- **Early Life**: Born in the harsh, beautiful landscapes of the Arctic Expanse, Elena was identified early for her potent magical abilities and trained under the esteemed elders of her community.
+- **Education**: Received personal tutelage from experienced glacimancery elders within the Arctic Expanse, in additional to education within Austfjell on diplomacy and economics.
+- **Key Events**: Led a delegation of Glacimancers to Agroma, initially as part of a pilot project to aid in food preservation. Her success in this role led to her permanent position as their representative.
+- **Relationships**: Maintains strong ties with her homeland while building new alliances in Agroma. She is respected by her peers for her expertise and her ability to negotiate on behalf of her community. Is good friends with [[Remona Raturian]]. 
 
 **Skills and Abilities**
 
-- **Combat Skills**: Limited practical skills but received basic combat training at the Triumvirate Institute.
-- **Technical Skills**: Expert in agricultural technology and sustainable farming techniques.
-- **Special Abilities**: Innate connection with the land, able to enhance crop growth through traditional and divine methods.
+- **Combat Skills**: Little combat skill, as she is reliant on her magic.
+- **Technical Skills**: Master of glacimancy, capable of manipulating ice and cold with precision unheard of among ordinary magicians.
+- **Special Abilities**: Can create and manipulate ice in intricate ways that are crucial for food preservation in addition to their defensive and offensive uses.
 
 **Equipment**
 
-- **Weapons**: Carries a sturdy staff used both for walking and as a symbol of his office.
-- **Gadgets**: Uses various agricultural tools that are imbued with minor enchantments to aid in farming.
-- **Personal Belongings**: Wears a locket containing soil from his family’s original farmstead. Often has arm bands made of wreathed vines.
+- **Weapons**: She is capable of crafting weapons from ice, but rarely relies on such close quarter techniques.
+- **Gadgets**: Utilizes a series of amulets and talismans that help regulate temperature, crucial for her work.
+- **Personal Belongings**: She wears a ring made from ice crafted a shrine to [[Ooscara]], from her homelands. It prolonged existence both a reminder of home, and a demonstration of her mastery over glacimancy.
 
 **Significant Events**
 
-- **Major Plot Points**: His position as Representative of Agriculture, provides him great influence over the greater Agroma area, making him a potentially powerful ally, or a formidable foe.
-- **Important Missions**: Currently leading the Sustainable Agroma Initiative, aiming to provide the advanced agricultural practices in Eastern Agroma to the more removed communities in the West.
+- **Major Plot Points**: Played a pivotal role in establishing the cold storage facilities and transportation across Agroma, which revolutionized how food is stored and transported, drastically reducing spoilage and loss.
+- **Important Missions**: Currently seeking to developing a new technique that could provide access to glacimancy for short periods of time, allowing for the annual migration of glacimancers back home for the Winter Solstice.
 
 **Quotes**
 
-"A well-tended field is the best testament to a farmer's virtue."
+"In the calm of the frost, we find clarity and purpose."
 
 **History**
-
-Agron Thalos hails from a long line of farmers who have cultivated Agroma's land for generations. His deep connection to the land is matched by his commitment to his community, having risen through the ranks to become the Representative of Agriculture on the strength of his innovative approaches to farming and his unwavering dedication to Agroma's prosperity.
