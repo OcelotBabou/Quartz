@@ -48,7 +48,8 @@ These expeditions, though infrequent and rarely successful, are justified by the
 
 ### 9. **Significant Characters**
 
-- 
+- [[Mayor Serenia Thorne]], of Bullmar:
+- [[Darius Thesequi]], the ranger: 
 
 ### 10. **Current Issues and Future Prospects**
 

@@ -7,6 +7,10 @@ tags:
   - ArcticExpanse
   - WesternSiarMorrin
 ---
+*[eh-lay-na frost-breath]*
+
+![[Elenaa.webp]]
+
 **Basic Information**
 
 - **Name**: Elena Frostbreathe

@@ -7,6 +7,8 @@ tags:
   - WesternSiarMorrin
   - TheAscendedChurch
 ---
+*[low-gar oak-ford]*
+
 **Basic Information**
 
 - **Name**: Logar Oakford

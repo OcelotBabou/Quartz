@@ -4,6 +4,8 @@ draft: false
 tags:
   - NPC
 ---
+*[]*
+
 **Basic Information**
 
 - **Name**: Agron Thalos

@@ -6,6 +6,8 @@ tags:
   - Agroma
   - WesternSiarMorrin
 ---
+*[re-mo-na rat-ur-ee-an]*
+
 **Basic Information**
 
 - **Name**: Remona Raturian

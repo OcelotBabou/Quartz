@@ -6,6 +6,10 @@ tags:
   - Agroma
   - WesternSiarMorrin
 ---
+*[ah-gron thay-los]*
+
+
+
 **Basic Information**
 
 - **Name**: Agron Thalos
