@@ -54,13 +54,13 @@ Despite these challenges, the Agroma defense force is a potent military entity. 
 
 ### 9. **Significant Characters**
 
-- Agron Thalos, Representative of Agriculture: 
-- Serena Vastori, Representative of Commerce:
-- Remona Raturian, Representative of Literature:
-- General Marcus Ferris Sulla:
-- Logar Oakford: Head of Ascended Church
-- Elena Frostbreathe: Head Glacimancer
-- Garrick Haeream: Top Wizard of Enchantment
+- [[Agron Thalos]], Representative of Agriculture: Known for his deep connection to the land and innovative farming techniques.
+- [[Serena Vastori]], Representative of Commerce: A shrewd negotiator and influential figure in Agroma's trade networks.
+- [[Remona Raturian]], Representative of Literature: A visionary bard and historian who ensures Agroma's cultural heritage is preserved and celebrated.
+- [[General Marcus Ferris Sulla]]: A seasoned military leader with a keen understanding of Agroma's defense needs and a strong advocate for military modernization.
+- [[Logar Oakford]]: Head of the Ascended Church:
+- [[Elena Frostbreathe]]: Glacimancer Representative: 
+- [[Garrick Haeream]]: 
 
 ### 10. **Current Issues and Future Prospects**
 
