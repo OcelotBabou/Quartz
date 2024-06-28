@@ -1,5 +1,5 @@
 ---
-title: Example Title
+title: Garrick Haeream
 draft: false
 tags:
   - NPC

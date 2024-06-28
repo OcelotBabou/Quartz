@@ -1,5 +1,5 @@
 ---
-title: Example Title
+title: Elena Frostbreathe
 draft: false
 tags:
   - NPC

@@ -1,5 +1,5 @@
 ---
-title: Example Title
+title: Remona Raturian
 draft: false
 tags:
   - NPC
@@ -7,6 +7,8 @@ tags:
   - WesternSiarMorrin
 ---
 *[re-mo-na rat-ur-ee-an]*
+
+![[Raurtianas.jpg]]
 
 **Basic Information**
 

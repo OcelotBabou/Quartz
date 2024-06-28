@@ -1,5 +1,5 @@
 ---
-title: Example Title
+title: Logar Oakford
 draft: false
 tags:
   - NPC
