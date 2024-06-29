@@ -21,7 +21,7 @@ The geography of the Aegir Coast is defined by its sheer cliffs that rise dramat
 
 Historically, the Aegir Coast was a beacon of scientific and technological enlightenment, where advancements in magic and numerous other disciplines were made at remarkable rates. It was known for its vibrant academic communities that pursued a wide array of innovations, from exploring the depths of the ocean to unlocking the mysteries of arcane energies. This pursuit of knowledge made the coast a hub of intellectual activity and discovery, drawing scholars and inventors from across the realm.
 
-However, the Age of Darkness marked a profound shift in the region. The catastrophic events brought about by this period led to a significant loss of scientific knowledge and technological capability. The communities along the Aegir Coast were forced to abandon their pursuit of advancement and revert to simpler, more survival-focused ways of living. This transition saw a dramatic shift from a society once at the forefront of civilization's progress to one deeply rooted in basic, day-to-day survival strategies
+However, the Age of Darkness ([[AoD]]) marked a profound shift in the region. The catastrophic events brought about by this period led to a significant loss of scientific knowledge and technological capability. The communities along the Aegir Coast were forced to abandon their pursuit of advancement and revert to simpler, more survival-focused ways of living. This transition saw a dramatic shift from a society once at the forefront of civilization's progress to one deeply rooted in basic, day-to-day survival strategies
 
 ### 4. **Political Structure**
 

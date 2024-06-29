@@ -9,6 +9,8 @@ tags:
 ---
 *[low-gar oak-ford]*
 
+![[Logaroak.webp]]
+
 **Basic Information**
 
 - **Name**: Logar Oakford

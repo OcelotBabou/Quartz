@@ -9,6 +9,7 @@ tags:
 ---
 *[say-bul shad-oh-claw]*
 
+*[Sables perception of self]*
 ![[Sablepercieved.jpg]]
 
 **Basic Information**
@@ -29,7 +30,7 @@ tags:
 - **Weight**: 48 kg
 - **Distinguishing Features**: His eyes have a reflective quality that enhances his night vision, a common trait among Shadow Scurriers. His whiskers are also exceptionally long. 
 
-Actual Appearance:
+*[Actual Appearance]*
 ![[Sablea.jpg]]
 
 **Personality**
