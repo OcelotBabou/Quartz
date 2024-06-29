@@ -8,6 +8,8 @@ tags:
 ---
 *[se-ree-na vas-to-ree]*
 
+![[Serena.jpg]]
+
 **Basic Information**
 
 - **Name**: Serena Vastori

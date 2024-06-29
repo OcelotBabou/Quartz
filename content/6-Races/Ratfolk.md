@@ -29,7 +29,7 @@ As the sun sets on their ramshackled cities, casting long shadows across the cro
 
 ​**Alignment**: Lawful or chaotic virtually all ratfolk embrace a life of excess.
 
-**Size**: Only slightly smaller than humans, they typically reach heights around 5 feet, with tall individuals reaching up to 6 feet. The typically hunched posture often misleads their true height.
+**Size**: Smaller than humans, they typically reach heights around between 4-5 feet, with particularly tall blighted brutes reaching up to 6 feet. The typically hunched posture often misleads their true height.
 
 **Speed**: Base speed 30 feet.
 
@@ -38,6 +38,6 @@ As the sun sets on their ramshackled cities, casting long shadows across the cro
 **Scurry**: You can move through the space of any hostile creature as if it were difficult terrain.
 
 **Sub-races:**
-- [[Lab Rat]]
+- [[Lab Rats]]
 - [[Shadow Scurriers]]
 - [[Blighted Brutes]] 

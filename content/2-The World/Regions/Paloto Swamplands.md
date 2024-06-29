@@ -2,10 +2,10 @@
 title: Paloto Swamplands
 tags:
   - region
-  - WesternKairThear
   - SiarMorrin
   - PalotoSwamplands
   - Ratfolk
+  - WesternSiarMorrin
 ---
 *[puh-loh-toh swamp-lands]*
 ### 1. **Overview**
@@ -23,7 +23,7 @@ Historically, Paloto Swamp has been a secluded area, largely untouched due to it
 
 ### 4. **Political Structure**
 
-Inspired by their observations of Agroma, the Ratfolk of Paloto Swamp have adopted a similar governance structure known as a triumvirate, ensuring balanced representation from their diverse societal factions. This system comprises representatives from three distinct clans: the Lab Rats, the scientists and innovators; the Shadow Scurriers, skilled in espionage and covert operations; and the Blighted Brutes, who oversee military and protection duties.
+Inspired by their observations of Agroma, the Ratfolk of Paloto Swamp have adopted a similar governance structure known as a triumvirate, ensuring balanced representation from their diverse societal factions. This system comprises representatives from three distinct clans: the [[Lab Rats]], the scientists and innovators; the [[Shadow Scurriers]], skilled in espionage and covert operations; and the [[Blighted Brutes]], who oversee military and protection duties.
 
 The capital, known as [[Tanglethorn]], serves as the central seat of power from which the triumvirate governs. While some of the surrounding cities and settlements acknowledge the authority of Tanglethorn, many others maintain a degree of autonomy, governed by local officials or clan leaders who prefer to manage their affairs independently. This decentralized approach allows for flexibility and local adaptation but can sometimes lead to tensions or disparities in policy implementation across the region.
 
@@ -57,13 +57,18 @@ Together, these groups ensure that Paloto Swamp remains a fortress not through w
 ### 8. **Notable Locations**
 
 - TangleThorn
-- Stilt City
-- Glimmerfen
+- [[Stilt City]]
+- [[Glimmerfen]]
 - 
 
 ### 9. **Significant Characters**
 
-- 
+- [[Tillo Quickpaw]]: Chief Innovator of the [[Lab Rats]]
+- [[Zinna Marshroot]]: Head of the [[Blighted Brutes]]
+- [[Sable Shadowclaw]]: Master Spy of the [[Shadow Scurriers]]
+- [[Dr. Fennel Whisker]]: Medical Researcher, and Mayor of [[Glimmerfen]]
+- [[Elden Reedwhistle]]: Ambassador of the Paloto Swamplands
+- [[Mara Longtooth]]: Chief Librarian of [[Stilt City]]
 
 ### 10. **Current Issues and Future Prospects**
 

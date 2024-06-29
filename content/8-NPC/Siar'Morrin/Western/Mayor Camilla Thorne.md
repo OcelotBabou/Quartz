@@ -1,18 +1,18 @@
 ---
-title: Serena Thorne
+title: Camilla Thorne
 draft: false
 tags:
   - NPC
   - WesternSiarMorrin
   - RidgebackForest
 ---
-*[seh-ree-nee-uh thorn]*
+*[cam-mill-ah thorn]*
 
 ![[SereniaThorne.webp]]
 
 **Basic Information**
 
-- **Name**: Serenia Thorne
+- **Name**: Camilla Thorne
 - **Species**: Human
 - **Gender**: Female
 - **Age**: 71 years
@@ -22,7 +22,7 @@ tags:
 
 **Physical Description**
 
-- **Appearance**: Serenia Thorne presents a strong figure despite her age, her practical nature evident in her firm posture and robust build. Her hair, showing strands of silver, is typically tied back in a functional style that reflects her hands-on approach to leadership. Her face, lined with the wisdom of her years, carries a determined look that commands respect.
+- **Appearance**: Camilla Thorne presents a strong figure despite her age, her practical nature evident in her firm posture and robust build. Her hair, showing strands of silver, is typically tied back in a functional style that reflects her hands-on approach to leadership. Her face, lined with the wisdom of her years, carries a determined look that commands respect.
 - **Height**: 170 cm
 - **Weight**: 62 kg
 - **Distinguishing Features**: Signs of aging gracefully etched into her features, along with a silver brooch shaped like a leaf, gifted to her from an old elven friend from Silverleaf. 
@@ -37,7 +37,7 @@ tags:
 **Background**
 
 - **Early Life**: Grew up in Bullmar, the daughter of a ranger and a schoolteacher, which instilled in her a deep appreciation for both the natural world and the importance of community.
-- **Education**: Lacking formal education outside her local school, Serenia is self taught in running Bullmar.
+- **Education**: Lacking formal education outside her local school, Camilla is self taught in running Bullmar.
 - **Key Events**: Elected as mayor after years of faithful service and involvement within Bullmar, although she lacks significant acts of heroism or impact, her unwavering support and guidance within town has earned her much respect. 
 - **Relationships**: Maintains strong ties with surrounding towns, particularly Silverleaf. Known for her open-door policy and regular community engagement, she is generally loved by the citizens of Bullmar. 
 
@@ -56,7 +56,7 @@ tags:
 **Significant Events**
 
 - **Major Plot Points**: Has recently sparked controversy amongst local leaders along the Ridgeback Forest for her outspoken support of Silverleaf. and elves in general.
-- **Important Missions**: Serenia is dedicated to restoring the reputation of the local elves, who have been unjustly maligned. Simultaneously, she is strengthening Bullmar's military capabilities and actively seeking support from Agroma to prepare for potential threats. These efforts are crucial following the Siege of Bullmar, and with lingering rumors of orc forces gathering within Ridgeback Forest.
+- **Important Missions**: Camilla is dedicated to restoring the reputation of the local elves, who have been unjustly maligned. Simultaneously, she is strengthening Bullmar's military capabilities and actively seeking support from Agroma to prepare for potential threats. These efforts are crucial following the Siege of Bullmar, and with lingering rumors of orc forces gathering within Ridgeback Forest.
 
 **Quotes**
 
@@ -64,4 +64,4 @@ tags:
 
 **Background**
 
-Serenia Thorne is a dedicated leader whose deep roots in Bullmar and profound respect for Ridgeback Forest shape her every decision, making her a pivotal figure in balancing human development with environmental preservation.
+Camilla Thorne is a dedicated leader whose deep roots in Bullmar and profound respect for Ridgeback Forest shape her every decision, making her a pivotal figure in balancing human development with environmental preservation.
