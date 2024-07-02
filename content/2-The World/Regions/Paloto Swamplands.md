@@ -56,7 +56,7 @@ Together, these groups ensure that Paloto Swamp remains a fortress not through w
 
 ### 8. **Notable Locations**
 
-- TangleThorn
+- [[TangleThorn]]
 - [[Stilt City]]
 - [[Glimmerfen]]
 - 

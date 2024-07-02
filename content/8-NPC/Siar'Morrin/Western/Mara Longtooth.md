@@ -10,7 +10,7 @@ tags:
 ---
 *[mar-uh long-tooth]*
 
-![[ce8e3cc1-25e2-446d-be40-e57347fcbd27.webp]]
+![[RattusLibrarius.webp]]
 
 **Basic Information**
 

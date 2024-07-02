@@ -45,11 +45,19 @@ The military stance of [[Iterdeep]] reflects its political shift towards isolati
 
 ### 8. **Notable Locations**
 
-List and describe significant cities, landmarks, or mysterious places within the region. This can include capitals, cultural sites, and areas of particular danger or interest.
+- [[Iterdeep]]
+- [[Perfidus Plunge]]
+- Lake Place
 
 ### 9. **Significant Characters**
 
-Introduce key figures associated with the region, such as rulers, heroes, or villains. Include brief descriptions of their roles and impacts on the region.
+- [[King Vornis Thenos]]
+- [[Bryndis Thenos]]
+- [[Corrin Thenos]]
+- [[Araldus Luxcrest]]
+- [[Caelum Ibrian]]
+- [[Ilyana Betuian]]
+- 
 
 ### 10. **Current Issues and Future Prospects**
 
