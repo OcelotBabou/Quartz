@@ -5,7 +5,6 @@ tags:
   - Religion
   - God
   - TheElementalEnvoys
-  - Hodophis
 ---
 *[Phonetic]*
 ## Basic Information

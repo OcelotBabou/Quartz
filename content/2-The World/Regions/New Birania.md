@@ -5,7 +5,6 @@ tags:
   - EasternSiarMorrin
   - SiarMorrin
   - NewBirania
-  - Vitaurum
   - BiranianGuard
 ---
 *[nyoo bee-rah-nee-uh]*

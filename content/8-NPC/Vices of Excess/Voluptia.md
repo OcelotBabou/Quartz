@@ -7,54 +7,55 @@ tags:
   - ExcessVice
   - Voluptia
 ---
-*[Phonetic]*
+*[vo-luhp-shah]*
+
+![[Voluptiaa.jpg]]
+*[Note: Should probs reference this, is stolen from Overlord]*
 ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Name**: Voluptia
+- **Domain**: Lust, Hedonism, Desire
+- **Title**: The Lord of Lust, The Mistress of Pleasures
+- **Alignment**: Chaotic Excess
+- **Symbol**: An entwined pair of serpents around a golden goblet
+- **Primary Worship Area**: 
 
 ## Physical Description
 
-- **Appearance**: (Description of the god’s most common form seen by worshipers or depicted in religious art)
-- **Height**: (If applicable)
-- **Weight**: (If applicable)
-- **Distinguishing Features**: (Unique attributes such as glowing eyes, ethereal voice, etc.)
+- **Appearance**: Voluptia true appearance is unknown as they take the appearance desirable to the viewer, no two people viewing them the same. They are typically depicted as a strikingly beautiful, yet deeply unsettling figure. Her female form, traditionally depicted, is both alluring and monstrous, with an ethereal, almost glowing beauty that hides her darker nature. Her eyes, captivating yet predatory, gleam with a dangerous allure. Her body, though perfect in shape, is adorned with subtle, sinister features like the dark colour of her angelic wings and the horns that form a semblance of a crown. She wears revealing, opulent attire that emphasizes her voluptuous figure, draped in silks and adorned with jewels. 
+- **Height**: Variable
+- **Weight**: Variable
+- **Distinguishing Features**: Her most notable features are her captivating eyes, which seem to draw in and ensnare those who gaze into them. Otherwise depends on viewer.
 
 ## Personality
 
-- **Traits**: (Key personality traits)
-- **Strengths**: (Divine powers and positive traits)
-- **Weaknesses**: (Any known divine limitations or emotional vulnerabilities)
-- **Goals and Motivations**: (What drives this god? What are their divine objectives?)
+- **Traits**: Seductive, manipulative, indulgent
+- **Strengths**: Can incite and amplify desires for lust and hedonism in others, causing them to lose themselves in their pursuits of pleasure
+- **Weaknesses**: Their reliance on seduction makes them vulnerable to those who can resist or see through their charms. Often reluctant to engage in anything beyond the seeking of immediate pleasure. 
+- **Goals and Motivations**: To spread lust and hedonism, feeding off the indulgent and carnal desires of mortals to increase her power.
 
 ## Relationships
 
-- **Allies**: (Other gods or celestial beings they align with)
-- **Rivals/Enemies**: (Antagonistic relationships within the pantheon)
-- **Attitude towards Mortals**: (How they generally treat or interact with their followers and other mortals)
+- **Allies**: [[Matiodox]]
+- **Rivals/Enemies**: [[Eris]], [[Aruinbe]], 
+- **Attitude towards Mortals**: Sees mortals as playthings and tools for her amusement, manipulating them to indulge in their desires for her own gain.
 
 ## Mythology and Worship
 
-- **Creation Myth**: (Stories of their origin or significant mythological tales)
-- **Major Cults and Religious Practices**: (Description of main worship practices and any associated cults)
-- **Festivals**: (Special times of the year dedicated to this deity, including rituals and celebrations)
-- **Clergy and Temples**: (Description of priests, holy orders, and sacred sites dedicated to the deity)
+- **Creation Myth**: 
+- **Major Cults and Religious Practices**: 
+- **Rituals**: 
+- **Clergy and Temples**: 
 
 ## Significant Historical Impact
 
-- **Major Plot Points in World History**: (Key moments when this god significantly influenced the world’s history)
-- **Artifacts**: (Relics or magical items associated with the deity)
+- **Major Plot Points in World History**: 
+- **Artifacts**: The Serpent’s Kiss, a talisman that grants irresistible charm but consumes the wearer with insatiable desire; The Rose of Thorns, a flower that induces euphoric visions but ultimately leads to a deadly addiction.
 
 ## Quotes
 
-- **Key Quotes**: (Iconic sayings or teachings attributed to the deity)
+
+"Restraint is a chain; break free and indulge."
 
 ## Background
 
-- **Legends and Lore**: (Lesser-known tales and esoteric knowledge about the deity)
-
-This template should provide a comprehensive overview that can be used to detail each god within your pantheon, giving depth and context to their roles within your fantasy world.

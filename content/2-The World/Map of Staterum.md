@@ -3,6 +3,7 @@ title: Map of Staterum
 draft: false
 tags:
   - WorldMap
+  - Staterum
 ---
 *[stah-teer-rum]*
 

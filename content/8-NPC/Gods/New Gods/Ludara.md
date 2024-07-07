@@ -5,7 +5,6 @@ tags:
   - Religion
   - God
   - TheNewGods
-  - Ludara
 ---
 *[Phonetic]*
 ## Basic Information

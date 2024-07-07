@@ -5,7 +5,6 @@ tags:
   - Religion
   - God
   - TheNewGods
-  - Estera
 ---
 *[es-teh-rah]*
 ## Basic Information

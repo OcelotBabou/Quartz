@@ -2,6 +2,8 @@
 title: The Rift Lands
 tags:
   - region
+  - WesternKairThear
+  - RiftLands
 ---
 *[Phonetic]*
 ### 1. **Overview**

@@ -2,9 +2,10 @@
 title: Virag Greytail
 draft: false
 tags:
-  - ThePlayers
   - ViragGreytail
   - PalotoSwamplands
+  - PlayerCharacters
+  - Ratfolk
 ---
 ![[Virag1.jpg]]
 

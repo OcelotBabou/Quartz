@@ -5,7 +5,6 @@ tags:
   - Religion
   - God
   - TheElementalEnvoys
-  - PoraalOir
 ---
 *[poh-rahl ohr]*
 ## Basic Information

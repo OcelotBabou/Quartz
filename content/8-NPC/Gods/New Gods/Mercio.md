@@ -5,7 +5,6 @@ tags:
   - Religion
   - God
   - TheNewGods
-  - Mercio
   - TheAscendedChurch
 ---
 *[mer-see-oh]*

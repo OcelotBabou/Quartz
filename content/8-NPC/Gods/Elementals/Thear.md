@@ -5,7 +5,6 @@ tags:
   - Religion
   - God
   - TheElementalEnvoys
-  - Thear
 ---
 *[Phonetic]*
 ## Basic Information

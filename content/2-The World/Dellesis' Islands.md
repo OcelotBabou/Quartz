@@ -2,9 +2,9 @@
 title: Dellesis' Islands
 draft: false
 tags:
-  - WorldMap
   - Dellesis
   - DellesisIslands
+  - Staterum
 ---
 ### 1. **Overview**
 

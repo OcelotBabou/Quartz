@@ -2,10 +2,10 @@
 title: Eastern Siar'Morrin
 draft: false
 tags:
-  - WorldMap
   - EasternSiarMorrin
   - SiarMorrin
   - NewBirania
+  - Staterum
 ---
 *[isturn si-arh mor-in]*
 

@@ -5,7 +5,6 @@ tags:
   - Religion
   - God
   - TheNewGods
-  - Thanapoli
 ---
 *[Phonetic]*
 ## Basic Information

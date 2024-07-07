@@ -1,5 +1,5 @@
 ---
-title: Example Title
+title: Factions
 draft: false
 tags:
   - Faction

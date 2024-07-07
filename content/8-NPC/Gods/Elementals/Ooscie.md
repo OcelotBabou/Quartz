@@ -6,7 +6,6 @@ tags:
   - God
   - TheElementalEnvoys
   - Primordial
-  - Ooscie
 ---
 *[oo-see]*
 

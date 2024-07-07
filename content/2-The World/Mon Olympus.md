@@ -2,12 +2,12 @@
 title: 
 draft: false
 tags:
-  - WorldMap
   - MonOlympus
   - Religion
   - TheOldGods
   - TheNewGods
   - Statera
+  - Staterum
 ---
 ### 1. **Overview**
 

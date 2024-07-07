@@ -5,7 +5,6 @@ tags:
   - Religion
   - God
   - TheOldGods
-  - Aruinbe
 ---
 *[ah-roo-in-bay]*
 

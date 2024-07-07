@@ -3,6 +3,7 @@ title: Talam Mountains
 tags:
   - region
   - KairThear
+  - TalamMountains
 ---
 *[tah-lahm mountains]*
 ### 1. **Overview**

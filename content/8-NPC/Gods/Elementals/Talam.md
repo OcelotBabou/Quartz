@@ -6,7 +6,6 @@ tags:
   - God
   - TheElementalEnvoys
   - Primordial
-  - Talam
 ---
 *[tah-lahm]*
 

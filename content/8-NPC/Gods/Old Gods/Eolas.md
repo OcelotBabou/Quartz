@@ -4,11 +4,9 @@ draft: false
 tags:
   - Religion
   - God
-  - Eolas
   - TheOldGods
   - TheVices
   - ExcessVice
-  - Eris
 ---
 *[oh-lahs]*
 

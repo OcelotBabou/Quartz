@@ -5,7 +5,6 @@ tags:
   - Religion
   - God
   - TheNewGods
-  - Skoteinos
 ---
 *[Phonetic]*
 ## Basic Information

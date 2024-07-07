@@ -5,7 +5,6 @@ tags:
   - Religion
   - God
   - TheNewGods
-  - Invera
 ---
 *[in-veh-rah]*
 ## Basic Information

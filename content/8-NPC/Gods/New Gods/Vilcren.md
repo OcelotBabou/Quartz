@@ -6,7 +6,6 @@ tags:
   - God
   - TheNewGods
   - TheAscendedChurch
-  - Vilcren
 ---
 *[vil-kren]*
 

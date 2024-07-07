@@ -5,7 +5,6 @@ tags:
   - Religion
   - God
   - TheElementalEnvoys
-  - Niphar
 ---
 *[Phonetic]*
 ## Basic Information

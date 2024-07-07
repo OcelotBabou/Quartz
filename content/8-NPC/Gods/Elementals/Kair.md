@@ -5,7 +5,6 @@ tags:
   - Religion
   - God
   - TheElementalEnvoys
-  - Kair
 ---
 *[Phonetic]*
 ## Basic Information

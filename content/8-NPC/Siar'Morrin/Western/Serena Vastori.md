@@ -5,6 +5,7 @@ tags:
   - NPC
   - Agroma
   - WesternSiarMorrin
+  - Riben
 ---
 *[se-ree-na vas-to-ree]*
 

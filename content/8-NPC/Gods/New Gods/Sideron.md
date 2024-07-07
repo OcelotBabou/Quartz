@@ -5,7 +5,6 @@ tags:
   - Religion
   - God
   - TheNewGods
-  - Sideron
 ---
 *[Phonetic]*
 ## Basic Information

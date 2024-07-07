@@ -2,8 +2,8 @@
 title: Entakes' End
 draft: false
 tags:
-  - WorldMap
   - EntakesEnd
+  - Staterum
 ---
 ### 1. **Overview**
 

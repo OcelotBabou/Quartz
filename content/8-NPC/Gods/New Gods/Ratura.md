@@ -6,7 +6,6 @@ tags:
   - God
   - TheNewGods
   - TheAscendedChurch
-  - Ratura
 ---
 *[rah-too-rah]*
 

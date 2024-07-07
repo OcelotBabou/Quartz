@@ -2,6 +2,10 @@
 title: Dr. Fennel Whisker
 draft: false
 tags:
+  - NPC
+  - PalotoSwamplands
+  - WesternSiarMorrin
+  - Ratfolk
 ---
 *[Dr. fen-nel wis-ker]*
 

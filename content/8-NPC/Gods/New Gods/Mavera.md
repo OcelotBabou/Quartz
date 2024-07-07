@@ -4,7 +4,6 @@ draft: false
 tags:
   - Religion
   - God
-  - Mavera
   - TheNewGods
 ---
 *[mah-verhr-ah]*

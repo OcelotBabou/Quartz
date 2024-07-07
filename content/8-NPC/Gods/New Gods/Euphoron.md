@@ -5,7 +5,6 @@ tags:
   - Religion
   - God
   - TheNewGods
-  - Euphoron
 ---
 *[Phonetic]*
 ## Basic Information

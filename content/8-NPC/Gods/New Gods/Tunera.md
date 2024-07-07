@@ -4,7 +4,6 @@ draft: false
 tags:
   - Religion
   - God
-  - Tunera
   - TheNewGods
 ---
 *[too-neh-rah]*

@@ -5,7 +5,6 @@ tags:
   - Religion
   - God
   - TheElementalEnvoys
-  - Oikos
 ---
 *[Phonetic]*
 ## Basic Information

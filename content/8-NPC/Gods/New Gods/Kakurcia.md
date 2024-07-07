@@ -5,7 +5,6 @@ tags:
   - Religion
   - God
   - TheNewGods
-  - Kakurcia
 ---
 *[kah-kur-see-ah]*
 

@@ -1,11 +1,11 @@
 ---
-title: Example Title
+title: Lone Wolf Pack Guild
 draft: false
 tags:
   - Faction
+  - EasternSiarMorrin
+  - LoneWolfPackGuild
 ---
-*[Phonetic]*
-
 ### 1. **Overview**
 
 The Lone Wolf Pack Guild thrives in the wild, untamed regions of Eastern Siar'Morrin. Known for its rugged and unpolished approach, it attracts individuals who are robust and self-reliant. The guild serves as a line of defense for the frontier communities, ensuring their safety from the constant threats posed by the wilderness.

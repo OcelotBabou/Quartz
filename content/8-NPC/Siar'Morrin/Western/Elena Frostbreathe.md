@@ -6,6 +6,7 @@ tags:
   - Agroma
   - ArcticExpanse
   - WesternSiarMorrin
+  - Glacimancer
 ---
 *[eh-lay-na frost-breath]*
 

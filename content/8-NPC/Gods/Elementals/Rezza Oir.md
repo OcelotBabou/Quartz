@@ -5,7 +5,6 @@ tags:
   - Religion
   - God
   - TheElementalEnvoys
-  - RezzaOir
 ---
 *[reh-zah ohr]*
 ## Basic Information

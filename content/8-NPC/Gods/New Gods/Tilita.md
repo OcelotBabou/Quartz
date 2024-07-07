@@ -5,7 +5,6 @@ tags:
   - Religion
   - God
   - TheNewGods
-  - Tilita
 ---
 *[Phonetic]*
 ## Basic Information

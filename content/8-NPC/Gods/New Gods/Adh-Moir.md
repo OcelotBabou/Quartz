@@ -5,7 +5,6 @@ tags:
   - Religion
   - God
   - TheNewGods
-  - Adh-Moir
 ---
 *[add-moy-er]*
 

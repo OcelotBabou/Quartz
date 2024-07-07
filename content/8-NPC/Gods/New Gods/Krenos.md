@@ -4,7 +4,6 @@ draft: false
 tags:
   - Religion
   - God
-  - Krenos
   - TheNewGods
 ---
 *[Phonetic]*

@@ -8,54 +8,62 @@ tags:
   - Raxenos
   - AoD
 ---
-*[Phonetic]*
+*[rahk-seh-nohs]*
+
+![[Raxenosa.webp]]
 ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Name**: Raxenos
+- **Domain**: Magic, Wizards, Forbidden Knowledge
+- **Title**: The Arcane Seeker, The Veil Piercer
+- **Alignment**: Neutral 
+- **Symbol**: An open book with a swirling vortex
+- **Primary Worship Area**: 
 
 ## Physical Description
 
-- **Appearance**: (Description of the god’s most common form seen by worshipers or depicted in religious art)
-- **Height**: (If applicable)
-- **Weight**: (If applicable)
-- **Distinguishing Features**: (Unique attributes such as glowing eyes, ethereal voice, etc.)
+- **Appearance**: Raxenos is often depicted as a tall, slender figure cloaked in robes that shimmer with arcane energy. His visage is enigmatic, with eyes that glow with an otherworldly light, often shifting colors. He is very aged, with a gaunt features and a hunched back. 
+- **Height**: 191cm
+- **Weight**: 71kg
+- **Distinguishing Features**: His eyes are his most striking feature, glowing and shifting colors. He carries a staff topped with a swirling orb.
 
 ## Personality
 
-- **Traits**: (Key personality traits)
-- **Strengths**: (Divine powers and positive traits)
-- **Weaknesses**: (Any known divine limitations or emotional vulnerabilities)
-- **Goals and Motivations**: (What drives this god? What are their divine objectives?)
+- **Traits**: Inquisitive, enigmatic, obsessive
+- **Strengths**: Mastery of arcane arts, unparalleled knowledge of the mystical and unknown
+- **Weaknesses**: His obsession with forbidden knowledge makes him vulnerable to corruption and moral compromise
+- **Goals and Motivations**: To uncover all secrets of the universe, regardless of the cost. His pursuit of knowledge sometimes blinds him to the consequences of his actions.
 
 ## Relationships
 
-- **Allies**: (Other gods or celestial beings they align with)
-- **Rivals/Enemies**: (Antagonistic relationships within the pantheon)
-- **Attitude towards Mortals**: (How they generally treat or interact with their followers and other mortals)
+- **Allies**: [[Eolas]]
+- **Rivals/Enemies**: [[Eris]], [[Lepsis]]
+- **Attitude towards Mortals**: Views mortals as vessels of potential knowledge. He is willing to share his insights with those who seek wisdom but often demands a high price.
 
 ## Mythology and Worship
 
-- **Creation Myth**: (Stories of their origin or significant mythological tales)
-- **Major Cults and Religious Practices**: (Description of main worship practices and any associated cults)
-- **Festivals**: (Special times of the year dedicated to this deity, including rituals and celebrations)
-- **Clergy and Temples**: (Description of priests, holy orders, and sacred sites dedicated to the deity)
+- **Creation Myth**: As the most recent of the Gods, and due to his role in the Age of Darkness ([[AoD]]), Raxenos's story is well known. Born along the [[Aegir Coast]] during an age of seemingly endless war, Raxenos sought power above all else. His relentless pursuit of the arcane arts drove him to the region now known as [[Nordholt]], where he was free to delve into increasingly dark pursuits. It was in Nordholt that Raxenos made contact with Eolas, the Fallen Goddess of Knowledge. Their collaboration led to the creation of a powerful ritual, one that would not only empower Raxenos to Godhood but also open rifts to the demonic realm, inadvertently ushering in the AoD.
+- **Major Cults and Religious Practices**: His followers are scholars, mages, and seekers of forbidden knowledge. They engage in rituals designed to pierce the veil of the unknown, often involving the use of ancient texts and arcane symbols.
+- **Festivals**: Having ascended to Godhood recently, and at the great expensive of Staterum there are no formal festivals or rituals dedicated to Raxenos
+- **Clergy and Temples**: Temples to Raxenos are often hidden sanctums, filled with ancient tomes and powerful artifacts. While his priest and devote followers are often rank amongst the most powerful wizards. 
 
 ## Significant Historical Impact
 
-- **Major Plot Points in World History**: (Key moments when this god significantly influenced the world’s history)
-- **Artifacts**: (Relics or magical items associated with the deity)
+- **Major Plot Points in World History**: Raxenos's influence has led to both great advancements and terrible disasters. His role in the Age of Darkness, is undoubtably what his is most infamous for. 
+- **Artifacts**: 
+	- The Eye of Raxenos, 
+	- The Tome of Eternity,
+	- The Staff of Raxenos,
+
 
 ## Quotes
 
-- **Key Quotes**: (Iconic sayings or teachings attributed to the deity)
+"Knowledge is the key to all power, and power demands sacrifice."
 
 ## Background
 
-- **Legends and Lore**: (Lesser-known tales and esoteric knowledge about the deity)
+Raxenos's journey to godhood is a tale marked by ambition, darkness, and transformation. Born along the tumultuous Aegir Coast during an age of seemingly endless war, Raxenos grew up amidst chaos and conflict. This environment fueled his desire for power and control, driving him to seek knowledge and mastery over the arcane arts as a means to rise above the constant strife.
 
-This template should provide a comprehensive overview that can be used to detail each god within your pantheon, giving depth and context to their roles within your fantasy world.
+His quest for power led him to Nordholt, where there existed no limits on the pursuit of knowledge. It was here that he encountered Eolas, the Fallen Goddess of Knowledge. Eolas saw in Raxenos a mortal both rife with power, and vulnerability to manipulation. Eolas and Raxenos delved into the deepest and most dangerous aspects of arcane magic. While Raxenos believed they were working towards his empowerment and the elevation to godhood, Eolas had a different agenda. She designed their ultimate ritual not merely to transform Raxenos into a deity, but to open a portal to the demonic realm in which she had been trapped. 
+
+The ritual succeeded in transforming Raxenos into a god, but it also had catastrophic consequences. The rifts to the demonic realm sparked the AoD. Raxenos's newfound divinity was forever tainted by the chaos and destruction that followed, linking his legacy to the dark era he inadvertently helped to create. 

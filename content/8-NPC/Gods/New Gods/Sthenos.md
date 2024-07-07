@@ -5,7 +5,6 @@ tags:
   - Religion
   - God
   - TheNewGods
-  - Sthenos
 ---
 *[Phonetic]*
 ## Basic Information

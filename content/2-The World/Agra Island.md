@@ -2,10 +2,10 @@
 title: Agra Island
 draft: false
 tags:
-  - WorldMap
   - AgraIsland
   - TribeAgra
   - Alber
+  - Staterum
 ---
 
 ### 1. **Overview**

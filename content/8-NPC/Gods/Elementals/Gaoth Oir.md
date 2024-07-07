@@ -5,7 +5,7 @@ tags:
   - Religion
   - God
   - TheElementalEnvoys
-  - GaothOir
+  - Primordial
 ---
 *[gayth ohr]* (kinda sounds like gay thor)
 

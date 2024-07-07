@@ -5,7 +5,6 @@ tags:
   - Religion
   - God
   - TheNewGods
-  - Gratia
 ---
 *[Phonetic]*
 ## Basic Information

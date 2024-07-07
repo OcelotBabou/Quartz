@@ -5,7 +5,6 @@ tags:
   - Religion
   - God
   - TheNewGods
-  - Riero
 ---
 *[ree-eh-ro]*
 ## Basic Information

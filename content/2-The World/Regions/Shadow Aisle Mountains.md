@@ -51,13 +51,12 @@ The military stance of [[Iterdeep]] reflects its political shift towards isolati
 
 ### 9. **Significant Characters**
 
-- [[King Vornis Thenos]]
-- [[Bryndis Thenos]]
-- [[Corrin Thenos]]
-- [[Araldus Luxcrest]]
-- [[Caelum Ibrian]]
-- [[Ilyana Betuian]]
-- 
+- [[King Vornis Thenos]]: Current King of Iterdeep, once a beloved ruler, has recently driven his kingdom into isolation. 
+- [[Bryndis Thenos]]: The son of King Vornis, and current High Marshal of Iterdeeps military. Renowned for his brutal but effective leadership and defence of the Shadow Aisle Mountains. 
+- [[Corrin Thenos]]: The daughter of King Vornis, her location is currently unknown, but she has earned a legendary status amongst the Rift watch with which she serves.  
+- [[Araldus Luxcrest]]: Wardern of Iterdeep, and second in command of Iterdeeps military. 
+- [[Caelum Ibrian]]: The chief advisor of King Vornis, and all round shady fella
+- [[Ilyana Betuian]]: A successful merchant and long standing friend of King Vornis, also one of the few people allowed free access into and out of the Shadow Aisle Mountains.  
 
 ### 10. **Current Issues and Future Prospects**
 
