@@ -42,9 +42,9 @@ These expeditions, though infrequent and rarely successful, are justified by the
 
 ### 8. **Notable Locations**
 
-- The Twilight Glades
-- Veridian Keep
-- Mountain Pass
+- [[The Twilight Glades]]
+- [[Veridian Keep]]
+- [[Mozkull Pass]]
 
 ### 9. **Significant Characters**
 

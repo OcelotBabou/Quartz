@@ -47,7 +47,7 @@ Despite these challenges, the Agroma defense force is a potent military entity. 
 ### 8. **Notable Locations**
 
 - [[Flown]]
-- The Canals
+- [[The Canals]]
 - [[Lake Novus Mare]]
 - [[Hu Dao]]
 
