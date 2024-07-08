@@ -8,6 +8,8 @@ tags:
   - TheNewGods
 ---
 *[al-ber]*
+
+![[Albera.jpg]]
 ## Basic Information
 
 - **Name**: Alber

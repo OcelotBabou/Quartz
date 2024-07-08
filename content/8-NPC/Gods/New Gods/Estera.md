@@ -13,12 +13,12 @@ tags:
 - **Domain**: Summer, Warmth, Abundance
 - **Title**: Herald of Abundance
 - **Alignment**: Lawful Excess
-- **Symbol**: The sun in its zenith or a golden wheat sheaf
+- **Symbol**: The sun in its zenith over a field of golden wheat
 - **Primary Worship Area**: 
 
 ## Physical Description
 
-- **Appearance**: - : Estera is depicted as a radiant figure, her skin glowing like the sun, dressed in shimmering golds and fiery reds that reflect the heat and energy of summer.
+- **Appearance**: Estera is depicted as a radiant figure, her skin glowing like the sun, dressed in shimmering golds and fiery reds that reflect the heat and energy of summer.
 - **Height**: 177cm
 - **Weight**: 62kg
 - **Distinguishing Features**: Her eyes shine like the sun, casting light in her gaze. Her golden tanned skin

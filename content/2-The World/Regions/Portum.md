@@ -54,9 +54,12 @@ Leadership within the military draws on the region’s rich history of navigatio
 
 ### 9. **Significant Characters**
 
-- Powerful wizard of the council
-- Current leaders
-- 
+- [[Aidan Maris]], Council Member of Seagate:
+- [[Mira Galewind]], Council Member of Seagate
+- [[Toren Blackwater]], Commander and Council Member of Seagate
+- [[Orla Sartosa]], Chief Merchant and Trade Negotiator, 
+- [[Ronan Stormsinger]], High Priest of Rezza Oir
+
 
 ### 10. **Current Issues and Future Prospects**
 

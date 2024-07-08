@@ -6,26 +6,26 @@ tags:
   - God
   - TheNewGods
 ---
-*[Phonetic]*
+*[kreh-nos]*
 ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Name**: Krenos
+- **Domain**: Strength, Brute Force, Masculinity
+- **Title**: The Mighty, The Unyielding, The Titan
+- **Alignment**: Lawful Excess
+- **Symbol**: A clenched fist surrounded by an aura of power
+- **Primary Worship Area**: Arenas, battlefields, warrior guilds, and places dedicated to physical prowess
 
 ## Physical Description
 
-- **Appearance**: (Description of the god’s most common form seen by worshipers or depicted in religious art)
-- **Height**: (If applicable)
-- **Weight**: (If applicable)
-- **Distinguishing Features**: (Unique attributes such as glowing eyes, ethereal voice, etc.)
+- **Appearance**: Krenos is depicted as a towering, muscular figure, embodying the raw power and unyielding strength of a titan. His skin is a deep, bronzed hue, reflecting the might and resilience of forged metal. His eyes are intense and fierce, glowing with a powerful inner light that signifies his immense strength. His hair is a wild mane, of shaggy brown hair that reaches to his waist. He wears minimal armor that highlights his muscular form, adorned with symbols of strength and power. His limbs are thick and powerful, and his hands are massive, capable of crushing stone. Krenos is often depicted wielding his colossal warhammer "Obcillo."
+- **Height**: 313cm
+- **Weight**: 210kg
+- **Distinguishing Features**: His most notable features are his bronzed, metallic-like skin, intense glowing eyes, and the wild mane of hair resembling flowing lava or fire. His colossal warhammer and his intimidating physical presence.
 
 ## Personality
 
-- **Traits**: (Key personality traits)
+- **Traits**: Gentle and respectful, very protective.
 - **Strengths**: (Divine powers and positive traits)
 - **Weaknesses**: (Any known divine limitations or emotional vulnerabilities)
 - **Goals and Motivations**: (What drives this god? What are their divine objectives?)

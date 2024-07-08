@@ -18,7 +18,7 @@ tags:
 
 ## Physical Description
 
-- **Appearance**: - Riero is depicted as a formidable warrior, clad in battle-worn armour that shines despite its scars. His presence is commanding, with a stern gaze and a firm stance.
+- **Appearance**: Riero is depicted as a formidable warrior, clad in battle-worn armour that shines despite its scars. His presence is commanding, with a stern gaze and a firm stance.
 - **Height**: 218cm
 - **Weight**: 128kg
 - **Distinguishing Features**: His armour is engraved with ancient runes of protection and depictions of his victory.

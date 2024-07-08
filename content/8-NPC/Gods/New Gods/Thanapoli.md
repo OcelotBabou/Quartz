@@ -6,15 +6,15 @@ tags:
   - God
   - TheNewGods
 ---
-*[Phonetic]*
+*[than-uh-poh-lee]*
 ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Name**: Thanapoli
+- **Domain**: Passage to the Afterlife
+- **Title**: The Gatekeeper, The Soul Guide
+- **Alignment**: True Neutral
+- **Symbol**: An open gate with a rising sun behind it
+- **Primary Worship Area**: Graveyards, 
 
 ## Physical Description
 

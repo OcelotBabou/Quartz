@@ -57,9 +57,9 @@ Despite these challenges, the Agroma defense force is a potent military entity. 
 - [[Serena Vastori]], Representative of Commerce: A shrewd negotiator and influential figure in Agroma's trade networks.
 - [[Remona Raturian]], Representative of Literature: A visionary bard and historian who ensures Agroma's cultural heritage is preserved and celebrated.
 - [[General Marcus Ferris Sulla]]: A seasoned military leader with a keen understanding of Agroma's defense needs and a strong advocate for military modernization.
-- [[Logar Oakford]]: Head of the Ascended Church:
-- [[Elena Frostbreathe]]: Glacimancer Representative: 
-- [[Garrick Haeream]]: 
+- [[Logar Oakford]]: Head of the Ascended Church: A dedicated leader, striving to bridge the gaps appearing across the Ascended Church and unify Western Siar'Morrin in its teachings. 
+- [[Elena Frostbreathe]]: Glacimancer Representative: A powerful glacimancer and skilled diplomate, working to oversee the operations of glacimancers within Agroma. 
+- [[Garrick Haeream]]: Magus Incantare, renowned as the most powerful wizard in the field of enchantments in the current age. 
 
 ### 10. **Current Issues and Future Prospects**
 

@@ -7,7 +7,9 @@ tags:
   - VoidVice
   - Lepsis
 ---
-*[lep-eie]*
+*[lep-sis]*
+
+![[Lepsis.webp]]
 ## Basic Information
 
 - **Name**: Lepsis

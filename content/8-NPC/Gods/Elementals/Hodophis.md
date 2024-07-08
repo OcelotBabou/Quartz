@@ -6,22 +6,22 @@ tags:
   - God
   - TheElementalEnvoys
 ---
-*[Phonetic]*
+*[hoh-doh-fis]*
 ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Name**: Hodophis
+- **Domain**: Campfire, Adventure, Survival
+- **Title**: The Trailblazer, The Survivor, The Wanderer
+- **Alignment**: Chaotic Excess
+- **Symbol**: A lit campfire surrounded by a circle of stones
+- **Primary Worship Area**: Wilderness campsites, adventurers' guilds, survivalist communities
 
 ## Physical Description
 
-- **Appearance**: (Description of the god’s most common form seen by worshipers or depicted in religious art)
-- **Height**: (If applicable)
-- **Weight**: (If applicable)
-- **Distinguishing Features**: (Unique attributes such as glowing eyes, ethereal voice, etc.)
+- **Appearance**: 
+- **Height**: 
+- **Weight**: 
+- **Distinguishing Features**: 
 
 ## Personality
 

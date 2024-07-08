@@ -9,19 +9,19 @@ tags:
 *[Phonetic]*
 ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Name**: Skoteinos
+- **Domain**: Shadows, Thieves, Secrets
+- **Title**: The Shadow Walker, The Silent Whisper, The Hidden Blade
+- **Alignment**: Chaotic Void
+- **Symbol**: A shadowy figure holding a dagger, with a crescent moon in the background
+- **Primary Worship Area**: Thieves' guilds, secret societies, shadowy alleyways, and hidden sanctuaries
 
 ## Physical Description
 
-- **Appearance**: (Description of the god’s most common form seen by worshipers or depicted in religious art)
-- **Height**: (If applicable)
-- **Weight**: (If applicable)
-- **Distinguishing Features**: (Unique attributes such as glowing eyes, ethereal voice, etc.)
+- **Appearance**: Krenos is depicted as a shadowy, enigmatic figure. His form is often indistinct, blending seamlessly with the darkness around him. His skin is a deep, shadowy black, almost as if made of the night itself, and his eyes are piercing, glowing slits that cut through the darkness. He wears a cloak that seems to merge with the shadows, making him nearly invisible when he moves. His movements are fluid and silent, like a wisp of smoke drifting through the air. Skoteinos carries a pair of daggers that shimmer with a dark, ethereal light, symbolizing his mastery over shadows and secrets.
+- **Height**: 168cm
+- **Weight**: 68kg
+- **Distinguishing Features**: His most notable features are his piercing glowing eyes, and the cloak that merges with the darkness. 
 
 ## Personality
 

@@ -6,22 +6,22 @@ tags:
   - God
   - TheNewGods
 ---
-*[Phonetic]*
+*[loo-dah-rah]*
 ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Name**: Ludara
+- **Domain**: Puzzles, Games, Strategy
+- **Title**: The Puzzle Mistress, The Gamekeeper
+- **Alignment**: Chaotic Neutral
+- **Symbol**: A chess queen piece 
+- **Primary Worship Area**: 
 
 ## Physical Description
 
-- **Appearance**: (Description of the god’s most common form seen by worshipers or depicted in religious art)
-- **Height**: (If applicable)
-- **Weight**: (If applicable)
-- **Distinguishing Features**: (Unique attributes such as glowing eyes, ethereal voice, etc.)
+- **Appearance**: Ludara is depicted as a clever and enigmatic figure, embodying the essence of puzzles and strategic thinking. She has a lithe, agile form, exuding an air of mystery and intellect. Her eyes are sharp and calculating, glowing with an inner light that hints at her vast knowledge and strategic prowess. 
+- **Height**: 
+- **Weight**: 
+- **Distinguishing Features**: 
 
 ## Personality
 

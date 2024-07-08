@@ -23,7 +23,7 @@ tags:
 
 **Physical Description**
 
-- **Appearance**: - Garrick is a distinguished figure with a sharp, intelligent gaze and meticulously styled dark hair and beard. His attire is typically elegant, incorporating elements that subtly hint at his magical prowess, typically robes with enchantment runes.
+- **Appearance**: Garrick is a distinguished figure with a sharp, intelligent gaze and meticulously styled dark hair and beard. His attire is typically elegant, incorporating elements that subtly hint at his magical prowess, typically robes with enchantment runes.
 - **Height**: 180 cm
 - **Weight**: 78 kg
 - **Distinguishing Features**: Always carries a wand made of enchanted ashwood. His wrists are burdened with numerous bangles and bracelets holding trinkets, and he is rarely seen without his trademark wizards hat. 

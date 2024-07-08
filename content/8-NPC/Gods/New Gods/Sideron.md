@@ -6,15 +6,15 @@ tags:
   - God
   - TheNewGods
 ---
-*[Phonetic]*
+*[sigh-deh-ron]*
 ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Name**: Sideron
+- **Domain**: Astronomy, Wisdom
+- **Title**: The Stargazer, The Wise
+- **Alignment**: True Neutral 
+- **Symbol**: An open book with a constellation inside
+- **Primary Worship Area**: Observatories, libraries, and places of learning
 
 ## Physical Description
 

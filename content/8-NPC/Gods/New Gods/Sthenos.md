@@ -6,15 +6,15 @@ tags:
   - God
   - TheNewGods
 ---
-*[Phonetic]*
+*[ss-then-os]*
 ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Name**: Sthenos
+- **Domain**: Constitution, Resilience
+- **Title**: The Enduring, The Unyielding
+- **Alignment**: Lawful Void
+- **Symbol**: A shield with a tree growing from it
+- **Primary Worship Area**: Fortresses, training grounds, and places
 
 ## Physical Description
 

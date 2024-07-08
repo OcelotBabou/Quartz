@@ -11,8 +11,7 @@ tags:
 Image
 ## Basic Information
 
-- **Name**:
-- **Domain**: - Kakurcia
+- **Name**: Kakurcia
 - **Domain**: Hunting, Wilderness, Survival
 - **Title**: The Hunter, Patron of the Wilds
 - **Alignment**: Chaotic Neutral
@@ -21,7 +20,7 @@ Image
 
 ## Physical Description
 
-- **Appearance**: - Kakurcia is often portrayed as a lithe and agile hunter, dressed in leathers and furs of the creatures he has respectfully hunted. His eyes are sharp and keen, mirroring those of a predatory bird.
+- **Appearance**: Kakurcia is often portrayed as a lithe and agile hunter, dressed in leathers and furs of the creatures he has respectfully hunted. His eyes are sharp and keen, mirroring those of a predatory bird.
 - **Height**: 187cm
 - **Weight**: 92kg
 - **Distinguishing Features**: Often accompanied by a spectral wolf, his constant companion in the hunt. His piercing hawk like eyes

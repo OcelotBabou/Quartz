@@ -6,15 +6,15 @@ tags:
   - God
   - TheNewGods
 ---
-*[Phonetic]*
+*[sah-nah-rah]*
 ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Name**: Sanara
+- **Domain**: Medicine, Healing
+- **Title**: The Healer, The Life-Giver
+- **Alignment**: Lawful Neutral
+- **Symbol**: A caduceus entwined with vines
+- **Primary Worship Area**: Hospitals, healing temples, and places dedicated to health and wellness
 
 ## Physical Description
 

@@ -6,15 +6,15 @@ tags:
   - God
   - TheNewGods
 ---
-*[Phonetic]*
-## Basic Information
+*[tee-lih-tah]*
+## ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Name**: Tilita
+- **Domain**: Fertility, Maternity, Femininity 
+- **Title**: The Life Bringer, The Nurturer
+- **Alignment**: Neutral Void
+- **Symbol**: A blooming flower encircled by a vine
+- **Primary Worship Area**:  
 
 ## Physical Description
 

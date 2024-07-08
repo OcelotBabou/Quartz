@@ -9,7 +9,7 @@ tags:
 *[mah-verhr-ah]*
 ## Basic Information
 
-- **Name**:- Mavera
+- **Name**: Mavera
 - **Domain**: Spring, Renewal, Growth
 - **Title**: Herald of Renewal
 - **Alignment**: Chaotic Excess
@@ -25,7 +25,7 @@ tags:
 
 ## Personality
 
-- **Traits**: - Cheerful, nurturing, and revitalizing
+- **Traits**: Cheerful, nurturing, and revitalizing
 - **Strengths**: Inspires growth and renewal, rejuvenates the weary
 - **Weaknesses**: Her transient nature means her influence is short-lived, naive and overly optimistic nature.
 - **Goals and Motivations**: To awaken the world from winter's slumber, spreading joy and revitalizing the earth.

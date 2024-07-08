@@ -7,15 +7,15 @@ tags:
   - TheNewGods
   - Ciaan
 ---
-*[Phonetic]*
+*[ther-ee-an]*
 ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Name**: Theri'an
+- **Domain**: Beasts, Nature, Tracking
+- **Title**: The Beastmaster, The Wild Fury
+- **Alignment**: Chaotic Neutral
+- **Symbol**: A clawed paw print 
+- **Primary Worship Area**: Untamed wilderness
 
 ## Physical Description
 

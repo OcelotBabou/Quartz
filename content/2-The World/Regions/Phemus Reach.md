@@ -50,7 +50,9 @@ Ideas so far
 
 ### 9. **Significant Characters**
 
-Introduce key figures associated with the region, such as rulers, heroes, or villains. Include brief descriptions of their roles and impacts on the region.
+- [[Gorath Hamma]], Tribal leader of Giants: 
+- [[Garul Clubba]], Giant sage: 
+- [[Thornak, Orge]] menace: 
 
 ### 10. **Current Issues and Future Prospects**
 
