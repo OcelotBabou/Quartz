@@ -19,10 +19,12 @@ tags:
 - **Symbol**: A blackened heart pierced by a dagger
 - **Primary Worship Area**: 
 
+![[PesSymbol.webp]]
+
 ## Physical Description
 
 - **Appearance**: Pesmin is depicted as a gaunt, twisted figure, his skin like that of a frozen cadaver with icicle jutting through the skin haphazardly over its body. His eyes burn with a cold, malevolent fire, set deep within a skull-like face with sharp, protruding cheekbones and a permanently twisted sneer. His mouth is filled with jagged, broken teeth. His thin, claw-like fingers are elongated and end in sharp talons. 
-- **Height**: Roughly 4m
+- **Height**: 380cm
 - **Weight**: Variable
 - **Distinguishing Features**: His most notable feature is a burning hole that carves through his chest, alongside his burning eyes, devoid of pity or mercy. 
 

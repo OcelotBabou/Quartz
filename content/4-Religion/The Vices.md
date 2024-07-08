@@ -15,9 +15,9 @@ The Vices of Excess represent the overindulgence or hyperbolic expression of hum
 
 Despite varying beliefs and the degree of reverence towards different deities in Statera, the influence of the Vices is universally acknowledged. They are seen at best as representations of humanities worst traits, at worst demonic forces bent on the destruction of Staterum. 
 
-### 2. **Deities*
+### 2. **Deities**
 
-**Excess
+**Excess**
 - [[Matiodox]]
 - [[Aperkepsi]]
 - [[Spatalos]]
@@ -27,7 +27,7 @@ Despite varying beliefs and the degree of reverence towards different deities in
 - [[Xietem]]
 - [[Ormos]]
 
-**Void
+**Void**
 - [[Chyntum]]
 - [[Dellesis]]
 - [[Listunos]]

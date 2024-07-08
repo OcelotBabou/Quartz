@@ -7,54 +7,28 @@ tags:
   - VoidVice
   - Dellesis
 ---
-*[Phonetic]*
+*[Del-eh-see]*
+
+![[Dellesia.webp]]
 ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Name**: Dellesi
+- **Domain**: Cowardice, Fear, Isolation
+- **Title**: The Craven, The Fleeing Shadow
+- **Alignment**: Lawful Void
+- **Symbol**: 
+- **Primary Worship Area**: 
 
 ## Physical Description
 
-- **Appearance**: (Description of the god’s most common form seen by worshipers or depicted in religious art)
-- **Height**: (If applicable)
-- **Weight**: (If applicable)
-- **Distinguishing Features**: (Unique attributes such as glowing eyes, ethereal voice, etc.)
+- **Appearance**: Despite his nature and domain, Dellesi presents a powerful image. A quintessential Devil Lord, he is imposing and presents a terrifying presence. His form is muscular and tall, with dark, leathery skin and sharp, angular features. His eyes glow with a haunting, fearful light, and his horns curve menacingly from his forehead. He is draped in dark, tattered robes that seem to flutter as if caught in a perpetual wind. His wings, bat-like and tattered, stretch wide behind him, adding to his intimidating appearance. 
+- **Height**: Variable, usually over 5m
+- **Weight**: Variable
+- **Distinguishing Features**: His most notable feature is the massive battle-axe he carries around with him. 
 
 ## Personality
 
-- **Traits**: (Key personality traits)
-- **Strengths**: (Divine powers and positive traits)
-- **Weaknesses**: (Any known divine limitations or emotional vulnerabilities)
-- **Goals and Motivations**: (What drives this god? What are their divine objectives?)
-
-## Relationships
-
-- **Allies**: (Other gods or celestial beings they align with)
-- **Rivals/Enemies**: (Antagonistic relationships within the pantheon)
-- **Attitude towards Mortals**: (How they generally treat or interact with their followers and other mortals)
-
-## Mythology and Worship
-
-- **Creation Myth**: (Stories of their origin or significant mythological tales)
-- **Major Cults and Religious Practices**: (Description of main worship practices and any associated cults)
-- **Festivals**: (Special times of the year dedicated to this deity, including rituals and celebrations)
-- **Clergy and Temples**: (Description of priests, holy orders, and sacred sites dedicated to the deity)
-
-## Significant Historical Impact
-
-- **Major Plot Points in World History**: (Key moments when this god significantly influenced the world’s history)
-- **Artifacts**: (Relics or magical items associated with the deity)
-
-## Quotes
-
-- **Key Quotes**: (Iconic sayings or teachings attributed to the deity)
-
-## Background
-
-- **Legends and Lore**: (Lesser-known tales and esoteric knowledge about the deity)
-
-This template should provide a comprehensive overview that can be used to detail each god within your pantheon, giving depth and context to their roles within your fantasy world.
+- **Traits**: Fearful, hesitant, craven
+- **Strengths**: Can incite and amplify feelings of cowardice and fear of confrontation in others, causing them to avoid conflict and retreat
+- **Weaknesses**: His own overwhelming fear makes him unreliable and easily controlled by stronger wills.
+- **Goals and Motivations**: To spread cowardice and fear of confrontation, and to create a universe were there is nothing left to fear.

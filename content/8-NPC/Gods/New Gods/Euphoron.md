@@ -6,15 +6,15 @@ tags:
   - God
   - TheNewGods
 ---
-*[Phonetic]*
-## Basic Information
+*[yoo-for-on]*
+## ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Name**: Euphoron
+- **Domain**: Joy, Celebration, Merrymaking
+- **Title**: The Joybringer, The Reveler
+- **Alignment**: Chaotic Excess
+- **Symbol**: A goblet overflowing with wine
+- **Primary Worship Area**: Festivals, celebrations, and places of joy and merriment
 
 ## Physical Description
 

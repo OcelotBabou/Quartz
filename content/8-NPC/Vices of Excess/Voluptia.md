@@ -17,8 +17,10 @@ tags:
 - **Domain**: Lust, Hedonism, Desire
 - **Title**: The Lord of Lust, The Mistress of Pleasures
 - **Alignment**: Chaotic Excess
-- **Symbol**: An entwined pair of serpents around a golden goblet
+- **Symbol**: A thorny rose with dripping blood
 - **Primary Worship Area**: 
+
+![[Vol Symbol.webp]]
 
 ## Physical Description
 

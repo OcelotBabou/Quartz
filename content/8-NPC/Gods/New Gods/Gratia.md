@@ -6,15 +6,15 @@ tags:
   - God
   - TheNewGods
 ---
-*[Phonetic]*
+*[gray-shee-ah]*
 ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Name**: Gratia
+- **Domain**: Grace, Beauty, Charm
+- **Title**: The Graceful, The Enchantress
+- **Alignment**: Lawful Excess 
+- **Symbol**: A blooming rose
+- **Primary Worship Area**:
 
 ## Physical Description
 

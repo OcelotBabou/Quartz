@@ -9,7 +9,7 @@ tags:
 *[poh-rahl ohr]*
 ## Basic Information
 
-- **Name**:- Poraal Oir
+- **Name**: Poraal Oir
 - **Domain**: Storms, Thunder
 - **Title**: Herald of the Tempest, The Stormbringer
 - **Alignment**: Chaotic Excess

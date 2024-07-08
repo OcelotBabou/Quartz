@@ -19,6 +19,8 @@ tags:
 - **Symbol**: A shattered helm
 - **Primary Worship Area**: Battlefields, gambling dens, and other places of high risk
 
+![[Apersymbol.webp]]
+
 ## Physical Description
 
 - **Appearance**: Aperkepsi has been depicted as a maelstrom of swirling dark vapors and jagged, lightning-like edges that seem to crackle with impulsive energy. His form continuously shifts, with limbs elongating or retracting unpredictably, eyes if they can be called that, flicker like wild flames across his visage, never resting in one place.

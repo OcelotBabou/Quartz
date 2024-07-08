@@ -9,7 +9,7 @@ tags:
 *[reh-zah ohr]*
 ## Basic Information
 
-- **Name**:- Rezza Oir
+- **Name**: Rezza Oir
 - **Domain**: Trade Winds, Gentle Breezes, Navigation
 - **Title**: The Gentle Guide, Navigator of the Skies
 - **Alignment**: Chaotic Neutral

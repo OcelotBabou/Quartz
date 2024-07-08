@@ -16,13 +16,15 @@ tags:
 - **Domain**: Profligacy, Wastefulness, Myopic
 - **Title**: The Wastrel, The Shortsighted Fool
 - **Alignment**: Chaotic Excess
-- **Symbol**: A shattered goblet overflowing with liquid
+- **Symbol**: A gaping maw lined with teeth
 - **Primary Worship Area**: Decadent courts, opulent estates, and places of overindulgence
+
+![[SpataSymbol.webp]]
 
 ## Physical Description
 
 - **Appearance**: Spatalos is depicted as a gaunt, skeletal figure with skin stretched tight over his bones. His head resembles that of a predatory beast, but it appears weak and wasted away to little more than gaping jaws with sunken, hollow eyes. His legs are bowed and unbelievably frail, resembling those of a stork. He wears tattered cloth that hangs loosely from his emaciated frame. Where his stomach should be is an open maw lined with countless teeth, perpetually exuding drool, symbolizing his insatiable hunger and greed.
-- **Height**: 250cm
+- **Height**: 290cm
 - **Weight**: Variable
 - **Distinguishing Features**: The open maw in place of his stomach, lined with countless teeth. 
 

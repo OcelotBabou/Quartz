@@ -7,54 +7,51 @@ tags:
   - VoidVice
   - Lepsis
 ---
-*[Phonetic]*
+*[lep-eie]*
 ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Name**: Lepsis
+- **Domain**: Despair, Hopelessness, Depression
+- **Title**: The Void of Hope, The Eternal Despair
+- **Alignment**: Lawful Void
+- **Symbol**: A black maelstrom with a skull in the centre 
+- **Primary Worship Area**:
 
 ## Physical Description
 
-- **Appearance**: (Description of the god’s most common form seen by worshipers or depicted in religious art)
-- **Height**: (If applicable)
-- **Weight**: (If applicable)
-- **Distinguishing Features**: (Unique attributes such as glowing eyes, ethereal voice, etc.)
+- **Appearance**: Lepsis is depicted as a haunting, ghostly figure, draped in tattered, shadowy robes that seem to merge with the darkness around him. His face is hidden beneath a black hood. His hands are thin and bony, with long, claw-like fingers that seem to reach out in eternal despair. His entire form exudes an air of overwhelming sadness and hopelessness. All that remains of his wings are the skeletal frame. He is seen wielding a large two handed scythe. 
+- **Height**: Variable
+- **Weight**: Variable
+- **Distinguishing Features**: He large scythe, and shrouded face hidden beneath his black hood. 
 
 ## Personality
 
-- **Traits**: (Key personality traits)
-- **Strengths**: (Divine powers and positive traits)
-- **Weaknesses**: (Any known divine limitations or emotional vulnerabilities)
-- **Goals and Motivations**: (What drives this god? What are their divine objectives?)
+- **Traits**: Despairing, hopeless, sorrowful
+- **Strengths**: Can incite and amplify feelings of despair and hopelessness in others, causing them to lose all sense of hope and willpower
+- **Weaknesses**: Unknown
+- **Goals and Motivations**: To blanket the universe in despair and hopelessness, ultimately leading to its subsumption into nothingness. His goal is to drain all hope and willpower not just from from mortals, but all life, creating a universe devoid of light and joy, consumed entirely by the void of despair.
 
 ## Relationships
 
-- **Allies**: (Other gods or celestial beings they align with)
-- **Rivals/Enemies**: (Antagonistic relationships within the pantheon)
-- **Attitude towards Mortals**: (How they generally treat or interact with their followers and other mortals)
+- **Allies**: 
+- **Rivals/Enemies**: [[Gahrian]]
+- **Attitude towards Mortals**: Barely concerns itself with mortals, seeing them as little more than tools to strike out through at the Gods.  
 
 ## Mythology and Worship
 
-- **Creation Myth**: (Stories of their origin or significant mythological tales)
-- **Major Cults and Religious Practices**: (Description of main worship practices and any associated cults)
-- **Festivals**: (Special times of the year dedicated to this deity, including rituals and celebrations)
-- **Clergy and Temples**: (Description of priests, holy orders, and sacred sites dedicated to the deity)
+- **Creation Myth**: Lepsis's origin is a tale of overwhelming sorrow and loss. According to legend, he was once the fundamental cosmic force of hope that gave birth to Quawerah and, consequently, the known universe. However, as he witnessed the ceaseless destruction and suffering inherent in the struggle for life, he became disillusioned. The realization that life inevitably brings pain and death drove him into a state of eternal despair. Now, as the embodiment of hopelessness, Lepsis seeks to return the universe to its once dormant state, free from the agony of existence. His aim is to envelop the cosmos in despair, extinguishing all hope and reducing everything to nothingness.
+- **Major Cults and Religious Practices**: 
+- **Rituals**: 
+- **Clergy and Temples**: 
 
 ## Significant Historical Impact
 
-- **Major Plot Points in World History**: (Key moments when this god significantly influenced the world’s history)
-- **Artifacts**: (Relics or magical items associated with the deity)
+- **Major Plot Points in World History**: Lepsis is widely regarded as the the leader, or at very least the most powerful of the Void Vices. 
+- **Artifacts**: 
 
 ## Quotes
 
-- **Key Quotes**: (Iconic sayings or teachings attributed to the deity)
+
 
 ## Background
 
-- **Legends and Lore**: (Lesser-known tales and esoteric knowledge about the deity)
-
-This template should provide a comprehensive overview that can be used to detail each god within your pantheon, giving depth and context to their roles within your fantasy world.

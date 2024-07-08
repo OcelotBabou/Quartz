@@ -7,54 +7,54 @@ tags:
   - VoidVice
   - Fivolam
 ---
-*[Phonetic]*
+*[fee-voh-lahm]*
+
+![[Fivolama.webp]]
 ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Name**: Fivolam
+- **Domain**: Doubt, Indecision, Uncertainty
+- **Title**: The Whisper of Hesitation, The Seed of Uncertainty
+- **Alignment**: Lawful Void
+- **Symbol**: A compass with three arrows pointing in different directions
+- **Primary Worship Area**: 
 
 ## Physical Description
 
-- **Appearance**: (Description of the god’s most common form seen by worshipers or depicted in religious art)
-- **Height**: (If applicable)
-- **Weight**: (If applicable)
-- **Distinguishing Features**: (Unique attributes such as glowing eyes, ethereal voice, etc.)
+- **Appearance**: Fivolam is depicted as a tall, imposing devil with a regal, confident bearing that belies his domain of doubt and indecision. His skin is a dark, smoldering red, with sharp, angular features that exude an air of authority and certainty. His eyes are deep, flickering voids, reflecting an unsettling, endless uncertainty. His muscular form is adorned with ornate armor and a flowing robe. 
+- **Height**: 366cm
+- **Weight**: Variable
+- **Distinguishing Features**: His regal and ornate armour that seems to merge into his skin.
 
 ## Personality
 
-- **Traits**: (Key personality traits)
-- **Strengths**: (Divine powers and positive traits)
-- **Weaknesses**: (Any known divine limitations or emotional vulnerabilities)
-- **Goals and Motivations**: (What drives this god? What are their divine objectives?)
+- **Traits**: Elusive, indecisive, enigmatic
+- **Strengths**: Can incite and amplify feelings of doubt and uncertainty in others, causing them to second-guess themselves and hesitate
+- **Weaknesses**: His own nature makes him second guess his plans, and it is difficult for him to stick to a single plan, and he loses confidence in his machinations at the first issue
+- **Goals and Motivations**: To spread doubt and uncertainty, removing all sense of false arrogance or confidence rife within the mortal races.
 
 ## Relationships
 
-- **Allies**: (Other gods or celestial beings they align with)
-- **Rivals/Enemies**: (Antagonistic relationships within the pantheon)
-- **Attitude towards Mortals**: (How they generally treat or interact with their followers and other mortals)
+- **Allies**: [[Dellesis]], 
+- **Rivals/Enemies**: [[Ormos]], [[Aperkepsi]], [[Paysius]], [[Matiodox]]
+- **Attitude towards Mortals**: He despises mortals and their misplaced confidence and reckless behaviour. Yet a part of him envies there ability to act, and maintain confidence in the face of overwhelming odds. 
 
 ## Mythology and Worship
 
-- **Creation Myth**: (Stories of their origin or significant mythological tales)
-- **Major Cults and Religious Practices**: (Description of main worship practices and any associated cults)
-- **Festivals**: (Special times of the year dedicated to this deity, including rituals and celebrations)
-- **Clergy and Temples**: (Description of priests, holy orders, and sacred sites dedicated to the deity)
+- **Creation Myth**: 
+- **Major Cults and Religious Practices**: 
+- **Rituals**: The Day of Shadows, a time when followers gather to question all their decisions and embrace their doubts, celebrating uncertainty and hesitation.
+- **Clergy and Temples**: Temples to Fivolam are hidden and often somber, located in mist-covered, uncertain areas. His priests, known as the Whisperers of Doubt, are adept at spreading feelings of indecision and uncertainty among their followers. They guide their followers in embracing their doubts and using them as a source of power.
 
 ## Significant Historical Impact
 
-- **Major Plot Points in World History**: (Key moments when this god significantly influenced the world’s history)
-- **Artifacts**: (Relics or magical items associated with the deity)
+- **Major Plot Points in World History**:
+- **Artifacts**: 
 
 ## Quotes
 
-- **Key Quotes**: (Iconic sayings or teachings attributed to the deity)
+"Only through doubt can we see the flaws in our convictions."
+"Certainty blinds, but doubt opens the mind to endless possibilities."
 
 ## Background
 
-- **Legends and Lore**: (Lesser-known tales and esoteric knowledge about the deity)
-
-This template should provide a comprehensive overview that can be used to detail each god within your pantheon, giving depth and context to their roles within your fantasy world.

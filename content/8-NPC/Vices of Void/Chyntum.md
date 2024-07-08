@@ -7,54 +7,56 @@ tags:
   - VoidVice
   - Chyntum
 ---
-*[Phonetic]*
+*[chin-tuhm]*
+
+![[Chyntuma.webp]]
 ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Name**: Chyntum
+- **Domain**: Shame, Guilt, Self-Loathing
+- **Title**: The Burdened, The Mirror of Regret
+- **Alignment**: Lawful Void
+- **Symbol**: A heart wrapped and pinned with chains
+- **Primary Worship Area**: 
+
+![[Chyntum Sym.webp]]
 
 ## Physical Description
 
-- **Appearance**: (Description of the god’s most common form seen by worshipers or depicted in religious art)
-- **Height**: (If applicable)
-- **Weight**: (If applicable)
-- **Distinguishing Features**: (Unique attributes such as glowing eyes, ethereal voice, etc.)
+- **Appearance**: Chyntum is depicted as a powerful, demonic figure, his form wrapped in heavy, iron chains. His skin is a dark, ashen hue, marked with glowing runes of torment and regret. His muscular frame is hunched under the weight of his chains, giving him a perpetually burdened appearance.
+- **Height**: 333cm
+- **Weight**: Variable
+- **Distinguishing Features**: The heavy chains that wrap his body. 
 
 ## Personality
 
-- **Traits**: (Key personality traits)
-- **Strengths**: (Divine powers and positive traits)
-- **Weaknesses**: (Any known divine limitations or emotional vulnerabilities)
-- **Goals and Motivations**: (What drives this god? What are their divine objectives?)
+- **Traits**: Sorrowful, burdened, contemplative
+- **Strengths**: Can incite and amplify feelings of shame and guilt in others, causing them to be consumed by regret and self-loathing
+- **Weaknesses**: His own overwhelming sense of shame and all-consuming guilt can hamper his decision-making skills and provide opportunities for those able to capitalize on his hesitance
+- **Goals and Motivations**: To reveal the hidden horrors of the mortals, exposing their shame and guilt for all to see and judge.
 
 ## Relationships
 
-- **Allies**: (Other gods or celestial beings they align with)
-- **Rivals/Enemies**: (Antagonistic relationships within the pantheon)
-- **Attitude towards Mortals**: (How they generally treat or interact with their followers and other mortals)
+- **Allies**: 
+- **Rivals/Enemies**: 
+- **Attitude towards Mortals**: Sees mortals as sources of endless regret and shame, manipulating their feelings of guilt to deepen his influence and power.
 
 ## Mythology and Worship
 
-- **Creation Myth**: (Stories of their origin or significant mythological tales)
-- **Major Cults and Religious Practices**: (Description of main worship practices and any associated cults)
-- **Festivals**: (Special times of the year dedicated to this deity, including rituals and celebrations)
-- **Clergy and Temples**: (Description of priests, holy orders, and sacred sites dedicated to the deity)
+- **Creation Myth**: 
+- **Major Cults and Religious Practices**: Unlike many other Void Vices, Chyntum actively exploits the endeavors of the Excess Vices, particularly [[Voluptia]]. 
+- **Rituals**: 
+- **Clergy and Temples**: Temples to Chyntum are hidden and often somber, located in secluded, sorrowful areas. His priests, known as the Burdened Ones, are adept at spreading feelings of shame and guilt among their followers. They guide their followers in embracing their regrets and using them as a source of power.
 
 ## Significant Historical Impact
 
-- **Major Plot Points in World History**: (Key moments when this god significantly influenced the world’s history)
-- **Artifacts**: (Relics or magical items associated with the deity)
+- **Major Plot Points in World History**: 
+- **Artifacts**: The Shackles of Remorse, chains that bind the bearer with their deepest regrets, amplifying their shame and guilt; The Mirror of Regret, a mirror that reflects the viewer’s greatest failures, intensifying their feelings of self-loathing.
 
 ## Quotes
 
-- **Key Quotes**: (Iconic sayings or teachings attributed to the deity)
+"Embrace your shame, for it is your burden to bear."
 
 ## Background
 
-- **Legends and Lore**: (Lesser-known tales and esoteric knowledge about the deity)
-
-This template should provide a comprehensive overview that can be used to detail each god within your pantheon, giving depth and context to their roles within your fantasy world.
+- **Legends and Lore**: Chyntum’s origins are tied to the earliest acts of regret and guilt, making him a deeply sorrowful figure in tales warning against giving in to shame. His presence is often felt in places where overwhelming guilt and self-loathing prevail. Legends speak of his role in driving great leaders to despair and turning entire societies into sorrowful shells, leading to their ultimate ruin. His story serves as a warning about the dangers of unchecked shame and the consuming power of guilt.

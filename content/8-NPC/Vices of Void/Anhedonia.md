@@ -7,54 +7,54 @@ tags:
   - VoidVice
   - Anhedonia
 ---
-*[Phonetic]*
+*[an-hee-doh-nee-uh]*
+
+![[Anhedoniaa.webp]]
 ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Name**: Anhedonia
+- **Domain**: Insensibility, Emotional Numbness, Depression
+- **Title**: The Numb One, The Void of Emotion
+- **Alignment**: Lawful Void
+- **Symbol**: A wilted flower
+- **Primary Worship Area**: 
+
+![[AnhedSym.webp]]
 
 ## Physical Description
 
-- **Appearance**: (Description of the god’s most common form seen by worshipers or depicted in religious art)
-- **Height**: (If applicable)
-- **Weight**: (If applicable)
-- **Distinguishing Features**: (Unique attributes such as glowing eyes, ethereal voice, etc.)
+- **Appearance**: Anhedonia is depicted as a pale, ghostly figure wearing a blank, featureless mask. Its eyes are hollow voids behind the mask, reflecting no light or emotion. Their spectral figure seems to transition between material and immaterial, with the colorless robes that drape over its form absorbing all light.
+- **Height**: Variable
+- **Weight**: Variable
+- **Distinguishing Features**: Its only distinguishing feature, is its featureless mask. 
 
 ## Personality
 
-- **Traits**: (Key personality traits)
-- **Strengths**: (Divine powers and positive traits)
-- **Weaknesses**: (Any known divine limitations or emotional vulnerabilities)
-- **Goals and Motivations**: (What drives this god? What are their divine objectives?)
+- **Traits**: Detached, unfeeling, mysterious
+- **Strengths**: Can drain emotions from others, leaving them numb and detached, immune to pain and pleasure 
+- **Weaknesses**: Its inability to feel emotions, removes its motivation to achieve the loft ambitions found in other vices.
+- **Goals and Motivations**: To spread emotional numbness and insensibility, removing any sense of joy found in the universe. 
 
 ## Relationships
 
-- **Allies**: (Other gods or celestial beings they align with)
-- **Rivals/Enemies**: (Antagonistic relationships within the pantheon)
-- **Attitude towards Mortals**: (How they generally treat or interact with their followers and other mortals)
+- **Allies**: [[Lepsis]] 
+- **Rivals/Enemies**: [[Voluptia]]
+- **Attitude towards Mortals**: Cares not for mortals. Views them with distant confusion at their ceaseless worrying and pursuits of pleasure. 
 
 ## Mythology and Worship
 
-- **Creation Myth**: (Stories of their origin or significant mythological tales)
-- **Major Cults and Religious Practices**: (Description of main worship practices and any associated cults)
-- **Festivals**: (Special times of the year dedicated to this deity, including rituals and celebrations)
-- **Clergy and Temples**: (Description of priests, holy orders, and sacred sites dedicated to the deity)
+- **Creation Myth**: 
+- **Major Cults and Religious Practices**: Cults dedicated to Anhedonia are infamous for their ability to infiltrate and corrupt other religions. They build off the desire to achieve stoic lives and avoid the perceived hedonistic lives of those around them. The changes are subtle, beginning with teachings that promote emotional control and detachment from worldly pleasures. Over time, these teachings deepen, encouraging followers to suppress all emotions and embrace total insensibility. These cults often masquerade as sects within larger religious groups, slowly spreading their influence and converting members to the worship of Anhedonia.
+- **Rituals**: 
+- **Clergy and Temples**: Temples to Anhedonia are desolate and devoid of color or life, often located in secluded, abandoned areas. His priests, known as the Numb Ones, are adept at suppressing emotions and spreading detachment among their followers. They guide their followers in embracing insensibility and using it as a source of power.
 
 ## Significant Historical Impact
 
-- **Major Plot Points in World History**: (Key moments when this god significantly influenced the world’s history)
-- **Artifacts**: (Relics or magical items associated with the deity)
-
+- **Major Plot Points in World History**: 
+- **Artifacts**: 
 ## Quotes
 
-- **Key Quotes**: (Iconic sayings or teachings attributed to the deity)
+"Feel nothing, and you shall never suffer."
 
 ## Background
 
-- **Legends and Lore**: (Lesser-known tales and esoteric knowledge about the deity)
-
-This template should provide a comprehensive overview that can be used to detail each god within your pantheon, giving depth and context to their roles within your fantasy world.

@@ -19,6 +19,8 @@ tags:
 - **Symbol**: A golden crown with a broken scepter
 - **Primary Worship Area**: No one actively worships Paysius, instead misguided fools seeking Matiodox are often fooled into following Paysius
 
+![[PaysiusSymbol.webp]]
+
 ## Physical Description
 
 - **Appearance**: Paysius is depicted as a truly grotesque, demonic figure, a stark contrast to his self-perceived grandeur. His skin is a pale, sickly hue, marred with cracks and festering sores. His features are twisted and asymmetrical, with a face that appears to be a grotesque parody of handsomeness. Despite his hideous appearance, Paysius adorns himself in the finest clothes and jeweled crowns, wearing opulent robes that drape elegantly over his monstrous form. His expression is haughty and conveys a sense of disdain for others
@@ -28,7 +30,7 @@ tags:
 
 ## Personality
 
-- **Traits**: (- Arrogant, domineering, dismissive, ignorant
+- **Traits**: Arrogant, domineering, dismissive, ignorant
 - **Strengths**: Commands and manipulates others through sheer force of personality and presence, instilling a sense of inferiority in those around him
 - **Weaknesses**: His pride is extremely fragile, and he is easily offended and goaded into argument
 - **Goals and Motivations**: Paysius seeks to elevate himself above all others, demanding worship and adoration as the epitome of greatness. He thrives on the submission and subjugation of others.

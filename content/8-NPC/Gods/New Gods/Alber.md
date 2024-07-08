@@ -7,15 +7,15 @@ tags:
   - Alber
   - TheNewGods
 ---
-*[Phonetic]*
+*[al-ber]*
 ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Name**: Alber
+- **Domain**: Wilderness, Untamed Nature
+- **Title**: The Wild Guardian, The Untamed
+- **Alignment**: Chaotic Neutral
+- **Symbol**: A tree intertwined with wild vines
+- **Primary Worship Area**: Forests, jungles, and untamed natural area
 
 ## Physical Description
 

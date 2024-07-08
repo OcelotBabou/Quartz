@@ -7,54 +7,52 @@ tags:
   - VoidVice
   - Zilev
 ---
-*[Phonetic]*
+*[zee-lev]*
+
+![[Zileva.jpg]]
 ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Name**: Zilev
+- **Domain**: Envy, Naivety, Gullibility
+- **Title**: The Envious One, The Naive Betrayer
+- **Alignment**: Lawfull Void
+- **Symbol**: A green eye with a single tear
+- **Primary Worship Area**:
 
 ## Physical Description
 
-- **Appearance**: (Description of the god’s most common form seen by worshipers or depicted in religious art)
-- **Height**: (If applicable)
-- **Weight**: (If applicable)
-- **Distinguishing Features**: (Unique attributes such as glowing eyes, ethereal voice, etc.)
+- **Appearance**: Zilev is depicted as a devilish figure with a strikingly regal appearance. Her form is tall and slender, with emerald-green skin that glows faintly in the dark. Her eyes are deep green, as if carved from luminescent emeralds. She has sharp, angular features, with a set of horns that curve elegantly from her forehead. Her wings are large and bat-like, tattered yet majestic, and they shimmer with a sickly green hue. Zilev's body is adorned with ornate, jewel-encrusted armor and her claws are long and sharp, dripping with a green, venomous substance. 
+- **Height**: 277cm
+- **Weight**: Variable
+- **Distinguishing Features**: Her most notable features are her luminescent emerald eyes, and her claw like fingers dripping in toxins. 
 
 ## Personality
 
-- **Traits**: (Key personality traits)
-- **Strengths**: (Divine powers and positive traits)
-- **Weaknesses**: (Any known divine limitations or emotional vulnerabilities)
-- **Goals and Motivations**: (What drives this god? What are their divine objectives?)
+- **Traits**: Envious, naive, gullible
+- **Strengths**: Can incite and amplify feelings of envy and gullibility in others, causing them to covet what they do not have and believe in false promises
+- **Weaknesses**: She is easily swayed through bargaining and will happily shift loyalties in favor of bribes.  
+- **Goals and Motivations**: To amass all that is precious in the world, be it material wealth, or more conceptual property.
 
 ## Relationships
 
-- **Allies**: (Other gods or celestial beings they align with)
-- **Rivals/Enemies**: (Antagonistic relationships within the pantheon)
-- **Attitude towards Mortals**: (How they generally treat or interact with their followers and other mortals)
+- **Allies**: 
+- **Rivals/Enemies**: [[Listunos]]
+- **Attitude towards Mortals**: Envies the mortals for both their freedom and they joy in contentment.
 
 ## Mythology and Worship
 
-- **Creation Myth**: (Stories of their origin or significant mythological tales)
-- **Major Cults and Religious Practices**: (Description of main worship practices and any associated cults)
-- **Festivals**: (Special times of the year dedicated to this deity, including rituals and celebrations)
-- **Clergy and Temples**: (Description of priests, holy orders, and sacred sites dedicated to the deity)
+- **Creation Myth**: According to one legend, Zilev was once a celestial being of light, tasked with observing the mortal realm. As she watched humanity from above, she became fascinated by their desires and ambitions. She saw how mortals coveted what others had and believed in promises that were never kept. Over time, this fascination turned into envy, and she began to covet the lives and experiences of mortals. Her naivety and gullibility made her believe that by descending to the mortal realm and experiencing their lives, she could find true fulfillment. However, as she descended, her envy and desires twisted her form, corrupting her into the Vice of Envy and Naivety. Seeing her unfortunate fall, Statera was forced to banish her new form from the world.    
+- **Major Cults and Religious Practices**:  
+- **Rituals**:     
+- **Clergy and Temples**:     
 
 ## Significant Historical Impact
 
-- **Major Plot Points in World History**: (Key moments when this god significantly influenced the world’s history)
-- **Artifacts**: (Relics or magical items associated with the deity)
+- **Major Plot Points in World History**: 
+- **Artifacts**: 
 
 ## Quotes
 
-- **Key Quotes**: (Iconic sayings or teachings attributed to the deity)
+"Embrace your envy, for it reveals your deepest longing."
 
 ## Background
-
-- **Legends and Lore**: (Lesser-known tales and esoteric knowledge about the deity)
-
-This template should provide a comprehensive overview that can be used to detail each god within your pantheon, giving depth and context to their roles within your fantasy world.
