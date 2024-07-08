@@ -18,10 +18,10 @@ tags:
 
 ## Physical Description
 
-- **Appearance**: (Description of the god’s most common form seen by worshipers or depicted in religious art)
-- **Height**: (If applicable)
-- **Weight**: (If applicable)
-- **Distinguishing Features**: (Unique attributes such as glowing eyes, ethereal voice, etc.)
+- **Appearance**: Despite having the proportions of a dwarf, Cazium is a towering god. His skin is made of solid stone while his eyes are radiant gems. His beard is long and braided, appearing to be made of intricate chains of metal. He is often depicted wearing a smith’s apron and wielding a massive hammer. His arms are muscular and robust, covered in intricate carvings and runes that glow faintly in a turquoise hue. 
+- **Height**: 450cm
+- **Weight**: Roughly 6 tonnes
+- **Distinguishing Features**: His most notable features are his stone-like skin, gem-like eyes, and his intricately braided metallic beard.
 
 ## Personality
 

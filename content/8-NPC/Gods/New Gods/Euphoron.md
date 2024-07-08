@@ -18,10 +18,10 @@ tags:
 
 ## Physical Description
 
-- **Appearance**: (Description of the god’s most common form seen by worshipers or depicted in religious art)
-- **Height**: (If applicable)
-- **Weight**: (If applicable)
-- **Distinguishing Features**: (Unique attributes such as glowing eyes, ethereal voice, etc.)
+- **Appearance**: Euphoron is depicted as a vibrant and joyous figure, embodying the spirit of celebration and merrymaking. He has a radiant, almost ethereal glow that seems to emanate from his entire being. His skin is a warm, golden hue, shimmering as if kissed by the sun. His eyes sparkle with a contagious happiness, reflecting the light and energy of countless festivities. He has a mane of wild, curly hair that flows freely, often adorned with flowers and garlands. Euphoron is often seen wearing colorful, flowing garments that dance with the movement. He is rarely seen without his goblet in hand, perpetually over flowing with wine. 
+- **Height**: 201cm
+- **Weight**: 101kg
+- **Distinguishing Features**: His wild, curly hair adorned with flowers and garlands, and his goblet of unending wine. 
 
 ## Personality
 

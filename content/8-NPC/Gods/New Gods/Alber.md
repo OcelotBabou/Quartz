@@ -19,10 +19,10 @@ tags:
 
 ## Physical Description
 
-- **Appearance**: (Description of the god’s most common form seen by worshipers or depicted in religious art)
-- **Height**: (If applicable)
-- **Weight**: (If applicable)
-- **Distinguishing Features**: (Unique attributes such as glowing eyes, ethereal voice, etc.)
+- **Appearance**: Alber is depicted as a powerful and imposing figure, embodying the raw and untamed force of nature. She appears as a towering entity, her skin resembles rough tree bark, with patches of moss and lichen growing on her body, while her hair is a tangle of vines. Her eyes are a vibrant green, glowing with an inner light, and her limbs are strong and muscular, resembling the trunks of ancient tree.
+- **Height**: 300cm
+- **Weight**: 190kg
+- **Distinguishing Features**: Her bark-like skin, and her hair made of flowing vines.
 
 ## Personality
 
