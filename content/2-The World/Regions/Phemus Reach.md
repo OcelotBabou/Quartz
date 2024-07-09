@@ -44,9 +44,9 @@ There is no organized military in Phemus Reach; the region's natural defenses an
 ### 8. **Notable Locations**
 
 Ideas so far 
-- **The Echoing Abyss**: A notorious sinkhole reputed to be bottomless, surrounded by legends of swallowed treasures and ancient monsters.
-- **Giant’s Grotto**: A vast cave system known for its beautiful but dangerous crystal formations and rumored to be the dwelling place of a wise giant seer.
-- **The Lost City of Kharzhum**: Said to be hidden within the deepest valleys of Phemus Reach, a city of ruins that many believe was built by a forgotten civilization of giants.
+- **[[The Echoing Abyss]]**: A notorious sinkhole reputed to be bottomless, surrounded by legends of swallowed treasures and ancient monsters.
+- **[[Giant’s Grotto]]**: A vast cave system known for its beautiful but dangerous crystal formations and rumored to be the dwelling place of a wise giant seer.
+- **[[The Lost City of Kharzhum]]**: Said to be hidden within the deepest valleys of Phemus Reach, a city of ruins that many believe was built by a forgotten civilization of giants.
 
 ### 9. **Significant Characters**
 

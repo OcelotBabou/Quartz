@@ -48,9 +48,10 @@ Leadership within the military draws on the region’s rich history of navigatio
 
 ### 8. **Notable Locations**
 
-- **Seagate’s Ancient Harbor**: Once the heart of the region’s economy, now serves as a historical site.
-- **The Cliffs of Echoes**: Coastal cliffs known for their stunning views and the haunting sounds of the ocean winds.
-- **Watcher’s Isle**: A small island off the coast that serves as a lookout point and a reminder of the region’s strategic past.
+- [[Seagate]]
+- [[Phemus Pass]]
+- **[[Watcher’s Isle]]**: A small island off the coast that serves as a lookout point and a reminder of the region’s strategic past.
+- [[Poraals Bluff]]
 
 ### 9. **Significant Characters**
 
