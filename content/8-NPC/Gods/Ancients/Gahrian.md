@@ -17,7 +17,7 @@ tags:
 - **Title**: The Illuminator, Guardian of the Day, Dayman
 - **Alignment**: Excess
 - **Symbol**: A radiant sun with beams extending outward
-- **Primary Worship Area**: 
+- **Primary Worship Area**: [[Hu Dao]], 
 
 ## Physical Description
 

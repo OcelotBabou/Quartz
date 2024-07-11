@@ -14,7 +14,7 @@ tags:
 - **Title**: The Master Artisan, The Forger of Wonders
 - **Alignment**: Lawful Neutral
 - **Symbol**: A hammer and anvil
-- **Primary Worship Area**: Dwarven cities, workshops, and guild halls
+- **Primary Worship Area**: Dwarven cities, workshops, and guild halls. [[Kair'Croi]], 
 
 ## Physical Description
 

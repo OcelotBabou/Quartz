@@ -17,7 +17,7 @@ tags:
 - **Title**: The Wild Guardian, The Untamed
 - **Alignment**: Chaotic Neutral
 - **Symbol**: A tree intertwined with wild vines
-- **Primary Worship Area**: Forests, jungles, and untamed natural area
+- **Primary Worship Area**: [[Agra Island]]. [[Vahshi Forest]], [[Ridgeback Forest]]
 
 ## Physical Description
 

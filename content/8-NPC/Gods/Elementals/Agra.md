@@ -15,7 +15,7 @@ tags:
 - **Title**: The Earth's Bounty, The Harvest Daughter
 - **Alignment**: True Neutral
 - **Symbol**: A lush meadow leading to a verdant forest 
-- **Primary Worship Area**: Farming communities, orchards, and all places where the earth is cultivated, particularly Agroma
+- **Primary Worship Area**: Farming communities, orchards, and all places where the earth is cultivated, particularly [[Agroma]] and [[Agra Island]]. 
 
 ## Physical Description
 

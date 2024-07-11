@@ -14,7 +14,7 @@ tags:
 - **Title**: Herald of Abundance
 - **Alignment**: Lawful Excess
 - **Symbol**: The sun in its zenith over a field of golden wheat
-- **Primary Worship Area**: 
+- **Primary Worship Area**: [[Nordholt]], 
 
 ## Physical Description
 

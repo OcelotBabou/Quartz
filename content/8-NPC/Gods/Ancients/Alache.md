@@ -17,7 +17,7 @@ tags:
 - **Title**: The Concealer, Keeper of the Night
 - **Alignment**: Void
 - **Symbol**: A crescent moon partially obscured by shadows
-- **Primary Worship Area**: Caves, secret sanctuaries, places of solitude and reflection
+- **Primary Worship Area**: 
 ## Physical Description
 
 - **Appearance**: Alache is often depicted as a figure cloaked in deep, impenetrable shadows, with only his chilling, reflective eyes visible. The elven depiction of him show dark, flowing garments that merge into the shadows, while his head is adorned with a dark, elongated helmet and a dark halo that encircles his head. 

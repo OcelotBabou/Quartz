@@ -17,7 +17,7 @@ tags:
 - **Title**: The Breath of the World, Whisperer in the Winds
 - **Alignment**: Chaotic Neutral
 - **Symbol**: A swirling cloud or a feather caught in a breeze
-- **Primary Worship Area**: High mountains, open plains, and skyward towers
+- **Primary Worship Area**: [[Omich Nisi]], [[Portum]], [[Ridgeback Mountains]]
 
 ## Physical Description
 

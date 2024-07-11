@@ -16,7 +16,7 @@ tags:
 - **Title**: The Island Keeper, Envoy of Islands
 - **Alignment**: True Neutral
 - **Symbol**: An island surrounded by waves
-- **Primary Worship Area**: Dragon Teeth Islands
+- **Primary Worship Area**: [[Dragon Teeth Islands]], 
 
 ### Physical Description
 

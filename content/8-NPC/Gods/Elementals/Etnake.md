@@ -14,7 +14,7 @@ tags:
 - **Domain**: Creation, Destruction, Rebirth
 - **Title**: The Phoenix
 - **Alignment**: Neutral Excess
-- **Symbol**: An ouroboros, a snake eating its own tail or a phoenix
+- **Symbol**: A phoenix
 - **Primary Worship Area**: Volcanos…
 
 ## Physical Description
