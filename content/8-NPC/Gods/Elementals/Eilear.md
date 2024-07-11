@@ -6,22 +6,24 @@ tags:
   - God
   - TheElementalEnvoys
 ---
-*[Phonetic]*
+*[eye-lair]*
+
+![[Eilear.jpg]]
 ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Name**: Eilear
+- **Domain**: Islands, Solitude
+- **Title**: The Island Keeper, Envoy of Islands
+- **Alignment**: True Neutral
+- **Symbol**: An island surrounded by waves
+- **Primary Worship Area**: Dragon Teeth Islands
 
-## Physical Description
+### Physical Description
 
-- **Appearance**: (Description of the god’s most common form seen by worshipers or depicted in religious art)
-- **Height**: (If applicable)
-- **Weight**: (If applicable)
-- **Distinguishing Features**: (Unique attributes such as glowing eyes, ethereal voice, etc.)
+- **Appearance**: Eilear is depicted as a serene and solitary figure, embodying the essence of isolated islands. His form is composed of rocky cliffs and sandy shores, with waves gently lapping at his feet. His skin has the texture of smooth stone, interspersed with patches of sand and seashells. His eyes are the color of the ocean, reflecting its depth and mystery. His hair is made of seaweed and driftwood, constantly swaying as if moved by an unseen tide. 
+- **Height**: 450m
+- **Weight**: Unknown
+- **Distinguishing Features**: His most notable features are his smooth stone-like skin, ocean-colored eyes, and his hair made of seaweed and driftwood. His form, composed of rocky cliffs and sandy shores, symbolizes the solitude and serenity of the islands he embodies.
 
 ## Personality
 

@@ -10,19 +10,19 @@ tags:
 *[Phonetic]*
 ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Name**: Etnake
+- **Domain**: Creation, Destruction, Rebirth
+- **Title**: The Phoenix
+- **Alignment**: Neutral Excess
+- **Symbol**: An ouroboros, a snake eating its own tail or a phoenix
+- **Primary Worship Area**: Volcanos…
 
 ## Physical Description
 
-- **Appearance**: (Description of the god’s most common form seen by worshipers or depicted in religious art)
-- **Height**: (If applicable)
-- **Weight**: (If applicable)
-- **Distinguishing Features**: (Unique attributes such as glowing eyes, ethereal voice, etc.)
+- **Appearance**: Etnake is depicted as a colossal phoenix composed entirely of roaring flames, embodying the dual forces of creation and destruction. Her form is a brilliant, ever-changing blaze, with feathers made of flickering fire that shift in color from red to orange to gold. Her eyes are intense and fiery, while her wings are vast and majestic, trailing embers and sparks as she soars. Her tail feathers are long and flowing, ending in a burst of flame. When she spreads her wings, she casts a radiant, fiery glow over everything around her. 
+- **Height**: Variable, as her anger grows so does she 
+- **Weight**: Variable
+- **Distinguishing Features**: Her eyes are a vivid contrast— one fiery red, the other verdant green, reflecting her dual roles.
 
 ## Personality
 

@@ -6,23 +6,24 @@ tags:
   - God
   - TheElementalEnvoys
 ---
-*[Phonetic]*
+*[thee-ar]*
+
+![[Theara.webp]]
 ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Name**: Thear
+- **Domain**: Deserts, Desolation
+- **Title**: The Desert Wanderer, Envoy of Deserts
+- **Alignment**: True Neutral
+- **Symbol**: A sun-scorched dune
+- **Primary Worship Area**: Deserts, arid regions, and places where the harshness of the land is respected
 
-## Physical Description
+### Physical Description
 
-- **Appearance**: (Description of the god’s most common form seen by worshipers or depicted in religious art)
-- **Height**: (If applicable)
-- **Weight**: (If applicable)
-- **Distinguishing Features**: (Unique attributes such as glowing eyes, ethereal voice, etc.)
-
+- **Appearance**: Thear is depicted as a harsh and imposing figure, embodying the essence of deserts. His form is composed of sun-scorched dunes and cracked earth, with a cloak of shifting sands. His skin is a dry, sandy texture, and his eyes are a piercing, sunlit yellow, reflecting the intensity of the desert sun. His hair is a swirling mass of sand and dust, constantly shifting and changing with the wind. 
+- **Height**: 470m
+- **Weight**: Unknown
+- **Distinguishing Features**: His most notable features are his sandy textured skin, sunlit yellow eyes, and his hair made of swirling sand and dust. 
 ## Personality
 
 - **Traits**: (Key personality traits)

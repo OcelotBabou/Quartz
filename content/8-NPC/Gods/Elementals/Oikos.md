@@ -6,22 +6,22 @@ tags:
   - God
   - TheElementalEnvoys
 ---
-*[Phonetic]*
+*[oy-kohs]*
 ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Name**: Oikos
+- **Domain**: Hearth, Home, Domesticity
+- **Title**: The Hearthkeeper, The Nurturer
+- **Alignment**: Lawful Void
+- **Symbol**: A flaming hearth
+- **Primary Worship Area**: Homes, hearths, family gatherings, and places dedicated to domestic life and safety
 
 ## Physical Description
 
-- **Appearance**: (Description of the god’s most common form seen by worshipers or depicted in religious art)
-- **Height**: (If applicable)
-- **Weight**: (If applicable)
-- **Distinguishing Features**: (Unique attributes such as glowing eyes, ethereal voice, etc.)
+- **Appearance**: Oikos is depicted as a majestic and nurturing figure, through the form of a flaming mother bear. Not much else to say here, she a big flaming bear.
+- **Height**: 245cm
+- **Weight**: Variable 
+- **Distinguishing Features**: Being a bear
 
 ## Personality
 

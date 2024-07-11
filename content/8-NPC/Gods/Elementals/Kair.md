@@ -6,22 +6,24 @@ tags:
   - God
   - TheElementalEnvoys
 ---
-*[Phonetic]*
+*[kayr]*
+
+![[Kaira.webp]]
 ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Name**: Kair
+- **Domain**: Mountains, Peaks
+- **Title**: The Mountain King, Envoy of Mountains
+- **Alignment**: True Neutral
+- **Symbol**: A towering mountain peak with a winding path
+- **Primary Worship Area**: Mountain ranges, high altitudes, and places where the majesty of the mountains is revered
 
-## Physical Description
+### Physical Description
 
-- **Appearance**: (Description of the god’s most common form seen by worshipers or depicted in religious art)
-- **Height**: (If applicable)
-- **Weight**: (If applicable)
-- **Distinguishing Features**: (Unique attributes such as glowing eyes, ethereal voice, etc.)
+- **Appearance**: Kair is depicted as a majestic and imposing figure, embodying the essence of mountains and high peaks. His form is composed of rugged stone and snow-capped summits, with a cloak of mist and clouds. His skin has the texture of rough granite, with patches of snow and ice. His eyes are a piercing, ice-blue, reflecting the cold, lofty heights of the mountains. His hair is a wild mane of ice and snow, constantly shifting and shimmering. 
+- **Height**: 500m 
+- **Weight**: Unknown
+- **Distinguishing Features**: His most notable features besides his towering height,  are his ice-blue eyes, and his hair made of ice and snow. 
 
 ## Personality
 

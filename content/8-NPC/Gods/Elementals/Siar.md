@@ -6,22 +6,24 @@ tags:
   - God
   - TheElementalEnvoys
 ---
-*[Phonetic]*
+*[see-ar]*
+
+![[Siara.jpg]]
 ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Name**: Siar
+- **Domain**: Plains, Open Land
+- **Title**: The Plains Guardian, The Endless Expanse, Envoy of Plains
+- **Alignment**: True Neutral
+- **Symbol**: A vast open field with a lone tree
+- **Primary Worship Area**: 
 
-## Physical Description
+### Physical Description
 
-- **Appearance**: (Description of the god’s most common form seen by worshipers or depicted in religious art)
-- **Height**: (If applicable)
-- **Weight**: (If applicable)
-- **Distinguishing Features**: (Unique attributes such as glowing eyes, ethereal voice, etc.)
+- **Appearance**: Siar is depicted as a serene and expansive figure, embodying the essence of plains and open lands. His form is composed of rolling hills and endless fields of grass, with a cloak of golden wheat. His skin has the texture of rich soil, with patches of green grass and wildflowers. His eyes are a calming, earthy brown, reflecting the tranquility and vastness of the plains. His hair is a flowing mass of tall grasses and wildflowers, constantly swaying as if moved by a gentle breeze. He moves with a slow, measured grace, embodying the boundless and nurturing nature of the plains.
+- **Height**: 480m
+- **Weight**: Unknown
+- **Distinguishing Features**: 
 
 ## Personality
 

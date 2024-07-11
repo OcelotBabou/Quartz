@@ -18,10 +18,12 @@ tags:
 
 ## Physical Description
 
-- **Appearance**: 
-- **Height**: 
-- **Weight**: 
-- **Distinguishing Features**: 
+- **Appearance**: Hodophis is depicted as a fearsome, elemental figure of flame and shadow, embodying the raw, untamed spirit of adventure and survival. His form is a dynamic blend of molten rock and flickering fire, constantly shifting and crackling with energy. His skin is a dark, charcoal-like texture, with fiery cracks that glow intensely, revealing the burning core within. He possesses a bestial, almost demonic visage with sharp, predatory features with powerful and muscular limbs that end in claws. He has a long serpentine tail, and 
+![[Pasted image 20240711140157.jpg]]
+- **Height**: 242cm
+- **Weight**: Variable
+- **Distinguishing Features**: Everything, everything about this guy is distinguishing.
+
 
 ## Personality
 

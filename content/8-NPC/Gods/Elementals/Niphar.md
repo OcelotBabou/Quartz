@@ -6,22 +6,24 @@ tags:
   - God
   - TheElementalEnvoys
 ---
-*[Phonetic]*
+*[nee-far]*
+
+![[Niphara.jpg]]
 ## Basic Information
 
-- **Name**:
-- **Domain**: (e.g., War, Wisdom, Harvest)
-- **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
-- **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
-- **Symbol**: (A brief description of the god's emblem or symbol)
-- **Primary Worship Area**: (Regions where the god is predominantly worshiped)
+- **Name**: Niphar
+- **Domain**: Caves, Depths
+- **Title**: The Deep Dweller, Envoy of Caves
+- **Alignment**: True Neutral
+- **Symbol**: A cave entrance with a descending path
+- **Primary Worship Area**: Caves, underground regions, and places where the depths of the earth are revered
 
-## Physical Description
+### Physical Description
 
-- **Appearance**: (Description of the god’s most common form seen by worshipers or depicted in religious art)
-- **Height**: (If applicable)
-- **Weight**: (If applicable)
-- **Distinguishing Features**: (Unique attributes such as glowing eyes, ethereal voice, etc.)
+- **Appearance**: Niphar is depicted as a mysterious and brooding figure, embodying the essence of caves and the subterranean depths. His form is composed of rugged rock and deep shadows, with veins of precious minerals running just below the surface of his skin. His skin has the texture of rough stone, interspersed with sparkling gems. His eyes are deep and dark, reflecting the hidden mysteries of the earth. His hair is made of stalactites and stalagmites, constantly dripping with moisture. 
+- **Height**: 430m
+- **Weight**: Unknown
+- **Distinguishing Features**: His most notable features are his rough stone-like skin, dark eyes, and his hair made of stalactites and stalagmites.
 
 ## Personality
 
