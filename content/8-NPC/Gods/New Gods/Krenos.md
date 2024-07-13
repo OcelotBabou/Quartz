@@ -14,7 +14,7 @@ tags:
 - **Title**: The Mighty, The Unyielding, The Titan
 - **Alignment**: Lawful Excess
 - **Symbol**: A clenched fist surrounded by an aura of power
-- **Primary Worship Area**: Arenas, battlefields, warrior guilds, and places dedicated to physical prowess
+- **Primary Worship Area**: 
 
 ## Physical Description
 

@@ -17,7 +17,7 @@ tags:
 - **Title**: The Merchant King, The Golden Hand
 - **Alignment**: Lawful Excess
 - **Symbol**: A coin bag, with several coins spilling out
-- **Primary Worship Area**: Marketplaces, trade routes, banks
+- **Primary Worship Area**: [[Agroma]], 
 
 ## Physical Description
 

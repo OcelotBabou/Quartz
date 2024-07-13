@@ -59,3 +59,7 @@ tags:
 - **Legends and Lore**: (Lesser-known tales and esoteric knowledge about the deity)
 
 This template should provide a comprehensive overview that can be used to detail each god within your pantheon, giving depth and context to their roles within your fantasy world.
+
+![[DALL·E 2024-07-11 14.03.46 - Create an image of Odophis, depicted as a fearsome, elemental figure of flame and shadow, embodying the raw, untamed spirit of adventure and survival,.webp]]
+
+![[DALL·E 2024-07-11 14.11.26 - Create an image of Odophis, depicted as a fearsome, elemental figure of flame and shadow, embodying the raw, untamed spirit of adventure and survival,.webp]]

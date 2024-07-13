@@ -14,7 +14,7 @@ tags:
 - **Title**: The Warlord, Strategist Supreme
 - **Alignment**: Lawful Neutral
 - **Symbol**: A crossed sword and shield
-- **Primary Worship Area**: Battlefields, military forts, and war memorials
+- **Primary Worship Area**: [[Wall Paleomyna]], [[Fort Logos]]
 
 ## Physical Description
 

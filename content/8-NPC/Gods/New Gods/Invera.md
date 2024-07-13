@@ -14,7 +14,7 @@ tags:
 - **Title**: Herald of Reflection
 - **Alignment**: Lawful Void
 - **Symbol**: A snowflake or an icicle
-- **Primary Worship Area**: Mountain peaks, frozen lakes, and homes seeking shelter from the cold
+- **Primary Worship Area**: [[Nordholt]], 
 
 ## Physical Description
 

@@ -14,7 +14,7 @@ tags:
 - **Title**: Herald of Renewal
 - **Alignment**: Chaotic Excess
 - **Symbol**: A sprouting seed or a young leaf
-- **Primary Worship Area**: Gardens, orchards, and places undergoing renewal
+- **Primary Worship Area**: [[Nordholt]], [[Agroma]], 
 
 ## Physical Description
 
