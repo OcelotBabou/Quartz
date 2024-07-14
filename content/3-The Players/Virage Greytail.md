@@ -12,7 +12,7 @@ tags:
 ## Basic Information
 
 - **Name**: Virag Greytail
-- **Species**: Ratfolk, Blighted Brute
+- **Species**: [[Ratfolk]], [[Blighted Brutes]]
 - **Class**: Warden
 - **Gender**: Male
 - **Age**: 25
@@ -31,11 +31,11 @@ tags:
 - **Traits**: Virag is steadfast and resolute, embodying a blend of idealism and pragmatism. Despite facing widespread prejudice, he maintains an unwavering commitment to his cause, striving to bridge divides through kindness and understanding.
 - **Strengths**: Virag's strength lies not only in his physical prowess honed through years of combat but also in his resilience against adversity. He possesses a deep empathy for all races and a determination to protect those in need, fueled by a sense of justice and duty.
 - **Weaknesses**: Virag's experiences with racism and rejection have left him vulnerable to occasional bouts of cynicism and disillusionment, especially when confronted with the worst aspects of sentient nature. His loyalty can sometimes blind him to the flaws of those he trusts.
-- **Goals and Motivations**: Driven by a desire to uncover the truth behind Eris' sacrifice, Virag embarks on a personal quest to finish what Eris started. He seeks to understand and rectify the injustices faced by ratfolk and other marginalized races, aspiring to forge a world free from both demonic influence and racial prejudice.
+- **Goals and Motivations**: Driven by a desire to uncover the truth behind [[Eris]]' sacrifice, Virag embarks on a personal quest to finish what Eris started. He seeks to understand and rectify the injustices faced by ratfolk and other marginalized races, aspiring to forge a world free from both demonic influence and racial prejudice.
 
 ## Significant Events
 
-- **Major Plot Points**: Virag's journey begins amidst a caravan bound for Hu Dao, where he serves as a hired guardian for elf clerics carrying the blessings of the Sun God. The upcoming Festival of Gahrian holds promise not only for the city's prosperity but also for Virag's personal quest to uncover the truth behind Eris' sacrifice.
+- **Major Plot Points**: Virag's journey begins amidst a caravan bound for [[Hu Dao]], where he serves as a hired guardian for elf clerics carrying the blessings of [[Gahrian]]. The upcoming Festival of Gahrian holds promise not only for the city's prosperity but also for Virag's personal quest to uncover the truth behind Eris' sacrifice.
 - **Important Missions**: 
 	- **Guardian of the Clerics**: Virag's primary mission is to ensure the safety of the reserved elf clerics amidst tensions within the caravan, where racial prejudices threaten to disrupt their journey. (just a place holder atm)
 
@@ -46,3 +46,5 @@ tags:
 "Kindness is the strongest weapon against hatred.”
 
 ## Background
+
+Will likely end up tying in [[Furrowton]] and [[Elden Reedwhistle]] here. 

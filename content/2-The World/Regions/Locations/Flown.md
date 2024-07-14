@@ -10,15 +10,19 @@ tags:
 Image of Flown
 
 **Overview:** 
+
 The City of Flown is the illustrious capital of Agroma, majestically situated on the western shores of Lake Novus Mare. Renowned for its unique blend of natural beauty and architectural splendor, Flown serves as the cultural, political, and economic hub of the region.
 
 **Description:** 
+
 From the elevated parts of the city, residents and visitors can enjoy breathtaking views of Lake Novus Mare, where the shimmering waters meet the horizon. The lakefront is adorned with lush gardens and peaceful promenades, offering a tranquil escape from the city's bustling core. The harbor, situated along the Aurora River, is the lifeblood of Flown's trade and commerce. It is always teeming with activity, as ships and boats from across the region dock to unload goods and resources. The harbor is lined with warehouses, markets, and shipyards. 
 Encircling the land-bound edges of the city is an imposing wall. This formidable structure, built from solid stone, features several fortified gates and watchtowers, providing both protection and a commanding view of the surrounding plains.
 
 **History**:
 
+
 **Significance:** 
+
 As the capital of Agroma, Flown is of immense importance. Politically, it houses the Grand Assembly Hall, where the Triumvirate govern Agroma. It also houses the Triumvirate Institute, the most prestigious academy found outside of [[Vitaurum]]. Economically, Flown is a center for trade and industry, benefiting from its access to the rich resources of Lake Novus Mare, and access to the numerous canals and rivers that crisscross Agroma. 
 
 **Notable Features:**
@@ -32,10 +36,12 @@ As the capital of Agroma, Flown is of immense importance. Politically, it houses
 Map of Flown
 
 **Local Legends or Stories:** 
+
 One of the most cherished legends in Flown is that of the "Ascended Gods." According to this revered tale, the gods Mercio, Vilcren, and Ratura, the pillars of humanity and key figures in Agroman culture, are said to have founded the city of Flown. It is believed that these gods bestowed special blessings upon the city, ensuring its prosperity and protection.
 Another popular story is that of the "Eagle of Flown," a legendary bird that is said to have guided the Ascended Gods to the fertile lands Agroma in days long past. 
 
 **Visitors' Experience:** 
+
 Visitors to Flown can expect a rich and diverse experience, blending the city's historical significance with its vibrant present-day activities. Upon arrival, guests are greeted by the sight of the imposing city walls, a testament to Flown's storied past and enduring strength. 
 The bustling harbor along the Aurora River is a must for any adventurer or merchant, providing access to markets filled with exotic goods from all over Agroma and beyond. 
 The lakefront promenade is perfect for leisurely walks, offering panoramic views of Lake Novus Mare. The floating gardens along the promenade provide a peaceful escape, where visitors can relax and enjoy the natural beauty of the lake. Picnic spots and cafes along the shore make it an ideal place for couples. 
