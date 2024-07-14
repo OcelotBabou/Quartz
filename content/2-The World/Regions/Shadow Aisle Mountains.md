@@ -46,8 +46,9 @@ The military stance of [[Iterdeep]] reflects its political shift towards isolati
 ### 8. **Notable Locations**
 
 - [[Iterdeep]]
-- [[Perfidus Plunge]]
-- Lake Place
+- [[Perfidius Plunge]]
+- [[Lake Abscon]]
+- The Forest around Lake Abscon
 
 ### 9. **Significant Characters**
 
