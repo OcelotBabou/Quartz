@@ -29,9 +29,15 @@ Hu Dao is a vital town for Agroma, serving as a key defensive stronghold and a h
 - 
 - **Dao Lake:** The source of the town’s water and the feeder for its sewer systems, Dao Lake is also a hub for fishing and trade activities.
 
+[[Map of Hu Dao]]
+
 **Local Legends or Stories:** 
-One of the most famous legends of Hu Dao is that of the “Hidden Treasure of Dao,” a mythical hoard of riches said to be hidden within the labyrinthine tunnels beneath the city. Another tale tells of the “
+One of the most famous legends of Hu Dao is that of the “Treasure of Dao,” a mythical hoard of riches said to be hidden within the labyrinthine tunnels beneath the city. 
+Another tale tells of the “Daoness Monster" a sea beast of immense proportions rumored to dwell within the lake. 
 
 
 **Visitors' Experience:** 
-Visitors to Hu Dao can explore the historic sewer systems and tunnels through guided tours, learning about the town’s engineering marvels and storied past. The fortified bridges and guard towers offer stunning views of Dao Lake and the surrounding areas. The local markets provide a taste of the town’s vibrant trade activities, with fresh fish and unique goods sourced from the northern regions.
+Due to its strategic fortifications and the well-guarded bridges, Hu Dao is considered a safe destination for travelers. However, access to the town is closely monitored, ensuring the security of its inhabitants and visitors alike. 
+Inside it's bounds Hu Dao is famous for its expansive Library, a vast repository of knowledge and history. The Library houses countless volumes on various subjects, from ancient texts to modern research. On its Northern edge the Market District off the Lake Dao Harbour is a bustling hub of trade, offering a wide range of goods. Visitors can find everything from alchemical concoctions to unique armors crafted from local materials. While on its Western Edge over looking the Elven quarter lies an ancient church dedicated to Gahrian, the Elven God of Light. The church is an architectural marvel, with its intricate carvings and serene ambiance, offering a peaceful retreat for visitors. 
+A favorite for visitors is the Krenos Arena, a center of entertainment, featuring gladiatorial combats, tournaments, and various cultural performances.
+Currently, Hu Dao is bustling with preparations for a grand festival dedicated to Gahrian. This event celebrates the summer solstice and serves as a vibrant symbol of the town's welcoming embrace of its Elven residents. The festival promises to be a joyous occasion, highlighting the rich cultural heritage and unity of the community.

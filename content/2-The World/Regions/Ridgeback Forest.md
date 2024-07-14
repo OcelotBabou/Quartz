@@ -44,7 +44,7 @@ These expeditions, though infrequent and rarely successful, are justified by the
 
 - [[The Twilight Glades]]
 - [[Veridian Keep]]
-- [[Mozkull Pass]]
+- [[Mozbull Pass]]
 
 ### 9. **Significant Characters**
 

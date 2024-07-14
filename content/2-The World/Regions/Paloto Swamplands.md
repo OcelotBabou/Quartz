@@ -59,8 +59,8 @@ Together, these groups ensure that Paloto Swamp remains a fortress not through w
 - [[Tanglethorn]]
 - [[Stilt City]]
 - [[Glimmerfen]]
-- 
-
+- [[Furrowton]]
+- [[Mount Virmire]]
 ### 9. **Significant Characters**
 
 - [[Tillo Quickpaw]]: Chief Innovator of the [[Lab Rats]]

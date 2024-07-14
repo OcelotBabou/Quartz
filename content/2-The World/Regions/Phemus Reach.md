@@ -53,6 +53,7 @@ Ideas so far
 - [[Gorath Hamma]], Tribal leader of Giants: 
 - [[Garul Clubba]], Giant sage: 
 - [[Thornak, Orge]] menace: 
+- [[Gorak]], Phemus Pass lurker: 
 
 ### 10. **Current Issues and Future Prospects**
 

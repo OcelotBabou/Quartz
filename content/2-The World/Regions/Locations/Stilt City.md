@@ -7,7 +7,7 @@ tags:
   - WesternSiarMorrin
 ---
 **Overview:** 
-Stilt City is a significant Ratfolk settlement known for its impressive stilt architecture and the resilience of its inhabitants. It is one of the oldest and most established cities in the Paloto Swamplands.
+Stilt City is a significant Ratfolk settlement known for its impressive stilt architecture. It is one of the oldest and most established cities in the Paloto Swamplands, and is particularly famous for it's library, said to hold all the secrets of Ratfolk ingenuity and advancement. 
 
 **Description:** 
 Stilt City is built entirely on tall stilts to protect against the swamp’s flooding and unstable ground. The buildings are interconnected by a network of bridges and platforms, creating a multi-layered cityscape that rises above the swampy waters.

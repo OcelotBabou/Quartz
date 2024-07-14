@@ -6,13 +6,13 @@ tags:
   - Agroma
   - WesternSiarMorrin
 ---
-![[TheCanals.webp]]
-
 **Overview:** 
 The Canals of Agroma are an intricate network of waterways that crisscross the fertile plains, playing a crucial role in irrigation and flood management.
 
 **Description:** 
 These canals are marvels of engineering, built with sturdy stone embankments and equipped with sluice gates to control water flow. They are lined with lush greenery and often bordered by walking paths, making them scenic as well as functional.
+
+![[TheCanals.webp]]
 
 **History:** 
 The construction of the canals dates back to pre Age of Darkness ([[AoD]]) times. Initially designed to mitigate flooding, their scope expanded to include extensive irrigation systems. Over the centuries, they have been maintained and improved, becoming an integral part of Agroma’s agricultural success.
