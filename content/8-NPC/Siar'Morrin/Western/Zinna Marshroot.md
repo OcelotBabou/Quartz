@@ -9,8 +9,6 @@ tags:
 ---
 *[zin-nuh marsh-root]*
 
-![[Zinnaa.jpg]]
-
 **Basic Information**
 
 - **Name**: Zinna Marshroot
@@ -27,6 +25,9 @@ tags:
 - **Height**: 168 cm
 - **Weight**: 70 kg
 - **Distinguishing Features**: Notable for her scars, each with a story of battle; her most prominent scar runs in three strips across her left cheek and eye, alongside missing half her tail.
+
+![[Zinnaa.jpg]]
+
 
 **Personality**
 

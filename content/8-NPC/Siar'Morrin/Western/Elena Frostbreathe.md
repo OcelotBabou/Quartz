@@ -10,8 +10,6 @@ tags:
 ---
 *[eh-lay-na frost-breath]*
 
-![[Elenaa.webp]]
-
 **Basic Information**
 
 - **Name**: Elena Frostbreathe
@@ -28,6 +26,9 @@ tags:
 - **Height**: 170 cm
 - **Weight**: 58 kg
 - **Distinguishing Features**: Her breath appears as a visible mist even in normal temperatures, a side effect of her deep connection to ice magic.
+
+![[Elenaa.webp]]
+
 
 **Personality**
 

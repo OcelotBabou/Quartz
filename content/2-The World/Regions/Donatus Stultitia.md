@@ -9,7 +9,7 @@ tags:
 *[doh-nah-tuhs stool-tish-ee-uh]*
 ### 1. **Overview**
 
-Donatus Stultitia, otherwise known as the Mirage Plains, is a vast expanse of arid land characterized by relentless sun and parched earth. Most of the year, this desolate landscape endures a severe drought, believed to be the result of a curse inflicted by the Vilcren, the Goddess of agriculture, in response to the arrogance of men. Despite its harshness, the plains experience a miraculous transformation during its brief rainy season, which brings a riot of life and colour to the otherwise barren region.
+Donatus Stultitia, otherwise known as the Mirage Plains, is a vast expanse of arid land characterized by relentless sun and parched earth. Most of the year, this desolate landscape endures a severe drought, believed to be the result of a curse inflicted by the [[Vilcren]], the Goddess of agriculture, in response to the arrogance of men. Despite its harshness, the plains experience a miraculous transformation during its brief rainy season, which brings a riot of life and colour to the otherwise barren region.
 
 ![[mirageplains.webp]]
 
@@ -19,7 +19,7 @@ The Mirage Plains are defined by their extreme aridity and the dramatic seasonal
 
 ### 3. **History**
 
-Legends surrounding the Donatus Mirage Plains recount the tale of Donatus, the mortal son of Vilcren, the great deity of agriculture. Gifted with the sacred scythe and horn of Poraal Oir, tools that could coax life from barren earth, Donatus was a child of significant promise. Under the nurturing guidance of Vilcren, he thrived, but as he grew, so too did his ambition and pride. Ensnared by the allure of his own talents, Donatus embarked on a journey to demonstrate his superiority over his divine mother.
+Legends surrounding the Donatus Mirage Plains recount the tale of Donatus, the mortal son of Vilcren, the great deity of agriculture. Gifted with Vilcren's scythe and horn of [[Poraal Oir]], tools that could coax life from barren earth, Donatus was a child of significant promise. Under the nurturing guidance of Vilcren, he thrived, but as he grew, so too did his ambition and pride. Ensnared by the allure of his own talents, Donatus embarked on a journey to demonstrate his superiority over his divine mother.
 
 In the arid expanse of what is now the Donatus Mirage Plains, he attempted to create a realm that mirrored his vision of prosperity and fertility, challenging the natural order established by Vilcren. His hubris led him to believe he could surpass his mother’s prowess in agriculture and control over nature. However, his actions provoked the ire of Vilcren, who saw her son's arrogance as a direct affront to her authority.
 
@@ -27,11 +27,11 @@ As punishment for his audacity, Vilcren cursed the land that Donatus sought to t
 
 ### 4. **Political Structure**
 
-The political landscape of the Donatus Mirage Plains is primarily dominated by numerous Gnoll tribes, each with its own territory and leadership. Despite the apparent fragmentation, there is a unique hierarchical structure that underpins the governance of the region. All the Gnoll tribes, regardless of their size or power, ultimately recognize the authority of the original tribe, which resides in the ruins of Donatus' ancient settlement.
+The political landscape of the Donatus Mirage Plains is primarily dominated by numerous [[Gnoll]] tribes, each with its own territory and leadership. Despite the apparent fragmentation, there is a unique hierarchical structure that underpins the governance of the region. All the Gnoll tribes, regardless of their size or power, ultimately recognize the authority of the original tribe, the Bloodfang Clan, which resides in the ruins of Donatus' ancient settlement.
 
 This original tribe is considered the first among equals, their leadership stemming from their direct connection to the historical and sacred site of Donatus’ failed utopia. Living amidst the remnants of this ancient civilization, they are seen not just as political leaders but also as custodians of the plains.
 
-The central tribe’s leadership plays a crucial role in organizing large scale assaults' and in performing rituals to their dark deities. The leaders of this tribe are said to be directly marked by Spatalos, harbinger of famine
+The Bloodfang Clans leadership plays a crucial role in organizing large scale assaults' and in performing rituals to their dark deities. The leaders of this tribe are said to be directly marked by [[Spatalos]], harbinger of famine
 
 ### 5. **Economy**
 
@@ -55,11 +55,18 @@ This military might, intertwined with dark spiritual practices, ensures that the
 
 ### 8. **Notable Locations**
 
-List and describe significant cities, landmarks, or mysterious places within the region. This can include capitals, cultural sites, and areas of particular danger or interest.
+- [[The Ruins of Donatus]]: The ancient settlement where Donatus attempted to create his utopia, now inhabited by the Bloodfang Clan. It is a place of historical and spiritual significance.
+- [[Taenarius]]: One of the few cities within Donatus Stultitia, loacted on the South-Eastern edge of the region. 
+- [[Oasis of Mirages]]: A temporary and elusive oasis that appears during the rainy season, offering a brief respite and a glimpse of the land’s potential fertility.
+- [[The Forgotten Pools]]: Ancient, dried-up water sources that are said to hold magical properties during the rainy season, drawing both curiosity and reverence.
+- [[Salt Flats]]: A vast expanse of shimmering white salt that stretches out like a desolate sea. Even in the wet period this location remains dry and desolate. 
+- [[Skeleton Grove]]: The remnants of ancient forest that one existed on the outskirts of the Ruins of Donatus. 
 
 ### 9. **Significant Characters**
 
-Introduce key figures associated with the region, such as rulers, heroes, or villains. Include brief descriptions of their roles and impacts on the region.
+- **Thorgash Bloodfang:** The chieftain of the Bloodfang Clan, marked by Spatalos and a formidable leader in both battle and spiritual matters.
+- **Zarakk the Seer:** A Gnoll shaman of the Bloodfang Clan, known for his dark prophecies and rituals that invoke Spatalos’ favor.
+- **Grimtooth the Raider:** A notorious Gnoll warlord, feared for his ruthless raids on neighboring settlements and unmatched combat skills.
 
 ### 10. **Current Issues and Future Prospects**
 

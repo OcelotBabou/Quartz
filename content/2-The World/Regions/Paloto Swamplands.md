@@ -10,7 +10,7 @@ tags:
 *[puh-loh-toh swamp-lands]*
 ### 1. **Overview**
 
-The Paloto Swamplands, a vast and treacherous tropical forest region characterized by its dense, muggy jungles and expansive murky swamps. This inhospitable landscape is the domain of the Ratfolk, a resourceful and resilient species whose sprawling cities, built in a seemingly chaotic fashion on stilts and woven through dense foliage, cling to the coastal edges of the region.
+The Paloto Swamplands, a vast and treacherous tropical forest region characterized by its dense, muggy jungles and expansive murky swamps. This inhospitable landscape is the domain of the [[Ratfolk]], a resourceful and resilient species whose sprawling cities, built in a seemingly chaotic fashion on stilts and woven through dense foliage, cling to the coastal edges of the region.
 
 ![[Paloto.webp]]
 ### 2. **Geography**
@@ -23,7 +23,7 @@ Historically, Paloto Swamp has been a secluded area, largely untouched due to it
 
 ### 4. **Political Structure**
 
-Inspired by their observations of Agroma, the Ratfolk of Paloto Swamp have adopted a similar governance structure known as a triumvirate, ensuring balanced representation from their diverse societal factions. This system comprises representatives from three distinct clans: the [[Lab Rats]], the scientists and innovators; the [[Shadow Scurriers]], skilled in espionage and covert operations; and the [[Blighted Brutes]], who oversee military and protection duties.
+Inspired by their observations of [[Agroma]], the Ratfolk of Paloto Swamp have adopted a similar governance structure known as a triumvirate, ensuring balanced representation from their diverse societal factions. This system comprises representatives from three distinct clans: the [[Lab Rats]], the scientists and innovators; the [[Shadow Scurriers]], skilled in espionage and covert operations; and the [[Blighted Brutes]], who oversee military and protection duties.
 
 The capital, known as [[Tanglethorn]], serves as the central seat of power from which the triumvirate governs. While some of the surrounding cities and settlements acknowledge the authority of Tanglethorn, many others maintain a degree of autonomy, governed by local officials or clan leaders who prefer to manage their affairs independently. This decentralized approach allows for flexibility and local adaptation but can sometimes lead to tensions or disparities in policy implementation across the region.
 

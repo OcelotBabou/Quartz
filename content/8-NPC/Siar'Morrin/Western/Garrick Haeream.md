@@ -9,8 +9,6 @@ tags:
 ---
 *[garr-ick hair-eem]*
 
-![[Garrickblur.jpg]]
-
 **Basic Information**
 
 - **Name**: Garrick Haeream
@@ -27,6 +25,9 @@ tags:
 - **Height**: 180 cm
 - **Weight**: 78 kg
 - **Distinguishing Features**: Always carries a wand made of enchanted ashwood. His wrists are burdened with numerous bangles and bracelets holding trinkets, and he is rarely seen without his trademark wizards hat. 
+
+![[Garrickblur.jpg]]
+
 
 **Personality**
 

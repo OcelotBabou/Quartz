@@ -8,8 +8,6 @@ tags:
 ---
 *[re-mo-na rat-ur-ee-an]*
 
-![[Raurtianas.jpg]]
-
 **Basic Information**
 
 - **Name**: Remona Raturian
@@ -26,6 +24,9 @@ tags:
 - **Height**: 165 cm
 - **Weight**: 50 kg
 - **Distinguishing Features**: Always seen with a book in hand and often with a far-off look, as if lost in another world.
+
+![[Raurtianas.jpg]]
+
 
 **Personality**
 

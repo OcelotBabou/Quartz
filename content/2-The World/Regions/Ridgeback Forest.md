@@ -14,7 +14,7 @@ The Ridgeback Forest is the largest continuous forest in Siar'Morrin. Once a mys
 ![[Ridgebackforest.webp]]
 ### 2. **Geography**
 
-Ridgeback Forest, named after the towering Ridgeback Mountain range it borders, is a vast forest characterized by its dense canopy and sprawling undergrowth. This thick foliage creates a natural labyrinth, casting the forest floor into perpetual twilight and preserving ancient conditions within its depths. The mountains contribute to the forest’s isolated and perilous nature, creating a microclimate that sustains its ancient ecosystems.
+Ridgeback Forest, named after the towering [[Ridgeback Mountain]] range it borders, is a vast forest characterized by its dense canopy and sprawling undergrowth. This thick foliage creates a natural labyrinth, casting the forest floor into perpetual twilight and preserving ancient conditions within its depths. The mountains contribute to the forest’s isolated and perilous nature, creating a microclimate that sustains its ancient ecosystems.
 
 ### 3. **History**
 
@@ -42,14 +42,14 @@ These expeditions, though infrequent and rarely successful, are justified by the
 
 ### 8. **Notable Locations**
 
-- [[The Twilight Glades]]
-- [[Veridian Keep]]
-- [[Mozbull Pass]]
+- [[The Twilight Glades]]: A mysterious and enchanting area within Ridgeback Forest, where the dense canopy creates a perpetual twilight and the air is thick with magic.
+- [[Veridian Keep]]: An ancient and imposing fortress nestled deep within Ridgeback Forest, known for its strategic significance and storied past.
+- [[Mozbull Pass]]: A treacherous and narrow passage through the Ridgeback Mountains, rumored to be discovered by the orc warboss Mozbull, offering a hidden route from the [[Sceel wastelands]].
 
 ### 9. **Significant Characters**
 
-- [[Mayor Camilla Thorne]], of Bullmar:
-- [[Darius Thesequi]], the ranger: 
+- [[Mayor Camilla Thorne]], of Bullmar: Camilla is a well respected leader within Bullmar, and an open advocate for Elves. 
+- [[Darius Thesequi]], the ranger: A renowned ranger famous for his deep understanding of Ridgeback Forest, and his ability to navigate its perils. 
 
 ### 10. **Current Issues and Future Prospects**
 

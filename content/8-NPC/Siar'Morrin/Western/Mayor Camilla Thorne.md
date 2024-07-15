@@ -8,8 +8,6 @@ tags:
 ---
 *[cam-mill-ah thorn]*
 
-![[SereniaThorne.webp]]
-
 **Basic Information**
 
 - **Name**: Camilla Thorne
@@ -26,6 +24,9 @@ tags:
 - **Height**: 170 cm
 - **Weight**: 62 kg
 - **Distinguishing Features**: Signs of aging gracefully etched into her features, along with a silver brooch shaped like a leaf, gifted to her from an old elven friend from Silverleaf. 
+
+![[SereniaThorne.webp]]
+
 
 **Personality**
 

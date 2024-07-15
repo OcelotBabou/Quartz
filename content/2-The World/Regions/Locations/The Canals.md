@@ -32,7 +32,7 @@ The canals are vital for Agroma’s agriculture, ensuring the consistent supply 
 
 **Local Legends or Stories:** 
 
-Something about construction
+According to local legend, the intricate network of canals in Agroma was largely built thanks to the efforts of the legendary brothers, [[Sthenos]] and [[Krenos]], who entered into a competition to see who could complete their halves of the labour faster. Initially, Krenos took the lead with his rapid and aggressive approach, making swift progress. However, Sthenos, known for his unwavering determination, took no breaks over the entire construction, working steadily and consistently throughout the competition. Despite Krenos' early advantage, it was Sthenos' relentless dedication that ultimately led to his victory. The canals stand as a testament to Sthenos' perseverance and the importance of steady, consistent work.
 
 **Visitors' Experience:** 
 

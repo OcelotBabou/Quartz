@@ -9,8 +9,6 @@ tags:
 ---
 *[till-oh kwik-paw]*
 
-![[Tillo.jpg]]
-
 **Basic Information**
 
 - **Name**: - Tillo Quickpaw
@@ -27,6 +25,9 @@ tags:
 - **Height**: 120 cm
 - **Weight**: 40 kg
 - **Distinguishing Features**: Notable for his mechanical prosthetic tail, which he designed himself after an accident in his workshop. The tail is equipped with various tools and gadgets useful for his work.
+
+![[Tillo.jpg]]
+
 
 **Personality**
 

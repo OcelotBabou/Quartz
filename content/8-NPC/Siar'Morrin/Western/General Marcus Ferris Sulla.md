@@ -26,6 +26,9 @@ tags:
 - **Weight**: 95 kg
 - **Distinguishing Features**: A prominent scar runs across his left cheek, a souvenir from a pivotal battle; he wears a set of highly decorated armour and helmet that serves as both protection and a symbol of his rank.
 
+![[Marcus Sulla.jpg]]
+
+
 **Personality**
 
 - **Traits**: Authoritative, disciplined, and strategic. Marcus is known for his no-nonsense approach to leadership and his unwavering commitment to Agroma’s safety.

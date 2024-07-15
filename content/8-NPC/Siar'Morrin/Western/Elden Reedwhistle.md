@@ -11,8 +11,6 @@ tags:
 ---
 *[el-din reed-whiss-ul]*
 
-![[Eldin.jpg]]
-
 **Basic Information**
 
 - **Name**: Eldin Reedwhistle
@@ -29,6 +27,9 @@ tags:
 - **Height**: 128 cm
 - **Weight**: 48 kg
 - **Distinguishing Features**: Distinguished by his custom-made monocle that he uses for reading detailed documents.
+
+![[Eldin.jpg]]
+
 
 **Personality**
 

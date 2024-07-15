@@ -46,10 +46,10 @@ Despite these challenges, the Agroma defense force is a potent military entity. 
 
 ### 8. **Notable Locations**
 
-- [[Flown]]
-- [[The Canals]]
-- [[Lake Novus Mare]]
-- [[Hu Dao]]
+- [[Flown]]: The capital city of Agroma, Flown is a vibrant hub overlooking Lake Novus Mare, known for its bustling harbor and impressive architecture.
+- [[The Canals]]: An intricate network of waterways that manage the flow of water across Agroma, essential for irrigation and flood control.
+- [[Lake Novus Mare]]: A vast and vital freshwater lake surrounded by fertile plains, serving as the lifeline of Agroma's agricultural economy.
+- [[Hu Dao]]: A well-fortified town on an island in the northern part of Agroma, renowned for its ancient underground tunnels and significant Elven community.
 
 ### 9. **Significant Characters**
 

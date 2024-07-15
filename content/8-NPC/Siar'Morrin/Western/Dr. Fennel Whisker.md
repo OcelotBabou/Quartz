@@ -9,8 +9,6 @@ tags:
 ---
 *[Dr. fen-nel wis-ker]*
 
-![[Dr. Whosker.jpg]]
-
 **Basic Information**
 
 - **Name**: Dr. Fennel Whisker
@@ -27,6 +25,9 @@ tags:
 - **Height**: 122 cm
 - **Weight**: 45 kg
 - **Distinguishing Features**: Notable for his thick glasses, which he requires due to poor eyesight—a result of meticulous close-up work with tiny specimens and texts.
+
+![[Dr. Whosker.jpg]]
+
 
 **Personality**
 

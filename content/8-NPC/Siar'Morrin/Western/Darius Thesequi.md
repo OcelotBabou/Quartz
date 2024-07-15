@@ -9,8 +9,6 @@ tags:
 ---
 *[dahr-ee-us thuh-sek-wee]*
 
-![[Darius.jpg]]
-
 **Basic Information**
 
 - **Name**: Darius Thesequi
@@ -27,6 +25,9 @@ tags:
 - **Height**: 179 cm
 - **Weight**: 65 kg
 - **Distinguishing Features**: Darius has a strikingly pale complexion that contrasts sharply with his dark hair, common amongst Tenebris Elves. Darius keeps a necklace displaying the tooth of the orc warboss he killed in the Veridian Keep. 
+
+![[Darius.jpg]]
+
 
 **Personality**
 

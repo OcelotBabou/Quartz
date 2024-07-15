@@ -20,6 +20,8 @@ Encircling the land-bound edges of the city is an imposing wall. This formidable
 
 **History**:
 
+Flown was originally founded in ages long past, its early days marked by modest beginnings. However, it is only recently, under the unification of the Agroma region, that Flown has truly flourished into the vibrant and bustling city it is today. The city's strategic location overlooking Lake Novus Mare and its role as the political and economic center of Agroma have contributed to its rapid growth and development, transforming it into a hub of activity and prosperity.
+
 
 **Significance:** 
 

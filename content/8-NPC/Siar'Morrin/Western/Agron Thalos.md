@@ -27,6 +27,9 @@ tags:
 - **Weight**: 90 kg
 - **Distinguishing Features**: He is missing his pinky and ring finger on his left hand  and has dark tanned skin, reflecting his many years in fields.
 
+![[Agrona.webp]]
+
+
 **Personality**
 
 - **Traits**: Grounded, pragmatic, and nurturing.

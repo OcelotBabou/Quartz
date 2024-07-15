@@ -9,8 +9,6 @@ tags:
 ---
 *[se-ree-na vas-to-ree]*
 
-![[Serena.jpg]]
-
 **Basic Information**
 
 - **Name**: Serena Vastori
@@ -27,6 +25,9 @@ tags:
 - **Height**: 170 cm
 - **Weight**: 58 kg
 - **Distinguishing Features**: Has a delicate silver chain she wears at all times, embedded with a rare gemstone from the lost mines of [[Isla Saura]]. Her signature hair pin, depicting [[Mercio]].
+
+![[Serena.jpg]]
+
 
 **Personality**
 

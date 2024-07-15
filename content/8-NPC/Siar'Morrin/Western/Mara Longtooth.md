@@ -10,8 +10,6 @@ tags:
 ---
 *[mar-uh long-tooth]*
 
-![[RattusLibrarius.webp]]
-
 **Basic Information**
 
 - **Name**: Mara Longtooth
@@ -28,6 +26,8 @@ tags:
 - **Height**: 113 cm
 - **Weight**: 39 kg
 - **Distinguishing Features**: Mara is noted for her unusually long and sharp incisor teeth, which are a distinct trait of her lineage. She also carries an ornate staff that doubles as both a walking aid and a tool for retrieving books from high shelves.
+
+![[RattusLibrarius.webp]]
 
 **Personality**
 

@@ -9,8 +9,6 @@ tags:
 ---
 *[low-gar oak-ford]*
 
-![[Logaroak.webp]]
-
 **Basic Information**
 
 - **Name**: Logar Oakford
@@ -27,6 +25,9 @@ tags:
 - **Height**: 175 cm
 - **Weight**: 80 kg
 - **Distinguishing Features**: Bears a series of intricate tattoos along his arms, which are sacred texts from the Ascended Church’s doctrine.
+
+![[Logaroak.webp]]
+
 
 **Personality**
 
