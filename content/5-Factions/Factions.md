@@ -22,11 +22,11 @@ tags:
 
 **Defenders**
 - [[Biranian Guard]]
-- [[Rift Watchers]]
-- 
+- [[Rift Watch]]
+- [[Knights of Fireoath]]
 
 **Mercenaries**
-- 
+- [[Crimson Marauders]]
 
 **Mage Academies**
 - Elemental

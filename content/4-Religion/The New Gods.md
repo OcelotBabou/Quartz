@@ -19,6 +19,7 @@ The power and influence of the New Gods vary greatly among them, dependent on th
 - [[Cazium]]
 - [[Riero]]
 - [[Kakurcia]]
+- [[Clypeus]]
 - [[Alber]]
 - [[Mavera]]
 - [[Estera]]
