@@ -40,7 +40,7 @@ The power and influence of the New Gods vary greatly among them, dependent on th
 
 ### 3. **Perspectives**
 
-**[[The Ascended Church]]**
+**The [[Ascended Church]]**
 Even amongst those that are devote to the New Gods, it is very rare to find someone that worships all of them, or seem them as equals. The Ascended Church exemplifies this, upholding the supremacy of the Ascended Gods—Vilcren, Mercio, and Ratura—as the true exemplars of divine influence and power.
 
 The Ascended Church regards some of the other New Gods, such as Cazium or Alber, with a degree of skepticism. To them, figures like Cazium, and Alber, represent localized or less civilized attempts to deify former tribal leaders or heroes. These figures are often dismissed as "pseudo-gods," revered perhaps out of tradition or cultural loyalty but lacking the universal significance and divine essence that characterize the Ascended Gods.

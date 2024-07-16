@@ -29,7 +29,7 @@ Statera, the goddess of balance, is worshiped as the originator of all existence
 In stark contrast to the positive reverence for most of the Old Gods, [[Eolas]] is viewed by the Church as a cautionary figure. Once a revered goddess of knowledge, Eolas is believed to have misused her wisdom, leading directly to the creation of the Vices—embodiments of human excess and moral failings. The Church teaches that her fall from grace exemplifies how knowledge without wisdom and ethical restraint can lead to corruption and evil.
 
 **The Ascended Church**
-Within the theological framework of The [[Ascended Church]], Statera remains the pinnacle of divinity, the supreme deity whose balance and creation are the bedrock of the universe. However, the focus of The Ascended Church is less on Statera herself and more on the role of the human-derived gods who embody humanity's potential and achievements. 
+Within the theological framework of the [[Ascended Church]], Statera remains the pinnacle of divinity, the supreme deity whose balance and creation are the bedrock of the universe. However, the focus of The Ascended Church is less on Statera herself and more on the role of the human-derived gods who embody humanity's potential and achievements. 
 
 The Ascended Church holds a critical view of the other Old Gods, particularly Eris, Dorna, and Eolas. They believe that Eris and Dorna, representing law and chaos respectively, have abandoned humanity to retreat into their own realms, focusing on their cosmic duties over the welfare of the mortal races. Eolas, once a beacon of wisdom and knowledge, is seen as having failed humanity by succumbing to her own pride and curiosity, which led to her downfall and becoming a pawn of the vices. 
 

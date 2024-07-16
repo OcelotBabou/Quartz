@@ -11,8 +11,8 @@ tags:
 ### 2. **Factions**
 
 **Religious**
-- [[The Church of Statera]]
-- [[The Ascended Church]]
+- [[Church of Statera]]
+- [[Ascended Church]]
 - 
 
 **Guilds**

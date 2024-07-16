@@ -39,7 +39,7 @@ Despite varying beliefs and the degree of reverence towards different deities in
 
 ### 3. **Perspectives**
 
-**[[The Church of Statera]]**
+**The [[Church of Statera]]**
 The Vices are the most profound and dangerous threats ever encountered by Staterum. These entities are not merely symbolic representations of moral and emotional extremes but are the very real, malevolent forces actively seeking to undermine the harmony and balance established by Statera.
 
 The Vices of Excess are demons, embodying the overindulgence of mortal desires and emotions. They tempt and corrupt individuals by pushing them towards extreme behaviors that lead to chaos and destruction. Each Vice of Excess actively seeks to inflate human egos, desires, and emotions to destructive levels, driving individuals away from the path of balance that Statera champions.
