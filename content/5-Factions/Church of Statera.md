@@ -26,7 +26,8 @@ Founded centuries ago, the Church of Statera was established to unify various be
 
 ### 4. **Leadership and Structure**
 
-The Church of Statera is led by the Praesul Staterae, a role that not only denotes spiritual leadership but also significant political influence within New Birania and beyond. The current Praesul Staterae, Konrad Mercina, has been instrumental in elevating the Church's status to that of a co-ruler of New Birania, effectively making it a central pillar in the governance of the realm. 
+The Church of Statera is led by the [[Praesul Staterae]], a role that not only denotes spiritual leadership but also significant political influence within New Birania and beyond. The current Praesul Staterae, [[Konrad Mercina]], has been instrumental in elevating the Church's status to that of a co-ruler of New Birania, effectively making it a central pillar in the governance of the realm. 
+Supporting the Praesul is the Council of Balance, comprised of high-ranking clerics who manage the Church’s affairs across different regions. Each member is responsible for ensuring that regional practices adhere to the central doctrines while allowing for minor adaptations that respect local traditions and cultures.
 
 ### 5. **Culture and Beliefs**
 

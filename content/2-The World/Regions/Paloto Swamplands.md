@@ -19,7 +19,7 @@ The Paloto Swamplands, present a formidable barrier to outsiders, featuring trea
 
 ### 3. **History**
 
-Historically, Paloto Swamp has been a secluded area, largely untouched due to its natural barriers and the formidable reputation of the voracious predators that inhabit its lands. Recently, these conditions have fostered a unique society that thrives in what others would deem unlivable. Not only surviving the Ratfolk of the Paloto Swamplands, have thrived swelling in both population and technological advancement. 
+Historically, Paloto Swamp has been a secluded area, largely untouched due to its natural barriers and the formidable reputation of the voracious predators that inhabit its lands. Recently, these conditions have fostered a unique society that thrives in what others would deem unlivable. Not only surviving the Ratfolk of the Paloto Swamplands have thrived swelling in both population and technological advancement. 
 
 ### 4. **Political Structure**
 
@@ -33,7 +33,11 @@ This political arrangement has facilitated a structured yet adaptable governance
 
 The economy of Paloto Swamp is largely subsistence-based, with the Ratfolk expertly utilizing the swamp's rich biodiversity to meet their daily needs. They skillfully harvest a variety of resources from their environment, including medicinal herbs that are potent in treating both common and rare ailments, as well as sturdy building materials adapted to their humid and unstable environment.
 
-Despite their ingenuity and resourcefulness, the Ratfolk face significant economic challenges due to a general mistrust from neighboring regions and formal embargoes that limit their ability to trade broadly. These restrictions have been spurred by prejudices and fears surrounding the Ratfolk's unconventional methods and secretive nature. However, the Ratfolk's reputation as exceptional innovators and inventors has made some of their unique creations too impressive or beneficial to be entirely shunned by the outside world.
+Despite their ingenuity and resourcefulness, the Ratfolk face significant economic challenges due to a general mistrust from neighboring regions and formal embargoes that limit their ability to trade broadly. These restrictions have been spurred by prejudices and fears surrounding the Ratfolk's unconventional methods and secretive nature. However, the Ratfolk's reputation as exceptional innovators and inventors has made some of their unique creations too impressive or beneficial to be entirely shunned by the outside world. Notable inventions include:
+- **Eternal** **Fire**: This alchemical oil, when ignited, burns at an exceptionally high temperature and sustains its combustion for extended periods without additional fuel.
+- **Clockwork Prosthetics**: Intricately designed prosthetic limbs powered by clockwork mechanisms, providing mobility and functionality to those who have lost limbs.
+- **Steam-Powered Plough**: Designed specifically to aid [[Agroma]], this plough runs of steam generated utilizing Eternal Fire, drastically increasing agricultural productivity. 
+- **Aetheric Lenses**: Precision-crafted lenses that enhance the viewing of distant objects or reveal hidden magical auras, used by scholars, inventors or the short-sighted. 
 
 As a result, while trade with the outside is minimal, it is not non-existent. Certain Ratfolk inventions and products, particularly those that offer novel solutions or critical benefits, find their way into broader markets, often through indirect channels or discreet trading practices. These items not only showcase the Ratfolk's advanced understanding of science and magic but also serve as crucial economic lifelines that help sustain their communities amidst broader social and economic isolation.
 
@@ -44,7 +48,7 @@ The culture of the Ratfolk in Paloto Swamp is deeply influenced by their status 
 
 Despite their societal advancements and vibrant community life, Ratfolk often face prejudice from other races, who view them with a mix of fear and disdain. This has shaped a unique aspect of Ratfolk culture—a strong sense of unity and resilience. They draw strength from their shared heritage and common purpose, creating a community that is tightly knit and highly cooperative.
 
-Outside of the Ratfolk, the Paloto Swamplands, are a wild place, largely devoid of any significant cultural practices or established societies. 
+Outside of the Ratfolk the Paloto Swamplands are a wild place largely devoid of any significant cultural practices or established societies. 
 
 ### 7. **Military**
 
