@@ -7,7 +7,7 @@ tags:
   - Portum
   - WesternSiarMorrin
 ---
-*[]*
+*[ay-dan mare-iss]*
 
 **Basic Information**
 
@@ -26,6 +26,9 @@ tags:
 - **Weight**: 78 kg 
 - **Distinguishing Features**: His captains cloak, a family heirloom adorned with the medals of his forbearers. 
 
+![[Aidana.jpg]]
+
+
 **Personality**
 
 - **Traits**: Pragmatic, visionary, and deeply respectful of his maritime heritage.
@@ -37,26 +40,26 @@ tags:
 
 - **Early Life**: Born into a family with a storied history of sea captains, Aidan grew up listening to tales of the vast ocean and its myriad challenges. Though he never sailed himself, the legacy of his ancestors deeply influenced his worldview.
 - **Education**: Received a comprehensive education in maritime history, economics, and navigation theory, supplemented by practical leadership training.
-- **Key Events**: Stepped into a leadership role at a young age after demonstrating his aptitude for innovative problem-solving during a crisis involving coastal erosion near Seagate.
-- **Relationships**: Respected by the community and seen as a bridge between the old seafaring traditions and the current needs of Seagate.
+- **Key Events**: Stepped into a leadership role at a young age, despite having little genuine accomplishments is well respected and liked within Seagate. 
+- **Relationships**: Close ties to his fellow council members [[Mira Galewind]] and [[Toren Blackwater]]. He also has a family that he lives with in Seagate, and maintains good relations with most locals. 
 
 **Skills and Abilities**
 
-- **Combat Skills**: Basic defensive training, primarily in handling maritime conflicts and small arms, suited more for ceremonial purposes than actual combat.
+- **Combat Skills**: Basic defensive training, suited more for ceremonial purposes than actual combat.
 - **Technical Skills**: Expert in economic strategy, particularly in trade logistics and resource management.
 - **Special Abilities**: Has a knack for diplomacy and negotiation, crucial for re-establishing trade relationships.
 
 **Equipment**
 
 - **Weapons**: Carries a ceremonial naval saber passed down through his family, symbolizing his authority and connection to his heritage.
-- **Gadgets**: Uses maritime navigational tools as part of his office decor, representing his connection to his roots.
-- **Personal Belongings**: Owns an extensive collection of maritime charts and ship models, which he uses to educate the community about Seagate’s history.
+- **Gadgets**: Uses maritime navigational tools as part of his office décor, representing his connection to his roots.
+- **Personal Belongings**: Owns an extensive collection of maritime charts and ship models, which he uses to educate the community about Seagate’s history. His prize possession is his captains cloak passed down through generations. 
 
 **Significant Events**
 
-- **Major Plot Points**: Instrumental in initiating the Coastal Watch Program, a modern approach to revitalizing Seagate’s maritime surveillance and response capabilities.
-- **Important Missions**: Currently leading efforts to develop sustainable fishing practices and to explore renewable energy sources derived from oceanic technologies.
+- **Major Plot Points**: Aidan has played a crucial role in reigniting interest in Seagate’s maritime trade and exploration. While acknowledging existing challenges that must be overcome to fully realize this vision, he has effectively initiated key projects and discussions that are steering Seagate in the right direction towards its maritime revival
+- **Important Missions**: The ongoing revitalization of Seagate's maritime force. 
 
 **Quotes**
 
-- "We carry the legacy of the sea within us, not to anchor us to the past, but to guide us through the present."
+"We carry the legacy of the sea within us, not to anchor us to the past, but to guide us through the present."
