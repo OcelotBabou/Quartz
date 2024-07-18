@@ -32,7 +32,7 @@ Phemus Pass holds strategic and economic significance due to its historical role
 
 **Local Legends or Stories:** 
 
-One legend tells of Gorak, an infamous giant said to lurk along the pass. Gorak has become notorious for his attacks on unsuspecting merchants and travelers.
+One legend tells of [[Gorak]], an infamous giant said to lurk along the pass. Gorak has become notorious for his attacks on unsuspecting merchants and travelers.
 Other stories tell of lost merchant caravans holding good of immense value, just waiting to be found for those willing to brave the surroundings of Phemus Pass. 
 
 **Visitors' Experience:** 

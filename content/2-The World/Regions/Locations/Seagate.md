@@ -26,7 +26,7 @@ Seagate remains the political and cultural heart of Portum. It serves as the sea
 
 - **Old Harbor:** The decaying remnants of Seagate's once-thriving port, now a haunting reminder of its past.
 - **Council Hall:** The seat of local governance, where former merchants and sea captains' descendants make decisions for the region.
-- **Rezz Oir's Shrine:** A shrine dedicated to Rezz Oir, the Elemental God of the Trade Winds, located on an island in the middle of the harbor.
+- **Rezza Oir's Shrine:** A shrine dedicated to [[Rezza Oir]], the Elemental God of the Trade Winds, located on an island in the middle of the harbor.
 - **Isle of Marrow:** A small, rugged island just off the coast of Seagate, renowned for its ancient lighthouse long abandoned, yet still operation.
 
 **Local Legends or Stories:** 
