@@ -10,7 +10,7 @@ tags:
 *[por-tuhm]*
 ### 1. **Overview**
 
-Portum is most famous for its capital city, Seagate, a once a bustling port city thriving with the activity of a vibrant harbor on the westernmost point of Siar’Morrin. Known for its strategic position by the Periculosus Ocean, Portum was a hub of trade and cultural exchange, connecting distant lands with the heart of Siar’Morrin. However, following the Age of Darkness ([[AoD]]), it has become a shadow of its former vibrant self, transformed into a relic of past prosperity.
+Portum is most famous for its capital city, [[Seagate]], a once a bustling port city thriving with the activity of a vibrant harbor on the westernmost point of Siar’Morrin. Known for its strategic position by the Periculosus Ocean, Portum was a hub of trade and cultural exchange, connecting distant lands with the heart of Siar’Morrin. However, following the Age of Darkness ([[AoD]]), it has become a shadow of its former vibrant self, transformed into a relic of past prosperity.
 
 ![[seagate.webp]]
 
@@ -55,11 +55,12 @@ Leadership within the military draws on the region’s rich history of navigatio
 
 ### 9. **Significant Characters**
 
-- [[Aidan Maris]], Council Member of Seagate:
-- [[Mira Galewind]], Council Member of Seagate
-- [[Toren Blackwater]], Commander and Council Member of Seagate
-- [[Orla Sartosa]], Chief Merchant and Trade Negotiator, 
-- [[Ronan Stormsinger]], High Priest of Rezza Oir
+- [[Aidan Maris]], Council Member of Seagate: Aidan is passionately working to rekindle the city's maritime legacy while navigating the complex challenges posed by its past and present circumstances.
+- [[Mira Galewind]], Council Member of Seagate: An innovative council member of Seagate known for her relentless pursuit of sustainable development to secure a thriving future for the city.
+- [[Toren Blackwater]], Commander and Council Member of Seagate: The stalwart military commander of Seagate, Toren is a strategic leader dedicated to fortifying the city’s defenses and restoring its historical martial prowess.
+- [[Orla Sartosa]], Chief Merchant: As Seagate's Chief Merchant, Orla uses her keen business acumen and extensive network to rejuvenate the city's trade connections and economic standing in the region.
+- [[Ronan Stormsinger]], High Priest of Rezza Oir: Ronan serves as the spiritual anchor for Seagate, weaving the community’s enduring maritime spirit with a deep religious reverence to guide and protect them.
+- [[Eldrin Starwatcher]], Divine Magus: The reclusive Divine Magus, master of divination, who, disillusioned by the corruption he witnessed, now resides in Portum where he focuses on practicing and preserving the purity of his arcane arts.
 
 
 ### 10. **Current Issues and Future Prospects**

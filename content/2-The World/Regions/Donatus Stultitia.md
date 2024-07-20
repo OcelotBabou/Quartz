@@ -19,11 +19,13 @@ The Mirage Plains are defined by their extreme aridity and the dramatic seasonal
 
 ### 3. **History**
 
-Legends surrounding the Donatus Mirage Plains recount the tale of Donatus, the mortal son of Vilcren, the great deity of agriculture. Gifted with Vilcren's scythe and horn of [[Poraal Oir]], tools that could coax life from barren earth, Donatus was a child of significant promise. Under the nurturing guidance of Vilcren, he thrived, but as he grew, so too did his ambition and pride. Ensnared by the allure of his own talents, Donatus embarked on a journey to demonstrate his superiority over his divine mother.
+Legends surrounding Donatus Stultitia recount the tale of Donatus, the mortal son of Vilcren, the great deity of agriculture. Gifted with Vilcren's scythe and horn of [[Poraal Oir]], tools that could coax life from barren earth, Donatus was a child of significant promise. Under the nurturing guidance of Vilcren, he thrived, but as he grew, so too did his ambition and pride. Ensnared by the allure of his own talents, Donatus embarked on a journey to demonstrate his superiority over his divine mother.
 
 In the arid expanse of what is now the Donatus Mirage Plains, he attempted to create a realm that mirrored his vision of prosperity and fertility, challenging the natural order established by Vilcren. His hubris led him to believe he could surpass his mother’s prowess in agriculture and control over nature. However, his actions provoked the ire of Vilcren, who saw her son's arrogance as a direct affront to her authority.
 
 As punishment for his audacity, Vilcren cursed the land that Donatus sought to transform. Instead of a fertile paradise, the plains became a harsh, drought-stricken landscape, symbolizing the consequences of human overreach and arrogance. This curse, according to legend, is the reason for the perpetual state of drought that plagues the plains, broken only briefly each year when the rains return as a reminder of what the land might have been under divine favor.
+
+As a direct consequence of the curse laid upon it, the Donatus Mirage Plains have evolved into a forbidding landscape, scarcely visited by humans except those daring or desperate enough to cross. The harsh environment has become a breeding ground for gnolls. These gnoll tribes are not mere survivors but have adapted impressively to the inhospitable conditions. The gnolls' presence has effectively deterred most from attempting to traverse the plains, leading travelers and trade caravans to opt for the longer, northern routes around this desolate territory.
 
 ### 4. **Political Structure**
 
@@ -41,13 +43,13 @@ The Gnolls of Donatus Stultitia care not for economy, they take what they requir
 
 The culture and social structure of the Gnoll tribes inhabiting the Donatus Mirage Plains are deeply intertwined with their harsh environment and the darker aspects of their spiritual beliefs. Central to their societal norms is the worship of Spatalos, the harbinger of famine, who is revered through dark rituals and seen as a divine influencer of their daily lives and survival strategies.
 
-Leadership within the central tribe, which holds a significant influence over the other Gnoll tribes, is distinguished not only by political power but also by spiritual significance. These leaders are believed to be directly marked by Spatalos, bearing visible or mystical signs of their deity's favor. This connection purportedly grants them the authority to organize large-scale assaults on nearby settlements and to lead the Gnoll communities in ritual practices that are both a display of devotion and a plea for favor.
+Leadership within the Bloodfang Clan, which holds a significant influence over the other Gnoll tribes, is distinguished not only by political power but also by spiritual significance. These leaders are believed to be directly marked by Spatalos, bearing visible signs of their deity's favor. This connection purportedly grants them the authority to organize large-scale assaults on nearby settlements and to lead the Gnoll communities in ritual practices that are both a display of devotion and a plea for favor.
 
 ### 7. **Military**
 
-The military structure of the Gnoll tribes in the Donatus Mirage Plains is closely tied to their cultural practices and their veneration of Spatalos, the harbinger of famine. This unique blend of military and religious fervor forms the backbone of their defense and offensive strategies. The central tribe, which commands respect and allegiance due to their perceived divine favor, often leads these military efforts, organizing large-scale assaults and defensive maneuvers against perceived threats or opportunities for expansion.
+The military structure of the Gnoll tribes in the Donatus Mirage Plains is closely tied to their cultural practices and their veneration of Spatalos, the harbinger of famine. This unique blend of military and religious fervor forms the backbone of their defense and offensive strategies. The Bloodfang Clan, which commands respect and allegiance due to their perceived divine favor, often leads these military efforts, organizing large-scale assaults and defensive maneuvers against perceived threats or opportunities for expansion.
 
-The Gnolls are not only well-equipped for the harsh conditions of the plains but are also formidable warriors, trained from a young age in the arts of combat and survival. Their military prowess is enhanced by their ferocity and their ability to use the difficult terrain to their advantage, ambushing unsuspecting enemies or leading them into traps within the labyrinthine landscape of the plains.
+The Gnolls are not only well-equipped for the harsh conditions of the plains but are also formidable warriors, trained from a young age in the arts of combat and survival. Their military prowess is enhanced by their ferocity and their ability to use the difficult terrain to their advantage, ambushing unsuspecting enemies or leading them into traps within the treacherous landscape of the plains.
 
 The leaders, marked by Spatalos, are not just strategic commanders but also spiritual leaders who perform rituals before and after battles to seek the deity’s guidance and blessings. These rituals are believed to empower the warriors, instilling them with a ferocity that is feared by neighboring regions.
 
@@ -64,9 +66,10 @@ This military might, intertwined with dark spiritual practices, ensures that the
 
 ### 9. **Significant Characters**
 
-- **Thorgash Bloodfang:** The chieftain of the Bloodfang Clan, marked by Spatalos and a formidable leader in both battle and spiritual matters.
-- **Zarakk the Seer:** A Gnoll shaman of the Bloodfang Clan, known for his dark prophecies and rituals that invoke Spatalos’ favor.
-- **Grimtooth the Raider:** A notorious Gnoll warlord, feared for his ruthless raids on neighboring settlements and unmatched combat skills.
+- [[Thorgash Bloodfang]]: The chieftain of the Bloodfang Clan, marked by Spatalos and a formidable leader in both battle and spiritual matters.
+- [[Zarakk]] mouth of Spatalos: A Gnoll shaman of the Bloodfang Clan, known for his dark prophecies and rituals that invoke Spatalos’ favor.
+- [[Grimtooth]] the Raider: A notorious Gnoll warlord, feared for his ruthless raids on neighboring settlements and unmatched combat skills.
+- [[Skarn]], Keeper of Ruins: 
 
 ### 10. **Current Issues and Future Prospects**
 
