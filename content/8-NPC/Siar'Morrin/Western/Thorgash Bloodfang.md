@@ -58,3 +58,5 @@ tags:
 - **Important Missions**: Currently focused on quelling dissent within the clan and preparing for an impending large-scale assault on a neighboring settlement as a display of power and to secure more 'resources.'
 
 **Quotes**
+
+"The blood of our foes waters the plains, and in turn, Spatalos blesses our hunt."

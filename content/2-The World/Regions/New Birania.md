@@ -45,7 +45,7 @@ In pursuit of long-term stability and prosperity, New Birania also emphasizes ec
 
 New Birania, with its capital Vitaurum, is not only the economic center of Siar’Morrin but also its spiritual heart. Revered as the religious center of the world, Vitaurum hosts numerous temples and shrines that attract pilgrims from all over the realm. This deep religious connection permeates every aspect of Biranian life, influencing its festivals, public ceremonies, and daily practices. The city's identity as a spiritual hub enhances its stature and imbues its citizens with a profound sense of purpose and pride.
 
-This strong religious foundation is closely tied to New Birania's role as the protector of the realms. The region is responsible for the maintenance and defense of significant military installations, including Fort Logos and Wall Paleomyna. These fortifications are crucial for regional security and symbolize New Birania's commitment to safeguarding not just its own borders but those of neighboring areas as well. The upkeep of these sites is a source of national pride and a reflection of New Birania's dedication to stability and peace throughout Siar’Morrin.
+This strong religious foundation is closely tied to New Birania's role as the protector of the realms. The region is responsible for the maintenance and defense of significant military installations, including [[Fort Logos]] and [[Wall Paleomyna]]. These fortifications are crucial for regional security and symbolize New Birania's commitment to safeguarding not just its own borders but those of neighboring areas as well. The upkeep of these sites is a source of national pride and a reflection of New Birania's dedication to stability and peace throughout Siar’Morrin.
 
 The general populace of New Birania enjoys a relatively high standard of living, attributed to the lingering success of the ancient Biranian empire and the region's continued prosperity and stable social conditions. This satisfaction is evident in the vibrant public life and the cultural richness that characterizes Vitaurum and its surroundings. The citizens' happiness is bolstered by the effective governance and the cohesive community ethos fostered by both secular and religious leadership. As a result, New Birania not only stands as a beacon of economic and military might but also as a model of cultural and spiritual flourishing in a world still finding its way after great upheavals.
 
@@ -59,7 +59,12 @@ Furthermore, considerable resources and efforts have been allocated to bolsterin
 
 ### 8. **Notable Locations**
 
-List and describe significant cities, landmarks, or mysterious places within the region. This can include capitals, cultural sites, and areas of particular danger or interest.
+- [[Vitaurum]]:
+- [[Zakrada]]
+- [[Abdurii]]
+- [[Priscus Forest]]
+- [[Temple of the Lost God]]
+- [[Virmara Falls]]
 
 ### 9. **Significant Characters**
 
