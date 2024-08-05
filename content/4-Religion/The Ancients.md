@@ -21,7 +21,7 @@ In broader Staterum society, The Ancients are more myth than religion. They are 
 ### 3. **Perspectives
 
 **[[Elves]]**
-In the world of Statera, the elves hold a unique theological perspective that centers around two brother Gods, Gahrian and Alache. The elves revere Gahrian and Alache as the original creators and the brothers who shaped the cosmos. These divine figures are viewed not merely as gods but as the fundamental architects of the world, whose interplay of light and dark crafted all of existence.
+In the world of Staterum, the elves hold a unique theological perspective that centers around two brother Gods, Gahrian and Alache. The elves revere Gahrian and Alache as the original creators and the brothers who shaped the cosmos. These divine figures are viewed not merely as gods but as the fundamental architects of the world, whose interplay of light and dark crafted all of existence.
 
 The elven society venerates these deities through two primary sub-races, each aligning with one of the divine brothers:
 

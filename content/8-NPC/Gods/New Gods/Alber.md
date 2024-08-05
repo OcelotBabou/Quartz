@@ -28,35 +28,34 @@ tags:
 
 ## Personality
 
-- **Traits**: (Key personality traits)
-- **Strengths**: (Divine powers and positive traits)
-- **Weaknesses**: (Any known divine limitations or emotional vulnerabilities)
-- **Goals and Motivations**: (What drives this god? What are their divine objectives?)
+- **Traits**: Fierce, enigmatic, and unpredictable. Alber is a reflection of the raw, unbridled aspects of nature, embodying both its beauty and its dangers.
+- **Strengths**: Possesses immense power over natural environments, can control flora and fauna, and has the ability to restore or ravage the wilderness. Her connection to the natural world grants her resilience and a profound understanding of the earth's balance.
+- **Weaknesses**: Her power is diminished as the wilderness has been increasingly encroached upon by civilization. She can be volatile and may react unpredictably to disturbances in nature. Emotionally, she is affected deeply by environmental degradation and loss.
+- **Goals and Motivations**: Alber strives to protect and restore the natural world, even as her power dwindles. Her primary motivation is to resist the encroachment of civilization and to preserve the wild areas that remain. She seeks to inspire respect for the untamed nature of the world and to rekindle her lost strength through the preservation and rejuvenation of wilderness.
 
 ## Relationships
 
-- **Allies**: (Other gods or celestial beings they align with)
-- **Rivals/Enemies**: (Antagonistic relationships within the pantheon)
-- **Attitude towards Mortals**: (How they generally treat or interact with their followers and other mortals)
+- **Allies**: [[Theri'an]], often portrayed as her brother. [[Agra]], some believe Agra is the mother of Theri'an and Alber. 
+- **Rivals/Enemies**: The [[Dahri Empire]] and [[Riben]]. 
+- **Attitude towards Mortals**: Alber is both nurturing and wrathful. She can be a protector to those who respect and care for nature, but she shows fierce anger towards those who exploit or destroy it. Her interactions with mortals are often driven by their actions towards the environment.
 
 ## Mythology and Worship
 
-- **Creation Myth**: (Stories of their origin or significant mythological tales)
-- **Major Cults and Religious Practices**: (Description of main worship practices and any associated cults)
-- **Festivals**: (Special times of the year dedicated to this deity, including rituals and celebrations)
-- **Clergy and Temples**: (Description of priests, holy orders, and sacred sites dedicated to the deity)
+- **Creation Myth**: Alber is said to be a primal force of nature, emerging from the very fabric of the world itself. In ancient times, she was a dominant force, embodying the untamed wilderness in its full glory. As civilizations grew and expanded, the natural world was diminished, and Alber’s power has correspondingly waned. Despite this, she remains a critical figure in the struggle to restore and protect the natural world.
+- **Major Cults and Religious Practices**: The majority of Alber's followers are found in the major forest around the world. In particular, [[Agra Island]] is known for devotion to Alber, with numerous temples and religious members found here. 
+- **Festivals**: Festivals dedicated to Alber are often tied to the cycles of nature, such as the changing of the seasons or the full moon. Celebrations might include feasts, dance, and offerings of natural materials. The festivals serve to honor the wild and reaffirm the bond between mortals and nature.
+- **Clergy and Temples**: Priests and priestesses of Alber are often druidic in nature, living closely with the wilderness they revere. Temples dedicated to Alber are usually open-air sanctuaries, integrated into the natural environment rather than constructed structures. They may be located in deep forests, atop mountain peaks, or by sacred natural springs. 
 
 ## Significant Historical Impact
 
-- **Major Plot Points in World History**: (Key moments when this god significantly influenced the world’s history)
-- **Artifacts**: (Relics or magical items associated with the deity)
+- **Major Plot Points in World History**: Alber was once much more prevalent in the wider world, particularly [[Vahshi Forest]], where the [[Alberine]] believe she watched over them and protected their borders. However, her involvement within the world has greatly diminished over time, although it is worth noting she is one of the few Gods to remain on Staterum following the Age of Darkness ([[AoD]]).
+- **Artifacts**:
+    - **The Verdant Staff**: An ancient relic said to be imbued with Alber’s power, capable of controlling plant life and summoning natural guardians.
+    - **Heart of the Wild**: A mystical gem that embodies the essence of untamed nature, believed to have been a core source of Alber’s once-great power.
 
 ## Quotes
 
-- **Key Quotes**: (Iconic sayings or teachings attributed to the deity)
+“To tame nature is to enslave it; to protect it is to honor it.”
 
 ## Background
 
-- **Legends and Lore**: (Lesser-known tales and esoteric knowledge about the deity)
-
-This template should provide a comprehensive overview that can be used to detail each god within your pantheon, giving depth and context to their roles within your fantasy world.

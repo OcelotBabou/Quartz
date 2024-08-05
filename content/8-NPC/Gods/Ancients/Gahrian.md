@@ -37,9 +37,11 @@ tags:
 
 ## Relationships
 
-- **Allies**: Alache, Lux Elves
-- **Rivals/Enemies**: All Vices
-- **Attitude towards Mortals**: Unknown
+- **Family**: 
+	- [[Alache]], Brother
+	- [[Statera]], Daughter
+- **Relations**: 
+- **Attitude towards Mortals**: 
 
 ## Mythology and Worship
 

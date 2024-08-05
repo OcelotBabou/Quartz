@@ -48,15 +48,15 @@ tags:
 
 ### Equipment
 
-- **Weapons**: Carries a well-maintained sword that has seen many battles, and a ornate shield, marred by numerous scars.
+- **Weapons**: Carries a well-maintained long sword that has seen many battles, and a ornate shield, marred by numerous scars.
 - **Gadgets**: Uses military-grade tactical gear and communication devices to stay connected with his units.
 - **Personal Belongings**: 
 
 ### Significant Events
 
-- **Major Plot Points**: His leadership was crucial during the defense of Wall Paleomyna against overwhelming odds, earning him widespread acclaim.
+- **Major Plot Points**: Eron Vaelor played a pivotal role in restoring stability to the Shattered Kingdoms during the 'Schism War.' As the Legatus of the [[Biranian Guard]], he led his forces to quell the rampant infighting and re-establish a semblance of peace within the Shattered Kingdoms. 
 - **Important Missions**: Currently focuses on the training and deployment of the Biranian Guard to counter rising threats along the eastern frontiers.
 
 ### Quotes
 
-- "A true leader bears the weight of his soldiers' lives with every decision."
+"A true leader bears the weight of his soldiers' lives with every decision."

@@ -34,13 +34,17 @@ tags:
 
 ## Relationships
 
-- **Allies**: (Other gods or celestial beings they align with)
-- **Rivals/Enemies**: (Antagonistic relationships within the pantheon)
-- **Attitude towards Mortals**: (How they generally treat or interact with their followers and other mortals)
+- **Family**: 
+	- [[Gahrian]], Brother. Alache and Gahrian share a bond of mutual respect and collaboration. While their domains differ, they work together to uphold balance and counter threats.
+	- [[Statera]], Sister. As the youngest of the trio, Statera holds a special place in the dynamic between her brothers. Her presence has been a unifying force, bridging the gap between her siblings.
+- **Relations**: 
+	- [[Lux]] [[Elves]], 
+	- 
+- **Attitude towards Mortals**: 
 
 ## Mythology and Worship
 
-- **Creation Myth**: (Stories of their origin or significant mythological tales)
+- **Creation Myth**: Alache's origins are steeped in mystery and shadow. It is said that he emerged from the primordial void, a formless expanse of darkness and silence that predated the world itself. In this abyss, where light had yet to penetrate and secrets lay in wait, Alache took shape as the embodiment of the unseen and the unknown. His creation was not a single, dramatic event but rather a gradual emergence from the very essence of darkness, embodying the serenity and secrets that lay beneath the surface of existence.
 - **Major Cults and Religious Practices**: (Description of main worship practices and any associated cults)
 - **Festivals**: (Special times of the year dedicated to this deity, including rituals and celebrations)
 - **Clergy and Temples**: (Description of priests, holy orders, and sacred sites dedicated to the deity)
