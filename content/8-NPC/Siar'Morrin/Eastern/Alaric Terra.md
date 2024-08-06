@@ -6,7 +6,7 @@ tags:
   - NewBirania
   - EasternSiarMorrin
 ---
-*[]*
+*[al-uh-rik terr-uh]*
 
 ### Basic Information
 
@@ -34,8 +34,8 @@ tags:
 
 ### Background
 
-- **Early Life**: Born into the royal line of Terra, said to be the enduring lineage of Biran, Alaric as the first born to /// was destined for leadership from a young age. As such he was educated by the finest tutors in matters of statecraft and military tactics.
-- **Education**: Besides his formal education in governance and law, Alaric trained in the arts of war, learning from veteran commanders of the [[Biranian Guard]].
+- **Early Life**: Born into the royal line of Terra, said to be the enduring lineage of Biran, Alaric as the first born of [[Albus Terra]], was destined for leadership from a young age. As such he was educated by the finest tutors in matters of statecraft and military tactics.
+- **Education**: Alaric was afforded the greatest education available in Vitaurum, attending both Fortis Academy and Marcatura academy. In addition to his academic pursuits, he honed his martial skills under the tutelage of veteran commanders from the [[Biranian Guard]], mastering the arts of war through hands-on training."
 - **Key Events**: Ascended to the throne after his father's untimely demise during a period when the [[Shattered Kingdoms]] were engulfed in conflict. Demonstrating decisive leadership, King Alaric swiftly intervened, successfully mediating the disputes and restoring a measure of peace to the embattled region.
 - **Relationships**: Maintains a complex relationship with [[Praesul Staterae]] [[Konrad Mercina]], balancing cooperation with vigilance to prevent the church from overshadowing secular power. Maintains healthy and relations with his viceroys [[Harold Virent]] and [[Sienna Galt]]. Remains close friends with [[Eron Vaelor]], with whom he trained with in his time with the Biranian Guard.  
 

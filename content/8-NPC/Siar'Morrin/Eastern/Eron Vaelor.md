@@ -54,7 +54,7 @@ tags:
 
 ### Significant Events
 
-- **Major Plot Points**: Eron Vaelor played a pivotal role in restoring stability to the Shattered Kingdoms during the 'Schism War.' As the Legatus of the [[Biranian Guard]], he led his forces to quell the rampant infighting and re-establish a semblance of peace within the Shattered Kingdoms. 
+- **Major Plot Points**: Eron Vaelor played a pivotal role in restoring stability to the Shattered Kingdoms during the '[[Schism Wars]].' As the Legatus of the [[Biranian Guard]], he led his forces to quell the rampant infighting and re-establish a semblance of peace within the Shattered Kingdoms. 
 - **Important Missions**: Currently focuses on the training and deployment of the Biranian Guard to counter rising threats along the eastern frontiers.
 
 ### Quotes

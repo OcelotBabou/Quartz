@@ -74,7 +74,7 @@ Furthermore, considerable resources and efforts have been allocated to bolsterin
 - [[Harold Virent]]: Viceroy of Zakrada, 
 - [[Sienna Galt]]: Viceroy of Abdurii
 - [[Idris Elara]]: Keeper of the Temple of the Lost God,
-- Lord [[Tyron Galt]]: A prominent figure in Vitaurum’s trade circles
+- Lord [[Tyron Gallen]]: A prominent figure in Vitaurum’s trade circles
 
 
 ### 10. **Current Issues and Future Prospects**
