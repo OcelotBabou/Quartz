@@ -25,7 +25,7 @@ tags:
 - **Weight**: 50 kg (110 lbs)
 - **Distinguishing Features**: Notable for her rounded reading glasses.
 
-![[cb7796b1-7703-487e-acee-3aa12c8c68ac.webp]]
+![[Siennaa.webp]]
 
 ### Personality
 
