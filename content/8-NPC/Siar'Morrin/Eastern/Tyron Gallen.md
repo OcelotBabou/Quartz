@@ -58,4 +58,4 @@ tags:
 
 **Quotes**
 
-- "In trade, as in all things, the bold often reap the rewards while the hesitant ponder the risks."
+"In trade, as in all things, the bold often reap the rewards while the hesitant ponder the risks."
