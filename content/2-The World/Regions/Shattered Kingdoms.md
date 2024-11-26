@@ -43,13 +43,23 @@ This focus on militarization reflects the broader regional dynamics where streng
 
 ### 8. **Notable Locations**
 
-- **Orestia**: 
-- **Mesokini**: 
-- **Avatolika**: 
-- **Pistos**: The center of peace efforts and loyalty to the old gods.
-- **Vasae**: 
-- **Mesoyi**: 
-- **Neodoulas**: 
+#### **Kingdoms**
+
+- [[Orestia]]: 
+- [[Mesokini]]: 
+- [[Avatolika]]: 
+- [[Pistos]]: The center of peace efforts and loyalty to the old gods.
+- [[Vasae]]: 
+- [[Mesoyi]]: 
+- [[Neodoulas]]: 
+- [[Rarus]]
+
+#### **Geographic** **locations**
+
+- Protoramus Range
+- Mesoramus Range
+- Lake Serenith
+- 
 
 ### 9. **Significant Characters**
 

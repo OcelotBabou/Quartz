@@ -18,7 +18,7 @@ Vitaurum is a sprawling metropolis that beautifully blends ancient architecture 
 
 **History:** 
 
-Vitaurum, once the jewel of the Biranian empire, flourished under the favor of the gods. It was a city of unparalleled prosperity and abundance, envied by all who beheld it. Even after the gods departed, their blessings left an enduring legacy of splendor. Today, under the leadership of [[King Alaric Terra]] and the [[Praesul Staterae]], [[Konrad Mercina]], Vitaurum is at the forefront of efforts to reclaim and reunify the lands of Siar’Morrin, striving to restore order and stability in a world torn by chaos.
+Vitaurum, once the jewel of the Biranian empire, flourished under the favor of the gods. It was a city of unparalleled prosperity and abundance, envied by all who beheld it. Even after the gods departed, their blessings left an enduring legacy of splendor. Today, under the leadership of King [[Alaric Terra]] and the [[Praesul Staterae]], [[Konrad Mercina]], Vitaurum is at the forefront of efforts to reclaim and reunify the lands of Siar’Morrin, striving to restore order and stability in a world torn by chaos.
 
 **Significance:** 
 

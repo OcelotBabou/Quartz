@@ -7,7 +7,7 @@ tags:
   - NewBirania
   - BiranianGuard
 ---
-*[nyoo bee-rah-nee-uh]*
+*[nyoo bee-rahn-nee-uh]*
 ### 1. **Overview**
 
 New Birania, the largest cohesive realm in Eastern Siar’Morrin, represents the remnants of the once-great Biranian empire. In a world now devoid of gods, New Birania stands as a testament to the resilience and adaptability of its people, who have transformed their once-glorious empire into a beacon of hope and progress in a time of uncertainty.
@@ -59,23 +59,23 @@ Furthermore, considerable resources and efforts have been allocated to bolsterin
 
 ### 8. **Notable Locations**
 
-- [[Vitaurum]]:
-- [[Zakrada]]
-- [[Abdurii]]
-- [[Priscus Forest]]
-- [[Temple of the Lost God]]
-- [[Virmara Falls]]
+- [[Vitaurum]]: The jewel of New Birania, Vitaurum is a sprawling, ancient city renowned as the region’s cultural, economic, and spiritual heart, with grand architecture and deep ties to the Church of Statera.
+- [[Zakrada]]: A bustling trade city built around the confluence of the Fluvitae and Adda Rivers, Zakrada is famed for its historic role as a gateway to the heart of Eastern Siar'Morrin.
+- [[Abdurii]]: A secluded and ancient city hidden within a fortified structure, Abdurii is a bastion of safety in New Birania’s volatile west, its mysterious origins and opulent design inspiring both wonder and intrigue.
+- [[The Great Dividing Forest]]: A vast and lush woodland separating New Birania from the drier inland plains, this forest is a mix of cleared lands, inhabited groves, and untamed wilderness teeming with legends and danger.
+- [[Temple of the Lost God]]: A grand yet dilapidated temple on the Vitaurum Bay peninsula, shrouded in mystery, its intricate ruins and enigmatic statues inspire awe while guarding their forgotten history.
+- [[Solanna's Watch]]: A ruined fort marking New Birania’s northern boundary, this contested site holds strategic importance and serves as the battleground between defending forces, raiders, and demonic remnants.
+- [[The Azure Quarry]]: An abandoned excavation southwest of Vitaurum, the Azure Quarry is famed for its rare aetherstone and its chilling reputation for unexplained disappearances and supernatural phenomena.
 
 ### 9. **Significant Characters**
 
 - King [[Alaric Terra]]: A steadfast and strategic ruler, King Alaric is dedicated to stabilizing and expanding New Birania's territory while maintaining the delicate balance between secular governance and the growing influence of the Church of Statera.
 - Praesul Staterae [[Konrad Mercina]]: The ambitious and charismatic leader of the Church of Statera, Konrad Mercina is a pivotal figure whose religious fervor and political acumen are reshaping the spiritual and governance landscape of New Birania.
 - Legatus [[Eron Vaelor]]: The seasoned and tactical head of the Biranian Guard, Legatus Vaelor is tasked with the crucial responsibilities of defending New Birania's borders and leading military operations to fortify the realm's position as a regional powerhouse.
-- [[Harold Virent]]: Viceroy of Zakrada, 
-- [[Sienna Galt]]: Viceroy of Abdurii
-- [[Idris Elara]]: Keeper of the Temple of the Lost God,
-- Lord [[Tyron Gallen]]: A prominent figure in Vitaurum’s trade circles
-
+- [[Harold Virent]]: Viceroy of Zakrada, Harold oversees Zakrada with a blend of honor and fading efficacy. His long tenure as viceroy has seen better days, with rising crime and external influences beginning to test his control. Despite showing signs of mental wear, his commitment to New Birania remains unwavering, driven by a deep-rooted sense of duty and a desire to uphold his legacy.
+- [[Sienna Galt]]: Viceroy of Abdurii, Sienna has quickly proven herself as a capable and dynamic leader. Despite facing initial skepticism due to her youth, she has demonstrated an exceptional aptitude for governance, particularly in fortifying Abdurii against a variety of external pressures.
+- [[Idris Elara]]: Keeper of the Temple of the Lost God, Idris is a figure shrouded in mystery, his age lost to time but undoubtedly extending over a millennium. As the Keeper of the Temple of the Lost God, he is a custodian of vast religious knowledge and ancient secrets.
+- Lord [[Tyron Gallen]]: A key player in Vitaurum’s mercantile operations, Lord Tyron Gallen is known for his sharp business acumen and calculating nature. His ordinary appearance belies a ruthless and strategic mind that excels in navigating the complex trade networks that sustain New Birania’s economy.
 
 ### 10. **Current Issues and Future Prospects**
 
