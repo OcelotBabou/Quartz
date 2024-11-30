@@ -5,6 +5,7 @@ tags:
   - ShatteredKingdoms
   - EasternSiarMorrin
   - Location
+  - Kingdom
 ---
 *[oh-res-tee-uh]*
 
@@ -14,7 +15,7 @@ Orestia is the southernmost realm of the Shattered Kingdoms, often asserting its
 
 ### 2. **Geography**
 
-Orestia is an enclosed kingdom defined by natural barriers on nearly all sides. To the southeast lie the Collis Brigantium, bandit-infested hills that present a constant threat to travelers and trade routes. The Mesoramus Range forms its northeastern boundary, providing a rugged, mountainous backdrop and a vital source of water. Wrapping around from the west to the southwest is the Arteria River, a sprawling waterway that acts as both a natural border and a critical artery for transport and trade.
+Orestia is an enclosed kingdom defined by natural barriers on nearly all sides. To the southeast lie the [[Collis Brigantium]], bandit-infested hills that present a constant threat to travelers and trade routes. The Mesoramus Range forms its northeastern boundary, providing a rugged, mountainous backdrop and a vital source of water. Wrapping around from the west to the southwest is the Arteria River, a sprawling waterway that acts as both a natural border and a critical artery for transport and trade.
 
 The kingdom itself is largely composed of flat plains crisscrossed by meandering tributaries that feed into the Arteria River. These plains, while fertile during wetter seasons, are prone to the harsh summer heat and droughts typical of central Siar’Morrin. The lifeblood of Orestia’s agriculture comes from the Mesoramus Range, where winter runoff in spring rejuvenates the land, briefly transforming the plains into a verdant and productive landscape.
 
@@ -54,7 +55,7 @@ Religion in Orestia is predominantly tied to the worship of Statera and the Chur
 
 ### 7. **Military**
 
-Orestia’s military is a shadow of its former strength, having suffered devastating losses during the **Schism Wars**. Once a proud and formidable force, the kingdom’s army has dwindled to a modest contingent that struggles to maintain order within its borders.
+Orestia’s military is a shadow of its former strength, having suffered devastating losses during the Schism Wars. Once a proud and formidable force, the kingdom’s army has dwindled to a modest contingent that struggles to maintain order within its borders.
 
 The majority of Orestia’s remaining forces are now concentrated along the southeastern boundaries, where they face the constant threat posed by the bandit-infested Collis Brigantium. These troops are primarily engaged in skirmishes to protect bordering villages and prevent the bandits from gaining a foothold deeper into Orestian territory. Despite their best efforts, the sheer number of bandits and the challenging terrain often leave the soldiers stretched thin.
 
@@ -65,14 +66,22 @@ The military's equipment and training have also suffered due to the kingdom’s 
 
 ### 9. **Significant Characters**
 
-- King Lothar Evrard
-- Uthar Evard
-- Enna Evard
-- Dalfin Evard
-- Clodar Evard
-- Gisla Evard
-- 
+##### **Royal Family:**
+
+- King Lothar Evrard: The ailing monarch of Orestia, Lothar is a man who has struggled to lead in turbulent times. His debilitating illness and indecision have left the kingdom in a state of stagnation. Though he desires unity for his people, his inability to commit to a path forward has caused growing frustration among both his court and his citizens.
+- Uthar Evrard: The heir to the throne, Uthar is a pragmatic and ambitious leader who sees Orestia’s future tied to Mesokini. Known for his tactical mind and decisive nature, he is respected by many. Despite his capabilities, his cold pragmatism and often ruthless strategies have alienated some, casting doubts about his suitability for leadership.
+- Enna Evrard: Enna, the second child, is a staunch advocate for reestablishing ties with New Birania. Her calm and caring demeanor, coupled with her diplomatic skills make her popular among Orestia’s traditionalists. However, her idealism is often seen as impractical given the current state of the kingdom.
+- Dalfin Evrard: The most outspoken supporter of Mesokini, Dalfin shares his elder brother Uthar’s views but lacks his finesse and discipline. Impulsive and brash, Dalfin often undermines his own arguments with his fiery temper, yet he commands a loyal following among the younger and more opportunistic nobles.
+- Clodar Evrard: The fourth child, Clodar, is quiet and contemplative, often overshadowed by his more vocal siblings. While he supports aligning with New Birania, his introspective nature has made him a wildcard in the ongoing family debate, as he has yet to declare his intentions publicly.
+- Gisla Evrard: The youngest of the Evrard children, Gisla is fiercely independent and unafraid to challenge her older siblings. She supports reestablishing ties with New Birania but believes the kingdom should first focus on addressing internal issues such as the banditry and economic stagnation that plague Orestia.
+
+##### **Non-Royal Characters:**
+
+- Esmond Leyer:
+- Sister Marra
+- Sir Varek Raal
 
 ### 10. **Current Issues and Future Prospects**
 
-The Shattered Kingdoms are currently mired in a cycle of conflict and political fragmentation that presents ongoing challenges. The increasin
+Orestia faces a myriad of challenges that threaten its stability and future. Its isolation from major trade routes has left the kingdom economically stagnant, forcing it to rely on subsistence agriculture and dwindling reserves of wealth. The infestation of bandits in the Collis Brigantium further exacerbates these difficulties, exposing them to relentless raids from the vexatious hill lands. While the internal debate over aligning with Mesokini or New Birania has fractured the populace, with this set to worsen as King Lothar Evrards conditions worsens. 
+Despite these issues, Orestia retains significant potential. Its location, though currently a liability, could be a major asset if trade routes are reestablished or stability could be achieved within the Shattered Kingdoms. 
