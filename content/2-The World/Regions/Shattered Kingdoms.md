@@ -58,8 +58,8 @@ This focus on militarization reflects the broader regional dynamics where streng
 
 - Protoramus Range
 - Mesoramus Range
-- Lake Serenith
-- 
+- [[Lake Serenith]]
+- [[Dusk Forest]]
 
 ### 9. **Significant Characters**
 
