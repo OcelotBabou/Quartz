@@ -52,7 +52,8 @@ This focus on militarization reflects the broader regional dynamics where streng
 - [[Vasae]]: 
 - [[Mesoyi]]: 
 - [[Neodoulas]]: 
-- [[Rarus]]
+- [[Doulas]]:
+- [[Rarus]]:
 
 #### **Geographic** **locations**
 
