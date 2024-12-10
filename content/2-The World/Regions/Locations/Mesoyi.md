@@ -11,7 +11,7 @@ tags:
 
 ### 1. **Overview**
 
-Mesoyi, tucked against the imposing Ridgeback Mountains, is a realm removed from the tumultuous affairs of the rest of Siar'Morrin. Its secluded location and lack of through traffic—only attracting those whose destination is Mesoyi itself—grant it an air of tranquillity rare in this age. The kingdom has brokered a peaceful arrangement with Neodoulas, exchanging any surplus food supplies to deter the raids that once plagued its lands. Compared to the strife elsewhere in Staterum, life in Mesoyi is quiet and relatively peaceful.
+Mesoyi, tucked against the imposing [[Ridgeback Mountains]], is a realm removed from the tumultuous affairs of the rest of Siar'Morrin. Its secluded location and lack of through traffic, only attracting those whose destination is Mesoyi itself, grant it an air of tranquillity rare in this age. The kingdom has brokered a peaceful arrangement with [[Neodoulas]], exchanging any surplus food supplies to deter the raids that once plagued its lands. Compared to the strife elsewhere in Staterum, life in Mesoyi is quiet and relatively peaceful.
 
 ### 2. **Geography**
 
@@ -19,7 +19,7 @@ Mesoyi slopes gently out from the Ridgeback Mountains, a region defined by highl
 
 ### 3. **History**
 
-In the current age, Mesoyi suffered greatly during the rise of Neodoulas, which broke away from Doulas and embraced a tradition of relentless raiding. Mesoyi’s people endured devastating losses during this period, with many captured and sold into slavery while their farms and villages were pillaged.
+In the current age, Mesoyi suffered greatly during the rise of Neodoulas, which broke away from [[Doulas]] and embraced a tradition of relentless raiding. Mesoyi’s people endured devastating losses during this period, with many captured and sold into slavery while their farms and villages were pillaged.
 
 Over time, however, the intensity of these raids waned, and Mesoyi managed to forge a precarious arrangement with Neodoulas. In exchange for a regular supply of surplus food, Neodoulas agreed to cease its raids on Mesoyi’s lands. Though this agreement has placed a considerable strain on Mesoyi’s resources, often leaving the kingdom teetering on the brink of disaster, the people of Mesoyi have accepted it as a necessary compromise to ensure their survival. This uneasy pact, though far from ideal, has allowed the region to maintain its fragile peace, becoming a begrudgingly accepted reality for its people, as much a part of daily life as the coming of winter.
 
@@ -52,7 +52,7 @@ In lieu of an organized military, Mesoyi relies on its skilled hunters and horse
 ### 8. **Notable Locations**
 
 - **Mesoyi:** The capital city of the region, though its status as such is questionable. Devastated during the Neodoulas raids, much of it now sits abandoned, with only pockets of life returning to its shadowy streets. Situated on the western edges of Mesoyi, it is nestled against the Ridgeback Mountains.
-- **Kair Temple:** A sacred site dedicated to Kair, the Elemental God of Mountains. This temple is both a spiritual center and the entrance to an ancient passage leading deep into the Ridgeback Mountains. Over time, the path has fallen into disrepair and become overgrown, now infested with hostile creatures. Though the journey beyond the temple is now scarcely used, the site remains a integral part of spiritual tradition in the region. 
+- **Kair Temple:** A sacred site dedicated to [[Kair]], the Elemental God of Mountains. This temple is both a spiritual center and the entrance to an ancient passage leading deep into the Ridgeback Mountains. Over time, the path has fallen into disrepair and become overgrown, now infested with hostile creatures. Though the journey beyond the temple is now scarcely used, the site remains a integral part of spiritual tradition in the region. 
 - **Stone Crown Plateau:** A striking natural formation in the heart of Mesoyi. This elevated plateau is ringed by jagged, crown-like stone spires that seem to pierce the sky. The area was once central to ceremonial tradition, however such traditions have since been lost. During sunrise and sunset, the light plays upon the spires, casting long, golden shadows across the plains, acting as a giant natural sundial. 
 
 ### 9. **Significant Characters

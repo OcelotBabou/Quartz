@@ -25,7 +25,7 @@ The western border of Avatolika is a critical and highly contested area. The fer
 
 ### 3. **History**
 
-To many, Avatolika's history is little more than a footnote, marked by limited influence and a modest role in the grander narratives of the Shattered Kingdoms. This obscurity proved to be a blessing during the [[Schism Wars]], as Avatolika largely escaped the devastation that ravaged its neighbors, overlooked by the more powerful kingdoms.
+To many, Avatolika's history is little more than a footnote, marked by limited influence and a modest role in the grander narratives of the Shattered Kingdoms. This obscurity proved to be a blessing during the [[Schism Wars]], as Avatolika largely escaped the devastation that ravaged its neighbours, overlooked by the more powerful kingdoms.
 
 However, the kingdom's current conflict with Vesae has brought it into the spotlight. The dispute over Star fall Island, combined with accusations of piracy and oppressive trade practices, has escalated tensions to unprecedented levels. What was once a quiet corner of the Shattered Kingdoms now teeters on the brink of war, as Avatolika fights to protect its sovereignty and way of life.
 
@@ -40,7 +40,7 @@ In response to the escalating conflict, a temporary council composed of the most
 
 Avatolika’s economy is heavily reliant on trade with neighboring regions, particularly for goods and resources that its modest lands cannot produce. This dependency has left the kingdom vulnerable to external pressures, and the imposition of significant tariffs by Vesae has had a devastating impact. These tariffs are not limited to Avatolika’s exports but also heavily target imports, drastically increasing the cost of essential goods and making it even harder for the kingdom to sustain itself.
 
-To exacerbate the situation, [[Mesokini]], a critical trading partner, has also imposed both import and export tariffs on Avatolika, allegedly under pressure from Vesae. These restrictions severely hinder the flow of goods into the region, leaving Avatolika struggling to acquire vital supplies. The dual burden of import and export tariffs has created a stranglehold on the kingdom’s economy, with its merchants and citizens bearing the brunt of these economic hardships.
+To exacerbate the situation, [[Mesokini]], a critical trading partner, has also imposed both import and export tariffs on Avatolika, allegedly under pressure from Vesae. These restrictions severely hinder the flow of goods into the region, leaving Avatolika struggling to acquire vital supplies. The dual burden of import and export tariffs has created a stranglehold on the kingdom’s economy, with its merchants and citizens bearing the brunt of these economic hardships. Currently, [[Pistos]] serves as a lifeline, the only local region still willing to conduct fair trade with the struggling people of Avatolika. 
 
 Many in Avatolika view these actions as a deliberate and coordinated effort to weaken the kingdom, fostering resentment and fueling the ongoing tensions with Vesae. This economic isolation has left Avatolika in a precarious position, with few viable options to counteract these pressures, compounding the challenges faced by its people and leaders.
 

@@ -1,25 +1,29 @@
 ---
-title: Example Title
+title: Neodoulas
 draft: false
 tags:
+  - Location
+  - EasternSiarMorrin
+  - Kingdom
+  - ShatteredKingdoms
 ---
 *[knee-oh-doo-luhs]*
 
 ### 1. **Overview**
 
-Neodoulas, the youngest of the Shattered Kingdoms, broke away from Doulas under the leadership of its ambitious ruling class, who seized the majority of the region's resources and military power. Situated in the far west, Neodoulas has established strong ties with Thapsos and Fort Logos, serving as a critical gateway for trade between these regions and the rest of the Shattered Kingdoms. Additionally, Neodoulas has carved a lucrative niche by capturing "recruits" from neighboring territories and selling them into service at Fort Logos, a practice that has made the region exceedingly wealthy
+Neodoulas, the youngest of the Shattered Kingdoms, broke away from [[Doulas]] under the leadership of its ambitious ruling class, who seized the majority of the region's resources and military power. Situated in the far west, Neodoulas has established strong ties with [[Thapsos]] and [[Fort Logos]], serving as a critical gateway for trade between these regions and the rest of the Shattered Kingdoms. Additionally, Neodoulas has carved a lucrative niche by capturing 'recruits' from neighboring territories and selling them into service at Fort Logos, a practice that has made the region exceedingly wealthy
 
 ### 2. **Geography**
 
-Situated on the highlands between the Ridgeback Mountains and the Protoramus Range, Neodoulas boasts the highest average elevation of any region in Siar'Morrin. Its lofty position exposes it to harsh winters, fierce winds, and rugged terrain, creating an environment of steep slopes and dramatic vistas. To the west, the land narrows between the mountain ranges before plunging sharply into the Pilliga Plains, overlooking Thapsos, far below. The path descending into Thapsos is treacherously steep and winding, making it both a natural barrier and a critical route for trade and movement. In contrast, the eastern lands of Neodoulas gradually slope downward, merging into the broader terrain that gently transitions toward the Serenith Basin.
+Situated on the highlands between the [[Ridgeback Mountains]] and the [[Protoramus Range]], Neodoulas boasts the highest average elevation of any region in Siar'Morrin. Its lofty position exposes it to harsh winters, fierce winds, and rugged terrain, creating an environment of steep slopes and dramatic vistas. To the west, the land narrows between the mountain ranges before plunging sharply into the [[Pilliga]] Plains, overlooking Thapsos, far below. The path descending into Thapsos is treacherously steep and winding, making it both a natural barrier and a critical route for trade and movement. In contrast, the eastern lands of Neodoulas gradually slope downward, merging into the broader terrain that gently transitions toward the Serenith Basin.
 
-These eastern edges are dominated by farmland worked by 'recruits' deemed unsuitable for Fort Logos. These farms are critical to supporting the upper classes of the region, ensuring a steady supply of resources and luxuries despite the harshness of the land. To the south, the kingdom's border is defined by the sprawling Dusk Forest, a wild and untamed expanse riddled with creatures and races that most Neodoulasians view as nuisances or threats. Many in Neodoulas see the Dusk Forest as a waste of valuable land, longing for it to be cleared and brought under control, but its dense terrain and dangerous inhabitants make such ambitions a daunting challenge.
+These eastern edges are dominated by farmland worked by 'recruits' deemed unsuitable for Fort Logos. These farms are critical to supporting the upper classes of the region, ensuring a steady supply of resources and luxuries despite the harshness of the land. To the south, the kingdom's border is defined by the sprawling [[Dusk Forest]], a wild and untamed expanse riddled with creatures and races that most Neodoulasians view as nuisances or threats. Many in Neodoulas see the Dusk Forest as a waste of valuable land, longing for it to be cleared and brought under control, but its dense terrain and dangerous inhabitants make such ambitions a daunting challenge.
 
 ### 3. **History**
 
 Neodoulas' history is brief yet marked by its rapid ascent to prominence. Breaking away from the stagnation and inefficiency of Doulas, Neodoulas quickly established itself as a thriving and resourceful region, leveraging the wealth and military might it claimed during the separation. While some neighbouring regions harbor resentment towards Neodoulas for its aggressive tactics and perceived opportunism, many within the kingdom view their success as a testament to their ingenuity, resilience, and ability to adapt in a world fraught with challenges.
 
-Relations with Mesoyi have been complex since the separation. In its early years, Neodoulas frequently ventured into Mesoyi’s lands, justifying their actions as necessary 'explorations' to secure supplies and 'recruit' its people to serve the vital needs of Fort Logos. Over time, however, Neodoulas recognized the strategic value of a stable neighbour. Negotiations led to a mutual arrangement: Mesoyi would provide surplus food supplies, while Neodoulas would seek recruits elsewhere.
+Relations with [[Mesoyi]] have been complex since the separation. In its early years, Neodoulas frequently ventured into Mesoyi’s lands, justifying their actions as necessary 'explorations' to secure supplies and 'recruit' its people to serve the vital needs of Fort Logos. Over time, however, Neodoulas recognized the strategic value of a stable neighbour. Negotiations led to a mutual arrangement: Mesoyi would provide surplus food supplies, while Neodoulas would seek recruits elsewhere.
 
 As for its former rulers in Doulas, the relationship remains deeply fractured. Neodoulas still carries the wounds of what it perceives as years of oppression and mismanagement under Doulas' failing rule. 'Explorations' into Doulas remain common, officially justified as efforts to enforce dominance and secure the recruits needed to meet Neodoulas' obligations to Fort Logos. While these incursions are viewed as a necessity within Neodoulas, Doulas has branded them as unprovoked raids, using propaganda to paint Neodoulas as a ruthless aggressor. This narrative has stoked tensions, not just between the two regions but across the Shattered Kingdoms.
 
@@ -35,11 +39,11 @@ The backbone of Neodoulas’ economy lies in its 'forced recruits,' with these r
 
 Neodoulas' trade in recruits is also a significant economic driver. With Fort Logos perpetually in need of soldiers, the kingdom profits immensely by supplying a steady flow of forced conscripts. The demand is so high that the military leaders of Fort Logos are willing to turn a blind eye to their origins, and pay an incentive for their continued supply. 
 
-Beyond its trade in recruits, Neodoulas faces challenges in engaging with the broader economy of the Shattered Kingdoms. The lingering animosity from its split with Doulas has led to widespread propaganda and mistrust, limiting trade opportunities with many neighboring regions. However, the ever pragmatic Mesokini has emerged as a consistent trade partner, willing to overlook Neodoulas' practices in exchange for favorable deals and reliable goods.
+Beyond its trade in recruits, Neodoulas faces challenges in engaging with the broader economy of the Shattered Kingdoms. The lingering animosity from its split with Doulas has led to widespread propaganda and mistrust, limiting trade opportunities with many neighboring regions. However, the ever pragmatic [[Mesokini]] has emerged as a consistent trade partner, willing to overlook Neodoulas' practices in exchange for favorable deals and reliable goods.
 
 ### 6. **Culture and Society**
 
-The culture and society of Neodoulas are deeply stratified, reflecting the rigid hierarchy established by its political and economic systems. At its core, **status is everything**, with the ruling elite enjoying unparalleled wealth and privilege while the lower classes, particularly the forced recruits, endure harsh conditions and minimal freedoms.
+The culture and society of Neodoulas are deeply stratified, reflecting the rigid hierarchy established by its political and economic systems. At its core, status is everything, with the ruling elite enjoying unparalleled wealth and privilege while the lower classes, particularly the forced recruits, endure harsh conditions and minimal freedoms.
 
 The aristocracy of Neodoulas lives in opulence, often isolated from the struggles of the broader population. They view themselves as the rightful rulers of the region, their wealth and power justified by their supposed ingenuity and resourcefulness in carving out Neodoulas' independence. Art, architecture, and literature are all highly regarded among this class, often used as tools to celebrate Neodoulas' dominance and its unique place in Siar'Morrin. The elite are also deeply pragmatic, placing value on alliances, resource management, and practical governance over idealistic pursuits.
 
@@ -72,6 +76,6 @@ The military is structured around two primary functions: external operations and
 
 Neodoulas faces several challenges as it navigates its controversial rise to power. Internally, the region grapples with growing discontent among its lower classes and the "recruits," who see their treatment as a grave injustice. Rumours of rebellion ever pervade the region, threating to materialize should an opportunity ever present itself. Additionally, reliance on 'expeditions' into Doulas as a means of securing recruits and resources has become a delicate balancing act. There is a growing awareness among Neodoulas’ leadership that overexploitation could render Doulas an unviable target. Depleting the population or resources of their former overlord would eliminate a critical source of income and weaken Neodoulas’ ability to maintain its current system.
 
-To address this, some within the Tyrarch’s council have begun advocating for a diversification of targets. Discussions have turned to expanding expeditions beyond Doulas, with Vasae emerging as a potential target. Vasae’s relative wealth and central position make it an appealing option for resource acquisition, though its stronger military poses risks. Additionally, daring voices have even suggested incursions into Hybla Gratis, aiming to capture centaurs as recruits. 
+To address this, some within the Dominion Assembly have begun advocating for a diversification of targets. Discussions have turned to expanding expeditions beyond Doulas, with [[Vasae]] emerging as a potential target. Vasae’s relative wealth and central position make it an appealing option for resource acquisition, though its stronger military poses risks. Additionally, daring voices have even suggested incursions into [[Hybla Gratis]], aiming to capture centaurs as recruits. 
 
 While such considerations highlight Neodoulas’ ambition and pragmatism, they also reveal the precariousness of its reliance on forced labor. Expanding expeditions into new territories could bring immediate gains but risks spreading resources too thin or provoking broader conflicts that could destabilise the region.
