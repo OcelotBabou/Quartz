@@ -12,7 +12,7 @@ Lake Abscon is a serene and mysterious body of water located at the Eastern base
 
 **Description:** 
 
-Lake Abscon is characterized by its tranquil waters that reflect the surrounding mountains and forests, creating a stunning mirror-like effect. The lake is deep, with its depths shrouded in mystery, and the water is often described as having an almost otherworldly quality. The shores of Lake Abscon are lined with ancient trees and lush vegetation, providing a natural habitat for a variety of wildlife. The area is often enveloped in a gentle mist, adding to its mystical and secluded atmosphere. 
+Lake Abscon is characterised by its tranquil waters that reflect the surrounding mountains and forests, creating a stunning mirror-like effect. The lake is deep, with its depths shrouded in mystery, and the water is often described as having an almost otherworldly quality. The shores of Lake Abscon are lined with ancient trees and lush vegetation, providing a natural habitat for a variety of wildlife. The area is often enveloped in a gentle mist, adding to its mystical and secluded atmosphere. 
 
 **History:** 
 

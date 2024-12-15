@@ -9,7 +9,7 @@ tags:
 *[shat-erd king-dums]*
 ### 1. **Overview**
 
-The Shattered Kingdoms, a region aptly named for its fractured and tumultuous nature, lying to the north of New Birania. Once a part of the grand Biranian empire, these lands have splintered into a myriad of petty kingdoms following the empire's decline. Today, these realms are a mosaic of conflict and ambition, each controlled by leaders ranging from ambitious lords and cunning generals to opportunistic social climbers.
+The Shattered Kingdoms are a fractured collection of once-unified realms in Eastern Siar’Morrin. During the Age of Darkness, as the Biranian Empire collapsed, the kingdoms first splintered, each region turning inward to survive the chaos of that era. While New Birania later sought to reunify the region during the Age of Mortals, these efforts ultimately culminated in the Schism Wars, which dashed any hopes of reunification. Today, the kingdoms remain divided, each vying for dominance, survival, or isolation. Despite their shared history, they are often at odds, with internal strife and external manipulation shaping their volatile political landscape.
 
 ### 2. **Geography**
 
@@ -19,11 +19,11 @@ Beyond Lake Serenith, the geography varies from rugged mountainous areas to dens
 
 ### 3. **History**
 
-Historically, the Shattered Kingdoms were integral territories of the Biranian empire, thriving under its expansive and unifying rule. However, the decline of the empire led to a power vacuum that resulted in the fragmentation of the region into numerous independent kingdoms. Each new kingdom forged its path, often at the expense of neighbours, leading to a complex tapestry of alliances and enmities that defines the region's tumultuous history.
+The Shattered Kingdoms trace their fragmentation to the Age of Darkness when the collapse of the Biranian Empire left Eastern Siar’Morrin in chaos. As the empire disintegrated, regions that were once united became isolated, with local leaders taking control to preserve their people. During the Age of Mortals, New Birania attempted to reunify these lands, rekindling old alliances and imposing order. However, the Schism Wars, ignited by Mesokini’s ambitions, tore the region apart once again. While some kingdoms emerged stronger, others were left weakened or irreparably damaged, ensuring that the dream of a unified Siar’Morrin would remain unrealized.
 
 ### 4. **Political Structure**
 
-The political landscape of the Shattered Kingdoms is characterized by its lack of central authority. Each kingdom operates under its governance, led by rulers who wield power through a combination of military strength, political cunning, and, occasionally, popular support. This decentralized structure fuels ongoing conflicts and power struggles as each kingdom vies for dominance or survival within the chaotic region.
+The political landscape of the Shattered Kingdoms is characterized by its lack of central authority. Each kingdom operates under its governance, led by rulers who wield power through a combination of military strength, political cunning, and, occasionally, popular support. This decentralised structure fuels ongoing conflicts and power struggles as each kingdom vies for dominance or survival within the chaotic region.
 
 ### 5. **Economy**
 
@@ -45,28 +45,25 @@ This focus on militarization reflects the broader regional dynamics where streng
 
 #### **Kingdoms**
 
-- [[Orestia]]: 
-- [[Mesokini]]: 
-- [[Avatolika]]: 
-- [[Pistos]]: The center of peace efforts and loyalty to the old gods.
-- [[Vasae]]: 
-- [[Mesoyi]]: 
-- [[Neodoulas]]: 
-- [[Doulas]]:
-- [[Rarus]]:
+- [[Orestia]]: Positioned at the southern edge of the Shattered Kingdoms, Orestia clings to its identity as separate from the chaos of its neighbours. Once a vital trade hub, it now struggles with economic decline and internal divisions over its future alliances, balancing its survival between New Birania and Mesokini.
+- [[Mesokini]]: The most powerful and influential of the Shattered Kingdoms, Mesokini is a hub of wealth, secrecy, and political intrigue. Strategically positioned between the Mesoramus and Protoramus Ranges, it continues to influence its neighbours while maintaining a façade of balance and strength.
+- [[Avatolika]]: A modest but resilient kingdom on the eastern edge of Lake Serenith, Avatolika thrives on community and survival, balancing a precarious existence with territorial disputes and economic hardships. Its people are hardened by conflict and united by their determination to protect their land and culture.
+- [[Pistos]]: Small yet formidable, Pistos is a kingdom of faith and tradition. Its people are deeply religious and dedicated to their land, valuing peace but prepared for war, with a military force renowned for its discipline and effectiveness.
+- [[Vasae]]: A thriving marshland kingdom along Lake Serenith, Vasae is a center of trade, luxury, and naval power. Despite its wealth, it faces growing pressures from piracy, territorial disputes, and the influx of refugees from Doulas, testing its resilience and leadership.
+- [[Mesoyi]]: Quiet and removed from the turmoil of the Shattered Kingdoms, Mesoyi thrives on a life of simplicity and routine. Nestled against the Ridgeback Mountains, its people value freedom and community, enduring the hardships of their isolated lifestyle with a resilience born from peace and self-reliance.
+- [[Neodoulas]]: Ruthless and opportunistic, Neodoulas thrives on forced labor and its lucrative trade with Fort Logos. Its wealth and military strength come at the expense of its neighbours, solidifying its place as both a feared and envied power in the region.
+- [[Doulas]]: A kingdom on the brink of collapse, Doulas struggles to recover from the betrayal and separation of Neodoulas. Plagued by raids, resource scarcity, and internal division, its survival hangs by a thread as its people cling to the hope of rebuilding.
+- [[Rarus]]: Enigmatic and isolated, Rarus has shut itself off from the world since the Schism Wars. With patrolled borders and a veil of secrecy, little is known about its current state, fueling endless speculation about what lies within.
 
 #### **Geographic** **locations**
 
-- Protoramus Range
-- Mesoramus Range
+- [[Protoramus Range]]: 
+- [[Mesoramus Range]]:
 - [[Lake Serenith]]
 - [[Dusk Forest]]
 
-### 9. **Significant Characters**
 
-Introduce key figures associated with the region, such as rulers, heroes, or villains. Include brief descriptions of their roles and impacts on the region.
-
-### 10. **Current Issues and Future Prospects**
+### 9. **Current Issues and Future Prospects**
 
 The Shattered Kingdoms are currently mired in a cycle of conflict and political fragmentation that presents ongoing challenges. The increasing militarization of key kingdoms such as Avatolika and Vasae has heightened tensions across the region, with many observers fearing that the rivalry could escalate into a full-scale war. This potential conflict threatens not only the stability of the two kingdoms but also the safety and economic wellbeing of neighboring realms caught in the crossfire.
 
@@ -74,6 +71,4 @@ Amidst this volatile backdrop, the kingdom of Pistos emerges as a beacon of hope
 
 Looking ahead, the future of the Shattered Kingdoms hangs in a delicate balance. The outcome of Pistos’ peace efforts, the potential clash between Avatolika and Vasae, and the ability of the kingdoms to confront their internal and external challenges will determine the fate of the region. If Pistos can successfully navigate the political landscape and forge lasting alliances, there may be hope for a unified and stable future. However, if the kingdoms cannot overcome their rivalries and the specter of war becomes reality, the Shattered Kingdoms may face further fragmentation and hardship, possibly dissolving any remnants of their once-great empire.
 
-### 11. **Description**
 
-The long winded part
