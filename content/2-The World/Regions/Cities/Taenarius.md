@@ -2,9 +2,9 @@
 title: Taenarius
 draft: false
 tags:
-  - Location
   - DonatusStultitia
   - WesternSiarMorrin
+  - City
 ---
 *[tay-nah-ree-us]*
 

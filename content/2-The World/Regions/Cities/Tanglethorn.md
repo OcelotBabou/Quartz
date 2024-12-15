@@ -2,9 +2,9 @@
 title: Tanglethon
 draft: false
 tags:
-  - Location
   - PalotoSwamplands
   - WesternSiarMorrin
+  - City
 ---
 **Overview:** 
 

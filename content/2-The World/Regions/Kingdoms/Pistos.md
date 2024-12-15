@@ -4,7 +4,6 @@ draft: false
 tags:
   - Kingdom
   - ShatteredKingdoms
-  - Location
   - EasternSiarMorrin
 ---
 *[pis-tos]*

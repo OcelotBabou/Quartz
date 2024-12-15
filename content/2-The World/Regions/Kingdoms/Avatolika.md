@@ -3,7 +3,6 @@ title: Avatolika
 draft: false
 tags:
   - Kingdom
-  - Location
   - EasternSiarMorrin
   - ShatteredKingdoms
 ---

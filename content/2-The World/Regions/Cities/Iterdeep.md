@@ -2,9 +2,9 @@
 title: Iterdeep
 draft: false
 tags:
-  - Location
   - ShadowAisleMountains
   - WesternSiarMorrin
+  - City
 ---
 **Overview:** 
 

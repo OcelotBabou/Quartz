@@ -2,9 +2,9 @@
 title: Abdurii
 draft: false
 tags:
-  - Location
   - EasternSiarMorrin
   - NewBirania
+  - City
 ---
 *[Ahb-doo-ree]*
 

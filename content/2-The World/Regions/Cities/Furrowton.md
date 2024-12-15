@@ -2,10 +2,10 @@
 title: Furrowton
 draft: false
 tags:
-  - Location
   - PalotoSwamplands
   - WesternSiarMorrin
   - Ratfolk
+  - City
 ---
 **Overview:** 
 

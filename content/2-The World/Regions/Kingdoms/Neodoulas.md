@@ -2,7 +2,6 @@
 title: Neodoulas
 draft: false
 tags:
-  - Location
   - EasternSiarMorrin
   - Kingdom
   - ShatteredKingdoms

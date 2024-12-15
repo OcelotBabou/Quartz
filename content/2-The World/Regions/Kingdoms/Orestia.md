@@ -4,7 +4,6 @@ draft: false
 tags:
   - ShatteredKingdoms
   - EasternSiarMorrin
-  - Location
   - Kingdom
 ---
 *[oh-res-tee-uh]*

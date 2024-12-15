@@ -2,9 +2,9 @@
 title: Zakrada
 draft: false
 tags:
-  - Location
   - NewBirania
   - EasternSiarMorrin
+  - City
 ---
 *[Zah-krah-duh]*
 

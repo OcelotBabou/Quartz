@@ -2,9 +2,9 @@
 title: Vitaurum
 draft: false
 tags:
-  - Location
   - NewBirania
   - EasternSiarMorrin
+  - City
 ---
 *[]*
 

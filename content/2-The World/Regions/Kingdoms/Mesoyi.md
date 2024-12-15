@@ -3,7 +3,6 @@ title: Mesoyi
 draft: false
 tags:
   - EasternSiarMorrin
-  - Location
   - Kingdom
   - ShatteredKingdoms
 ---

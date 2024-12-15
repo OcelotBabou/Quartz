@@ -67,9 +67,9 @@ However, this safety comes with a price. Strict enforcement of the kingdom’s l
 
 ### 8. **Notable Locations**
 
-- Mesokini: The historical capital of the kingdom, Mesokini lies nestled in the spurs between the Protoramus and Mesoramus Ranges. While it remains a symbolic seat of power, its size and influence have diminished compared to Navara. 
-- Navara: Located along the southern shore of Lake Serenith, Navara has eclipsed Mesokini as the kingdom’s true heart of commerce and activity. The city thrives as a mercantile powerhouse, benefiting from its access to both the lake and the Arteria River, which connects it to other key regions. Bustling marketplaces, sprawling docks, and luxurious merchant estates dominate its landscape.
-- Sanctum of the Balancekeepers: Perched high with the Mesoramus Range, this sprawling monastery serves as the spiritual headquarters for the Balancekeepers. Accessible only by treacherous mountain paths, few outsiders are permitted to enter. 
+- **Mesokini**: The historical capital of the kingdom, Mesokini lies nestled in the spurs between the Protoramus and Mesoramus Ranges. While it remains a symbolic seat of power, its size and influence have diminished compared to Navara. 
+- **Navara**: Located along the southern shore of Lake Serenith, Navara has eclipsed Mesokini as the kingdom’s true heart of commerce and activity. The city thrives as a mercantile powerhouse, benefiting from its access to both the lake and the Arteria River, which connects it to other key regions. Bustling marketplaces, sprawling docks, and luxurious merchant estates dominate its landscape.
+- **Sanctum** **of** **the** **Balancekeepers**: Perched high with the Mesoramus Range, this sprawling monastery serves as the spiritual headquarters for the Balancekeepers. Accessible only by treacherous mountain paths, few outsiders are permitted to enter. 
 - 
 ### 9. **Significant Characters
 

@@ -2,7 +2,6 @@
 title: Rarus
 draft: false
 tags:
-  - Location
   - Kingdom
   - ShatteredKingdoms
   - EasternSiarMorrin

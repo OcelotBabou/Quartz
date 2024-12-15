@@ -2,9 +2,9 @@
 title: Stilt City
 draft: false
 tags:
-  - Location
   - PalotoSwamplands
   - WesternSiarMorrin
+  - City
 ---
 **Overview:** 
 

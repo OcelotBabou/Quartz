@@ -2,7 +2,6 @@
 title: Vasae
 draft: false
 tags:
-  - Location
   - Kingdom
   - ShatteredKingdoms
   - EasternSiarMorrin
