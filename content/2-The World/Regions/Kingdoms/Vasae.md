@@ -28,7 +28,7 @@ In more recent times, Vasae has found itself at odds with Avatolika over control
 
 ### 4. **Political Structure**
 
-asae operates under a monarchical system, with King Galla Ipato presiding over the realm. Unlike many of its neighbors, Vasae's governance reflects the kingdom's materialistic and trade-oriented culture. The king’s court is less focused on military might or religious ceremony and more attuned to commerce, economics, and the luxurious lifestyle Vasae prides itself on.
+Vasae operates under a monarchical system, with King Galla Ipato presiding over the realm. Unlike many of its neighbors, Vasae's governance reflects the kingdom's materialistic and trade-oriented culture. The king’s court is less focused on military might or religious ceremony and more attuned to commerce, economics, and the luxurious lifestyle Vasae prides itself on.
 
 Advising the king is a Merchant Council, a group of influential traders and artisans who represent the kingdom's most prominent guilds. This council wields considerable power, particularly in shaping trade policies and negotiating tariffs with other regions. While the king has ultimate authority, the council's decisions often dictate the kingdom's economic direction, ensuring Vasae remains competitive and wealthy.
 
@@ -71,7 +71,7 @@ While their navy excels in aquatic engagements, their ground forces are notably 
 
 ### 9. **Significant Characters**
 
-- **King Gall Ipato:** Renowned for his strategic mind and political savvy, King Galla Ipato has led Vasae through numerous challenges, uniting his people amidst conflict and turmoil. His ability to turn misfortunes into opportunities has earned him both admiration and criticism, as he walks a fine line between pragmatic leadership and opportunistic ambition.
+- **King Galla Ipato:** Renowned for his strategic mind and political savvy, King Galla Ipato has led Vasae through numerous challenges, uniting his people amidst conflict and turmoil. His ability to turn misfortunes into opportunities has earned him both admiration and criticism, as he walks a fine line between pragmatic leadership and opportunistic ambition.
 - **Queen Selyra Ipato:** A mysterious figure in Vasaean society, Queen Selyra is whispered to be a [[Kitsune]], though such claims are considered heretical by the Ascended Church. Her sharp intellect and rumoured mystical insights have made her an invaluable advisor to King Galla, though her enigmatic nature often leaves her true intentions obscured.
 - **Eren Velstar:** A pivotal figure in Vasae’s thriving economy, Eren Velstar is one of the wealthiest and most influential merchants in the region. Serving on the council, he is a staunch advocate for expanding trade routes and ensuring the kingdom’s economic dominance. He also acts as the primary diplomat in exchanges with Mesokini, a position that has brought both lucrative opportunities and quiet suspicion.
 - **Admiral Kyros Althane:** The brilliant leader of Vasae’s formidable navy, Admiral Kyros is a master of naval strategy and a staunch defender of the kingdom's waterways. Known for his ruthless methods in dealing with piracy, and his distain for Avalotika. He has urged for more open conflict with Avatolika from the earliest stages. 

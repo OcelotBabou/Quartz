@@ -48,7 +48,7 @@ tags:
 ### Equipment
 
 - **Weapons**: Carries the ceremonial sword "Regalis Edge" passed down through generations of the Terra family, symbolizing the king’s duty to protect his realm.
-- **Gadgets**: Utilizes various artifacts and relics inherited with his position.
+- **Gadgets**: Utilises various artifacts and relics inherited with his position.
 - **Personal Belongings**: His sword "Regalis Edge," as King and descendant of the Terra family, he also has numerous belongings passed down for both symbolism and sentimental reasons. 
 
 ### Significant Events

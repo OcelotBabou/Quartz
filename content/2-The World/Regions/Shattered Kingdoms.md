@@ -63,7 +63,15 @@ This focus on militarization reflects the broader regional dynamics where streng
 - [[Dusk Forest]]
 - 
 
-### 9. **Current Issues and Future Prospects**
+### 9. **Significant Characters**
+
+- [[Lothar Evrard]]: 
+- [[Fionn Domhail]]: 
+- [[Malcard Terra]]:
+- [[Seraphina Terra]]: 
+- [[Galla Ipato]]:
+
+### 10. **Current Issues and Future Prospects**
 
 The Shattered Kingdoms are currently mired in a cycle of conflict and political fragmentation that presents ongoing challenges. The increasing militarization of key kingdoms such as Avatolika and Vasae has heightened tensions across the region, with many observers fearing that the rivalry could escalate into a full-scale war. This potential conflict threatens not only the stability of the two kingdoms but also the safety and economic wellbeing of neighboring realms caught in the crossfire.
 
