@@ -63,7 +63,7 @@ The military is structured around two primary functions: external operations and
 - **Fort Pliroforia:** The Fort of Tribute, as it has come to be known, serves as the primary collection point for the tribute of food and supplies agreed upon in the treaty with Mesoyi. The fort is both a symbol of Neodoulas’ dominance and storehouse for the supplies gathered. Its defences are modest, designed to deter rebellion rather than repel external threats, as Mesoyi’s submissive nature has rendered such precautions largely unnecessary.
 - **Fort Aetius:** Situated on the border with Doulas, Fort Aetius is a strategic stronghold that serves as the launching point for 'expeditions' into neighboring territories. Heavily fortified and brimming with soldiers, the fort is a hive of activity, with recruits being processed and military campaigns meticulously planned. Its presence is a constant thorn in Doulas’ side, serving as a reminder of Neodoulas’ military strength and unyielding ambition.
 
-### 9. **Significant Characters
+### 9. **Significant Characters**
 
 - **Damian Tyarch Kordis**: The current Dominarch, Damian is a pragmatic and calculating leader, exemplifying the harsh yet efficient governance of Neodoulas. Although criticized by neighbouring kingdoms for his ruthless policies, his supporters admire him for his cunning and his unwavering dedication to ensuring Neodoulas thrives.
 - **Alexion Drakar:** Known for his tactical brilliance and unforgiving discipline, Alexion is the mastermind behind Neodoulas’ many expeditions. Fiercely loyal to Neodoulas, he believes the regions survival hinges on asserting dominance over its weaker neighbours. 

@@ -54,7 +54,7 @@ In lieu of an organized military, Mesoyi relies on its skilled hunters and horse
 - **Kair Temple:** A sacred site dedicated to [[Kair]], the Elemental God of Mountains. This temple is both a spiritual center and the entrance to an ancient passage leading deep into the Ridgeback Mountains. Over time, the path has fallen into disrepair and become overgrown, now infested with hostile creatures. Though the journey beyond the temple is now scarcely used, the site remains a integral part of spiritual tradition in the region. 
 - **Stone Crown Plateau:** A striking natural formation in the heart of Mesoyi. This elevated plateau is ringed by jagged, crown-like stone spires that seem to pierce the sky. The area was once central to ceremonial tradition, however such traditions have since been lost. During sunrise and sunset, the light plays upon the spires, casting long, golden shadows across the plains, acting as a giant natural sundial. 
 
-### 9. **Significant Characters
+### 9. **Significant Characters**
 
 - **King Evander Tralis**: Once a promising leader with dreams of revitalizing Mesoyi, King Evander now serves as a puppet ruler under Neodoulas' influence, primarily ensuring the region meets its food quotas in exchange for peace. Though not cruel or malicious, he is a figure of quiet resignation, burdened by the weight of his symbolic crown and the knowledge of his limited power.
 

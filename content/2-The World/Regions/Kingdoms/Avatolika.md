@@ -65,7 +65,7 @@ As tensions with Vesae escalate, Avatolika has been actively growing its militar
 - Lunor Crossing: A modest village situated near Avatolika’s northern border, Lunor Crossing serves as the primary point of interaction with the centaurs of Hybla Gratis. The centaurs, wary of human intentions, conduct all trade and diplomacy exclusively in this village. 
 - Star Fall Island: The contested island at the heart of Lake Serenith, Star Fall Island is a strategic location vital to regional trade. Both Avatolika and Vesae claim ownership, and the dispute over the island has fueled tensions between the two kingdoms.
 
-### 9. **Significant Characters
+### 9. **Significant Characters**
 
 - Fionn Domhail: A charismatic and pragmatic leader, Fionn serves as the de facto head of the Council. Originally, Lord of Avatolika city, Fionn has maintained his position as the most powerful of the leaders of Avatolika. 
 - Eillis Chathain: Leader of Bournehave, Eilis serves as a voice of opposition on the council. She opposes war, favoring diplomatic resolutions and a focus on fostering self-reliance within the region.

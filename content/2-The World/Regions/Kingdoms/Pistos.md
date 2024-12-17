@@ -64,7 +64,7 @@ Despite its small size, Pistos boasts an exceptionally effective army that outpe
 
 - 
 
-### 9. **Significant Characters
+### 9. **Significant Characters**
 
 - **Lord Malcard Terra**: The strategic and pragmatic co-ruler of Pistos, Lord Malcard is deliberate and calculated in every decision. While he may appear aloof, those close to him know him as a deeply loyal and steadfast ally. His leadership style, characterized by thorough planning and a considered approach, ensures the kingdom's stability and thoughtful governance.
 - **Lady Seraphina Terra**: Beloved for her diplomatic grace and spiritual depth, Lady Seraphina co-leads Pistos with a touch that endears her to her people. Her approachability and frequent interactions with the citizens often concern her personal guards, yet these traits reinforce her deep connection with the kingdom, making her an integral pillar of the diarchic rule.
