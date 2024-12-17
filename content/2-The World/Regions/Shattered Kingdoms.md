@@ -65,11 +65,13 @@ This focus on militarization reflects the broader regional dynamics where streng
 
 ### 9. **Significant Characters**
 
-- [[Lothar Evrard]]: 
-- [[Fionn Domhail]]: 
-- [[Malcard Terra]]:
-- [[Seraphina Terra]]: 
-- [[Galla Ipato]]:
+- [[Damian Tyarch Kordis]]: Dominarch of Neodoulas, Damian is known for his ruthless efficiency and cunning, securing Neodoulas' economic and military prowess through controversial yet effective policies.
+- [[Fionn Domhail]]: Charismatic and pragmatic, Fionn is the de facto leader of Avatolika, known for his towering presence and his ability to maintain power through shrewd leadership and decisive actions.
+- [[Galla Ipato]]: King Galla is a strategic and politically savvy leader who has guided Vasae through numerous challenges, turning adversities into opportunities to fortify his kingdom's position.
+- [[Louis De Januris]]: Once a symbol of hope, King Louis now embodies the decline of Doulas, an aged ruler whose apathy has seen his kingdom crumble around him.
+- [[Lothar Evrard]]: Ailing monarch of Orestia, Lothar's reign has been marked by indecision and illness, leaving his kingdom in a state of stagnation and uncertainty.
+- [[Malcard Terra]]: Co-ruler of Pistos, Malcard is known for his strategic mind and calculated decisions, ensuring the kingdom's stability and prosperity through a pragmatic and methodical approach.
+- [[Seraphina Terra]]: Beloved for her diplomatic skills and spiritual depth, Seraphina co-leads Pistos, endearing herself to the people with her warmth and frequent engagement in community affairs.
 
 ### 10. **Current Issues and Future Prospects**
 
