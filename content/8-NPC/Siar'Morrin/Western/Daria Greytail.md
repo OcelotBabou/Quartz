@@ -45,3 +45,5 @@ tags:
 **Motivation:** Lilia's love for her family and community drives her every action; she is motivated by the desire to see her children and grandchildren thrive in a world less divided by hatred and prejudice.
 
 ### Quotes
+
+"Family isn't about being related; it's about choosing each other, day after day. It's about loyalty, not just when it's convenient."
