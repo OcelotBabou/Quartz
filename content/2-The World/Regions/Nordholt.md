@@ -68,6 +68,3 @@ In subregions like Vestrask, the military presence is minimal, reflecting the co
 
 Lastly, establishing secure and reliable long-distance trade routes is essential for Nordholt’s economic diversification and sustainability. Given its isolated location and the strained relations due to raiding activities, Nordholt needs to forge alliances and trade agreements with distant regions to ensure a steady flow of necessary goods and to bring in additional revenue.
 
-### 11. **Description**
-
-The long winded part

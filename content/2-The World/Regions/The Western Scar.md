@@ -49,6 +49,3 @@ Introduce key figures associated with the region, such as rulers, heroes, or vil
 
 Current issues include constant demonic incursions and managing an environment that could corrupt your soul. Future prospects? Surviving. Maybe one day, someone will figure out how to purify these lands, but until then, the Rift Watch will keep watching, the demons will keep creeping, and the Western Scar will remain the least recommended tourist spot in Siar’Morrin.
 
-### 11. **Description**
-
-The long winded part

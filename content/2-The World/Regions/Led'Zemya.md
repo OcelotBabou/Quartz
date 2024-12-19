@@ -48,6 +48,3 @@ Introduce key figures associated with the region, such as rulers, heroes, or vil
 
 The main challenge facing Led'Zemya is its very nature. As the world around it changes, there may come a time when the forces that shape it might diminish or shift, potentially altering its role as a natural barrier. For now, it remains one of the most formidable regions in Siar'Morrin, largely untouched and untamed by human hands.
 
-### 11. **Description**
-
-The long winded part

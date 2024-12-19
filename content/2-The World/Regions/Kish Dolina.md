@@ -52,6 +52,3 @@ Introduce key figures associated with the region, such as rulers, heroes, or vil
 
 Kish Dolina continues to grapple with its internal divisions, which inhibit any long-term stability or growth. The ongoing conflict between the dragon and celestial worshippers shapes much of the valley’s political and social life. Looking ahead, the potential for another unifying leader or an external threat could once again change the dynamics within the valley, for better or worse.
 
-### 11. **Description**
-
-The long winded part

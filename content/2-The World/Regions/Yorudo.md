@@ -59,8 +59,3 @@ Internally, the ongoing power dynamics among the warlords continue to shape the 
 
 Looking ahead, Yorudo's future prospects will heavily depend on its ability to adapt to global changes while preserving the core aspects of its culture and traditions. The challenge will be to navigate the complex interplay of maintaining a formidable defensive posture, capitalizing on economic opportunities through trade, and managing the internal competition among its ruling warlords.
 
-### 11. **Description**
-
-The long winded part
-
-

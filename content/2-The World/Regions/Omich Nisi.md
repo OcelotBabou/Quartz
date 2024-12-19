@@ -59,6 +59,3 @@ Introduce key figures associated with the region, such as rulers, heroes, or vil
 
 The primary challenge facing Omich-Nisi stems from its success as a pirate stronghold, which has inadvertently led to a significant reduction in maritime traffic through the area. The pirates' effectiveness at raiding ships has compelled merchants to seek safer routes, increasingly favoring overland journeys through regions like Pilliga. This shift has drastically decreased the volume of potential targets passing through the Mist Islands, challenging the pirates' traditional economic model based on plunder.
 
-### 11. **Description**
-
-The long winded part

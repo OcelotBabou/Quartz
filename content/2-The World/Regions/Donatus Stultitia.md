@@ -77,6 +77,3 @@ The Donatus Mirage Plains face a myriad of challenges, most notably the persiste
 
 Looking forward, the future of the Donatus Mirage Plains seems tied to the fate of the gnoll tribes. Any attempts to change the status quo must consider not only military solutions but also deeper engagement with the underlying cultural and spiritual factors that sustain the gnolls' resistance.
 
-### 11. **Description**
-
-The long winded part

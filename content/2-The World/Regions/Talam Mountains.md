@@ -58,6 +58,3 @@ Listunos' control has led to a near-complete severance of the Talam Mountains fr
 
 Most troubling of all is Listunos' fortification of his realm, virtually shutting off any hopes of landbound connection between Eastern and Western Kair'Thear. 
 
-### 11. **Description**
-
-The long winded part

@@ -58,7 +58,3 @@ Ridgeback Forest currently faces significant threats that could disrupt its long
 Moreover, the forest's deep and shadowy reaches are rumored to shelter a growing orc presence. Following their previous incursion at Fort Logos, where they managed to breach the defenses, concerns have escalated that these orcs are regrouping, possibly planning a surprise attack. The strategic use of the forest's dense coverage could provide them an advantageous staging ground for such an offensive. **(tie in Veridian Keep here)**
 
 Despite these pressing issues, Ridgeback Forest remains largely unchanged, continuing to project an aura of mystery and hostility that has defined it for millennia.
-
-### 11. **Description**
-
-The long winded part

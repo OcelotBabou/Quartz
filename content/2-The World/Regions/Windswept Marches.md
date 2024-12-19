@@ -56,6 +56,3 @@ The Windswept Marches face several significant challenges that pose threats to t
 
 Additionally, the region is threatened by emerging dangers from the vast chasms located to their south. Since the Age of Darkness, these rifts have become a breeding ground for dangerous predators and monsters of unknown origin. The creatures that emerge from these depths are not only a direct threat to the safety of the Vindri but also pose a barrier to the expansion or use of the southern grasslands for grazing.
 
-### 11. **Description**
-
-The long winded part

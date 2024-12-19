@@ -49,6 +49,3 @@ No significant characters are associated with Gor'Zemya, as the region cannot su
 
 The primary issue facing Gor'Zemya is its continued existence as an uninhabitable region. There are no prospects for development or change, as the environmental conditions are unlikely to support future habitation or use. Gor'Zemya remains a stark reminder of the limits of environmental endurance and the boundaries of habitable space within Staterum.
 
-### 11. **Description**
-
-The long winded part

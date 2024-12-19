@@ -73,6 +73,3 @@ The community in Seagate, resilient and tightly-knit, remains hopeful. The rich 
 
 In either scenario, Seagate’s path forward will involve balancing its historical legacy with the needs and realities of a changing world, striving to overcome current adversities while aiming for a prosperous and more connected future.
 
-### 11. **Description**
-
-

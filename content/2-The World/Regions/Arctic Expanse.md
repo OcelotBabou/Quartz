@@ -59,6 +59,3 @@ The Arctic Expanse and its inhabitants, the Iceborne, are at a crossroads betwee
 
 However, this exposure brings with it the challenge of protecting the deeper, sacred aspects of their magical practices. The rituals and teachings of Oscara are closely guarded secrets, held within the community and passed down through generations with great reverence. The foundational myths of their culture, particularly the discovery of Oscara and the pact made at her shrine, are intertwined with ceremonies that are both powerful and deeply personal. 
 
-### 11. **Description**
-
-The long winded part

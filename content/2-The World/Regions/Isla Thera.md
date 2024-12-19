@@ -48,6 +48,3 @@ Introduce key figures associated with the region, such as rulers, heroes, or vil
 
 Everything, everything is a current issue for Isla Thera.
 
-### 11. **Description**
-
-The long winded part

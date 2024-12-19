@@ -64,6 +64,3 @@ Introduce key figures associated with the region, such as rulers, heroes, or vil
 
 Pilliga faces ongoing challenges related to its harsh environmental conditions and the threat of banditry. However, the strategic importance of the trade routes through this region ensures continued investment in its security and development. Looking ahead, Pilliga’s role as a critical connector between the eastern and western territories of Siar’Morrin is likely to grow, potentially leading to greater economic development and integration within the broader regional economy.
 
-### 11. **Description**
-
-The long winded part

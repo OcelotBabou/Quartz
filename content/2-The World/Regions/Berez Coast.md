@@ -56,6 +56,3 @@ Life on the Berez Coast is marked by a constant battle for survival against both
 
 Moreover, the ever-present threat of raids from neighboring hostile entities like orcs and Sceel adds a layer of insecurity. These raids can disrupt the fragile stability of the coastal communities, turning lives upside down without warning. The lack of a formal military means that each community must fend for itself, often relying on rudimentary defense strategies that can be as unpredictable as the attackers they face.
 
-### 11. **Description**
-
-The long winded part

@@ -67,6 +67,3 @@ Fort Logos faces ongoing challenges due to its strategic location near the volat
 
 Looking ahead, Fort Logos aims to enhance its self-sufficiency and reduce its dependency on New Birania. It requires a solution to its conscription issues in particular if it intends to continue to protect the greater Siar'Morrin region. 
 
-### 11. **Description**
-
-The long winded part

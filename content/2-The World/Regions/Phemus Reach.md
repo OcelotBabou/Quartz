@@ -66,6 +66,3 @@ This stark disinterest in addressing issues or considering future prospects has 
 
 As a result, the future of Phemus Reach is likely to continue as it has for centuries—dominated by the laws of nature and the rule of the strong.
 
-### 11. **Description**
-
-The long winded part
