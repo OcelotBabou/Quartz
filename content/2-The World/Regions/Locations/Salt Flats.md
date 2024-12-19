@@ -14,7 +14,7 @@ The Salt Flats are a vast expanse of shimmering white salt that stretch out like
 
 The Salt Flats are characterized by their blindingly bright, white surface, which reflects the harsh sun and creates a surreal, almost otherworldly landscape. The ground is hard and cracked, covered in a thick layer of salt that crunches underfoot. The air is dry and filled with a sharp, salty tang. The horizon stretches endlessly, with little to no vegetation or landmarks to break the monotony. The area is eerily silent, with the occasional gust of wind swirling up small salt eddies.
 
-![[Saltflats.webp]]
+![[content/Images/Saltflats.webp]]
 
 **History:**
 

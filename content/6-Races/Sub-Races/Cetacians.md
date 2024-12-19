@@ -6,7 +6,9 @@ tags:
   - Aquarian
   - PlayerRace
 ---
-*[]*
+*[sɛˈteɪʃənz]*
+
+![[Whalelord.webp]]
 
 **ASI:** +2 Cha
 

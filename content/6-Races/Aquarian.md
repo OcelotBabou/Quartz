@@ -9,7 +9,7 @@ tags:
   - Selachians
   - RareAquarian
 ---
-*[]*
+*[əˈkwɛəriən]*
 
 Aquarians, revered denizens of the deep, are believed to have emerged from the union of [[Ooscie]]'s children and humans early in the history of Staterum. They possess a striking appearance, with bodies that blend the features of marine creatures, supported by humanoid forms that allow them to navigate both their underwater realm and the land above.
 
