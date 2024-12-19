@@ -28,4 +28,3 @@ Operating primarily in the eastern wilds of Siar'Morrin, their territory is dott
 
 ### 6. **Alliances and Rivalries**
 
-- Discuss the faction's relationships with other groups, including allies, adversaries, and neutral parties.

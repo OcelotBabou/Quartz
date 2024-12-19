@@ -21,10 +21,10 @@ tags:
 - **Home Region**: [[Paloto Swamplands]]  
 ## Physical Description
 
-- **Appearance**: Virag is large for a ratfolk, standing as an impressive specimen of his race. Well into his later years, signs of age mark his fur with patches of grey, and a myriad of scars from battles past adorn his frame. His posture exudes the confidence of an experienced fighter, accentuated by his well-worn armor that tells tales of countless skirmishes and hard-won victories.
+- **Appearance**: Virag is huge for a ratfolk, standing as an impressive specimen of his race. Well into his later years, signs of age mark his fur with patches of grey, and a myriad of scars from battles past adorn his frame. His posture exudes the confidence of an experienced fighter, accentuated by his well-worn armor that tells tales of countless skirmishes and hard-won victories.
 - **Height**: 158 cm
 - **Weight**: 56 kg
-- **Distinguishing Features**: 
+- **Distinguishing Features**: Being a mad lad
 
 ## Personality
 
@@ -47,4 +47,10 @@ tags:
 
 ## Background
 
-Will likely end up tying in [[Furrowton]] and [[Elden Reedwhistle]] here. 
+Virag Greytail's story begins in the vibrant capital of Tanglethorn, amid its dense jungle foliage and chaotic city life. As a young Ratfolk, he was drawn to the energy and complexity of his surroundings, fostering a sense of exploration and curiosity. The bustling streets and interconnected districts of Tanglethorn provided a perfect training ground for a young warrior. Virag's impressive physique and innate leadership qualities quickly caught the attention of the local militia. His training there not only sharpened his skills but also deepened his sense of justice and dedication. 
+
+During his training and early adulthood, Virag developed a close bond with future wife [[Lilia Greytail]], his childhood friend, whose companionship and wisdom became his guiding light. Following their union, Virag found himself a father, further influencing his priorities, driving him to strive for a safer and just world for his offspring and future generations of Ratfolk.
+
+However, Virag's career as a travelling guard and later as a founder of the [[Rat Pack]] took him beyond the borders of Tanglethorn, exposing him to broader world issues, including the deep-seated prejudices against Ratfolk. These experiences fueled his determination to make a difference, not just within his community but on a larger scale. 
+
+After a life of adventure and travel, Virag eventually 'retired' and moved to [[Furrowton]]. After a life of adventure and travel, Virag eventually 'retired' and moved to Furrowton. By this point, his family had grown and moved out to make lives of their own. Virag was left conflicted about his ambitions to help the world, and the life he largely missed with his family. Despite this Virag was not built to remain stationary for long, and soon felt the pull of adventure again. Once more Virag set out onto the open road, this time set on uncovering the truth behind Eris' sacrifice and the Age of Darkness ([[AoD]]). 

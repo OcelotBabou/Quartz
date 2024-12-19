@@ -9,7 +9,7 @@ tags:
 *[wes-tern scar]*
 ### 1. **Overview**
 
-The Western Scar, a haunting testament to the catastrophic events that heralded the Age of Darkness, marks a stark division between Siar'Morrin and Kair'Thear. Once a vibrant landscape teeming with life, this region now lies barren and desolate, its ecosystems devastated by the rift that once tore through reality. This scarred land, forever altered by the dark energies unleashed during that tumultuous time, remains a buffer zone against the unknown horrors that still linger in the rift's shadows.
+The Western Scar, a haunting testament to the catastrophic events that heralded the Age of Darkness ([[AoD]]), marks a stark division between Siar'Morrin and Kair'Thear. Once a vibrant landscape teeming with life, this region now lies barren and desolate, its ecosystems devastated by the rift that once tore through reality. This scarred land, forever altered by the dark energies unleashed during that tumultuous time, remains a buffer zone against the unknown horrors that still linger in the rift's shadows.
 
 ![[WesternRift.webp]]
 

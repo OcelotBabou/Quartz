@@ -60,6 +60,6 @@ tags:
 **Significant Events**
 
 - **Major Plot Points**: His current role in maintaining relations with Agroma, and the active role in plays in helping Ratfolk that have settled within Agroma. 
-- **Important Missions**: Continuing to faithfully serve the Ratfolk through diplomatic means. Recently helped a Ratfolk named [[Virage Greytail]] find occupation as a guard. 
+- **Important Missions**: Continuing to faithfully serve the Ratfolk through diplomatic means. Recently helped a Ratfolk named [[Virag Greytail]] find occupation as a guard. 
 
 Eldin Reedwhistle is a visionary ambassador, whose efforts are crucial not just for the Ratfolk's survival but for their flourishing as a respected and integral part of the regional community. His diplomatic endeavors strive to pave the way for a future where Ratfolk are no longer seen as mere survivors of the swamps, but as valuable contributors to a shared world.

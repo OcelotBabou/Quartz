@@ -16,7 +16,7 @@ tags:
 
 - **Name**: Sable Shadowclaw
 - **Species**: Ratfolk
-- **Sub-Race**: Shadow Scurrier
+- **Sub-Race**: [[Shadow Scurriers]]
 - **Gender**: Male
 - **Age**: 15 years 
 - **Occupation**: Master Spy
@@ -34,7 +34,7 @@ tags:
 ![[Sablea.jpg]]
 
 **Personality**
-Can 
+ 
 - **Traits**: Calculating, stealthy, and intensely private. Sable is a master of remaining unseen and unheard, with a natural affinity for moving silently.
 - **Strengths**: Exceptional at gathering intelligence, skilled in evasion and infiltration. His training has honed his abilities to interpret subtle cues and navigate complex social dynamics discreetly.
 - **Weaknesses**: His secretive nature and tendency to operate alone can isolate him from potential allies. His mistrust can sometimes hinder cooperation with others.
@@ -57,7 +57,7 @@ Can
 
 - **Weapons**: Equipped with a variety of specialized tools including a set of small, razor-sharp throwing knives and a wire garrote for silent eliminations.
 - **Gadgets**: Carries several devices for covert surveillance, including sending stones, a chime of opening and a gem of seeing.
-- **Personal Belongings**: Wears a cloak made from enchanted displacer beast hide that mimics the texture and color of his surroundings, enhancing his natural ability to blend into the shadows.
+- **Personal Belongings**: Wears a cloak made from enchanted displacer beast hide that mimics the texture and colour of his surroundings, enhancing his natural ability to blend into the shadows.
 
 **Significant Events**
 

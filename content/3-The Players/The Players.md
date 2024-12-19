@@ -4,4 +4,4 @@ draft: false
 tags:
   - PlayerCharacters
 ---
-1. [[Virage Greytail]] 
+1. [[Virag Greytail]] 

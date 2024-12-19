@@ -40,7 +40,7 @@ Headquartered in [[Vitaurum]], the Biranian Guard’s influence extends across S
 
 ### 7. **Alliances and Rivalries**
 
-- Discuss the faction's relationships with other groups, including allies, adversaries, and neutral parties.
+
 
 
 
