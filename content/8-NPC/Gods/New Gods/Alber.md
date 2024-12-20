@@ -55,7 +55,7 @@ tags:
 
 ## Quotes
 
-“To tame nature is to enslave it; to protect it is to honor it.”
+“To tame nature is to enslave it; to protect it is to honour it.”
 
 ## Background
 
