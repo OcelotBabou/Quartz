@@ -64,6 +64,12 @@ Image
 **Tenebrim Elves:** 
 For the Tenebrim Elves, Alache and his brother Gahrian are not just gods but the co-creators of the cosmos. Their theology posits that Gahrian's unchecked ego initially led to the creation of the original vices. Alache, acting as the counterbalance, helped reel in his brother’s ambitions, and together, they banished these vices to a dark realm. They continue to safeguard Staterum by maintaining the seal over these corrupt beings, taking turns to watch over the realm, Alache during the night as the moon, and Gahrian during the day as the sun.
 
+[[Ascended Church]]:
+Contrastingly, The Ascended Church holds a more skeptical view of Alache and Gahrian. To them, these figures are merely different aspects of Statera, interpreted by the elves under varying lights. They regard the elven narrative of Alache and Gahrian as co-creators and vigilant guardians as a misguided attempt to attribute some of Statera’s expansive influence to lesser deities. Members of The Ascended Church believe that if such pivotal gods truly existed, they would be more prominently recognized and revered within their teachings.
+
+[[Riben]]: 
+To Riben, with its emphasis on scientific and empirical understanding, the divine attributes of Alache and Gahrian are met with skepticism. In their eyes, the sun and the moon are not governed by deities but are celestial bodies following natural, albeit not fully understood, paths. This perspective reduces Alache and Gahrian to mere symbols in ancient stories, seen as quaint explanations from a less enlightened time.
+
 Traditional Depiction
 ![[TradAlache.png]]
 Credit Peter Moh
