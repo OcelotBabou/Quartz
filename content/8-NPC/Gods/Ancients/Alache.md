@@ -9,7 +9,7 @@ tags:
 ---
 *[ah-lah-chee]*
 
-
+Image
 ## Basic Information
 
 - **Name**: Alache
@@ -17,7 +17,7 @@ tags:
 - **Title**: The Concealer, Keeper of the Night
 - **Alignment**: Void
 - **Symbol**: A crescent moon partially obscured by shadows
-- **Primary Worship Area**: 
+- **Primary Worship Area**: [[Dusk Forest]]
 ## Physical Description
 
 - **Appearance**: Alache is often depicted as a figure cloaked in deep, impenetrable shadows, with only his chilling, reflective eyes visible. The elven depiction of him show dark, flowing garments that merge into the shadows, while his head is adorned with a dark, elongated helmet and a dark halo that encircles his head. 
@@ -38,31 +38,31 @@ tags:
 	- [[Gahrian]], Brother. Alache and Gahrian share a bond of mutual respect and collaboration. While their domains differ, they work together to uphold balance and counter threats.
 	- [[Statera]], Sister. As the youngest of the trio, Statera holds a special place in the dynamic between her brothers. Her presence has been a unifying force, bridging the gap between her siblings.
 - **Relations**: 
-	- [[Lux]] [[Elves]], 
-	- 
-- **Attitude towards Mortals**: 
+	- [[Tenebrim]] [[Elves]], Favoured people. Alache views the Tenebrim Elves as the remnants of his influence in the world, favouring them discreetly from the shadows.
+	- [[Lore Keepers]], A religious but elusive group rumored to possess the entire history of the gods in their archives.
+- **Attitude towards Mortals**: Largely detached, with a subtle preference for the Lux Elves. 
 
 ## Mythology and Worship
 
 - **Creation Myth**: Alache's origins are steeped in mystery and shadow. It is said that he emerged from the primordial void, a formless expanse of darkness and silence that predated the world itself. In this abyss, where light had yet to penetrate and secrets lay in wait, Alache took shape as the embodiment of the unseen and the unknown. His creation was not a single, dramatic event but rather a gradual emergence from the very essence of darkness, embodying the serenity and secrets that lay beneath the surface of existence.
-- **Major Cults and Religious Practices**: (Description of main worship practices and any associated cults)
-- **Festivals**: (Special times of the year dedicated to this deity, including rituals and celebrations)
-- **Clergy and Temples**: (Description of priests, holy orders, and sacred sites dedicated to the deity)
+- **Major Cults and Religious Practices**: The Tenebrim Elves maintain hidden shrines where silent ceremonies are conducted under the cover of night. These rituals emphasise the virtues of secrecy and the wisdom found in silence.
+- **Festivals**: The Night of Shadows, observed during the Winter Solstice, the exact occurrences of this festival are a well kept secret, with few even knowing of it existence. 
+- **Clergy and Temples**: Temples are often underground or in dark forests, designed to be sanctuaries of peace and introspection. 
 
 ## Significant Historical Impact
 
-- **Major Plot Points in World History**: (Key moments when this god significantly influenced the world’s history)
-- **Artifacts**: (Relics or magical items associated with the deity)
-
+- **Major Plot Points in World History**: 
+	- An ancient Tenebrim tradition holds that Alache and his brother Gahrian are the only forces strong enough to hold the Vices at bay, preventing these malevolent entities from crossing into the mortal realm, since before the dawn of humanity. 
+	- According to elven lore, there was a time in the early years of the world, in which an ancient and forgotten enemy, claiming false rule over the shadows, threatened the very fabric of Staterum. Alache, leading an army of elves, challenged this usurper in a monumental battle. His victory not only reclaimed his dominion over the shadows but also saved Staterum. This pivotal event is celebrated as the moment when elves, previously residing in the realm of [[Dorna]], first entered Staterum, establishing a lasting bond between the mortals of Staterum and the elves.
+- **Artifacts**: Unknown. 
 ## Quotes
 
-- **Key Quotes**: (Iconic sayings or teachings attributed to the deity)
+"Loneliness is the poverty of self; solitude is the richness of self"
 
 ## Background
 
-- **Legends and Lore**: (Lesser-known tales and esoteric knowledge about the deity)
-
-This template should provide a comprehensive overview that can be used to detail each god within your pantheon, giving depth and context to their roles within your fantasy world.
+**Tenebrim Elves:** 
+For the Tenebrim Elves, Alache and his brother Gahrian are not just gods but the co-creators of the cosmos. Their theology posits that Gahrian's unchecked ego initially led to the creation of the original vices. Alache, acting as the counterbalance, helped reel in his brother’s ambitions, and together, they banished these vices to a dark realm. They continue to safeguard Staterum by maintaining the seal over these corrupt beings, taking turns to watch over the realm, Alache during the night as the moon, and Gahrian during the day as the sun.
 
 Traditional Depiction
 ![[TradAlache.png]]
