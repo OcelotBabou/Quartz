@@ -1,0 +1,1 @@
+Aka one has a 'prophet' but is famous for leading the Biranian Empire into the Age of War against the Dahri Empire. Seen by some as a great leader fighting for the gods, while others view him as a harbinger of the death of countless and the spark that would ultimately 

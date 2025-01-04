@@ -33,28 +33,41 @@ tags:
 
 ## Relationships
 
-- **Allies**: [[Agra]], [[Siar]], [[Vilcren]]
+- **Allies**: [[Siar]], [[Vilcren]], [[Alber]]
 - **Rivals/Enemies**: [[Thear]], [[Raxenos]], [[Mercio]], [[Listunos]] and [[Spatalos]]
 - **Attitude towards Mortals**: Sees them as children to be cared for; although has become increasingly frustrated and disheartened with humanity. 
 
 ## Mythology and Worship
 
-- **Creation Myth**: Agra, the youngest and only daughter of Talam, the Primordial of Earth, differs from her brothers in her origins. While her siblings were born out of necessity, to aid in shaping Staterum, Agra was born from an act of love, infused with the intrinsic power to foster and enrich the earth. In the early days of the world, she wandered freely, her touch turning barren landscapes into flourishing gardens and verdant fields. As humanity expanded and began to dominate the landscapes she had so tenderly nurtured, Agra found her spaces of tranquility increasingly encroached upon. Witnessing the changes and increasingly the disregard for the sanctity of nature, she chose to retreat. Her withdrawal led her to Periculosus Ocean, a place where she finally created a realm of her own.
-- **Major Cults and Religious Practices**: Having removed herself from the mortal world so many millennia ago, her story has largely faded from memory. Now she is almost exclusively worshipped by [[Tribe Agra]] alongside Alber. 
+- **Creation Myth**: 
+		In the age before ages existed, as Staterum was still coalescing from the celestial ether, Talam, the Primordial of Earth, presided over the formation of the land. Through his sons he forged mountains, carved valleys, and laid the fertile plains. Yet, amid this grand design, a singular act of creation was marked not by necessity but by profound affection. Agra, the youngest and only daughter of Talam, was born from this act of love, infused with a vitality and warmth that her elder siblings lacked.
+		Unlike her brothers, who were created solely of Talam, as a tool to shape the world, Agra was gifted with the tender power to nurture and enhance the burgeoning beauty of the world. In her early days, Agra wandered through the vast stretches of Staterum, her touch alone turning barren landscapes into tapestries of lush gardens and vibrant fields. Saplings emerged from her footsteps, rolling plains of grass blanketed her where she slept, and crops flourished, offering food where ever she wandered. 
+		As the guardian of growth and renewal, Agra embodied the gentlest aspects of creation. Her presence was a soft whisper in the wind, a subtle yet pervasive influence that encouraged the natural world to reach its fullest expression. Humanity, in its infancy, thrived under her benevolence, learning to cultivate the land and live in harmony with the rhythms she established.
+		However, as centuries passed and human civilizations expanded, their burgeoning dominions began to encroach upon the sanctuaries Agra had so lovingly cultivated. Forests were felled, rivers dammed, and meadows paved over as the mortal pursuit of progress took precedence. Witnessing the gradual erosion of the tranquility she cherished, Agra’s heart grew heavy. The once vibrant connection between humanity and the earth waned, leaving her spirit diminished.
+		In response to this growing disregard for the sanctity of nature, Agra made a sorrowful decision to retreat from the world. She withdrew to the remote Periculosus Ocean, a place untouched by human ambition, here she created a realm of her own—a sanctuary not just for herself but for all elements of nature seeking refuge from the ravages of civilization.
+- **Major Cults and Religious Practices**: Having removed herself from the mortal world so many millennia ago, her story has largely faded from memory. Now she is almost exclusively worshipped by [[Tribe Agra]] alongside their worship of Alber. 
 - **Festivals**: N/A
-- **Clergy and Temples**: A devote group of [[Harpies]] from Tribe Agra have dedicated themselves to the ongoing worship and veneration of Agra. However, this group is significantly outnumbered by the followers of Alber, whose more active participation in the world has garnered a larger following. Despite being few in number, the shrines to Agra provide powerful access to the earthen powers inherit within Agra. (WOULD BE INTERESTING HERE TO TALK ABOUT DUALITY OF HARPIES WORSHIPPING A EARTHEN DEITY)
+- **Clergy and Temples**: A devote group of [[Harpies]] from Tribe Agra have dedicated themselves to the ongoing worship and veneration of Agra. However, this group is significantly outnumbered by the followers of Alber, whose more active participation in the world has garnered a larger following. Despite being few in number, the shrines to Agra provide powerful access to the earthen powers inherit within Agra. 
 
 ## Significant Historical Impact
 
-- **Major Plot Points in World History**: (Key moments when this god significantly influenced the world’s history)
-- **Artifacts**: (Relics or magical items associated with the deity)
+- **Major Plot Points in World History**: 
+	- In the early centuries of Staterum, predating humanity,  Agra played a pivotal role in what is now known as the Great Bloom. During this period, Agra's touch transformed the vast tracts of barren land, created by her brothers, into fertile grounds and luscious forests. Some even believe it was this event that gave birth to Alber. 
+	- As industrialization took hold and human expansion increasingly encroached upon natural habitats, Agra's grief and frustration with humanity's disregard for nature reached its breaking point. Her decision to retreat from the mortal world marked a turning point in Staterum's history. Some attribute this as the first in a string of events that led to the Gods abandoning Statera, ushering the ''Age of Mortals."
+- **Artifacts**: The Heart of the Harvest: A beautifully sculpted gemstone that pulses with a warm, nurturing glow.
 
 ## Quotes
 
-- **Key Quotes**: (Iconic sayings or teachings attributed to the deity)
+"From the soil to the soul, life will find a way under my watchful eyes."
 
 ## Background
 
-- **Legends and Lore**: (Lesser-known tales and esoteric knowledge about the deity)
+**[[Tribe Agra]] [[Harpies]]**
 
-This template should provide a comprehensive overview that can be used to detail each god within your pantheon, giving depth and context to their roles within your fantasy world.
+To the Harpies of Tribe Agra, she is the Earth's Bounty, the mother who nourishes all. In the earliest days, her touch brought life to the barren, her tears turned deserts into gardens. They remember her sacrifices, her retreat driven by sorrow as her groves were felled and her meadows paved over. Agra’s Groves, the sacred sanctuaries where her tears fell, remain vibrant and untouched by decay, protected by her lingering essence. These places are proof of her enduring love and power, a testament to the care she continues to extend towards all living beings, despite their trespasses against her.
+
+Pirates of Isla Thera
+
+The the Pirates of Isla Thera, the tales of Agra Island are just that, tales. They have heard the talk of a deity, Agra, who watches over the mysterious island to the far west, nurturing the land and protecting it from invaders. Stories claim she imbues the soil with richness and the forests with life, making the island a paradise of natural bounty. But the learned pirates' see these stories as nothing more than myths, spun by primitive islanders to scare off would-be plunderers. The idea of some divine guardian is a convenient deterrent, nothing more. While they respect the sea and its mysteries, they remain skeptical of divine tales used to ward off pirates. Agra is a legend, crafted to protect treasures that might not even exist.
+
+
