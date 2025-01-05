@@ -22,10 +22,13 @@ tags:
 ## Physical Description
 
 - **Appearance**: 
-		Lasair, the Primordial of Fire, is a majestic and awe-inspiring figure, sculpted entirely from the living essence of flame. Her form is a constant, mesmerizing dance of fire, seamlessly shifting between a towering, fiery beast, reminiscent of ancient myths and wild imaginings, and a more humanoid shape that exudes an overwhelming aura of heat and light.
-		In her beastly guise, Lasair's presence is marked by roaring flames that leap and crackle, forming what appears to be massive, muscular limbs and a long, sinuous tail that leaves trails of sparks and embers in its wake. Her eyes, deep pools of molten lava, burn with an intensity that is both fearsome and mesmerizing, casting a glow that illuminates the darkness around her.
-		When she adopts her humanoid form, Lasair becomes a figure of sublime beauty and formidable power. Her hair flows upwards and outwards, a cascade of bright, golden flames that flicker and weave as if caught in an eternal wind. Her skin appears as smooth molten glass, radiant and untouchable, reflecting light in dazzling, hypnotic patterns.
-		Lasair's movements are both graceful and explosive, mirroring the unpredictable nature of fire itself. Each gesture radiates heat that can nurture life or bring destruction, underscoring her dual role as a creator and annihilator. The air around her crackles with the static of intense heat, making the very atmosphere around her vibrate with the raw energy of fire.
+Lasair, the Primordial of Fire, is a majestic and awe-inspiring figure, sculpted entirely from the living essence of flame. Her form is a constant, mesmerizing dance of fire, seamlessly shifting between a towering, fiery beast, reminiscent of ancient myths and wild imaginings, and a more humanoid shape that exudes an overwhelming aura of heat and light.
+
+In her beastly guise, Lasair's presence is marked by roaring flames that leap and crackle, forming what appears to be massive, muscular limbs and a long, sinuous tail that leaves trails of sparks and embers in its wake. Her eyes, deep pools of molten lava, burn with an intensity that is both fearsome and mesmerizing, casting a glow that illuminates the darkness around her.
+
+When she adopts her humanoid form, Lasair becomes a figure of sublime beauty and formidable power. Her hair flows upwards and outwards, a cascade of bright, golden flames that flicker and weave as if caught in an eternal wind. Her skin appears as smooth molten glass, radiant and untouchable, reflecting light in dazzling, hypnotic patterns.
+
+Lasair's movements are both graceful and explosive, mirroring the unpredictable nature of fire itself. Each gesture radiates heat that can nurture life or bring destruction, underscoring her dual role as a creator and annihilator. The air around her crackles with the static of intense heat, making the very atmosphere around her vibrate with the raw energy of fire.
 - **Height**: Varies, usually depicted as enormous
 - **Weight**: Weightless, as fire itself
 - **Distinguishing Features**: Eyes that burn like coals,
