@@ -23,8 +23,10 @@ tags:
 
 - **Appearance**: 
 		Talam, the Primordial of Earth, is envisioned as a monumental and imposing figure, a living sculpture wrought from the very bones of the planet. His form is a majestic amalgamation of the world's myriad stones and minerals, creating a tapestry of earthy textures that range from the darkest basalt to the most resplendent granite, each piece fitting seamlessly into the next like the continents on a globe.
-		Talam's movements, though measured and deliberate, carry the weight and power of geological forces. Each step he takes echoes with the deep, resonant rumblings of tectonic shifts, and his gestures—slow but irrevocable—mimic the gradual yet unstoppable force of nature that shapes mountains and carves valleys. His eyes, deep-set and wise, gleam with an inner light like radiant gems, reflecting a core of fiery energy beneath his stoic exterior.
-		His hair and beard appear as cascading flows of silvery volcanic ash, soft to the eye but granular to the touch, complementing the rugged grandeur of his visage. When he speaks, his voice carries the sonorous quality of an underground cavern, deep and echoing, reverberating through the bones of the world.
+		
+		Talam's movements, though measured and deliberate, carry the weight and power of geological forces. Each step he takes echoes with the deep, resonant rumblings of tectonic shifts, and his gestures—slow but irrevocable—mimic the gradual yet unstoppable force of nature that shapes mountains and carves valleys. His eyes, deep-set and wise, gleam with an inner light like radiant gems, reflecting a core of fiery energy beneath his stoic exterior. 
+		
+		His hair and beard appear as cascading flows of silvery volcanic ash, soft to the eye but granular to the touch, complementing the rugged grandeur of his visage. When he speaks, his voice carries the sonorous quality of an underground cavern, deep and echoing, reverberating through the bones of the world. 
 - **Height**: Immense, often depicted as towering over mountains
 - **Weight**: Variable
 - **Distinguishing Features**: Solid and imposing, Talam's eyes gleam like precious ores. His is often depicted cloaked in moss and other greenery.
