@@ -21,6 +21,7 @@ Image
 ## Physical Description
 
 - **Appearance**
+
 Alache is often depicted as a figure cloaked in deep, impenetrable shadows, with only his chilling, reflective eyes visible. The elven depiction of him show dark, flowing garments that merge into the shadows, while his head is adorned with a dark, elongated helmet and a dark halo that encircles his head. 
 - **Height**: Varies, often difficult to determine due to shadowy nature.
 - **Weight**: Variable
