@@ -18,7 +18,8 @@ tags:
 
 ## Physical Description
 
-- **Appearance**: Oikos is depicted as a majestic figure, embodying the essence of nurturing and protection. Her form is that of a massive mother bear, crafted from roaring flames that envelop her from snout to tail. These flames shimmer with the warm hues of a hearth fire, from deep oranges to rich, comforting reds. Her fur appears as soft, undulating flames that mimic the natural fur patterns of a bear, giving her an ethereal yet approachable appearance. As she moves, sparks occasionally drift from her body, dissipating into the air like fleeting wishes. Her presence radiates warmth, both literal and figurative, making her a beacon of comfort and safety. Oikos’s stance is always depicted protective, with a posture that suggests both readiness to defend and openness to embrace. 
+- **Appearance**: 
+Oikos is depicted as a majestic figure, embodying the essence of nurturing and protection. Her form is that of a massive mother bear, crafted from roaring flames that envelop her from snout to tail. These flames shimmer with the warm hues of a hearth fire, from deep oranges to rich, comforting reds. Her fur appears as soft, undulating flames that mimic the natural fur patterns of a bear, giving her an ethereal yet approachable appearance. As she moves, sparks occasionally drift from her body, dissipating into the air like fleeting wishes. Her presence radiates warmth, both literal and figurative, making her a beacon of comfort and safety. Oikos’s stance is always depicted protective, with a posture that suggests both readiness to defend and openness to embrace. 
 - **Height**: 245cm
 - **Weight**: Variable 
 - **Distinguishing Features**: Being a flaming bear

@@ -21,7 +21,8 @@ tags:
 
 ## Physical Description
 
-- **Appearance**: - Gaoth Oir is rarely seen in a solid form, typically appearing as a visible gust of wind or a whirlwind, sometimes taking on a vague humanoid shape within a swirling vortex of air.
+- **Appearance**: 
+Gaoth Oir is rarely seen in a solid form, typically appearing as a visible gust of wind or a whirlwind, sometimes taking on a vague humanoid shape within a swirling vortex of air.
 - **Height**: Indeterminate, often extending as high as the skies
 - **Weight**: Variable
 - **Distinguishing Features**: By his very nature lacks distinguishing features

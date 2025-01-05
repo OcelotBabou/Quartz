@@ -19,7 +19,8 @@ tags:
 
 ## Physical Description
 
-- **Appearance**:Agra is depicted as a colossal figure, her form sculpted from rich, fertile soil. She is draped in a magnificent robe that stretches far into the distance behind her. The robe transitions from a simple grassy texture at her shoulders to an increasingly lush and densely forested tapestry towards its end, representing the growth and abundance she brings to the lands she nurtures.
+- **Appearance**:
+Agra is depicted as a colossal figure, her form sculpted from rich, fertile soil. She is draped in a magnificent robe that stretches far into the distance behind her. The robe transitions from a simple grassy texture at her shoulders to an increasingly lush and densely forested tapestry towards its end, representing the growth and abundance she brings to the lands she nurtures.
 - **Height**: 420m
 - **Weight**: Variable
 - **Distinguishing Features**: Her complexion of rich soil, and her trailing robe

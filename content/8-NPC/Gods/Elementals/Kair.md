@@ -20,7 +20,8 @@ tags:
 
 ### Physical Description
 
-- **Appearance**: Kair is depicted as a majestic and imposing figure, embodying the essence of mountains and high peaks. His form is composed of rugged stone and snow-capped summits, with a cloak of mist and clouds. His skin has the texture of rough granite, with patches of snow and ice. His eyes are a piercing, ice-blue, reflecting the cold, lofty heights of the mountains. His hair is a wild mane of ice and snow, constantly shifting and shimmering. 
+- **Appearance**: 
+Kair is depicted as a majestic and imposing figure, embodying the essence of mountains and high peaks. His form is composed of rugged stone and snow-capped summits, with a cloak of mist and clouds. His skin has the texture of rough granite, with patches of snow and ice. His eyes are a piercing, ice-blue, reflecting the cold, lofty heights of the mountains. His hair is a wild mane of ice and snow, constantly shifting and shimmering. 
 - **Height**: 500m 
 - **Weight**: Unknown
 - **Distinguishing Features**: His most notable features besides his towering height,  are his ice-blue eyes, and his hair made of ice and snow. 

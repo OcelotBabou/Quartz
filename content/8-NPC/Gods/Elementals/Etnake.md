@@ -19,7 +19,8 @@ tags:
 
 ## Physical Description
 
-- **Appearance**: Etnake is depicted as a colossal phoenix composed entirely of roaring flames, embodying the dual forces of creation and destruction. Her form is a brilliant, ever-changing blaze, with feathers made of flickering fire that shift in color from red to orange to gold. Her eyes are intense and fiery, while her wings are vast and majestic, trailing embers and sparks as she soars. Her tail feathers are long and flowing, ending in a burst of flame. When she spreads her wings, she casts a radiant, fiery glow over everything around her. 
+- **Appearance**: 
+Etnake is depicted as a colossal phoenix composed entirely of roaring flames, embodying the dual forces of creation and destruction. Her form is a brilliant, ever-changing blaze, with feathers made of flickering fire that shift in color from red to orange to gold. Her eyes are intense and fiery, while her wings are vast and majestic, trailing embers and sparks as she soars. Her tail feathers are long and flowing, ending in a burst of flame. When she spreads her wings, she casts a radiant, fiery glow over everything around her. 
 - **Height**: Variable, as her anger grows so does she 
 - **Weight**: Variable
 - **Distinguishing Features**: Her eyes are a vivid contrast— one fiery red, the other verdant green, reflecting her dual roles.

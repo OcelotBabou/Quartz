@@ -20,7 +20,8 @@ tags:
 
 ### Physical Description
 
-- **Appearance**: Eilear is depicted as a serene and solitary figure, embodying the essence of isolated islands. His form is composed of rocky cliffs and sandy shores, with waves gently lapping at his feet. His skin has the texture of smooth stone, interspersed with patches of sand and seashells. His eyes are the color of the ocean, reflecting its depth and mystery. His hair is made of seaweed and driftwood, constantly swaying as if moved by an unseen tide. 
+- **Appearance**: 
+Eilear is depicted as a serene and solitary figure, embodying the essence of isolated islands. His form is composed of rocky cliffs and sandy shores, with waves gently lapping at his feet. His skin has the texture of smooth stone, interspersed with patches of sand and seashells. His eyes are the color of the ocean, reflecting its depth and mystery. His hair is made of seaweed and driftwood, constantly swaying as if moved by an unseen tide. 
 - **Height**: 450m
 - **Weight**: Unknown
 - **Distinguishing Features**: His most notable features are his smooth stone-like skin, ocean-colored eyes, and his hair made of seaweed and driftwood. His form, composed of rocky cliffs and sandy shores, symbolizes the solitude and serenity of the islands he embodies.
