@@ -20,6 +20,7 @@ tags:
 ## Physical Description
 
 - **Appearance**: 
+
 Etnake is depicted as a colossal phoenix composed entirely of roaring flames, embodying the dual forces of creation and destruction. Her form is a brilliant, ever-changing blaze, with feathers made of flickering fire that shift in color from red to orange to gold. Her eyes are intense and fiery, while her wings are vast and majestic, trailing embers and sparks as she soars. Her tail feathers are long and flowing, ending in a burst of flame. When she spreads her wings, she casts a radiant, fiery glow over everything around her. 
 - **Height**: Variable, as her anger grows so does she 
 - **Weight**: Variable
@@ -41,6 +42,7 @@ Etnake is depicted as a colossal phoenix composed entirely of roaring flames, em
 ## Mythology and Worship
 
 - **Creation Myth**: 
+
 In the early ages of Staterum, Lasair, the Primordial of Fire, wielded her formidable powers with a passionate intensity that shaped landscapes and forged new realms. Yet, her fiery nature was as volatile as it was creative, prone to devastating outbursts that could unravel the very fabric of creation she labored to build. After one such catastrophic flare, provoked by the ceaseless meddling of [[Ooscie]] in her tireless work, Lasair's wrath consumed the entire western half of Kair'Thear, leaving it scorched and barren.
 
 Horrified by the destructive scope of her own power and the unintended consequences of her rage, Lasair found herself grappling with a tumult of remorse and fury. Desperate to control her volatile emotions and prevent further catastrophe, she sought counsel among the other primordials. It was [[Gaoth Oir]], the cunning deity of Air, who saw an opportunity in Lasair’s plight. He approached her with an offer of aid, promising a solution that would temper her fiery essence.

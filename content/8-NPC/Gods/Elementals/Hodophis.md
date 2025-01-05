@@ -19,6 +19,7 @@ tags:
 ## Physical Description
 
 - **Appearance**: 
+
 Hodophis is depicted as a fearsome, elemental figure, perfectly embodying the raw, untamed spirit of adventure and survival. His form is a dynamic, ever-changing blend of molten rock and flickering flames, constantly shifting and crackling with primal energy. His skin bears a dark, charcoal-like texture, etched with fiery cracks that glow intensely red, revealing the incandescent core that simmers beneath the surface.
 
 His visage is bestial with sharp, predatory features that evoke a sense of ancient and wild power. His eyes blaze like twin coals, piercing through darkness with an intense, fiery gaze that can ignite fear and respect in equal measure. Powerful, muscular limbs end in sharp, talon-like claws, capable of rending stone and metal alike. A long, serpentine tail whips behind him, tipped with a spade of smoldering rock that leaves embers trailing in its wake.
@@ -46,6 +47,7 @@ Hodophis’s mane and eyebrows are composed of ever-burning flames, adding to hi
 ## Mythology and Worship
 
 - **Creation Myth**: 
+
 In the times when humanity had yet to venture to all corners of the world, Lasair, Primordial of Fire, presided over [[Western Kair'Thear]], a vast and verdant land blanketed by a dense forest that rivaled even the mighty Vahshi Forest. Here, Lasair was a tireless mother figure, nurturing the flora and fauna with a fervent passion and delighting in the bustling lives of the mortal creatures that called these woods home.
 
 During these serene times, Lasair formed deep bonds with two of the forest’s most formidable guardians: a proud dire wolf alpha known for his cunning and bravery, and a wise mother bear, revered as the protector of the forest. Together, they kept watch over their domain, ensuring harmony and safety within the dense woodlands.

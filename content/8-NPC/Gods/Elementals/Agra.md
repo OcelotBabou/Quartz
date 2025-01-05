@@ -20,6 +20,7 @@ tags:
 ## Physical Description
 
 - **Appearance**
+
 Agra is depicted as a colossal figure, her form sculpted from rich, fertile soil. She is draped in a magnificent robe that stretches far into the distance behind her. The robe transitions from a simple grassy texture at her shoulders to an increasingly lush and densely forested tapestry towards its end, representing the growth and abundance she brings to the lands she nurtures.
 - **Height**: 420m
 - **Weight**: Variable
@@ -41,6 +42,7 @@ Agra is depicted as a colossal figure, her form sculpted from rich, fertile soil
 ## Mythology and Worship
 
 - **Creation Myth**: 
+
 In the age before ages existed, as Staterum was still coalescing from the celestial ether, Talam, the Primordial of Earth, presided over the formation of the land. Through his sons he forged mountains, carved valleys, and laid the fertile plains. Yet, amid this grand design, a singular act of creation was marked not by necessity but by profound affection. Agra, the youngest and only daughter of Talam, was born from this act of love, infused with a vitality and warmth that her elder siblings lacked.
 
 Unlike her brothers, who were created solely of Talam, as a tool to shape the world, Agra was gifted with the tender power to nurture and enhance the burgeoning beauty of the world. In her early days, Agra wandered through the vast stretches of Staterum, her touch alone turning barren landscapes into tapestries of lush gardens and vibrant fields. Saplings emerged from her footsteps, rolling plains of grass blanketed her where she slept, and crops flourished, offering food where ever she wandered. 
@@ -56,10 +58,10 @@ In response to this growing disregard for the sanctity of nature, Agra made a so
 
 ## Significant Historical Impact
 
-- **Major Plot Points in World History**: 
-	- In the early centuries of Staterum, predating humanity,  Agra played a pivotal role in what is now known as the Great Bloom. During this period, Agra's touch transformed the vast tracts of barren land, created by her brothers, into fertile grounds and luscious forests. Some even believe it was this event that gave birth to Alber. 
-	- As industrialization took hold and human expansion increasingly encroached upon natural habitats, Agra's grief and frustration with humanity's disregard for nature reached its breaking point. Her decision to retreat from the mortal world marked a turning point in Staterum's history. Some attribute this as the first in a string of events that led to the Gods abandoning Statera, ushering the ''Age of Mortals."
-- **Artifacts**: The Heart of the Harvest: A beautifully sculpted gemstone that pulses with a warm, nurturing glow.
+**Major Plot Points in World History**: 
+- In the early centuries of Staterum, predating humanity,  Agra played a pivotal role in what is now known as the Great Bloom. During this period, Agra's touch transformed the vast tracts of barren land, created by her brothers, into fertile grounds and luscious forests. Some even believe it was this event that gave birth to Alber. 
+- As industrialization took hold and human expansion increasingly encroached upon natural habitats, Agra's grief and frustration with humanity's disregard for nature reached its breaking point. Her decision to retreat from the mortal world marked a turning point in Staterum's history. Some attribute this as the first in a string of events that led to the Gods abandoning Statera, ushering the ''Age of Mortals."
+**Artifacts**: The Heart of the Harvest: A beautifully sculpted gemstone that pulses with a warm, nurturing glow.
 
 ## Quotes
 

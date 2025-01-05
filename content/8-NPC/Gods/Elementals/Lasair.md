@@ -22,6 +22,7 @@ tags:
 ## Physical Description
 
 - **Appearance**: 
+
 Lasair, the Primordial of Fire, is a majestic and awe-inspiring figure, sculpted entirely from the living essence of flame. Her form is a constant, mesmerizing dance of fire, seamlessly shifting between a towering, fiery beast, reminiscent of ancient myths and wild imaginings, and a more humanoid shape that exudes an overwhelming aura of heat and light.
 
 In her beastly guise, Lasair's presence is marked by roaring flames that leap and crackle, forming what appears to be massive, muscular limbs and a long, sinuous tail that leaves trails of sparks and embers in its wake. Her eyes, deep pools of molten lava, burn with an intensity that is both fearsome and mesmerizing, casting a glow that illuminates the darkness around her.
@@ -49,6 +50,7 @@ Lasair's movements are both graceful and explosive, mirroring the unpredictable 
 ## Mythology and Worship
 
 - **Creation Myth**: 
+
 Before the cosmos took shape, before the material plane was drawn from the void, there was Lasair, the Primordial of Fire. She existed as the supreme deity, her fires not only the harbinger of life but also the deliverer of destruction. It was through the radiant blaze of her inferno that the first embers of life were ignited in the universe, bringing warmth and energy to the cold expanse of nothingness. Equally, it was her flames that purified and cleansed, reducing the old to ashes to make way for the new, overseeing the cycles of death and rebirth core to the cosmic equilibrium. 
 
 Lasair, however, was not alone in her dominion. She was one of six siblings, each embodying fundamental forces that would define the universe. Talam of Earth, Ooscie of water, Gaoth Oir of Air, Gahrian of light, and Alache of Darkness. Together with Lasair’s fiery essence, their powers intertwined to shape the realities of existence.

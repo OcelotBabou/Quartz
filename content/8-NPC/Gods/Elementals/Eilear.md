@@ -21,6 +21,7 @@ tags:
 ### Physical Description
 
 - **Appearance**: 
+
 Eilear is depicted as a serene and solitary figure, embodying the essence of isolated islands. His form is composed of rocky cliffs and sandy shores, with waves gently lapping at his feet. His skin has the texture of smooth stone, interspersed with patches of sand and seashells. His eyes are the color of the ocean, reflecting its depth and mystery. His hair is made of seaweed and driftwood, constantly swaying as if moved by an unseen tide. 
 - **Height**: 450m
 - **Weight**: Unknown
@@ -42,6 +43,7 @@ Eilear is depicted as a serene and solitary figure, embodying the essence of iso
 ## Mythology and Worship
 
 - **Creation Myth**: 
+
 The genesis of Eilear is anchored in on of the many legendary conflicts that occurred between [[Talam]] and [[Gaoth Oir]], back when the Primordials still worked to dominate Staterum. In an epic struggle for supremacy, Gaoth Oir, wielding his mastery over the winds, summoned a colossal tornado, the likes of which had never been witnessed before or since. This ferocious whirlwind tore Talam from his earthly dominion and cast him adrift over [[Ooscie]]’s vast ocean, far from any solid ground where he might have an advantage.
 
 Amidst this tumultuous battle, as Talam struggled against the overwhelming might of the air, removed from his source of power founded in rock and earth, Ooscie intervened in the battle. With a surge of her powerful currents, she whisked Talam away to safety on a solitary island, a speck of land amid her expansive domain. This island, which would later come to be known as [[Eilear Island]], became Talam's sanctuary in the storm, a place he could ground his mighty power. Exhausted from summoning the tornado, and sensing the shift in the battles balance, Goath Oir was forced to retreat from this battle.

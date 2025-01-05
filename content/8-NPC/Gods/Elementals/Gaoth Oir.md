@@ -22,6 +22,7 @@ tags:
 ## Physical Description
 
 - **Appearance**: 
+
 Gaoth Oir is rarely seen in a solid form, typically appearing as a visible gust of wind or a whirlwind, sometimes taking on a vague humanoid shape within a swirling vortex of air.
 - **Height**: Indeterminate, often extending as high as the skies
 - **Weight**: Variable
@@ -42,6 +43,7 @@ Gaoth Oir is rarely seen in a solid form, typically appearing as a visible gust 
 ## Mythology and Worship
 
 - **Creation Myth**: 
+
 In the boundless void before time wove its first thread, Gaoth Oir existed as a whisper in the cosmos, a Machiavellian spirit without form or substance, yet imbued with the essence of potential. He alongside his three siblings, born from the earliest breath of the universe. Before the dawn of material planes, before Statera brought order to the chaos, Gaoth Oir reveled in the endless void, sowing discord among his siblings purely for his own amusement, his antics echoing through the emptiness as ripples disturb still water.
 
 With the coming of Statera and the formation of the material realm, a new era began, and the cosmos coalesced into elements and forms. It was during this monumental shift that Gaoth Oir assumed a pivotal role, embracing the newly formed domain of Air, suited perfectly to his elusive and ever-changing nature. 

@@ -20,7 +20,7 @@ Image
 - **Primary Worship Area**: [[Dusk Forest]]
 ## Physical Description
 
-- **Appearance**
+- **Appearance**:
 
 Alache is often depicted as a figure cloaked in deep, impenetrable shadows, with only his chilling, reflective eyes visible. The elven depiction of him show dark, flowing garments that merge into the shadows, while his head is adorned with a dark, elongated helmet and a dark halo that encircles his head. 
 - **Height**: Varies, often difficult to determine due to shadowy nature.
@@ -48,18 +48,19 @@ Alache is often depicted as a figure cloaked in deep, impenetrable shadows, with
 
 ## Mythology and Worship
 
-**Creation Myth**: 
+- **Creation Myth**: 
+
 Alache’s origins are woven into the very fabric of the cosmos, shrouded in the enigmatic veils of darkness and silence that encompassed the primordial void. Before time marked its passage, before the stars found their places in the night sky, there existed a vast, formless expanse—a realm of absolute void where even light dared not venture. It was within this ancient abyss, a realm where the concepts of beginning and end were meaningless, that Alache began to manifest.
 
 This emergence was not heralded by fanfare nor witnessed by celestial beings. Instead, it unfolded quietly, as a natural and inevitable consequence of the universe’s burgeoning complexity. In the deepest shadows of the void, where secrets and potentialities lingered unformed and unseen, the essence of Alache coalesced. Gradually, his presence began to define itself, drawing upon the latent energies of the cosmos. He became the embodiment of all that lies hidden, the keeper of mysteries yet to be uncovered.
 
 As the eons passed, Alache’s form gained substance and definition. He did not simply step into existence but rather grew organically from the darkness itself, his essence intertwined with the fundamental forces that compose reality. He became a deity not of light or flame but of the profound, all-encompassing shadow that exists between and beyond, holding dominion over the secrets that reside in the dark.
 
-**Major Cults and Religious Practices**: The Tenebrim Elves maintain hidden shrines where silent ceremonies are conducted under the cover of night. These rituals emphasise the virtues of secrecy and the wisdom found in silence.
+- **Major Cults and Religious Practices**: The Tenebrim Elves maintain hidden shrines where silent ceremonies are conducted under the cover of night. These rituals emphasise the virtues of secrecy and the wisdom found in silence.
 
-**Festivals**: The Night of Shadows, observed during the Winter Solstice, the exact occurrences of this festival are a well kept secret, with few even knowing of it existence. 
+- **Festivals**: The Night of Shadows, observed during the Winter Solstice, the exact occurrences of this festival are a well kept secret, with few even knowing of it existence. 
 
-**Clergy and Temples**: Temples are often underground or in dark forests, designed to be sanctuaries of peace and introspection. 
+- **Clergy and Temples**: Temples are often underground or in dark forests, designed to be sanctuaries of peace and introspection. 
 
 ## Significant Historical Impact
 

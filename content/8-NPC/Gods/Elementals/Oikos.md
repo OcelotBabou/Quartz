@@ -19,6 +19,7 @@ tags:
 ## Physical Description
 
 - **Appearance**: 
+
 Oikos is depicted as a majestic figure, embodying the essence of nurturing and protection. Her form is that of a massive mother bear, crafted from roaring flames that envelop her from snout to tail. These flames shimmer with the warm hues of a hearth fire, from deep oranges to rich, comforting reds. Her fur appears as soft, undulating flames that mimic the natural fur patterns of a bear, giving her an ethereal yet approachable appearance. As she moves, sparks occasionally drift from her body, dissipating into the air like fleeting wishes. Her presence radiates warmth, both literal and figurative, making her a beacon of comfort and safety. Oikos’s stance is always depicted protective, with a posture that suggests both readiness to defend and openness to embrace. 
 - **Height**: 245cm
 - **Weight**: Variable 
@@ -40,6 +41,7 @@ Oikos is depicted as a majestic figure, embodying the essence of nurturing and p
 ## Mythology and Worship
 
 - **Creation Myth**:
+
 In the verdant expanse of Kair'Thear, beneath the canopy of an ancient forest that once covered the land, Oikos and Lasair, forged a partnership rooted in mutual respect and a shared commitment to safeguarding the wilderness. Lasair, with her fiery spirit and formidable power, and Oikos, then a guardian spirit of the forest, worked in harmony to nurture and protect the flora and fauna.
 
 As time passed and Lasair prepared to ascend to the Elemental Plane of Fire, she recognized the need for a steadfast protector who could maintain the balance in her absence. To ensure the continued safety of Kair'Thear, Lasair bestowed upon Oikos a portion of her divine essence. This gift transformed Oikos from a guardian spirit into a deity, empowering her with the flames of protection and the warmth of the hearth, symbolizing both defense and domesticity.

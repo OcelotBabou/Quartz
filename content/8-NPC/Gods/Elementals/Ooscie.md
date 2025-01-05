@@ -22,6 +22,7 @@ tags:
 ## Physical Description
 
 - **Appearance**: 
+
 Ooscie, the Primordial of Water, embodies the ceaseless and ever-changing essence of her domain. In her truest form, she is indefinable, an enigma that shifts like the tides, encompassing all states of water—from the softest mist that blankets the dawn to the hard, crystalline structures of ice, and the deep, flowing currents that carve the earth.
 
 When choosing to appear in a form comprehensible to mortals, Ooscie adopts the visage of a stunning figure made entirely of water. This figure, while exquisitely beautiful, retains an ephemeral quality, her body a cascading array of water in perpetual motion. Her features are both striking and transient, crafted from the purest of waters; her eyes, deep and serene, reflect the vast oceans, drawing in light and mirroring the world around her.
@@ -47,6 +48,7 @@ Her hair flows like a waterfall, a cascade of liquid light that shimmers with ev
 ## Mythology and Worship
 
 - **Creation Myth**: 
+
 Before the dawn of matter, before the concept of water had even been conceived, Ooscie existed as an elemental force of incomprehensible power. She was the embodiment of movement and change, the rising and falling, the ceaseless currents that flow through the fabric of time itself. Unlike her siblings, Ooscie's nature was ever forward, driven and relentless, a force that propels and pulls the universe towards its destiny.
 
 In the timeless void, where realities were but whispers and potentialities, Quawerah, the nascent Goddess of the Material Plane, emerged from the cosmic ether. She called forth the elements to create a tangible realm, and Ooscie, sensing the pull of purpose and creation, was the first among her siblings to heed this call. She embraced her role as the Primordial of Water with a fervor that none could match, molding her vast, formless essence into the life-giving waters that would become the world’s oceans, rivers, and rain.

@@ -22,6 +22,7 @@ tags:
 ## Physical Description
 
 **Appearance**: 
+
 Talam, the Primordial of Earth, is envisioned as a monumental and imposing figure, a living sculpture wrought from the very bones of the planet. His form is a majestic amalgamation of the world's myriad stones and minerals, creating a tapestry of earthy textures that range from the darkest basalt to the most resplendent granite, each piece fitting seamlessly into the next like the continents on a globe.
 
 Talam's movements, though measured and deliberate, carry the weight and power of geological forces. Each step he takes echoes with the deep, resonant rumblings of tectonic shifts, and his gestures—slow but irrevocable—mimic the gradual yet unstoppable force of nature that shapes mountains and carves valleys. His eyes, deep-set and wise, gleam with an inner light like radiant gems, reflecting a core of fiery energy beneath his stoic exterior. 
@@ -47,6 +48,7 @@ His hair and beard appear as cascading flows of silvery volcanic ash, soft to th
 ## Mythology and Worship
 
 **Creation Myth**: 
+
 In the ancient epoch, before the world had settled into its current form, there existed a primordial deity embodying the entirety of the material plane. This ancient god, known only through echoes and whispers in the oldest myths, encompassed all aspects of the physical world, from the roaring depths of the seas to the fiery cores of mountains and the vast expanses of the sky. However, its existence came to a cataclysmic end during the cosmic war between [[Statera]] and [[the Vices]], malevolent entities that once roamed freely, sowing chaos across the material plane.
 
 Caught in the crossfire of this titanic struggle, the ancient deity was shattered, its body and soul fragmented into distinct entities. From these remnants arose the Primordial Gods: Talam, embodying the earth; [[Ooscie]], the waters; [[Lasair]], the flames; and [[Gaoth Oir]], the winds. Each now held dominion over a fraction of their predecessor's vast powers, representing the divergent forces that had once been unified within a single divine being.
