@@ -40,7 +40,10 @@ tags:
 
 ## Mythology and Worship
 
-- **Creation Myth**: (Stories of their origin or significant mythological tales)
+- **Creation Myth**: 
+		The genesis of Eilear is anchored in on of the many legendary conflicts that occurred between [[Talam]] and [[Gaoth Oir]], back when the Primordials still worked to dominate Staterum. In an epic struggle for supremacy, Gaoth Oir, wielding his mastery over the winds, summoned a colossal tornado, the likes of which had never been witnessed before or since. This ferocious whirlwind tore Talam from his earthly dominion and cast him adrift over [[Ooscie]]’s vast ocean, far from any solid ground where he might have an advantage.
+		Amidst this tumultuous battle, as Talam struggled against the overwhelming might of the air, removed from his source of power founded in rock and earth, Ooscie intervened in the battle. With a surge of her powerful currents, she whisked Talam away to safety on a solitary island, a speck of land amid her expansive domain. This island, which would later come to be known as [[Eilear Island]], became Talam's sanctuary in the storm, a place he could ground his mighty power. Exhausted from summoning the tornado, and sensing the shift in the battles balance, Goath Oir was forced to retreat from this battle.
+		Grateful for Ooscie’s aid and recognising the strategic importance of such sanctuaries, Talam resolved to create a guardian who would serve as a bridge between their elemental realms. From the rocky cliffs and sandy shores of the tiny island, he sculpted Eilear. Infusing him with the essence of solitude and the tranquility of isolated places, Talam tasked Eilear with the stewardship of all islands. Eilear now stands as a symbol of the delicate balance between the steadfast earth and the relentless ocean. More than this he serves as an enduring testament to Talam's gratitude towards Ooscie, embodying the harmonious union and mutual respect that fortify the bonds between these unlikely allies.
 - **Major Cults and Religious Practices**: (Description of main worship practices and any associated cults)
 - **Festivals**: (Special times of the year dedicated to this deity, including rituals and celebrations)
 - **Clergy and Temples**: (Description of priests, holy orders, and sacred sites dedicated to the deity)
