@@ -39,7 +39,7 @@ tags:
 
 ## Mythology and Worship
 
-- **Creation Myth**: (Stories of their origin or significant mythological tales)
+- **Creation Myth**: Something about initially intended to be the Agra kinda guy, but his domain was destroyed by an outburst by Lasair, thus he instead became the harsh unforgiving desert. 
 - **Major Cults and Religious Practices**: (Description of main worship practices and any associated cults)
 - **Festivals**: (Special times of the year dedicated to this deity, including rituals and celebrations)
 - **Clergy and Temples**: (Description of priests, holy orders, and sacred sites dedicated to the deity)
