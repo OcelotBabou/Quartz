@@ -38,7 +38,12 @@ His garb mimics the dark, muted tones of the deep sea, adorned with relics of sh
 
 ## Relationships
 
-**Family**: (Other gods or celestial beings they align with)
+**Family**: 
+- **[[Ooscie]]**: Mother. A complex relationship, although Thalmon largely places the blame for his exile on his brothers, his mother is not free of guilt in Thalmon's eyes.
+- **[[Keldria]]**: Brother. Thalmon's relationship with Keldria is fraught with tension and a sense of betrayal. While Thalom harbours great resentment towards his elder brother, Keldria's indifference towards Thalmon only exacerbates his hatred. 
+- **[[Onasu]]**: Brother. Thalmon regards Onasu as a cunning rival and a subtle betrayer, whose frequent underestimation of Thalmon may ultimately lead to his downfall. Thalmon perceives Onasu's dismissive attitude as both a personal slight and a strategic error, one that he plans to exploit.
+- **[[Ooscara]]**: Sister. In legend it is unclear if Thalmon is even aware of his sisters existence. 
+- **[[Typhial]]**: Brother. To Thalmon, Typhial is a simpleton, blissfully unaware of the ongoing power struggles between Thalmon, Keldria, and Onasu. Though he is greatful for one less sibling he needs to compete against. 
 **Rivals/Enemies**: (Antagonistic relationships within the pantheon)
 **Attitude towards Mortals**: (How they generally treat or interact with their followers and other mortals)
 

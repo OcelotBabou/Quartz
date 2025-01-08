@@ -21,7 +21,9 @@ tags:
 ### Physical Description
 
 - **Appearance**: 
-Siar is depicted as a serene and expansive figure, embodying the essence of plains and open lands. His form is composed of rolling hills and endless fields of grass, with a cloak of golden wheat. His skin has the texture of rich soil, with patches of green grass and wildflowers. His eyes are a calming, earthy brown, reflecting the tranquility and vastness of the plains. His hair is a flowing mass of tall grasses and wildflowers, constantly swaying as if moved by a gentle breeze. He moves with a slow, measured grace, embodying the boundless and nurturing nature of the plains.
+Siar is the embodiment of the boundless expanses that define the world's great plains and open lands. His form mirrors the vast landscapes he protects; his body is sculpted from rolling hills and stretches of endless fields, giving him a presence both awe-inspiring and comforting. His skin is textured like rich, fertile soil, interspersed with lush patches of green grass and dotted with wildflowers that bloom in a riot of colors with the seasons.
+
+His eyes, a vibrant green, hold the calm and wisdom of ancient lands, reflecting the tranquil expanse of the plains under an endless sky. Siar's hair flows with a life of its own, mimicking the undulating golden waves seen on a breezy day across a wheat field. Siar's cloak, woven from golden wheat, drapes over his shoulders and trails behind him, shimmering with the hues of the harvest.
 - **Height**: 480m
 - **Weight**: Unknown
 - **Distinguishing Features**: 
@@ -35,9 +37,10 @@ Siar is depicted as a serene and expansive figure, embodying the essence of plai
 
 ## Relationships
 
-- **Allies**: (Other gods or celestial beings they align with)
-- **Rivals/Enemies**: (Antagonistic relationships within the pantheon)
-- **Attitude towards Mortals**: (How they generally treat or interact with their followers and other mortals)
+**Family**:
+- **[[Talam]]**: Father. 
+**Rivals/Enemies**: (Antagonistic relationships within the pantheon)
+**Attitude towards Mortals**: (How they generally treat or interact with their followers and other mortals)
 
 ## Mythology and Worship
 
