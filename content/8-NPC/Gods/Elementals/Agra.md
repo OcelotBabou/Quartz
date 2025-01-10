@@ -21,7 +21,13 @@ tags:
 
 - **Appearance**
 
-Agra is depicted as a colossal figure, her form sculpted from rich, fertile soil. She is draped in a magnificent robe that stretches far into the distance behind her. The robe transitions from a simple grassy texture at her shoulders to an increasingly lush and densely forested tapestry towards its end, representing the growth and abundance she brings to the lands she nurtures.
+Agra stands as a majestic embodiment of nature’s richness. Her colossal form is expertly sculpted from the finest, most fertile soil, each contour and curve a testament to the nurturing heart that beats within. Her skin, a tapestry of earthy tones, ranges from the dark, moist loam of a forest floor to the lighter, crumbly soil of a well-tended garden, each patch imbued with the potential for life.
+
+Adorning her powerful form, Agra wears a magnificent robe that is a marvel of natural growth. Starting at her shoulders, the robe is a simple, vibrant green, mimicking the fresh grass of early spring. As it cascades down her back, the robe transforms into a richer, denser fabric of foliage, incorporating elements of various ecosystems—from temperate grasslands to tropical rainforests. This flowing garment is interspersed with blossoms, fruits, and leaves, each piece intricately detailed and bursting with color.
+
+Her eyes are deep brown, like the rich earth itself, warm and inviting, yet filled with a profound strength. They reflect her deep connection to the land and her role as a guardian of all things that grow. When she gazes upon the lands she nurtures, her eyes sparkle with the dew of morning. In her presence, one can almost feel the pulse of the earth, the slow but unstoppable rhythm of life that courses through the ground. Each step she takes leaves a bloom of green in her wake.
+
+![[AGraga.jpg]]
 - **Height**: 420m
 - **Weight**: Variable
 - **Distinguishing Features**: Her complexion of rich soil, and her trailing robe

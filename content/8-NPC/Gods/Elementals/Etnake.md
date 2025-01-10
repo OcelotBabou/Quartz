@@ -21,7 +21,15 @@ tags:
 
 - **Appearance**: 
 
-Etnake is depicted as a colossal phoenix composed entirely of roaring flames, embodying the dual forces of creation and destruction. Her form is a brilliant, ever-changing blaze, with feathers made of flickering fire that shift in color from red to orange to gold. Her eyes are intense and fiery, while her wings are vast and majestic, trailing embers and sparks as she soars. Her tail feathers are long and flowing, ending in a burst of flame. When she spreads her wings, she casts a radiant, fiery glow over everything around her. 
+Etnake, known as The Phoenix and the embodiment of both creation and destruction, rises as a formidable deity, her very being a testament to the primal forces of fire. She is depicted as an awe-inspiring phoenix, each aspect of her form designed to reflect the raw power and beauty of flames.
+
+Her colossal figure is crafted from a brilliant tapestry of flames that dance and flicker in a mesmerizing display. The feathers of her expansive wings are formed from flames that seamlessly shift in hue from the deepest reds of a smoldering coal to the bright orange of a roaring fire, culminating in the golden yellows of a blazing sun. These fiery plumes shimmer with intense heat and light, casting a radiant glow that illuminates the darkness around her.
+
+Etnake’s eyes burn with the intensity of wildfire, their fiery gaze piercing and full of power. They reflect her dominion over the transformative nature of fire—from the destruction necessary to clear old growth to the warmth that nurtures new life.
+
+Her wings, vast and majestic, stretch wide, each movement sending a cascade of sparks and embers into the air, mimicking the way ash spreads through the sky during a volcanic eruption. As she flies, her presence fills the sky with a spectacular light show that both warns of her destructive power and promises new growth from the ashes. The long, flowing tail feathers of Etnake end in dramatic bursts of flame, leaving a trail of fire in her wake.
+
+![[2f61f0ea-b161-43c0-8fb1-b9044652bf18.webp]]
 - **Height**: Variable, as her anger grows so does she 
 - **Weight**: Variable
 - **Distinguishing Features**: Her eyes are a vivid contrast— one fiery red, the other verdant green, reflecting her dual roles.
@@ -70,3 +78,6 @@ So too does passion dance within the heart, a luminary force driving the engines
 - **Legends and Lore**: (Lesser-known tales and esoteric knowledge about the deity)
 
 This template should provide a comprehensive overview that can be used to detail each god within your pantheon, giving depth and context to their roles within your fantasy world.
+
+![[e0f7dd4f-ce59-4a81-8651-846d19a9a686.webp]]
+Humanoid Form

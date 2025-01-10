@@ -44,7 +44,13 @@ His eyes, a vibrant green, hold the calm and wisdom of ancient lands, reflecting
 
 ## Mythology and Worship
 
-- **Creation Myth**: (Stories of their origin or significant mythological tales)
+- **Creation Myth**: 
+
+At the forming of Staterum, when Alache and Dorna reunited the Primordials for this monumental task, a new and beautiful Goddess was created, Statera. It was Talam that first beheld her beauty, instantly enamored, his heart pledged to her cause.
+
+However, Statera, tasked with the immense responsibility of shaping this nascent world, viewed it as yet a barren canvas—an expanse of potential that still required much cultivation before it could truly flourish. She expressed to Talam that Staterum, in its current state, was not suitable for as a home or a place for love to flourish. Much effort would be required to transform it into a worthy home for the Gods.
+
+Determined to prove his devotion and to aid in the realization of Statera’s vision, Talam ventured the new world, collecting the fertile soils and malleable clays, shaping them with his powerful hands. Pouring a portion of his own divine essence into this creation, he gave life to Siar, the first of his children, whom would be tasked with helping his father to shape the world. 
 - **Major Cults and Religious Practices**: (Description of main worship practices and any associated cults)
 - **Festivals**: (Special times of the year dedicated to this deity, including rituals and celebrations)
 - **Clergy and Temples**: (Description of priests, holy orders, and sacred sites dedicated to the deity)
