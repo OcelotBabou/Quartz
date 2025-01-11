@@ -40,7 +40,12 @@ Kair’s hair is a wild, flowing mane of snow and ice, ever-shifting and shimmer
 
 ## Relationships
 
-**Family**: (Other gods or celestial beings they align with)
+**Family**: 
+- **[[Talam]]**: Father. Kair holds a deep respect for Talam, yet he feels that his efforts and contributions are often overlooked, leading to a sense of being undervalued despite his unwavering loyalty.
+- **[[Siar]]**: Brother. On the surface, Kair maintains a cordial relationship with Siar, but internally, he harbors feelings of envy. Kair perceives Siar as the favored son, which stings given his own commitments and sacrifices.
+- **[[Niphar]] & [[Eilear]]**: Brothers. With Niphar and Eilear, Kair's relationship is more distant and sporadic. He regards them as somewhat lax in their duties, believing they lack the necessary discipline to uphold the gravitas of their father's elemental legacy
+- **[[Thear]]**: Brother. Kair shares a strong and positive relationship with Thear, feeling a protective instinct towards his younger brother. He has often acted as a guardian and mentor to Thear, taking pride in his role as the older sibling who helps guide and support him.
+- **Agra**: Sister. His view of Agra is somewhat dismissive. While he harbours no ill will towards her, Kair does not see her on the same level as himself or his other brothers. 
 **Rivals/Enemies**: (Antagonistic relationships within the pantheon)
 **Attitude towards Mortals**: (How they generally treat or interact with their followers and other mortals)
 

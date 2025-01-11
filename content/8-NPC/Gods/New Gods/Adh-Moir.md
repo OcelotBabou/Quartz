@@ -20,7 +20,9 @@ tags:
 
 ## Physical Description
 
-- **Appearance**: Adh-Moir is often depicted as a jovial figure, ever-smiling, with a pair of dice in one hand and a flipped coin in the other. He wears a cloak of shifting colors that seems to change depending on the viewer's luck. 
+- **Appearance**: 
+
+Adh-Moir is often depicted as a jovial figure, ever-smiling, with a pair of dice in one hand and a flipped coin in the other. He wears a cloak of shifting colors that seems to change depending on the viewer's luck. 
 - **Height**: 177cm (Variable)
 - **Weight**: 77kg (Variable)
 - **Distinguishing Features**: Remarkably, no two descriptions of his appearance ever align, except for his mischievous smile, consistently described as both unnerving and inviting and his dichromatic eyes

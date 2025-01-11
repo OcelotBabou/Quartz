@@ -39,9 +39,15 @@ Drapped around his shoulders, Thear wears a cloak made of shifting sands. This c
 
 ## Relationships
 
-- **Allies**: (Other gods or celestial beings they align with)
-- **Rivals/Enemies**: (Antagonistic relationships within the pantheon)
-- **Attitude towards Mortals**: (How they generally treat or interact with their followers and other mortals)
+**Family**: 
+- **[[Talam]]**: Father. Thear respects his father Talam, though he feels somewhat abandoned by him. Despite this, he understands Talam's broader responsibilities and is committed to regaining his father's respect and proving his worth.
+- **[[Siar]]**: Brother. Thear experiences a challenging relationship with Siar, marked by underlying resentment. He is envious of Siar's favorable reception from mortals and his life-sustaining powers, contrasting sharply with the often negative perception of his own domain.
+- **[[Kair]]**: Brother. Thear and Kair share a strong and supportive relationship. Kair's respect and backing are crucial to Thear, and he deeply values their brotherhood. This bond serves as a foundation of support and guidance in Thear's life.
+- **[[Eilear]]**: Brother. Thear feels a mild jealousy towards Eilear’s detached and peaceful nature, which allows him to stay clear of the more trivial disputes that sometimes plague the gods. However, he is also genuinely happy for Eilear that he can maintain such tranquility.
+- **[[Niphar]]**: Brother. Thear's relationship with Niphar is marked by distance and a bit of annoyance. He finds Niphar's carefree attitude frustrating, particularly as it can threaten the delicate balance of his own domain, which is already vulnerable to disruption. 
+- **[[Agra]]**: Sister. Despite Agra's clear disdain for his domain, Thear takes pride in his role as her older brother. He respects and admires her ability to nurture life, fulfilling a vital role within the pantheon that contrasts with his own harsher realm.
+**Rivals/Enemies**: (Antagonistic relationships within the pantheon)
+**Attitude towards Mortals**: (How they generally treat or interact with their followers and other mortals)
 
 ## Mythology and Worship
 

@@ -21,7 +21,9 @@ tags:
 
 ## Physical Description
 
-- **Appearance**: Alber is depicted as a powerful and imposing figure, embodying the raw and untamed force of nature. She appears as a towering entity, her skin resembles rough tree bark, with patches of moss and lichen growing on her body, while her hair is a tangle of vines. Her eyes are a vibrant green, glowing with an inner light, and her limbs are strong and muscular, resembling the trunks of ancient tree.
+- **Appearance**: 
+
+Alber is depicted as a powerful and imposing figure, embodying the raw and untamed force of nature. She appears as a towering entity, her skin resembles rough tree bark, with patches of moss and lichen growing on her body, while her hair is a tangle of vines. Her eyes are a vibrant green, glowing with an inner light, and her limbs are strong and muscular, resembling the trunks of ancient tree.
 - **Height**: 300cm
 - **Weight**: 190kg
 - **Distinguishing Features**: Her bark-like skin, and her hair made of flowing vines.
@@ -41,7 +43,9 @@ tags:
 
 ## Mythology and Worship
 
-- **Creation Myth**: Alber is said to be a primal force of nature, emerging from the very fabric of the world itself. In ancient times, she was a dominant force, embodying the untamed wilderness in its full glory. As civilizations grew and expanded, the natural world was diminished, and Alber’s power has correspondingly waned. Despite this, she remains a critical figure in the struggle to restore and protect the natural world.
+- **Creation Myth**: 
+
+Alber is said to be a primal force of nature, emerging from the very fabric of the world itself. In ancient times, she was a dominant force, embodying the untamed wilderness in its full glory. As civilizations grew and expanded, the natural world was diminished, and Alber’s power has correspondingly waned. Despite this, she remains a critical figure in the struggle to restore and protect the natural world.
 - **Major Cults and Religious Practices**: The majority of Alber's followers are found in the major forest around the world. In particular, [[Agra Island]] is known for devotion to Alber, with numerous temples and religious members found here. 
 - **Festivals**: Festivals dedicated to Alber are often tied to the cycles of nature, such as the changing of the seasons or the full moon. Celebrations might include feasts, dance, and offerings of natural materials. The festivals serve to honor the wild and reaffirm the bond between mortals and nature.
 - **Clergy and Temples**: Priests and priestesses of Alber are often druidic in nature, living closely with the wilderness they revere. Temples dedicated to Alber are usually open-air sanctuaries, integrated into the natural environment rather than constructed structures. They may be located in deep forests, atop mountain peaks, or by sacred natural springs. 

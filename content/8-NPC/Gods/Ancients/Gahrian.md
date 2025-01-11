@@ -23,7 +23,11 @@ tags:
 
 - **Appearance**: 
 
-Gahrian is either depicted as a radiant figure, cloaked in shimmering golden armor that seems to emit a gentle, warming light. Alternatively he is depicted clad in flowing robes that end on golden rings, his face missing replaced by empty space, behind his head is a multi-ringed halo. 
+In his traditional form, Gahrian is the embodiment of the first light that ever touched the universe, a primordial force that commands the skies and the cycles of day and night. His presence is like that of the sun at its zenith—overwhelmingly brilliant and impossible to look at directly. This ethereal form does not possess a traditional face; instead, only a silhouette defined by a halo of blinding, pure light can be seen.  Adorning Gahrian's limbs are numerous golden rings, each crafted from the finest celestial gold and imbued with its own soft, radiant glow. His attire consists of long, flowing robes that seem woven from the fabric of the skies themselves. These robes shimmer with a light golden hue, catching and reflecting Gahrian's intrinsic luminosity. At the end of these robes are similar golden rings, creating a dazzling display as they sway and flutter with every movement. 
+
+Gahrian’s humanoid depiction brings him closer to the beings that worship him. In this form, he embodies the beauty and splendor of a sunny day, his appearance strikingly handsome and radiant. His skin shimmers like molten gold, his eyes are bright as the sky on a cloudless noon, and his hair flows like rays of sunlight, each strand imbued with a life of its own. 
+
+In this form he is seen wearing ornate golden armour, a masterpiece of divine craftsmanship, fit for the sovereign of the skies. It is intricately designed, featuring elaborate motifs that represent the cycles of the sun and the orbits of celestial bodies. Each piece of the armor is crafted from celestial gold, polished to a mirror sheen that reflects and amplifies his inherent light. Around his head, Gahrian wears a radiant crown, akin to a halo, that emits a soft but powerful glow. While his cloak, flowing and ethereal, appears as though woven from the very essence of light itself.
 - **Height**: A giant even by the standards of Gods
 - **Weight**: Variable
 - **Distinguishing Features**: A large multi-ringed halo emanating light. Pure white robes that flow like wispy clouds. 
@@ -86,7 +90,7 @@ To the Cia'an, Gahrian is revered as Soillse, the Sun God who conquers the cold 
 **[[Dwarves]]** 
 In the eyes of the Dwarves, the Sun is not a deity but the greatest creation of [[Cazium]], the dwarven god of craftsmanship. When the world was veiled in darkness, Cazium forged the Sun from the finest gold found deep within the earth. This celestial jewel, hung in the sky, illuminates the world and powers the dwarven forges. To the dwarves, it symbolizes the pinnacle of divine artistry, embodying the skill and ingenuity of Cazium’s handiwork.
 
-Traditional Depiction
+Ancient Depiction
 ![[TradGahrian.png]]
 Credit Peter Mohrbacher
 

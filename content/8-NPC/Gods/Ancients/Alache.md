@@ -22,10 +22,12 @@ Image
 
 - **Appearance**:
 
-Alache is often depicted as a figure cloaked in deep, impenetrable shadows, with only his chilling, reflective eyes visible. The elven depiction of him show dark, flowing garments that merge into the shadows, while his head is adorned with a dark, elongated helmet and a dark halo that encircles his head. 
+Alache in his traditional form is the embodiment of the unseen and the unknown, a deity cloaked entirely in shadows. His form is fluid and intangible, merging seamlessly with the darkness around him, making it difficult to discern where his outline begins or ends. The darkness that envelops Alache is not merely absence of light but a living, breathing presence that whispers secrets and watches the world with a quiet, all-knowing gaze. His eyes, when they choose to reveal themselves, shine like cold stars against the pitch black of his form, piercing through the shadows to observe the realm of mortals. His head is adorned with a dark elongated helmet, more a silhouette than a solid object. Encircling this helmet is a dark halo, reminiscent of an eclipse, that emits a dark light of its own. 
+
+Alache's more humanoid depiction presents him as a strikingly handsome figure, with skin as pale and luminous as moonlight. This form is designed to interact more directly with those who worship him, providing a relatable visage that embodies his divine qualities. His hair is long, flowing like liquid night, spilling over his shoulders in waves of soft darkness that contrast with his pale skin. His eyes retain their mysterious glow, reflective and deep, suggesting an understanding of the deepest secrets of the universe. His garments in this form are elegant and flowing, made of fabrics that seem to absorb light. The dark halo remains a constant, hovering behind his head, it's centre a true darkness, that seems to engulf all light around it. 
 - **Height**: Varies, often difficult to determine due to shadowy nature.
 - **Weight**: Variable
-- **Distinguishing Features**: His dark halo that seems to engulf light itself. Dark, flowing garments that blend into the shadows.
+- **Distinguishing Features**: His dark halo that seems omits an ominous dark light. Dark, flowing garments that blend into the shadows.
 
 ## Personality
 
