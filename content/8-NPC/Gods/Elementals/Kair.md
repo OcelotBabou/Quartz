@@ -40,9 +40,9 @@ Kair’s hair is a wild, flowing mane of snow and ice, ever-shifting and shimmer
 
 ## Relationships
 
-- **Allies**: (Other gods or celestial beings they align with)
-- **Rivals/Enemies**: (Antagonistic relationships within the pantheon)
-- **Attitude towards Mortals**: (How they generally treat or interact with their followers and other mortals)
+**Family**: (Other gods or celestial beings they align with)
+**Rivals/Enemies**: (Antagonistic relationships within the pantheon)
+**Attitude towards Mortals**: (How they generally treat or interact with their followers and other mortals)
 
 ## Mythology and Worship
 

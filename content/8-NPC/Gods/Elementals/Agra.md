@@ -15,7 +15,7 @@ tags:
 - **Title**: The Earth's Bounty, The Harvest Daughter
 - **Alignment**: True Neutral
 - **Symbol**: A lush meadow leading to a verdant forest 
-- **Primary Worship Area**: Farming communities, orchards, and all places where the earth is cultivated, particularly [[Agroma]] and [[Agra Island]]. 
+- **Primary Worship Area**: [[Agra Island]]. 
 
 ## Physical Description
 
@@ -34,22 +34,26 @@ Her eyes are deep brown, like the rich earth itself, warm and inviting, yet fill
 
 ## Personality
 
-- **Traits**: - Nurturing, patient, and endlessly generous
+- **Traits**: Nurturing, patient, and endlessly generous
 - **Strengths**: Brings life and abundance, ensures the crops are plentiful, the soil healthy and the forest luscious
 - **Weaknesses**: She is incredibly sensitive to the changes in the natural world, the increasingly large scale damage done has caused her to retreat from the world. 
-- **Goals and Motivations**: To sustain and enrich the earth, ensuring that all who cultivate the land reap the benefits of their labor and that the natural world thrives in harmony.
+- **Goals and Motivations**: To sustain and enrich Agra Island, ensuring its survival as a beacon of nature and life. One day wishes to reclaim the lands lost across Staterum rebuilding the wilds that once dominated the landscape. 
 
 ## Relationships
 
-- **Allies**: [[Siar]], [[Vilcren]], [[Alber]]
-- **Rivals/Enemies**: [[Thear]], [[Raxenos]], [[Mercio]], [[Listunos]] and [[Spatalos]]
-- **Attitude towards Mortals**: Sees them as children to be cared for; although has become increasingly frustrated and disheartened with humanity. 
+**Family**: 
+- [[Talam]]: Father. Agra shares a respectful and affectionate relationship with her father. He holds a protective stance towards her, expressing a desire for her to leave the mortal realm of Staterum and reside in his safer, more stable plane of Earth.
+- [[Siar]]: Brother: Among her siblings, Siar is the brother with whom Agra shares the deepest bond. They find common ground in their roles as sustainers of life, their relationship is marked by mutual respect and shared intrigue with mortals. 
+- [[Kair]], [[Niphar]], [[Eilear]]: Brohters. With her other brothers, Agra maintains cordial but distant relationships. There are no conflicts, but their interactions are infrequent to the point of virtually non-existent. 
+- [[Thear]]: Brother: Thear, the embodiment of deserts and desolation, stands in stark contrast to Agra’s lush and fertile realms. This fundamental opposition in their natures breeds a natural rivalry. Agra harbors a particular disdain for Thear, viewing his barren landscapes as antithetical to her own life-giving territories.
+**Rivals/Enemies**: [[Thear]], [[Raxenos]], [[Mercio]], [[Listunos]] and [[Spatalos]]
+**Attitude towards Mortals**: Sees them as children to be cared for; although has become increasingly frustrated and disheartened with humanity. 
 
 ## Mythology and Worship
 
 - **Creation Myth**: 
 
-In the age before ages existed, as Staterum was still coalescing from the celestial ether, Talam, the Primordial of Earth, presided over the formation of the land. Through his sons he forged mountains, carved valleys, and laid the fertile plains. Yet, amid this grand design, a singular act of creation was marked not by necessity but by profound affection. Agra, the youngest and only daughter of Talam, was born from this act of love, infused with a vitality and warmth that her elder siblings lacked.
+In the age before ages existed, as Staterum was still coalescing from the celestial ether, Talam, the Primordial of Earth, presided over the formation of the land. Through his sons he forged mountains, carved valleys, and laid the fertile plains. Yet, amid this grand design, a singular act of creation was marked not by necessity but by profound love. Though to whom Talam pledged his love has been lost to time. Agra, the youngest and only daughter of Talam, was born from this union, infused with a vitality and warmth that her elder siblings lacked.
 
 Unlike her brothers, who were created solely of Talam, as a tool to shape the world, Agra was gifted with the tender power to nurture and enhance the burgeoning beauty of the world. In her early days, Agra wandered through the vast stretches of Staterum, her touch alone turning barren landscapes into tapestries of lush gardens and vibrant fields. Saplings emerged from her footsteps, rolling plains of grass blanketed her where she slept, and crops flourished, offering food where ever she wandered. 
 

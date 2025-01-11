@@ -23,7 +23,11 @@ tags:
 
 - **Appearance**: 
 
-Gaoth Oir is rarely seen in a solid form, typically appearing as a visible gust of wind or a whirlwind, sometimes taking on a vague humanoid shape within a swirling vortex of air.
+Gaoth Oir is as ubiquitous and essential as the air itself, often perceived not as a single entity but as an all-encompassing breath that animates the atmosphere of Staterum. In his true elemental form, Gaoth Oir does not conform to a fixed shape but manifests as a dynamic and ever-changing gust of wind. His form can expand or compress, ranging from a gentle zephyr that caresses the leaves to a fierce gale that bends mighty oaks. This form is visible only by the movement it imparts to the environment: swirling leaves, rippling waters, or swirling sands. The air around him might shimmer with the distortion of heat on a hot day or whistle softly through narrow passes, always reminding those nearby of his pervasive presence.
+
+When choosing to interact more directly with other deities or mortals, Gaoth Oir can condense his vast essence into a more recognizable humanoid shape. In this form, he appears as a tall, slender figure composed of swirling mists and vapors. His body is translucent and shimmering, with a core of swirling clouds that shift continuously, reflecting the ever-changing nature of the wind. His features are elegant and fluid, never fully solid but defined enough to convey expressions and emotions. His eyes, clear as the sky on a calm day, hold a depth that seems to see right through the physical forms to the essence beneath.
+
+His long hair and garments mimic the flowing, formless qualities of air. Strands of hair lift and float around his head, resembling thin wisps of cloud, while his clothes, if they can be called such, appear as flowing robes made of vapor and mist, moving endlessly as if stirred by a gentle breeze.
 - **Height**: Indeterminate, often extending as high as the skies
 - **Weight**: Variable
 - **Distinguishing Features**: By his very nature lacks distinguishing features

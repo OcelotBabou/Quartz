@@ -43,9 +43,9 @@ Her wings, vast and majestic, stretch wide, each movement sending a cascade of s
 
 ## Relationships
 
-- **Allies**: (Other gods or celestial beings they align with)
-- **Rivals/Enemies**: (Antagonistic relationships within the pantheon)
-- **Attitude towards Mortals**: (How they generally treat or interact with their followers and other mortals)
+**Family**: (Other gods or celestial beings they align with)
+**Rivals/Enemies**: (Antagonistic relationships within the pantheon)
+**Attitude towards Mortals**: (How they generally treat or interact with their followers and other mortals)
 
 ## Mythology and Worship
 

@@ -22,7 +22,9 @@ tags:
 
 - **Appearance**: 
 
-Eilear is depicted as a serene and solitary figure, embodying the essence of isolated islands. His form is composed of rocky cliffs and sandy shores, with waves gently lapping at his feet. His skin has the texture of smooth stone, interspersed with patches of sand and seashells. His eyes are the color of the ocean, reflecting its depth and mystery. His hair is made of seaweed and driftwood, constantly swaying as if moved by an unseen tide. 
+Eilear manifests the serene beauty and rugged isolation of island landscapes. His towering presence is sculpted from the very elements of remote isles—his body mimics the contours of rocky cliffs and undulating sandy shores. His skin resembles the smooth, weathered stone found along cliff faces, cool and textured, interspersed with patches of fine sand that shift subtly with his movements. Embedded within this unique skin are small shells and bits of colorful sea glass, remnants of the ocean’s gifts, which sparkle under the sunlight.
+
+Eilear’s eyes are deep and captivating, mirroring the rich, mysterious blues of the ocean’s depths. They reflect a calm understanding and the hidden strength of the sea, capable of stillness and storm alike. His hair is an amalgam of seaweed and driftwood, long and flowing, constantly swaying with the rhythm of an unseen tide. This tangled mane carries the scent of salt and brine, and it rustles with the sound of the sea. 
 - **Height**: 450m
 - **Weight**: Unknown
 - **Distinguishing Features**: His most notable features are his smooth stone-like skin, ocean-colored eyes, and his hair made of seaweed and driftwood. His form, composed of rocky cliffs and sandy shores, symbolizes the solitude and serenity of the islands he embodies.
@@ -36,9 +38,11 @@ Eilear is depicted as a serene and solitary figure, embodying the essence of iso
 
 ## Relationships
 
-- **Allies**: (Other gods or celestial beings they align with)
-- **Rivals/Enemies**: (Antagonistic relationships within the pantheon)
-- **Attitude towards Mortals**: (How they generally treat or interact with their followers and other mortals)
+**Family**: 
+- **[[Talam]]**: Father. Eilear's relationship with Talam is one of respect, but it is marked by distance, both emotional and in terms of their domains.
+- **[[Siar]], [[Kair]], [[Niphar]], [[Thear]], & [[Agra]]**: Siblings. Eilear's interactions with his siblings are similarly characterized by a sense of isolation. He does not engage in conflicts or deep alliances with them, preferring instead to remain apart.
+**Rivals/Enemies**: (Antagonistic relationships within the pantheon)
+**Attitude towards Mortals**: 
 
 ## Mythology and Worship
 
