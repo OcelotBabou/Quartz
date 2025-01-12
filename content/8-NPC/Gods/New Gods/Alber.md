@@ -23,7 +23,11 @@ tags:
 
 - **Appearance**: 
 
-Alber is depicted as a powerful and imposing figure, embodying the raw and untamed force of nature. She appears as a towering entity, her skin resembles rough tree bark, with patches of moss and lichen growing on her body, while her hair is a tangle of vines. Her eyes are a vibrant green, glowing with an inner light, and her limbs are strong and muscular, resembling the trunks of ancient tree.
+Alber is depicted as a towering figure, crafted from the very essence of the primeval forests. Her skin is rugged and textured like the bark of ancient trees, weathered and wise, covered sporadically with patches of soft moss and delicate lichen. Her hair, a wild and unruly tangle of vines, cascades down her shoulders and back, interspersed with leaves, flowers, and the occasional berry.
+
+Alber's eyes are a vivid and penetrating green, glowing with a primal and powerful light that reflects the depth and vitality of the natural world. While her body is muscular and robust, mirroring the strength of the oldest trees whose roots have delved deep into the earth. Her arms and legs are like the trunks of mighty oaks, showcasing her physical strength and her rooted connection to the earth. Her movements, though powerful, carry the grace of a creature perfectly in tune with the natural world. 
+
+Adorned with elements of her domain, Alber wears no crafted garments but is instead cloaked in a mantle of foliage that changes with the seasons. In spring and summer, it flourishes with the vibrant colors of flowers and fresh leaves; in autumn, it turns to the golds and reds of falling leaves; and in winter, it bears the whites and grays of frost and snow. 
 - **Height**: 300cm
 - **Weight**: 190kg
 - **Distinguishing Features**: Her bark-like skin, and her hair made of flowing vines.
@@ -45,7 +49,15 @@ Alber is depicted as a powerful and imposing figure, embodying the raw and untam
 
 - **Creation Myth**: 
 
-Alber is said to be a primal force of nature, emerging from the very fabric of the world itself. In ancient times, she was a dominant force, embodying the untamed wilderness in its full glory. As civilizations grew and expanded, the natural world was diminished, and Alber’s power has correspondingly waned. Despite this, she remains a critical figure in the struggle to restore and protect the natural world.
+In the dawn of Staterum, when the world was still a canvas awaiting the strokes of creation, the elemental forces swirled in chaos, shaping land, sea, and sky. Amidst this primordial dance, the spirit of the wilderness began to coalesce, drawn by the deep yearning for life's untamed beauty to flourish. This spirit, a raw and powerful force, manifested itself as Alber, the embodiment of nature's wild heart.
+
+Alber arose not from the will of gods or the plans of other deities but from the inherent necessity of nature itself. As the landscapes of Staterum formed—mountains pushing skyward, rivers carving the earth, forests spreading across vast expanses—there was a palpable need for a guardian, a deity who would ensure that the wilds remained untouched and untamed by the hands of civilization.
+
+The forests, teeming with life and mystery, called out for protection. In response, Alber's form took shape within the deepest woods, where the trees reached oldest and the earth was dark and rich. Her body, crafted from the elements of these ancient places, became a living testament to the endurance and resilience of the wilds.
+
+As Alber walked the untrodden paths of her nascent world, her steps sowed the seeds of countless plants and trees, her breath infused the air with the freshness of pine and earth, and her voice became the wind that rustled through the leaves. Her presence alone was enough to sanctify the natural order, preserving the sanctity of the wild places against the encroaches of those who would seek to tame them.
+
+As civilizations rose and the influence of other gods expanded, Alber remained a constant force, a reminder of the world's inherent wildness and beauty. Her creation was not an act but a consequence of the world's deep need for balance between the untamed and the cultivated, between the chaos of growth and the order imposed by civilization.
 - **Major Cults and Religious Practices**: The majority of Alber's followers are found in the major forest around the world. In particular, [[Agra Island]] is known for devotion to Alber, with numerous temples and religious members found here. 
 - **Festivals**: Festivals dedicated to Alber are often tied to the cycles of nature, such as the changing of the seasons or the full moon. Celebrations might include feasts, dance, and offerings of natural materials. The festivals serve to honor the wild and reaffirm the bond between mortals and nature.
 - **Clergy and Temples**: Priests and priestesses of Alber are often druidic in nature, living closely with the wilderness they revere. Temples dedicated to Alber are usually open-air sanctuaries, integrated into the natural environment rather than constructed structures. They may be located in deep forests, atop mountain peaks, or by sacred natural springs. 

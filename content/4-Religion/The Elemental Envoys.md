@@ -17,24 +17,28 @@ The Elemental Envoys are the progeny of the Primordial Elementals, created to ac
 ### 2. **Deities**
 
 **Primordials**
-- [[Lasair]]
-- [[Ooscie]]
-- [[Talam]]
-- [[Gaoth Oir]]
+- 🔥[[Lasair]]
+- 🌊[[Ooscie]]
+- 🌏[[Talam]]
+- 🌪[[Gaoth Oir]]
 
 **Elemental Envoys**
-- [[Poraal Oir]]
-- [[Rezza Oir]]
-- [[Etnake]]
-- [[Hodophis]]
-- [[Oikos]]
-- [[Siar]]
-- [[Niphar]]
-- [[Kair]]
-- [[Thear]]
-- [[Eilear]]
-- [[Agra]]
-- 
+- 🌪[[Poraal Oir]]
+- 🌪[[Rezza Oir]]
+- 🔥[[Etnake]]
+- 🔥[[Hodophis]]
+- 🔥[[Oikos]]
+- 🌏[[Siar]]
+- 🌏[[Kair]]
+- 🌏[[Niphar]]
+- 🌏[[Eilear]]
+- 🌏[[Thear]]
+- 🌏[[Agra]]
+- 🌊[[Keldria]]
+- 🌊[[Onasu]]
+- 🌊[[Thalmon]]
+- 🌊[[Ooscara]]
+- 🌊[[Typhial]]
 
 ### 3. **Perspectives**
 

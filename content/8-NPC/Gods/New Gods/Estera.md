@@ -18,10 +18,13 @@ tags:
 
 ## Physical Description
 
-- **Appearance**: Estera is depicted as a radiant figure, her skin glowing like the sun, dressed in shimmering golds and fiery reds that reflect the heat and energy of summer.
+- **Appearance**: 
+Estera, the embodiment of summer, exudes warmth and vitality. She is portrayed as a luminous figure, her skin aglow with the golden radiance of the midday sun. Her attire is as brilliant as the summer sky at sunset, composed of shimmering fabrics in hues of gold and fiery red. These garments flow around her in graceful folds, catching the light with every movement, mimicking the dynamic and ever-changing patterns of sunlight dancing across the earth. The fabrics are light and airy, designed to enhance her natural radiance and the sense of warmth she brings. 
+
+Estera's hair is a cascade of vibrant, sun-kissed locks that frame her face and spill over her shoulders like rays of sunshine. Each strand shimmers with the vibrant energy of summer, reflecting the intensity and passion of her domain. While her eyes sparkle with the clear blue of a perfect summer sky, inviting and warm. 
 - **Height**: 177cm
 - **Weight**: 62kg
-- **Distinguishing Features**: Her eyes shine like the sun, casting light in her gaze. Her golden tanned skin
+- **Distinguishing Features**: Her jewelry of gold and precious stones that grace her neck and wrists. 
 
 ## Personality
 
@@ -38,7 +41,9 @@ tags:
 
 ## Mythology and Worship
 
-- **Creation Myth**: (Stories of their origin or significant mythological tales)
+- **Creation Myth**: 
+
+In the nascent days of Staterum, when the earth was still young and malleable under the hands of the gods, Statera, the Goddess of Balance, was struck by a profound tragedy—the loss of her beloved husband to the dark schemes of the Vices. Overwhelmed by grief, her emotions began to manifest into the world itself, influencing the fabric of creation. The first surge of feeling was a fiery rage, a burning fury against the injustice she suffered. This intense emotion sparked into existence Estera, born of fire and passion, embodying the fierce warmth and unyielding light of summer. Estera’s arrival marked the world’s first encounter with the scorching power of the sun, her radiant energy fueling growth and sustaining life, even in the face of sorrow.
 - **Major Cults and Religious Practices**: (Description of main worship practices and any associated cults)
 - **Festivals**: (Special times of the year dedicated to this deity, including rituals and celebrations)
 - **Clergy and Temples**: (Description of priests, holy orders, and sacred sites dedicated to the deity)

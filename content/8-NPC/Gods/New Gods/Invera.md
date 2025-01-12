@@ -18,10 +18,16 @@ tags:
 
 ## Physical Description
 
-- **Appearance**: Invera is depicted as an elegant yet aged figure robed in shimmering whites and icy blues, her presence both chilling and majestic. Her hair and skin seem frosted, sparkling with ice.
+- **Appearance**: 
+
+Invera, the embodiment of winter, is portrayed as a figure of timeless elegance, wrapped in the stark beauty of the coldest season. Her skin appears kissed by frost, a pale luminescence that glows softly against the contrast of her icy domain. It sparkles subtly, as if dusted with fine snowflakes, reflecting the light with every graceful movement. 
+
+Her hair is long and flows like a cascade of icicles, each strand shimmering with a silvery sheen that mimics the delicate formations of frost. It frames her face in an icy veil, enhancing her ethereal, ageless beauty. Invera's eyes are a penetrating shade of glacier blue, clear and deep, holding the stillness and mystery of frozen lakes in their gaze.
+
+She is draped in robes of shimmering whites and icy blues, their fabrics ethereal and light, moving with the fluid grace of falling snow. These garments are adorned with patterns that resemble frostwork on winter windows, intricate and delicate. The fabric catches the light to sparkle like freshly fallen snow under the morning sun. 
 - **Height**: Ethereal and imposing like a winter storm
 - **Weight**: Seemingly insubstantial, like a cold wind
-- **Distinguishing Features**: Her breath mists the air, and her touch brings frost.
+- **Distinguishing Features**: Jewelry made from crystalline ice and sapphire. 
 
 ## Personality
 
@@ -38,7 +44,11 @@ tags:
 
 ## Mythology and Worship
 
-- **Creation Myth**: (Stories of their origin or significant mythological tales)
+- **Creation Myth**: 
+
+In the formative years of Staterum, the world bore witness to the profound grief of its creator, Statera. She had lost her beloved husband, a stalwart companion in the early days of creation, to the cunning and malice of the Vices. His unexpected demise left a void in Statera's heart, her sorrow echoing through the cosmos and manifesting in the world's very climate. Initially overwhelmed by fiery rage, Statera's emotions gradually cooled into a reflective melancholy, and as her internal turmoil deepened, the world felt the encroaching chill of her despair.
+
+This profound sadness brought about the world's first winter, as Statera’s heart turned cold and isolated. From this frosty solitude emerged Invera, crystallized from the icy stillness that had gripped the land. Invera was the embodiment of the season's harsh yet majestic beauty, bringing with her a necessary pause for the natural world. This season of rest was critical for conservation and introspection, preparing all life for the eventual renewal of spring. 
 - **Major Cults and Religious Practices**: (Description of main worship practices and any associated cults)
 - **Festivals**: (Special times of the year dedicated to this deity, including rituals and celebrations)
 - **Clergy and Temples**: (Description of priests, holy orders, and sacred sites dedicated to the deity)

@@ -22,7 +22,9 @@ tags:
 
 ## Physical Description
 
-- **Appearance**: Once Eolas was depicted as an enigmatic figure shrouded in a cloak of many colors, representing the vast spectrum of knowledge she oversees. Her eyes, bright and penetrating, are said to see into the very soul, uncovering truths that lie hidden. Now her form is dynamic and multi-armed, symbolizing her grasp on vast and varied knowledge. She has multiple wings, each feather inscribed with runes and symbols of ancient lore. Her face is partially obscured by a hood, but her eyes shine with an intense, knowing light.
+- **Appearance**: 
+
+Once Eolas was depicted as an enigmatic figure shrouded in a cloak of many colors, representing the vast spectrum of knowledge she oversees. Her eyes, bright and penetrating, are said to see into the very soul, uncovering truths that lie hidden. Now her form is dynamic and multi-armed, symbolizing her grasp on vast and varied knowledge. She has multiple wings, each feather inscribed with runes and symbols of ancient lore. Her face is partially obscured by a hood, but her eyes shine with an intense, knowing light.
 - **Height**: Towering and imposing, she is often depicted around 5 meters tall. 
 - **Weight**: Variable
 - **Distinguishing Features**: (Unique attributes such as glowing eyes, ethereal voice, etc.)
@@ -42,7 +44,9 @@ tags:
 
 ## Mythology and Worship
 
-- **Creation Myth**: (Stories of their origin or significant mythological tales)
+- **Creation Myth**: 
+
+
 - **Major Cults and Religious Practices**: (Description of main worship practices and any associated cults)
 - **Festivals**: (Special times of the year dedicated to this deity, including rituals and celebrations)
 - **Clergy and Temples**: (Description of priests, holy orders, and sacred sites dedicated to the deity)

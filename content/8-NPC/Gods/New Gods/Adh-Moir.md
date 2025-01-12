@@ -42,7 +42,15 @@ Adh-Moir is often depicted as a jovial figure, ever-smiling, with a pair of dice
 
 ## Mythology and Worship
 
-- **Creation Myth**: Adh-Moir's place among the New Gods belies his ancient origin, suggesting a misinterpretation of his true history. He is, in fact, far older than many Old Gods, being the illegitimate child of Dorna. Legend tells that Dorna ventured beyond the boundaries of Staterum into the uncharted darkness, returning not alone but with a child—Adh-Moir. Where this child came from or what Dorna encountered in the uncharted darkness remains a mystery. 
+- **Creation Myth**: 
+
+Adh-Moir's classification among the New Gods often misleads many, for his origins trace back to epochs long before many of the Old Gods had even taken shape. Adh-Moir is the illegitimate progeny of Dorna, legend telling of Dorna's venture into the darkness beyond the edge of all that is known.  
+
+This darkness was not merely a place but a canvas of the cosmos’s deepest mysteries and raw primordial forces. What Dorna sought in such forsaken quarters is not recorded in any known scriptures or tales; such knowledge remains shrouded in the haze of time. However, what is known is that upon his return, Dorna was not alone. Accompanying him was a child, Adh-Moir, whose presence was as much a surprise to the other deities as the fact that Dorna had returned at all.
+
+Adh-Moir, from his first appearance, was an enigma. His features bore the mark of celestial heritage, yet his eyes whispered of abysses untold and cosmos uncharted. His demeanor was not of a newborn deity but of a being who seemed ancient, as if his soul had been forged in the crucibles of time itself.
+
+The circumstances of Adh-Moir's conception and birth are draped in mystery. Rumors among the gods suggested that Dorna encountered ancient entities or forces in the darkness, primeval entities that predate even the oldest of the gods, fundamental being of the universe itself. Despite the speculations, Dorna never confirmed any theory about his son’s origins, and Adh-Moir himself remained aloof and blasé about his history. 
 - **Major Cults and Religious Practices**: Adh-Moir has no dedicated religions and few temples, rather he is called upon by gamblers and those in precarious situations. His failure to answer the majority of pleas, is out weighed by the praise earned at an unexpected turn of good fortune. 
 - **Festivals**: There are no large scale festivals dedicated to Adh-Moir, yet he often plays a role in other deities festivities. 
 - **Clergy and Temples**: Temples are few, usually more like taverns or casinos than traditional religious sites. Those devoted to him are often seen as tricksters and soothsayers, looking to use his blessing for personal gain. 

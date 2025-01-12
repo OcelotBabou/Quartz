@@ -7,7 +7,7 @@ tags:
   - TheNewGods
 ---
 *[yoo-for-on]*
-## ## Basic Information
+## Basic Information
 
 - **Name**: Euphoron
 - **Domain**: Joy, Celebration, Merrymaking
@@ -18,7 +18,9 @@ tags:
 
 ## Physical Description
 
-- **Appearance**: Euphoron is depicted as a vibrant and joyous figure, embodying the spirit of celebration and merrymaking. He has a radiant, almost ethereal glow that seems to emanate from his entire being. His skin is a warm, golden hue, shimmering as if kissed by the sun. His eyes sparkle with a contagious happiness, reflecting the light and energy of countless festivities. He has a mane of wild, curly hair that flows freely, often adorned with flowers and garlands. Euphoron is often seen wearing colorful, flowing garments that dance with the movement. He is rarely seen without his goblet in hand, perpetually over flowing with wine. 
+- **Appearance**: 
+
+Euphoron is depicted as a vibrant and joyous figure, embodying the spirit of celebration and merrymaking. He has a radiant, almost ethereal glow that seems to emanate from his entire being. His skin is a warm, golden hue, shimmering as if kissed by the sun. His eyes sparkle with a contagious happiness, reflecting the light and energy of countless festivities. He has a mane of wild, curly hair that flows freely, often adorned with flowers and garlands. Euphoron is often seen wearing colorful, flowing garments that dance with the movement. He is rarely seen without his goblet in hand, perpetually over flowing with wine. 
 - **Height**: 201cm
 - **Weight**: 101kg
 - **Distinguishing Features**: His wild, curly hair adorned with flowers and garlands, and his goblet of unending wine. 
@@ -32,13 +34,15 @@ tags:
 
 ## Relationships
 
-- **Allies**: (Other gods or celestial beings they align with)
-- **Rivals/Enemies**: (Antagonistic relationships within the pantheon)
-- **Attitude towards Mortals**: (How they generally treat or interact with their followers and other mortals)
+**Family**: (Other gods or celestial beings they align with)
+**Rivals/Enemies**: (Antagonistic relationships within the pantheon)
+**Attitude towards Mortals**: (How they generally treat or interact with their followers and other mortals)
 
 ## Mythology and Worship
 
-- **Creation Myth**: (Stories of their origin or significant mythological tales)
+- **Creation Myth**: 
+
+
 - **Major Cults and Religious Practices**: (Description of main worship practices and any associated cults)
 - **Festivals**: (Special times of the year dedicated to this deity, including rituals and celebrations)
 - **Clergy and Temples**: (Description of priests, holy orders, and sacred sites dedicated to the deity)

@@ -22,7 +22,9 @@ tags:
 
 ## Physical Description
 
-- **Appearance**: Dorna is often depicted as a dynamic figure, swirling with multiple colors, his form never fully solid but constantly shifting and changing. His eyes gleam with a mischievous spark, reflecting his unpredictable nature. When he assumes a more stationary form, he takes on the appearance of a beautifully handsome elven man, with sharp features that exude an air of wild elegance and an underlying sense of perpetual motion, even in stillness.
+- **Appearance**: 
+
+Dorna is often depicted as a dynamic figure, swirling with multiple colors, his form never fully solid but constantly shifting and changing. His eyes gleam with a mischievous spark, reflecting his unpredictable nature. When he assumes a more stationary form, he takes on the appearance of a beautifully handsome elven man, with sharp features that exude an air of wild elegance and an underlying sense of perpetual motion, even in stillness.
 - **Height**: Variable
 - **Weight**: Variable
 - **Distinguishing Features**: Ever-changing form, and an evident distain for clothing. 
@@ -43,6 +45,8 @@ tags:
 ## Mythology and Worship
 
 - **Creation Myth**: 
+
+
 - **Major Cults and Religious Practices**:
 - **Festivals**:
 - **Clergy and Temples**: 

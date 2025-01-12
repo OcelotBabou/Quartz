@@ -19,7 +19,9 @@ tags:
 
 ## Physical Description
 
-- **Appearance**: - Aruinbe is often depicted as a figure of ethereal beauty, with features that are both gentle and alluring. Specifics about his appearance tend to vary, with some portrayals highlighting his warm, inviting eyes and others focusing on his silhouette surrounded by a soft, radiant glow.
+- **Appearance**: 
+
+Aruinbe is often depicted as a figure of ethereal beauty, with features that are both gentle and alluring. Specifics about his appearance tend to vary, with some portrayals highlighting his warm, inviting eyes and others focusing on his silhouette surrounded by a soft, radiant glow.
 - **Height**: Unknown
 - **Weight**: Unknown
 - **Distinguishing Features**: 
