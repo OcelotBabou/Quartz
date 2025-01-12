@@ -1,0 +1,1 @@
+A slaver from Neodoulas, although this fact is hidden at time, and she is currently travelling not with cargo but looking to expand operations. 
