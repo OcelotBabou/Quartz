@@ -6,7 +6,7 @@ Orestia - Frankish
 
 #### Elves
 Dusk Forest Lux Elves - Native American
-General Lux Elves - 
+General Lux Elves - LoTR style
 General Tenebrim Elves - 
 
 Bacchin - Mesopotamian

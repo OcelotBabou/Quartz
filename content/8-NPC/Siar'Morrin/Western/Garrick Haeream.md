@@ -38,7 +38,7 @@ tags:
 
 **Background**
 
-- **Early Life**: Born in the once bustling city of Iterdeep, a nephew of [[King of iterdeep]], he lived a privileged life. 
+- **Early Life**: Born in the once bustling city of Iterdeep, a nephew of [[King Vornis Thenos]], he lived a privileged life. 
 - **Education**: Sent to study within the New Birania at a young age, Garrick was given the best education money could afford in the arts of magic. 
 - **Key Events**: Garrick's prodigious talent in enchantment was recognized early on, earning him the title of Enchant Magus at a remarkably young age compared to his peers. Garrick gained widespread acclaim after he successfully foiled an assassination attempt on his uncle, [[King of iterdeep]] the King of Iterdeep.
 - **Relationships**: Respected and trusted by the Agroma council, he often serves as an advisor. He maintains communication with the other Magisterium Magus.

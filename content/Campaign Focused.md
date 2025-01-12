@@ -16,6 +16,30 @@ Here is all the regions and characters obviously tied to the campaign.
 - [[The Ancients]]
 - [[The Vices]]
 
+**Key NPC**
+Influential Characters
+- [[Alaric Terra]]
+- [[Eron Vaelor]]
+- [[Konrad Mercina]]
+- [[Garrick Haeream]]
+- [[Logar Oakford]]
+
+Caravan
+- [[Bradbury Dawnguard]]
+- [[Lieve Moonsight]]
+- [[Elborn Luxrise]]
+- [[Tiana Illuminor]]
+- [[Calvin Hargrove]]
+- [[Miranda Fleet]]
+- [[Thorton Crewe]]
+
+[[Hu Dao]]
+- 
+
+Family Members
+- 🐭[[Lilia Greytail]]
+- 🐭[[Daria Greytail]]
+
 Specific for Players
 - Brandon [[Paloto Swamplands]], [[Eris]], [[Ratfolk]]
 - Jondo and Mammo [[Riben]] or [[Yorudo]] [[Raxenos]], [[Kitsune]]
