@@ -25,7 +25,7 @@ Influential Characters
 - [[Logar Oakford]]
 
 Caravan
-- [[Bradbury Dawnguard]]
+- [[Bradbury Raturian]]
 - [[Lieve Moonsight]]
 - [[Elborn Luxrise]]
 - [[Tiana Illuminor]]

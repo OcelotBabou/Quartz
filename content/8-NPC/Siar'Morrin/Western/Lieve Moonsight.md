@@ -22,10 +22,12 @@ tags:
 
 Lieve embodies the elusive grace and mystique of the Lux Elves, his appearance as haunting as the shadowed woods he calls home. Lieve’s skin is a deep shade of grey, almost like the twilight hues of the Dusk Forest, seamlessly blending into the shadows. His hair, pitch black and silky, is always meticulously gathered into a tight bun atop his head, emphasizing the sharp contours of his face and his piercing, ever watchful eyes.
 
-His facial features are sharply defined, with high cheekbones and a straight, narrow nose, typical of his elven heritage. Lieve's expression is habitually serious, loosing only when around Bradbury. His eyes, a striking shade of silver, seem to reflect the light of the moon, the only thing visible as he stalks the shadows on patrol at night. He dresses primarily in dark, form-fitting clothes that help him camouflage within the forest when out scouting. 
+His facial features are sharply defined, with high cheekbones and a straight, narrow nose, typical of his elven heritage. Lieve's expression is habitually serious, loosing only when around [[Bradbury Raturian]]. His eyes, a striking shade of silver, seem to reflect the light of the moon, the only thing visible as he stalks the shadows on patrol at night. He dresses primarily in dark, form-fitting clothes that help him camouflage within the forest when out scouting. 
 - **Height**: 180 cm
 - **Weight**: 70 kg
 - **Distinguishing Features**: His attire is consistently dark, tailored to blend seamlessly with the forest when he is out scouting. The seriousness of his demeanor and the intensity of his gaze often set him apart in any gathering.
+
+![[Lievemoonsight.webp]]
 
 **Personality**
 

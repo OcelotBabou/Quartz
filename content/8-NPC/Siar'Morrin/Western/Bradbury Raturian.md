@@ -1,5 +1,5 @@
 ---
-title: Bradbury Dawnguard
+title: Bradbury Raturian
 draft: false
 tags:
   - NPC
@@ -8,7 +8,7 @@ tags:
 
 **Basic Information**
 
-- **Name**: Bradbury Dawnguard
+- **Name**: Bradbury Raturian
 - **Species**: Human
 - **Gender**: Male
 - **Age**: 31
@@ -22,10 +22,12 @@ tags:
 
 Bradbury is a striking figure with a robust and well-muscled build. His broad shoulders and upright posture convey a natural authority and confidence. Bradbury’s hair is a rich shade of brown, cropped close to his head in a neat, military style that reflects his disciplined nature. Complementing this, he sports a short, meticulously groomed beard that frames his square jaw. His piercing blue eyes, sharp and observant, seem to miss nothing, reflecting a man who is always alert to his surroundings.
 
-His face, marked by a notable scar on his left cheek, tells a tale of the battles he has faced, adding a rugged appeal to his otherwise handsome features. This scar, a jagged line that barely misses his eye, is a badge of his bravery, often a starting point for tales of his valor. Despite the harshness this might suggest, Bradbury’s expressions often soften with a genuine warmth, especially when he speaks of his homeland or the people he protects. His hands, though large and capable, are surprisingly gentle, bearing the calluses of swordsmanship and the careful handling of his horse’s reins.
+Bradbury’s expression is often soften with a genuine warmth, especially when he speaks of his homeland or the people he protects. His hands, though large and capable, are surprisingly gentle, bearing the calluses of swordsmanship and the careful handling of his horse’s reins.
+
+He typically wears light leather armor, carefully crafted to fit his form without hindering his movement. This armor provides sufficient protection for most encounters on the road, yet is light enough not to exhaust him during long travels. Bradbury's primary reliance for defense is his large, sturdy shield—a key aspect of his battle strategy.
 - **Height**: 188cm 
 - **Weight**: 95kg
-- **Distinguishing Features**: He bears a scar on his left cheek
+- **Distinguishing Features**: To be honest a bit of a generic looking guy, he is easily lost in a crowd. 
 
 **Personality**
 
