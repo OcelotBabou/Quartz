@@ -27,6 +27,8 @@ Influential Characters
 Caravan
 - [[Bradbury Raturian]]
 - [[Lieve Moonsight]]
+- [[Faelar Silversong]]
+- [[Brialla Silversong]] 
 - [[Elborn Luxrise]]
 - [[Tiana Illuminor]]
 - [[Calvin Hargrove]]
@@ -40,7 +42,8 @@ Family Members
 - 🐭[[Lilia Greytail]]
 - 🐭[[Daria Greytail]]
 
-Specific for Players
+
+**Specific for Players**
 - Brandon [[Paloto Swamplands]], [[Eris]], [[Ratfolk]]
 - Jondo and Mammo [[Riben]] or [[Yorudo]] [[Raxenos]], [[Kitsune]]
 - Tobes [[Paloto Swamplands]], [[Eastern Siar'Morrin]], [[Geppettin]], [[Gunslinger]]
