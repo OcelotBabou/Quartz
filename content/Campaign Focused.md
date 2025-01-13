@@ -24,7 +24,7 @@ Influential Characters
 - [[Garrick Haeream]]
 - [[Logar Oakford]]
 
-Caravan
+[[Hu Dao Caravan]]
 - [[Bradbury Raturian]]
 - [[Lieve Moonsight]]
 - [[Faelar Silversong]]
@@ -44,7 +44,7 @@ Family Members
 
 
 **Specific for Players**
-- Brandon [[Paloto Swamplands]], [[Eris]], [[Ratfolk]]
+- Brandon ([[Virag Greytail]]) [[Paloto Swamplands]], [[Eris]], [[Ratfolk]]
 - Jondo and Mammo [[Riben]] or [[Yorudo]] [[Raxenos]], [[Kitsune]]
 - Tobes [[Paloto Swamplands]], [[Eastern Siar'Morrin]], [[Geppettin]], [[Gunslinger]]
 - Tom [[Sabhaile Forest]] + [[New Birania]] + [[Cia'an]]

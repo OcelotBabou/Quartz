@@ -13,7 +13,7 @@ tags:
 - **Gender**: Female
 - **Age**: 33
 - **Occupation**: Creative Director and Manager of the Troupe
-- **Affiliation**: The traveling entertainers' troupe
+- **Affiliation**: Mithrallica
 - **Home Region**: The vibrant city of Artoria
 
 **Physical Description**

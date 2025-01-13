@@ -13,7 +13,7 @@ tags:
 - **Gender**: Male
 - **Age**: 35
 - **Occupation**: Entertainer (Leader of the troupe)
-- **Affiliation**: 
+- **Affiliation**: Mithrallica
 - **Home Region**: [[Thapsos]]
 
 **Physical Description**
