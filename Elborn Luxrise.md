@@ -9,19 +9,20 @@ tags:
 **Basic Information**
 
 - **Name**: Elborn Luxrise
-- **Species**: Lux Elf
+- **Species**: [[Lux]] Elf
 - **Gender**: Male
 - **Age**: 166
 - **Occupation**: Cleric
-- **Affiliation**: Clergy of the Sun God
+- **Affiliation**: [[Clergy of the Sun God]]
 - **Home Region**: [[Agroma]]
 
 **Physical Description**
 
 - **Appearance**: 
+
 Elborn Luxrise has golden blonde hair, long and flowing, that cascades over his shoulders like a waterfall of light, framing his delicate, fair-skinned face. Elborn’s facial features are finely drawn, with high cheekbones and a gentle jawline that complement his thoughtful, introspective gaze. His eyes, a striking shade of green, are deep pools of wisdom and compassion. hese eyes light up with an inner glow when he speaks of his faith or when performing his clerical duties, captivating those who look upon him.
 
-His attire is a mix of functionality and ceremonial significance, consisting of robes that shimmer with subtle, woven symbols of Gahrian. These robes, though lightweight, are crafted from fabrics that seem to capture and play with the light. Around his neck, he wears an intricately carved amulet, a sacred artifact that not only serves as a symbol of his devotion but also as a focal point for his prayers and blessings.
+His attire is a mix of functionality and ceremonial significance, consisting of robes that shimmer with subtle, woven symbols of [[Gahrian]]. These robes, though lightweight, are crafted from fabrics that seem to capture and play with the light. Around his neck, he wears an intricately carved amulet, a sacred artifact that not only serves as a symbol of his devotion but also as a focal point for his prayers and blessings.
 - **Height**: 175 cm
 - **Weight**: 60 kg
 - **Distinguishing Features**: Elborn's eyes are a vivid shade of green, sparkling with an inner light that reflects his deep connection to the divine powers he serves.
