@@ -20,10 +20,16 @@ tags:
 
 ### Physical Description
 
-- **Appearance**: King Alaric Terra possesses an imposing figure, standing tall with a broad-shouldered, athletic build that speaks of years of military training and the bearing of a born leader. He has a well-groomed beard, sharp eyes that carry the weight of his responsibilities. His hair, once a rich, dark brown, is kept short and is beginning to show streaks of silver at the temples. King Alaric is typically seen in royal attire that balances both majesty and practicality. His wardrobe consists of finely crafted tunics and cloaks, often in deep blues. 
+- **Appearance**: 
+
+King Alaric Terra's presence commands attention, standing tall with a broad-shouldered, athletic build that showcases his military background and the inherent authority of a sovereign. His posture is straight and commanding, each movement deliberate and full of purpose, reflecting the discipline ingrained from years of leading both in court and on the battlefield. Alaric's face is ruggedly handsome, marked by a well-maintained beard that frames his strong jawline, adding a touch of regal dignity to his appearance. His eyes are sharp and piercing, the kind that seem to look right through you. His hair, once a lustrous dark brown, is meticulously kept short and is starting to show dignified streaks of silver at the temples. 
+
+King Alaric's attire is a reflection of his status and taste. He is often seen in finely tailored tunics and majestic cloaks, predominantly in deep blues that echo the royal insignia of his house. These garments are made from the finest materials, richly embroidered with the symbols of his kingdom. 
 - **Height**: 190 cm 
 - **Weight**: 85 kg 
 - **Distinguishing Features**: His height and commanding presence are noticeable even in a crowd, making him immediately recognizable as a figure of authority. Additionally, he carries a ceremonial sword at his side at all times. 
+
+
 
 ### Personality
 

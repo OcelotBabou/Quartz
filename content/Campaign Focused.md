@@ -22,13 +22,6 @@ Here is all the regions and characters obviously tied to the campaign.
 
 **Key NPC**
 
-Influential Characters
-- [[Alaric Terra]]: King of [[New Birania]]
-- [[Eron Vaelor]]: Leader of the [[Biranian Guard]], the largest military force in Siar'Morrin
-- [[Konrad Mercina]]: Head of the [[Church of Statera]]
-- [[Garrick Haeream]]: Council member of [[Agroma]], and the Magus Incantare (top enchanment wizard in Siar'Morrin)
-- [[Logar Oakford]]: Head of the [[Ascended Church]]
-
 [[Hu Dao Caravan]]
 - [[Bradbury Raturian]]: Head guard and de facto leader of the caravan
 - [[Lieve Moonsight]]: Caravan scout/ guard
@@ -46,9 +39,17 @@ Influential Characters
 - [[Kaelis Akurcia]]: Triarch of Defence
 - [[Danthel Elistar]]: Owner of the Rising Sun Tavern
 
+Influential Characters
+- [[Alaric Terra]]: King of [[New Birania]]
+- [[Eron Vaelor]]: Leader of the [[Biranian Guard]], the largest military force in Siar'Morrin
+- [[Konrad Mercina]]: Head of the [[Church of Statera]]
+- [[Garrick Haeream]]: Council member of [[Agroma]], and the Magus Incantare (top enchanment wizard in Siar'Morrin)
+- [[Logar Oakford]]: Head of the [[Ascended Church]]
+
 Family Members
 - 🐭[[Lilia Greytail]]
 - 🐭[[Daria Greytail]]
+- 
 
 
 **Specific for Players**
