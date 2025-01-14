@@ -14,7 +14,7 @@ tags:
 - **Age**: 33
 - **Occupation**: Creative Director and Manager of the Troupe
 - **Affiliation**: Mithrallica
-- **Home Region**: The vibrant city of Artoria
+- **Home Region**: [[Mesokini]]
 
 **Physical Description**
 
