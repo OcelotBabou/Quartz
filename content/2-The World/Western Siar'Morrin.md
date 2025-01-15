@@ -38,7 +38,7 @@ Western Siar'Morrin operates largely under a unified governance system with sign
 
 ### 5. **Economic Overview**
 
-The economy of Western Siar'Morrin is predominantly agricultural, with Agroma serving as the breadbasket. Trade is another economic pillar, facilitated by the constant flow of trade between Eastern and Western Siar'Morrin. Although it was once capable of utilising numerous economic activities, following the AoD, it really virtually solely on agricultural trade.
+The economy of Western Siar'Morrin is predominantly agricultural, with Agroma serving as the breadbasket. Trade is another economic pillar, facilitated by the constant flow of trade between Eastern and Western Siar'Morrin. Although it was once capable of utilising numerous economic activities, following the [[AoD]], it really virtually solely on agricultural trade.
 
 ### 6. **Cultural and Social Fabric**
 

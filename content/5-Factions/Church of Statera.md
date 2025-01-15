@@ -1,5 +1,5 @@
 ---
-title: Example Title
+title: The Church of Statera
 draft: false
 tags:
   - Faction
