@@ -10,7 +10,7 @@ tags:
 
 ### 1. **Overview**
 
-Orestia is the southernmost realm of the Shattered Kingdoms, often asserting its distinction from the fractured region by claiming that the Shattered Kingdoms truly begin north of the Mesoramus Range. This self-perception has led Orestia to actively avoid the internal conflicts and power struggles that plague its northern neighbors, though it frequently finds itself entangled in the schemes and ambitions of Mesokini, its closest neighbor. The kingdom’s terrain is dominated by expansive, semi-fertile plains that rely heavily on the winter runoff from the Mesoramus Range to sustain agriculture and livestock, making its fortunes closely tied to the land’s delicate balance.
+Orestia is the southernmost realm of the Shattered Kingdoms, often asserting its distinction from the fractured region by claiming that the Shattered Kingdoms truly begin north of the [[Mesoramus Range]]. This self-perception has led Orestia to actively avoid the internal conflicts and power struggles that plague its northern neighbors, though it frequently finds itself entangled in the schemes and ambitions of [[Mesokini]], its closest neighbor. The kingdom’s terrain is dominated by expansive, semi-fertile plains that rely heavily on the winter runoff from the Mesoramus Range to sustain agriculture and livestock, making its fortunes closely tied to the land’s delicate balance.
 
 ### 2. **Geography**
 
@@ -20,7 +20,7 @@ The kingdom itself is largely composed of flat plains crisscrossed by meandering
 
 ### 3. **History**
 
-Before the infestation of the Collis Brigantium by bandits and the schism that fractured the Shattered Kingdoms, Orestia flourished as a vital link between the inner kingdoms of Siar’Morrin and New Birania. Its position along key trade routes made it a prosperous and bustling kingdom, serving as the first point of contact for merchants and travelers moving between these regions.
+Before the infestation of the Collis Brigantium by bandits and the schism that fractured the Shattered Kingdoms, Orestia flourished as a vital link between the inner kingdoms of Siar’Morrin and [[New Birania]]. Its position along key trade routes made it a prosperous and bustling kingdom, serving as the first point of contact for merchants and travelers moving between these regions.
 
 However, the rise of banditry in the Collis Brigantium severed these crucial connections, cutting Orestia off from New Birania and isolating it from the larger trade networks. As the Shattered Kingdoms descended into chaos and infighting, Orestia’s once-prominent role diminished, leaving its economy in tatters.
 
@@ -50,11 +50,11 @@ The kingdom's isolation has fostered a strong sense of self-reliance among its p
 
 The political divide within the monarchy has also seeped into everyday life. Town squares and markets buzz with debates over the kingdom’s future, with loyalties to New Birania or Mesokini shaping social interactions and even friendships. This tension is most palpable in the kingdom’s larger settlements, where public forums often devolve into heated arguments.
 
-Religion in Orestia is predominantly tied to the worship of Statera and the Church of Statera, but with a uniquely local twist. The Arteria River and Mesoramus Range are often venerated as sacred manifestations of balance and life. Small shrines dot the countryside, dedicated to these natural landmarks and the gods believed to guide them. In recent years, however, whispers of older, more regional deities have begun to resurface, particularly in the isolated corners of the kingdom.
+Religion in Orestia is predominantly tied to the worship of Statera and the [[Church of Statera]], but with a uniquely local twist. The Arteria River and Mesoramus Range are often venerated as sacred manifestations of balance and life. Small shrines dot the countryside, dedicated to these natural landmarks and the gods believed to guide them. In recent years, however, whispers of older, more regional deities have begun to resurface, particularly in the isolated corners of the kingdom.
 
 ### 7. **Military**
 
-Orestia’s military is a shadow of its former strength, having suffered devastating losses during the Schism Wars. Once a proud and formidable force, the kingdom’s army has dwindled to a modest contingent that struggles to maintain order within its borders.
+Orestia’s military is a shadow of its former strength, having suffered devastating losses during the [[Schism Wars]]. Once a proud and formidable force, the kingdom’s army has dwindled to a modest contingent that struggles to maintain order within its borders.
 
 The majority of Orestia’s remaining forces are now concentrated along the southeastern boundaries, where they face the constant threat posed by the bandit-infested Collis Brigantium. These troops are primarily engaged in skirmishes to protect bordering villages and prevent the bandits from gaining a foothold deeper into Orestian territory. Despite their best efforts, the sheer number of bandits and the challenging terrain often leave the soldiers stretched thin.
 

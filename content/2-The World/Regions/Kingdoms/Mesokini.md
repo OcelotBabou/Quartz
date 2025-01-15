@@ -11,9 +11,9 @@ tags:
 
 ### 1. **Overview**
 
-Mesokini stands as the largest and most powerful kingdom within the Shattered Kingdoms. Nestled between the Protoramus and Mesoramus Ranges, its northern boundary is marked by the shimmering expanse of Lake Serenith. This strategic position has earned Mesokini the nickname "Gateway to the North," a title reflecting its critical role as a bridge between the southern realms of Siar'Morrin and the northern territories. 
+Mesokini stands as the largest and most powerful kingdom within the Shattered Kingdoms. Nestled between the Protoramus and [[Mesoramus Range]]s, its northern boundary is marked by the shimmering expanse of [[Lake Serenith]]. This strategic position has earned Mesokini the nickname "Gateway to the North," a title reflecting its critical role as a bridge between the southern realms of Siar'Morrin and the northern territories. 
 
-Viewed by some as an agitator, Mesokini is infamous for inciting the Schism Wars, the conflict that fractured the region and severed ties with [[New Birania]]. The kingdom wears its reputation openly, making no attempt to hide its disdain for New Biranian influence and advocating for further autonomy and removal from its shadow.
+Viewed by some as an agitator, Mesokini is infamous for inciting the [[Schism Wars]], the conflict that fractured the region and severed ties with [[New Birania]]. The kingdom wears its reputation openly, making no attempt to hide its disdain for New Biranian influence and advocating for further autonomy and removal from its shadow.
 
 Mesokini’s prime location, combined with its wealth of natural resources, has made it one of the richest regions in Siar’Morrin. Historically, it was considered a prized asset of the Biranian Empire, its fertile lands and mineral-rich mountains contributing significantly to the empire's prosperity. Today, it uses this legacy to bolster its claim as the true heir to independence and dominance within the Shattered Kingdoms.
 

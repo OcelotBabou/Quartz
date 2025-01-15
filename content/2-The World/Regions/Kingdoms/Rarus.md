@@ -10,7 +10,7 @@ tags:
 
 ### 1. **Overview**
 
-Rarus is the most secretive and isolationist region within the Shattered Kingdoms, strictly enforcing a no-foreigners policy since the early days of the Schism Wars. With its borders defined by the Inarith River to the east and the Delath River to the south, and shielded by the rugged [[Protoramus Range]] to the north, Rarus has effectively cut itself off from the outside world. Its rivers are patrolled with unnerving vigilance by guards who seem tireless in their duties, creating an impenetrable barrier to outsiders. Under the rulership of Queen Ximena Balaska, the borders were closed, and since then, a shadow, whether metaphorical or literal, has been said to loom over this mysterious land. 
+Rarus is the most secretive and isolationist region within the Shattered Kingdoms, strictly enforcing a no-foreigners policy since the early days of the [[Schism Wars]]. With its borders defined by the Inarith River to the east and the Delath River to the south, and shielded by the rugged [[Protoramus Range]] to the north, Rarus has effectively cut itself off from the outside world. Its rivers are patrolled with unnerving vigilance by guards who seem tireless in their duties, creating an impenetrable barrier to outsiders. Under the rulership of Queen Ximena Balaska, the borders were closed, and since then, a shadow, whether metaphorical or literal, has been said to loom over this mysterious land. 
 
 ### 2. **Geography**
 

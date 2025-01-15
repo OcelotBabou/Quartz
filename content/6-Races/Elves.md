@@ -8,7 +8,7 @@ tags:
   - Tenebrim
   - Dorna
 ---
-Image
+
 
 Elves in Statera are an ancient and graceful race, closely attuned to the mystical energies of the world. They are divided into three distinct sub-races, each embodying different aspects of the natural and celestial realms.
 
