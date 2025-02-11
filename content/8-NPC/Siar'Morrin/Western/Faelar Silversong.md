@@ -27,6 +27,8 @@ Faelar favors practicality on most days, opting for plain, well-worn clothes tha
 - **Weight**: 78 kg
 - **Distinguishing Features**: A tattoo of a A lyre and quill crossed over an open book
 
+![[31674488-c047-4ce5-bfa9-86a9d56c65c4.webp]]
+
 **Personality**
 
 - **Traits**: Charismatic, witty, and approachable

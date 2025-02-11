@@ -29,6 +29,8 @@ He typically wears light leather armor, carefully crafted to fit his form withou
 - **Weight**: 95kg
 - **Distinguishing Features**: To be honest a bit of a generic looking guy, he is easily lost in a crowd. 
 
+![[a084a143-d015-40a5-ab4d-4e5977d57286.webp]]
+
 **Personality**
 
 - **Traits**: Honorable, compassionate, and unwaveringly loyal
@@ -38,7 +40,7 @@ He typically wears light leather armor, carefully crafted to fit his form withou
 
 **Background**
 
-Bradbury's journey as a guard for hire spans over eight memorable years, a path he embarked upon with [[Lieve Moonsight]] after a life-changing encounter in the Dusk Forest. As a young and somewhat arrogant adventurer, Bradbury ventured deep into the forest, lured by tales of the exotic Bacchin Beer brewed in the mystical town of Liberalia. It was there, amidst the shadowed trees and lurking dangers, that Lieve saved his life from an angered displacer beast, forging a bond of trust and camaraderie that has endured ever since.
+Bradbury's journey as a guard for hire spans over eight memorable years, a path he embarked upon with [[Lieve Moonsight]] after a life-changing encounter in the [[Dusk Forest]]. As a young and somewhat arrogant adventurer, Bradbury ventured deep into the forest, lured by tales of the exotic [[Bacchin]] Beer brewed in the mystical town of Liberalia. It was there, amidst the shadowed trees and lurking dangers, that Lieve saved his life from an angered displacer beast, forging a bond of trust and camaraderie that has endured ever since.
 
 Throughout his travels across the expansive landscapes of Siar'Morrin, Bradbury has accumulated a wealth of stories and experiences, ranging from thrilling encounters with bandits to serene nights under starlit skies. His openness and willingness to share these tales have made him a beloved figure within the caravan. More importantly, his affable nature and knack for diplomacy have proven invaluable in maintaining harmony among the caravan’s diverse group. Whether it’s soothing ruffled feathers among the entertainers or bridging gaps between the human merchants and their non-human companions, Bradbury’s interventions are often subtle yet effective.
 

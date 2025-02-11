@@ -7,11 +7,11 @@ tags:
 ---
 ### 1. **Basic Info**
 
-**Name:** The Rat Pack  
-**Symbol:** A stylised rat's head encircled by two crossed swords  
-**Leader:** [[Skadin Blackfur]]
-**Headquarters:** [[Flown]]
-**Core Philosophy:** Initially founded to promote the valour and competence of Ratfolk mercenaries, striving to showcase their skills and loyalty.
+- **Name:** The Rat Pack  
+- **Symbol:** A stylised rat's head encircled by two crossed swords  
+- **Leader:** [[Skadin Blackfur]]
+- **Headquarters:** [[Flown]]
+- **Core Philosophy:** Initially founded to promote the valour and competence of Ratfolk mercenaries, striving to showcase their skills and loyalty.
 
 ### 2. **Overview**
 

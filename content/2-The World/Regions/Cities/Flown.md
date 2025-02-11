@@ -11,7 +11,7 @@ Image of Flown
 
 **Overview:** 
 
-The City of Flown is the illustrious capital of Agroma, majestically situated on the western shores of Lake Novus Mare. Renowned for its unique blend of natural beauty and architectural splendor, Flown serves as the cultural, political, and economic hub of the region.
+The City of Flown is the illustrious capital of [[Agroma]], situated on the western shores of [[Lake Novus Mare]]. Renowned for its unique blend of natural beauty and architectural splendor, Flown serves as the cultural, political, and economic hub of the region.
 
 **Description:** 
 

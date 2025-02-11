@@ -10,7 +10,7 @@ tags:
 *[rye-ben]*
 ### 1. **Overview**
 
-Riben stands as the Southernmost region of Western Kair'Thear, known for its stark urban landscapes and stark social divides. Bordering the remnants of the [[Dahri Empire]] and the lush [[Vahshi Forest]], Riben contrasts sharply with its verdant neighbors by embodying a densely populated and highly developed urban sprawl.
+Riben stands as the Southernmost region of Western Kair'Thear, known for its stark urban landscapes and significant social divides. Bordering the remnants of the [[Dahri Empire]] and the lush [[Vahshi Forest]], Riben contrasts sharply with its verdant neighbors by embodying a densely populated and highly developed urban sprawl.
 
 ### 2. **Geography**
 
@@ -70,7 +70,8 @@ Recent efforts to expand the military’s size and capabilities suggest preparat
 
 ### 9. **Significant Characters**
 
-Introduce key figures associated with the region, such as rulers, heroes, or villains. Include brief descriptions of their roles and impacts on the region.
+- [[Ming Donismus]]: The Supreme Chancellor of Riben, Ming Honismus is a visionary leader with a strategic mind adept at balancing the intricacies of Riben's political landscape. His tenure is marked by aggressive urban development, keen focus on technological dominance, and providing opulent luxuries to the upper classes.
+- [[Arta Hu]]: 
 
 ### 10. **Current Issues and Future Prospects**
 
