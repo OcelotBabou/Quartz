@@ -1,0 +1,1 @@
+Angles that served eris when he was still good. Now as a demonlord they serve to enforce oaths, like the furies in Brandons
