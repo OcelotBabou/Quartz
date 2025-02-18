@@ -9,15 +9,15 @@ tags:
 ---
 **Overview:** 
 
-Furrowton is the northernmost Ratfolk city in the Paloto Swamplands, situated right on the edge of the swamplands bordering Agroma. Established with the express desire to foster relations with the wider Siar’Morrin communities, Furrowton serves as a gateway between the Ratfolk and their neighboring regions.
+Furrowton, the northernmost [[Ratfolk]] city in the [[Paloto Swamplands]], is strategically positioned at the edge of the swamps bordering [[Agroma]]. Founded to strengthen ties with the wider communities of Siar’Morrin, Furrowton serves as both a literal and figurative gateway, facilitating trade, communication, and cultural exchange between the Ratfolk and their neighbors.
 
 **Description:** 
 
-Furrowton is a bustling city characterized by its unique blend of traditional Ratfolk architecture and elements inspired by its neighboring regions. Elevated walkways and stilted buildings are common, reflecting the city’s swampy surroundings. The city is strategically located to facilitate trade and communication, with well-maintained roads leading into Agroma and beyond. Furrowton is known for its welcoming atmosphere, vibrant markets, and numerous embassies and trade offices.
+Furrowton is a bustling city characterised by its unique blend of traditional Ratfolk architecture and elements inspired by its neighboring regions. Elevated walkways and stilted buildings are common, reflecting the city’s swampy surroundings. The city is strategically located to facilitate trade and communication, with well-maintained roads leading into Agroma and beyond. Furrowton is known for its welcoming atmosphere, vibrant markets, and numerous embassies and trade offices.
 
 **History:** 
 
-Founded by Garon Reedwhistle a visionary Ratfolk leader, Furrowton was established as a bridge between the Ratfolk communities and the broader world of Siar’Morrin. The city has been slow to grow, but remains focused on its role as a center for diplomacy and trade, attracting merchants, diplomats, and adventurers from various regions. Its history is marked by successful treaties and trade agreements, in defiance of traditional bigotry towards Ratfolk, that have enriched both Furrowton and its neighboring communities.
+Founded by Garon Reedwhistle alongside [[Virag Greytail]], Furrowton was established as a bridge between the Ratfolk communities and the broader world of Siar’Morrin. The city has been slow to grow, but remains focused on its role as a center for diplomacy and trade, attracting merchants, diplomats, and adventurers from various regions. Its history is marked by successful treaties and trade agreements, in defiance of traditional bigotry towards Ratfolk, that have enriched both Furrowton and its neighboring communities.
 
 **Significance:** 
 
