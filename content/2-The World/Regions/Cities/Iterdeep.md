@@ -16,7 +16,7 @@ Nestled within the imposing peaks of the Shadow Aisle Mountains, Iterdeep is a c
 
 **History:** 
 
-Historically, Iterdeep thrived as a critical trade route, bustling with activity and bridging the vast distances between Siar’Morrin’s eastern and western realms. However, in recent years, the region has seen a drastic shift towards isolation. This transition was marked by growing distrust fueled by dark rumors and tales of treachery and deceit. The region, once known for its religious fervor and numerous shrines dedicated to deities like Gaharian, and Mercio, has undergone significant cultural upheaval under the current monarchy.
+Historically, Iterdeep thrived as a critical trade route, bustling with activity and bridging the vast distances between Siar’Morrin’s eastern and western realms. However, in recent years, the region has seen a drastic shift towards isolation. This transition was marked by growing distrust fueled by dark rumors and tales of treachery and deceit. The region, once known for its religious fervor and numerous shrines dedicated to deities like [[Gahrian]], and [[Mercio]], has undergone significant cultural upheaval under the current monarchy.
 
 **Significance:** 
 
