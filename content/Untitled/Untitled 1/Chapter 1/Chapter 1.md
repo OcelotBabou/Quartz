@@ -14,7 +14,7 @@ tags:
 - **[[Road to Hu Dao]]**
 - **[[Ambush]]**
 **[[Arrival]]** (lvl 2)
-- **[[The Adventurers Guild]]**
+- **[[Hu Dao Adventurers Guild]]**
 - **[[The Hunters Guild]]**
 - **[[Misc Hu Dao Quests]]**
 **[[Hu Dao Thieves Guild]]**
