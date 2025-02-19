@@ -8,7 +8,7 @@ tags:
 ---
 **Overview:** 
 
-Bloodstone Valley is a deep, narrow valley in Phemus Reach, known for its distinctive red-hued rocks and its historical significance as a battleground. The valley's foreboding appearance and reputation for violent clashes make it a place of both dread and fascination. It is a central location for the giants and ogres of the region, who often settle disputes through combat within its confines.
+Bloodstone Valley is a deep, narrow valley in [[Phemus Reach]], known for its distinctive red-hued rocks and its historical significance as a battleground. The valley's foreboding appearance and reputation for violent clashes make it a place of both dread and fascination. It is a central location for the giants and ogres of the region, who often settle disputes through combat within its confines.
 
 **Description:**
 
@@ -16,7 +16,7 @@ Bloodstone Valley is characterized by its steep, jagged cliffs and the striking 
 
 **History:** 
 
-The history of Bloodstone Valley is steeped in blood and conflict. For centuries, it has served as the primary arena for resolving disputes among the giants and ogres of Phemus Reach. According to legend, the valley was first consecrated as a battleground by the Earth titans [[Siar]] and [[Thear]], who used it to settle a major conflict over leadership. Since then, it has become the traditional site for ritual combat, where strength and prowess determine leadership and resolve grievances. The red rocks are said to be stained with the blood of countless warriors, giving the valley its ominous name.
+The history of Bloodstone Valley is steeped in blood and conflict. For centuries, it has served as the primary arena for resolving disputes among the giants and ogres of Phemus Reach. According to legend, the valley was first consecrated as a battleground by the Earth titans [[Siar]] and [[Kair]], who used it to settle a major conflict over leadership. Since then, it has become the traditional site for ritual combat, where strength and prowess determine leadership and resolve grievances. The red rocks are said to be stained with the blood of countless warriors, giving the valley its ominous name.
 
 **Significance:** 
 
@@ -32,8 +32,8 @@ Bloodstone Valley holds significant cultural and social importance for the giant
 
 **Local Legends or Stories:**
 
-One of the most enduring legends is that of The First Blood. According to the tale, the valley was consecrated as a battleground when Siar and Thear used it to settle their leadership disputes. Here Siar defeated Thear, nearly killing his younger brother, and forcing him into exile on the opposite side of Staterum. 
-Another popular story speaks of The Unyielding Warrior, a legendary giant who fought in Bloodstone Valley and was known for his unmatched strength and unbreakable will. According to the legend, this warrior never lost a battle and met his end only by old age. It is believed that his spirit remains in the valley, lending strength to those who fight with honor and courage. Warriors often leave offerings at the Warrior's Altar in hopes of gaining his favor and strength in their own battles.
+One of the most enduring legends is that of The First Blood. According to the tale, the valley was consecrated as a battleground when Siar and Kair used it to settle their leadership disputes. Here Siar defeated Kair, nearly killing his younger brother, and forcing him into exile on the opposite side of Staterum. 
+Another popular story speaks of The Unyielding Warrior, a giant known for his formidable strength and indomitable spirit, persists. Never defeated in battle, his arrogance eventually provoked [[Riero]], the God of War, who challenged him to a duel. The battle was fierce and long, with the valley echoing the clashing of their mighty blows. In the end, Riero emerged victorious, and The Unyielding Warrior met his demise. It is said that the spirit of The Unyielding Warrior still lingers in the valley, a phantom presence that emboldens those who approach battle with honor and courage.
 
 **Visitors' Experience:** 
 

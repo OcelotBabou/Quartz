@@ -8,7 +8,7 @@ tags:
 ---
 **Overview:** 
 
-Giant’s Grotto is a vast and mysterious cave system located in Phemus Reach. Known for its beautiful yet perilous crystal formations, the grotto is rumored to be the dwelling place of a wise giant seer. This awe-inspiring natural wonder captivates both adventurers and scholars, drawing them to explore its depths despite the inherent dangers.
+Giant’s Grotto is a vast and mysterious cave system located in [[Phemus Reach]]. Known for its beautiful yet perilous crystal formations, the grotto is rumored to be the dwelling place of a wise giant seer. This awe-inspiring natural wonder captivates both adventurers and scholars, drawing them to explore its depths despite the inherent dangers.
 
 **Description:** 
 

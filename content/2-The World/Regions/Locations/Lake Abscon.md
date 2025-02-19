@@ -8,7 +8,7 @@ tags:
 ---
 **Overview:** 
 
-Lake Abscon is a serene and mysterious body of water located at the Eastern base of the Shadow Aisle Mountains, known for its clear, still waters and the secrets it is believed to hold beneath its surface. The lake is surrounded by dense forest and steep mountain slopes, creating a secluded and tranquil environment that has captivated explorers and locals alike.
+Lake Abscon is a serene and mysterious body of water located at the Eastern base of the [[Shadow Aisle Mountains]], known for its clear, still waters and the secrets it is believed to hold beneath its surface. The lake is surrounded by dense forest and steep mountain slopes, creating a secluded and tranquil environment that has captivated explorers and locals alike.
 
 **Description:** 
 

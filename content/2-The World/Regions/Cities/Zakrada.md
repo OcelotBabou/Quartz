@@ -10,7 +10,7 @@ tags:
 
 **Overview:** 
 
-Zakrada is the second-largest city within New Birania, located to the north of Vitaurum at the confluence of the Fluvitae River and the Adda River. Strategically positioned at the base of Cor Falls, a majestic waterfall along the Fluvitae River, and at the junction of two major waterways, Zakrada has historically served as a vital link between New Birania and the inner regions of Eastern Siar’Morrin. This advantageous position once made Zakrada a thriving hub of trade and wealth.
+Zakrada is the second-largest city within [[New Birania]], located to the north of [[Vitaurum]] at the confluence of the Fluvitae River and the Adda River. Strategically positioned at the base of Cor Falls, a majestic waterfall along the Fluvitae River, and at the junction of two major waterways, Zakrada has historically served as a vital link between New Birania and the inner regions of Eastern Siar’Morrin. This advantageous position once made Zakrada a thriving hub of trade and wealth.
 
 **Description:**
 
@@ -18,7 +18,7 @@ Zakrada is a patchwork city, its appearance reflecting centuries of growth and c
 
 **History:** 
 
-Like many Biranian cities, Zakrada’s origins are obscured by the passage of time. In an age long past, the city was established around the Fluvitae River, with early settlers building much of the proto city into the natural formations of Cor Falls. During the Schism Wars of the Shattered Kingdoms, Zakrada became a critical stronghold and a base of operations for the Biranian Guard, cementing its role as a key military and logistical center. However, in recent years, the decline of trade from the Shattered Kingdoms has marked the end of Zakrada’s golden era. While its population continues to grow, largely due to an influx of refugees, its wealth has steadily waned. The encroaching slums symbolize this decline, creeping ever closer to the city’s once-pristine core.
+Like many Biranian cities, Zakrada’s origins are obscured by the passage of time. In an age long past, the city was established around the Fluvitae River, with early settlers building much of the proto city into the natural formations of Cor Falls. During the [[Schism Wars]] of the Shattered Kingdoms, Zakrada became a critical stronghold and a base of operations for the Biranian Guard, cementing its role as a key military and logistical center. However, in recent years, the decline of trade from the Shattered Kingdoms has marked the end of Zakrada’s golden era. While its population continues to grow, largely due to an influx of refugees, its wealth has steadily waned. The encroaching slums symbolize this decline, creeping ever closer to the city’s once-pristine core.
 
 **Significance:** 
 

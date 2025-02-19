@@ -30,7 +30,7 @@ Mozkull Pass holds strategic importance as a hidden route through the Ridgeback 
 
 **Local Legends or Stories:** 
 
-The pass itself is considered a legend in itself, and where it to be true every section of its treacherous path would serve as fuel for legends and stories. 
+The pass is considered a legend in itself, and were it to be true every section of its treacherous path would serve as fuel for legends and stories. 
 
 **Visitors' Experience:** 
 

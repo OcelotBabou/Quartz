@@ -8,7 +8,7 @@ tags:
 ---
 **Overview:**
 
-Gorak's Perch is a precarious ridge bordering Phemus Pass, offering a strategic vantage point over the famous passage. It is named after Gorak, an infamous giant known for his relentless attacks on unsuspecting merchants and travelers. The ridge's imposing height and rugged terrain make it a formidable and dangerous location, reflecting the ferocity of its namesake.
+Gorak's Perch is a precarious ridge bordering [[Phemus Pass]], offering a strategic vantage point over the famous passage. It is named after [[Gorak]], an infamous giant known for his relentless attacks on unsuspecting merchants and travelers. The ridge's imposing height and rugged terrain make it a formidable and dangerous location, reflecting the ferocity of its namesake.
 
 **Description:** 
 

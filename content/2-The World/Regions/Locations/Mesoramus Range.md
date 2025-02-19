@@ -10,11 +10,11 @@ tags:
 
 **Overview:** 
 
-The Mesoramus Range, the central expanse of the Greater Ramus Range, forms a formidable natural border along the southern edge of the Shattered Kingdoms. At its heart lies Zeel'Croi, the remnants of a once-great dwarven kingdom, its halls now ruins overtaken by darkness. The aftermath of the Age of Darkness [[AoD]] saw demons fleeing into the mountains, where they overwhelmed and claimed the kingdom for themselves. Despite the threat they pose, these demonic forces have rarely ventured beyond the confines of the Mesoramus Range, leaving the region a mystery-laden danger zone further cementing it as an impassable barrier.
+The Mesoramus Range, the central expanse of the Greater Ramus Range, forms a formidable natural border along the southern edge of the [[Shattered Kingdoms]]. At its heart lies Zeel'Croi, the remnants of a once-great dwarven kingdom, its halls now ruins overtaken by darkness. The aftermath of the Age of Darkness [[AoD]] saw demons fleeing into the mountains, where they overwhelmed and claimed the kingdom for themselves. Despite the threat they pose, these demonic forces have rarely ventured beyond the confines of the Mesoramus Range, leaving the region a mystery-laden danger zone further cementing it as an impassable barrier.
 
 **Description:** 
 
-This section of the Greater Ramus Range is broader and more rugged than its western counterpart, the Protoramus Range. Its towering peaks and jagged ridges create a stark and dramatic landscape that sharply contrasts with its surroundings. To the north, the slopes descend more gently into the Shattered Kingdoms, providing fertile foothills and highlands, while to the south, the terrain plunges steeply into the lands below, forming a near-impenetrable wall of stone.
+This section of the Greater Ramus Range is broader and more rugged than its western counterpart, the [[Protoramus Range]]. Its towering peaks and jagged ridges create a stark and dramatic landscape that sharply contrasts with its surroundings. To the north, the slopes descend more gently into the Shattered Kingdoms, providing fertile foothills and highlands, while to the south, the terrain plunges steeply into the lands below, forming a near-impenetrable wall of stone.
 
 The range’s interior is a labyrinth of rugged cliffs, hidden valleys, and craggy outcrops. It bears the enduring marks of dwarven craftsmanship, with extensive tunnels, mines, and fortifications carved into its depths during their age of prominence. These structures, once vibrant with life and industry, now stand as ghostly remnants of the dwarves who once thrived here.
 

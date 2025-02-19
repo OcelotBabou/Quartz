@@ -10,7 +10,7 @@ tags:
 
 **Overview:** 
 
-Taenarius is one of the few cities within Donatus Stultitia, located on the southeastern edge of the region. It sits on the very periphery of the harsh Mirage Plains, where life is challenging but possible. The city relies heavily on the brief rainy season, during which flocks of beasts pass through their lands, allowing the inhabitants to store essential resources for the long, dry periods. Taenarius is built underground, with a network of tunnels providing refuge from the blistering heat and offering protection from the ever-present threat of Gnoll raids.
+Taenarius is one of the few cities within [[Donatus Stultitia]], located on the southeastern edge of the region. It sits on the very periphery of the harsh Mirage Plains, where life is challenging but possible. The city relies heavily on the brief rainy season, during which flocks of beasts pass through their lands, allowing the inhabitants to store essential resources for the long, dry periods. Taenarius is built underground, with a network of tunnels providing refuge from the blistering heat and offering protection from the ever-present threat of Gnoll raids.
 
 **Description:** 
 
@@ -23,7 +23,7 @@ The history of Taenarius is one of resilience and adaptation. Founded by a group
 
 **Significance:** 
 
-Its strategic location on the edge of the Mirage Plains allows it to act as a gateway between the harsher interior and the more fertile lands beyond. For those that now of its location, it can offer a life line for those that have been forced to treat across the harsh environment.
+Its strategic location on the edge of the Mirage Plains allows it to act as a gateway between the harsher interior and the more fertile lands beyond. For those that know of its location, it can offer a life line for those that have been forced to trek across the harsh environment.
 
 **Notable Features:**
 
@@ -35,7 +35,7 @@ Its strategic location on the edge of the Mirage Plains allows it to act as a ga
 
 **Local Legends or Stories:**
 
-Two main legends tell the tale of Taenarius' creation. One story claims that [[dwarves]] fleeing the Shadow Aisle Mountains found themselves stranded on the Mirage Plains. In their time of desperation, they discovered salvation in the migrating herds and the ensuing wet period. Seeing this as a divine sign, they decided to establish a new home on the plains, carving out the underground city of Taenarius with their unparalleled craftsmanship. The dwarves' resourcefulness and determination laid the foundation for the city’s enduring legacy.
+Two main legends tell the tale of Taenarius' creation. One story claims that [[dwarves]] fleeing the [[Shadow Aisle Mountains]] found themselves stranded on the Mirage Plains. In their time of desperation, they discovered salvation in the migrating herds and the ensuing wet period. Seeing this as a divine sign, they decided to establish a new home on the plains, carving out the underground city of Taenarius with their unparalleled craftsmanship. The dwarves' resourcefulness and determination laid the foundation for the city’s enduring legacy.
 The alternate story recounts how a band of lost warriors was ambushed by Ankhegs. Turning the tables on their attackers, the warriors not only fought off the Ankhegs but also chased them into their underground burrows. After clearing out the Ankhegs, the warriors found the burrows to be well-positioned, likely chosen by the Ankhegs to take advantage of the migrating beasts. Following this tradition, they inhabited the land, expanding and fortifying the burrows to create the city of Taenarius.
 
 **Visitors' Experience:** 
