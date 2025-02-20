@@ -8,7 +8,7 @@ tags:
 ---
 **Overview:** 
 
-The Oasis of Mirages is a temporary and elusive oasis in the Donatus Mirage Plains that appears during the brief rainy season. Known for its stunning transformation and the myriad of creatures that flock to its shores in the rainy season. However, in the dry season it's waters dry, yet its image remains casting a far reaching mirage. This illusion has mislead many weary adventurers to its shore, only to find a dry dust bowl. 
+The Oasis of Mirages is a temporary and elusive oasis in [[Donatus Stultitia]] that appears during the brief rainy season. Known for its stunning transformation and the myriad of creatures that flock to its shores in the rainy season. However, this period is short, and in the dry season it's waters dry, yet its image remains casting a far reaching mirage. This illusion has mislead many weary adventurers to its shore, only to find a dry dust bowl. 
 
 **Description:** 
 
@@ -35,4 +35,4 @@ Local legends and stories surround the oasis, to the gnolls it serves a gift fro
 
 **Visitors' Experience:** 
 
-Visitors to the Oasis of Mirages are greeted by a stunning and almost otherworldly landscape. The stark contrast between the barren plains and the lush oasis creates a sense of awe and wonder. The clear pools and vibrant greenery provide a refreshing break from the harsh environment, making the oasis a popular destination during the rainy season. Those fortunate enough to witness the oasis can enjoy its natural beauty, observe the diverse wildlife, and experience the spiritual significance of the sacred grove. However, the oasis's ephemeral nature means that visitors must time their journey carefully, as the oasis will disappear once the rains cease, leaving behind only the memory of its brief existence. During the dry season, the mirage phenomenon can lead travelers astray, adding an element of caution and intrigue to the experience.
+Visitors to the Oasis of Mirages are greeted by a stunning and almost otherworldly landscape. The stark contrast between the barren plains and the lush oasis creates a sense of awe and wonder. The clear pools and vibrant greenery provide a refreshing break from the harsh environment, making it an essential way point for any fool enough to cross the plains. Those fortunate enough to witness the oasis can enjoy its natural beauty, observe the diverse wildlife, and experience the spiritual significance of the sacred grove. However, the oasis's ephemeral nature means that visitors must time their journey carefully, as the oasis will disappear once the rains cease, leaving behind only the memory of its brief existence. During the dry season, the mirage phenomenon can lead travelers astray, no longer acting as a respite, rather a lure and a crushing final blow to moral for many.

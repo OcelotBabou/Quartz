@@ -26,6 +26,7 @@ Perfidius Plunge holds immense natural and historical significance. The presence
 
 - **The Waterfall:** The most prominent feature, the waterfall of Perfidius Plunge, is a spectacular sight, with the river dramatically disappearing into a chasm in the earth.
 - **Port Entrance to Iterdeep:** At the base of the waterfall lies the historic port entrance to Iterdeep, an intricately carved gateway through the mountains that once served as a crucial passage for travelers.
+- **Ancient Pullies:** Constructed centuries ago, these robust pulley systems are ingeniously designed to transport goods across the dramatic elevation change caused by Perfidius Plunge. Originally engineered to facilitate trade by allowing cargo to bypass the impassable waterfall, the pulleys move goods between the port at the base and the riverbank above.
 - **Viewing Platforms:** Strategically placed platforms provide visitors with safe vantage points to view the waterfall and the surrounding landscape.
 
 **Local Legends or Stories:**
@@ -34,4 +35,4 @@ Long ago, an ancient and forgotten evil, one that dared to challenge the gods th
 
 **Visitors' Experience:** 
 
-Visitors to Perfidius Plunge were once treated to a majestic natural spectacle. The sound of the roaring waterfall, combined with the sight of water cascading into the earth, creating a mesmerizing experience. The viewing platforms offering safe spots to take in the beauty and power of the plunge.
+Visitors to Perfidius Plunge were once treated to a majestic natural spectacle. The sound of the roaring waterfall, combined with the sight of water cascading into the earth, creating a mesmerizing experience. The viewing platforms offering safe spots to take in the beauty and power of the plunge. In the current state of the [[Shadow Aisle Mountains]], it is unlikely to receive a warm welcome anymore. 

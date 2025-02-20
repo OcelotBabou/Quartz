@@ -8,7 +8,7 @@ tags:
 ---
 **Overview:** 
 
-The Lost City of Kharzhum is a legendary ancient city hidden deep within the valleys of Phemus Reach. Believed to have been built by a forgotten civilization of giants, Kharzhum is shrouded in mystery and intrigue, with tales of incredible wealth and powerful artifacts said to be hidden within its ruins. The city's elusive nature and the dangers of Phemus Reach make it a tantalizing yet perilous destination for adventurers and treasure hunters.
+The Lost City of Kharzhum is a legendary ancient city hidden deep within the valleys of [[Phemus Reach]]. Believed to have been built by a forgotten civilization of giants, Kharzhum is shrouded in mystery and intrigue, with tales of incredible wealth and powerful artifacts said to be hidden within its ruins. The city's elusive nature and the dangers of Phemus Reach make it a tantalizing yet perilous destination for adventurers and treasure hunters.
 
 **Description:** 
 
@@ -31,8 +31,8 @@ The Lost City of Kharzhum holds immense cultural and historical significance. It
 
 **Local Legends or Stories:**
 
-One legend focuses on the mysterious location of Kharzhum, speculating that it actually resides at the very bottom of [[The Echoing Abyss]]. Such legends tell of how the city of giants, ruled by wise and powerful giants became arrogant and challanged their creator, Talam. Angered Talam cast their city into a bottomless pit, and cursed their once proud race to descend into mindless brutes. 
-Other legends focus on the riches and artifacts said to be held within Kharzhum, talking of seas of gold, and artifacts once held by the Gods themselves when they still walked the planet. 
+One legend focuses on the mysterious location of Kharzhum, speculating that it actually resides at the very bottom of [[The Echoing Abyss]]. Such legends tell of how the city of giants, ruled by wise and powerful giants became arrogant and challanged their creator, Talam. Angered Talam cast their city into a bottomless pit, and cursed their once proud race to descend into mindless brutes. Other versions tell, that the giants excavating the land came across [[Niphar]] as their quarries dug deep into the ground. Niphar, offered his help and a location protected from the meddling of the outside world, taking them deep into his realm. Here at the base of the Echoing Abyss, their mighty city was constructed. 
+Other legends focus on the riches and artifacts said to be held within Kharzhum, talking of seas of gold, and artifacts once held by the Gods themselves when they still walked the planet. If such a city truly does exist, it can be expected that such stories of treasure and wealth have not be overestimated. 
 
 **Visitors' Experience:** 
 

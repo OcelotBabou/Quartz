@@ -8,7 +8,7 @@ tags:
 ---
 **Overview:**
 
-The Salt Flats are a vast expanse of shimmering white salt that stretch out like a desolate sea in the heart of the Donatus Mirage Plains. Known for their stark and unforgiving landscape, the Salt Flats remain dry and desolate even during the rainy season, creating a striking contrast with the surrounding areas that temporarily spring to life.
+The Salt Flats are a vast expanse of shimmering white salt that stretch out like a desolate sea in the heart of [[Donatus Stultitia]]. Known for their stark and unforgiving landscape, the Salt Flats remain dry and desolate even during the rainy season, creating a striking contrast with the surrounding areas that temporarily spring to life.
 
 **Description:**
 
@@ -18,11 +18,11 @@ The Salt Flats are characterized by their blindingly bright, white surface, whic
 
 **History:**
 
-The history of the Salt Flats is largely a mystery, with various legends and theories attempting to explain their existence. Some believe that the flats were once a massive, ancient lake that dried up over millennia, leaving behind the salt deposits. Others tell tales of divine punishment, where the land was cursed to remain barren and lifeless as a reminder of past transgressions. 
+The history of the Salt Flats is largely a mystery, with various legends and theories attempting to explain its existence. Some believe that the flats were once an ancient sea that dried up over millennia, leaving behind the salt deposits. Others tell tales of divine punishment, where the land was cursed to remain barren and lifeless as a reminder of past transgressions. 
 
 **Significance:** 
 
-For the people of Taenarius, the salt flats are essential for their continued existence. The large reserves of salt provide them ample supplies to preserve excess food gathered during the wet period. For most other the salt flats represent the most desolate land Siar'Morrin has to offer outside [[The Western Scar]] or [[Sceel wastelands]], a region best avoided. 
+For the people of [[Taenarius]], the salt flats are essential for their continued existence. The large reserves of salt provide them ample supplies to preserve excess food gathered during the wet period. For most others the salt flats represent the most desolate land Siar'Morrin has to offer outside [[The Western Scar]] or [[Sceel wastelands]], a region best avoided. 
 
 **Notable Features:**
 
@@ -34,8 +34,8 @@ For the people of Taenarius, the salt flats are essential for their continued ex
 
 **Local Legends or Stories:**
 
-According to one tale, the Salt Flats were once a beautiful, life-giving lake that provided sustenance to the surrounding lands. In a bid for power, Donatus offered this fertile land to [[Spatalos]], in a desperate bid for power. Spatalos, pleased with the young demi-god's offering, roamed the plains to view his new domain. Upon discovering the pristine lake, Spatalos drank deeply from its waters. As he did, the lake evaporated, leaving behind only salt and desolation.
-Another chilling legend speaks of The Salt Wraiths. It is believed that the spirits of those who died crossing the flats haunt the area, appearing as wraith-like figures in the shimmering heat. These wraiths are said to lure travelers deeper into the flats with illusions of water and shelter, only to lead them to their doom. Sightings of these ghostly figures are common, and many who venture into the flats alone never return.
+According to local folklore, the Salt Flats were once the site of a lush, life-giving lake known for its clear waters and abundant fish. In a tragic turn of events driven by ambition, the young demi-god, Donatus, sought to win favor with the mighty deity [[Spatalos]] by offering him this fertile land. Delighted with the gift, Spatalos came to roam his new domain, and upon discovering the beautiful lake, he drank deeply from its waters. As he drank, the lake began to dry up until nothing remained but vast expanses of salt, rendering the land barren and desolate.
+Another eerie legend that haunts the Salt Flats is that of the Salt Wraiths. It is said that the spirits of those unfortunate enough to perish while crossing the barren wasteland linger. These spirits, appearing as ghostly, wraith-like figures, are often seen shimmering in the heatwaves that ripple across the flats. Local tales warn that these Salt Wraiths create mirages of water and shelter, deceitful illusions that lure weary travelers deeper into the flats. Those who follow these visions often meet their demise, lost forever in the vast, unyielding salt desert.
 
 **Visitors' Experience:** 
 

@@ -8,11 +8,11 @@ tags:
 ---
 **Overview:** 
 
-Phemus Pass is a crucial stretch of road that borders the northern edge of [[Phemus Reach]]. It connects Portum with the eastern regions and once served as an essential route for those seeking to journey west across the Periculosus Ocean. However, the pass now lies largely abandoned, with only a few desperate merchants from Portum attempting to re-establish its viability.
+Phemus Pass is a crucial stretch of road that borders the northern edge of [[Phemus Reach]]. It connects Portum with the eastern regions and once served as an essential route for those seeking to journey west across the Periculosus Ocean. However, the pass now lies largely abandoned, with only a few desperate merchants from [[Portum]] attempting to re-establish its viability.
 
 **Description:** 
 
-Phemus Pass winds along the rugged northern edge of Phemus Reach, offering breathtaking views of the surrounding landscape. The road is flanked by steep cliffs on one south and dense forests on the north, creating a dramatic and challenging terrain. The path itself is a mixture of old cobblestones and rough, uneven ground, reflecting years of neglect and disuse.
+Phemus Pass winds along the rugged northern edge of Phemus Reach, offering breathtaking views of the surrounding landscape. The road is flanked by steep cliffs on the south and dense forests on the north, creating a dramatic and challenging terrain. The path itself is a mixture of old cobblestones and rough, uneven ground, reflecting years of neglect and disuse.
 
 ![[Phemus Passa.webp]]
 
@@ -22,7 +22,7 @@ Historically, Phemus Pass was a bustling route that facilitated significant trad
 
 **Significance:** 
 
-Phemus Pass holds strategic and economic significance due to its historical role as a major trade route. Its potential to reconnect Portum with eastern trade networks makes it a valuable asset for those looking to revive regional commerce. The pass also offers a safer, albeit challenging, alternative to the treacherous sea routes across the Periculosus Ocean. While on land, it straddles the treacherous [[Ridgeback Forest]] and the giant-infested, karst-riddled lands of Phemus Reach. Although far from safe, it provides the best option for travel to Portum, balancing the perils of its surrounding landscape with the vital need for trade and connectivity.
+Phemus Pass holds strategic and economic significance due to its historical role as a major trade route. Its potential to reconnect Portum with eastern trade networks makes it a valuable asset for those looking to revive regional commerce. The pass also offers a safer, albeit challenging, alternative to the treacherous sea routes across the Periculosus Ocean. It straddles the treacherous [[Ridgeback Forest]] and the giant-infested, karst-riddled lands of Phemus Reach. Although far from safe, it provides the best option for travel to Portum, balancing the perils of its surrounding landscape with the vital need for trade and connectivity.
 
 **Notable Features:**
 
@@ -32,8 +32,9 @@ Phemus Pass holds strategic and economic significance due to its historical role
 
 **Local Legends or Stories:** 
 
-One legend tells of [[Gorak]], an infamous giant said to lurk along the pass. Gorak has become notorious for his attacks on unsuspecting merchants and travelers.
-Other stories tell of lost merchant caravans holding good of immense value, just waiting to be found for those willing to brave the surroundings of Phemus Pass. 
+The tale of [[Gorak]], the giant of Phemus Pass, is a cautionary one that circulates among travelers and locals alike. Gorak is an infamous giant said to lurk along the pass, notorious for his attacks on unsuspecting merchants and travelers. Gorak stands apart from other giant threats for his uncanny stealth, unheard of for giants. 
+
+Another story tells of the phantom caravan. Legend has it that during a particularly foggy moon, a large caravan laden with treasures from distant lands, gathered from across the Periculosus Ocean, attempted to navigate the pass but was enveloped by an unnatural mist. When the mist lifted, the caravans had vanished without a trace. It is believed that the treasures—gems, gold, and ancient artifacts—are still hidden somewhere along the pass.
 
 **Visitors' Experience:** 
 

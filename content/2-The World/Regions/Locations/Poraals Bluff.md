@@ -8,7 +8,7 @@ tags:
 ---
 **Overview:** 
 
-Poraal's Bluff is a notorious location in Northern Portum, where the [[Ridgeback Mountains]] meet the Periculosus Ocean. It is infamous for its never-ending storm and perilous waters, making oceanic travel nearly impossible. It acts as a natural border between the Southern and Northern reaches of the Periculosus Ocean. 
+Poraal's Bluff is a notorious location in Northern [[Portum]], where the [[Ridgeback Mountains]] meet the Periculosus Ocean. It is infamous for its never-ending storm and perilous waters, making oceanic travel nearly impossible. It acts as a natural border between the Southern and Northern reaches of the Periculosus Ocean. 
 
 **Description:** 
 
@@ -37,4 +37,4 @@ Another story tells of "The Lost Invasion," an orc armada set on escaping the [[
 
 **Visitors' Experience:** 
 
-Visiting Poraal's Bluff is an awe-inspiring but perilous endeavor. The view of the endless storm and the crashing waves is both terrifying and mesmerizing. The rugged cliffs offer vantage points where visitors can safely observe the fury of the elements. However, the area is not recommended for the faint-hearted or unprepared, as the unpredictable weather and dangerous terrain pose significant risks. For those that wish to view it from the sea, such recklessness is forbidden, as the locals of Portum consider such a task a waste of a boat. 
+Visiting Poraal's Bluff is an awe-inspiring but perilous endeavor. The view of the endless storm and the crashing waves is both terrifying and mesmerizing. The rugged cliffs offer vantage points where visitors can observe the fury of the elements. However, the area is not recommended for the faint-hearted or unprepared, as the unpredictable weather and dangerous terrain pose significant risks. For those that wish to view it from the sea, such recklessness is forbidden, as the locals of Portum consider such a task a waste of a boat. 

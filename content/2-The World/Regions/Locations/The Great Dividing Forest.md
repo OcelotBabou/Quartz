@@ -8,7 +8,7 @@ tags:
 ---
 **Overview:** 
 
-The **Great Dividing Forest** forms the natural northwestern boundary of New Birania, standing as both a geographical and symbolic barrier between the sprawling plains of the Pilliga and the more developed territories of the east. On its eastern side, large sections have been cleared for settlement and agriculture, though pockets of untouched forest remain, home to reclusive druids and scattered elven enclaves who work to preserve the natural balance. One notable exception is the dense, sacred forest that surrounds [[Kastelli]], the ancestral home of the Bacchins, expansion into this region strictly forbidden. In stark contrast, the western expanse of the forest is wild and untamed, dominated by feral beasts and mysteries that deter would be explorers.
+The Great Dividing Forest forms the natural northwestern boundary of [[New Birania]], standing as both a geographical and symbolic barrier between the sprawling plains of the [[Pilliga]] and the more developed territories of the east. On its eastern side, large sections have been cleared for settlement and agriculture, though pockets of untouched forest remain, home to reclusive druids and scattered elven enclaves who work to preserve the natural balance. One notable exception is the dense, sacred forest that surrounds [[Kastelli]], the ancestral home of the Bacchins, expansion into this region being strictly forbidden. In stark contrast, the western expanse of the forest is wild and untamed, dominated by feral beasts and mysteries that deter would be explorers.
 
 **Description:** 
 
@@ -33,7 +33,7 @@ However, the forest's seclusion and size have also made it a haven for those see
 
 **Local Legends or Stories:**
 
-Folktales tell of of an ancient dragon said to slumber in a shallow cave within the depths of the Deep Forest. According to legend, the dragon rests atop a veritable sea of gold, treasures, and artifacts, hoarded over countless ages. The creature is said to have retreated to the forest centuries ago, seeking solitude after the Age of Darkness ([[AoD]]). Some say the dragon is in a magical slumber, bound by the forest’s ancient druids to protect the region from its wrath. Others believe it lies dormant by choice, awakening only when its treasure is threatened or when the forest itself is in peril.
+Folktales tell of of an ancient dragon said to slumber in a shallow cave within the depths of the Deep Forest. According to legend, the dragon rests atop a veritable sea of gold, treasures, and artifacts, hoarded over countless ages. The creature is said to have retreated to the forest centuries ago, seeking solitude during the Age of Darkness ([[AoD]]). Some say the dragon is in a magical slumber, bound by the forest’s ancient druids to protect the region from its wrath. Others believe it lies dormant by choice, awakening only when its treasure is threatened or when the forest itself is in peril.
 
 **Visitors' Experience:** 
 
