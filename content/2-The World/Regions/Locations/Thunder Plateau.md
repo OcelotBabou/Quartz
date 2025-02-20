@@ -8,11 +8,11 @@ tags:
 ---
 **Overview:** 
 
-Thunder Plateau is a flat, elevated expanse in Phemus Reach where storms frequently gather. The plateau's turbulent weather and its central landmark, an ancient tower stretching into the skies, make it a place of awe and danger. Thunder Plateau is revered and feared for its raw elemental power and the mysteries surrounding the ancient tower.
+Thunder Plateau is a flat, elevated expanse in [[Phemus Reach]] where storms frequently gather. The plateau's turbulent weather and its central landmark, an ancient tower stretching into the skies, make it a place of awe and danger. Thunder Plateau is revered and feared for its raw elemental power and the mysteries surrounding the ancient tower.
 
 **Description:** 
 
-Thunder Plateau is characterized by its expansive flatlands, which provide a stark contrast to the rugged terrain of the surrounding region. The plateau is often shrouded in dark storm clouds, with lightning striking frequently and thunder echoing across the landscape. At the center of the plateau stands an ancient, weathered tower that reaches high into the sky, seemingly touching the storm clouds above. The tower, made of dark stone and etched with ancient runes, is a focal point of both curiosity and dread.
+Thunder Plateau is characterized by its expansive flatlands, which provide a stark contrast to the rugged terrain of the surrounding region. The plateau is often shrouded in dark storm clouds, with lightning striking frequently and thunder echoing across the landscape. At the center of the plateau stands an ancient, weathered tower that reaches high into the sky, seemingly touching the storm clouds often seen above. The tower, made of dark stone and etched with ancient runes, is a focal point of both curiosity and dread.
 
 **History:** 
 

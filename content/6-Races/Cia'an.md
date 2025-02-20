@@ -11,7 +11,7 @@ tags:
 ---
 ![[Cia'anold.webp]]
 
-Cia'an, also known as wolf-folk, are believed to be the offspring of Fi-an and Madra, revered deities of the forests and the wild. They possess the form of anthropomorphic wolves, standing upright on powerful hind legs with fur ranging from shades of grey to deep black. Their keen eyes gleam with intelligence, reflecting their innate connection to the natural world.
+Cia'an, also known as wolf-folk, are believed to be the offspring of Fi-an and Madra, revered demi-gods of the forests and the wild. They possess the form of anthropomorphic wolves, standing upright on powerful hind legs with fur ranging from shades of grey to deep black. Their keen eyes gleam with intelligence, reflecting their innate connection to the natural world.
 
 These enigmatic beings dwell within the dense forests north of the Grand Rift, where they maintain a close bond with the Fiawnish, a human race native to the region. Cia'an live in tightly-knit tribes, guided by a strong sense of loyalty and kinship. Within their communities, they excel as hunters and trackers, honing their skills to perfection over generations. 
 

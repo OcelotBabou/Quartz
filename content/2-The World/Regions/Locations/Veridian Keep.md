@@ -9,27 +9,30 @@ tags:
 ---
 **Overview:** 
 
-Veridian Keep is an ancient fortress hidden deep within Ridgeback Forest, serving as a sanctuary and stronghold for those who dare to venture into the perilous woods.
+Veridian Keep is a formidable fortress, enshrouded by the dense canopy of [[Ridgeback Forest]]. Originally established as a sanctuary and stronghold, this ancient edifice now stands largely forgotten, its once-sturdy walls succumbing to decay and neglect. While rumors have long circulated of various dark forces seeking refuge within its brooding confines, recent whispers persistently insist that orcs have established a stronghold within its walls. 
+
 
 **Description:** 
 
-The Keep is a formidable structure built from dark stone and overgrown with creeping vines and moss. It is surrounded by thick forest, making it nearly invisible from a distance. Inside, the keep is a labyrinth of corridors, chambers, and hidden passages, designed to protect its inhabitants and guard against intruders.
+Veridian Keep rises in the heart of Ridgeback Forest, its imposing structure cloaked by the perpetual gloom of the towering trees that envelop it. Constructed from dark, weathered stones, the fortress blends seamlessly into the forest backdrop, making it nearly invisible to the untrained eye. Over the years, nature has claimed much of the keep's exterior; creeping vines and moss drape over the stone walls, and wild flora has taken root in the crevices, softening the hard lines of military architecture with bursts of green. 
+
+The keep itself is a labyrinthine complex designed for defensibility, with winding corridors, multiple chambers, and secret passages that snake through the thick walls. Despite its state of disrepair, the structure retains an air of indomitable strength and eerie timelessness. The main gate, flanked by two crumbling watchtowers, still stands as a testament to the keep's former grandeur, though the battlements are now lined more often with crows than guards.
 
 **History:** 
 
-Veridian Keep was constructed centuries ago by a reclusive order of knights sworn to protect the secrets of Ridgeback Forest. It has served various roles over the years, from a defensive stronghold to a refuge for those escaping the dangers of the forest. The keep has seen numerous battles and but in recent years had had its purpose twisted as the orcs that remain in Western Siar'Morrin have begun amassing in its halls.
+Centuries ago, Veridian Keep was built by a reclusive order of knights dedicated to safeguarding the secrets and sanctity of Ridgeback Forest. Over the years, it has served various roles—from a defensive bulwark against invaders to a secluded refuge for those braving the dangers of the forest. In its heyday, the Keep was a bustling hub for hunters, gatherers, and adventurers. However, years of neglect have seen the keep house little more than rumors in the current age. 
 
 **Significance:** 
 
-The keep is a vital refuge and strategic point within the forest. It once was used by hunters, gatherers, and adventurers as a base of operations and a place of safety. Now the keep serves as a gather ground for the invading orc force. 
+The keep is a vital refuge and strategic point within the forest. It once was used by hunters, gatherers, and adventurers as a base of operations and a place of safety. Now if rumors are to be levied, the keep serves as a gather ground for an invading orc force. 
 
 **Notable Features:**
 
-- **Main Keep:** The central structure of Veridian Keep, a formidable fortress built from dark stone and covered in creeping vines and moss.
-- **Watchtowers:** Tall towers offering vantage points for observing the surrounding forest.
-- **Great Hall:** A large chamber used for gatherings, meetings, and feasts, adorned with ancient tapestries and relics.
-- **Training Grounds:** An open area within the keep once dedicated to training and drills, now over run by the forest. 
-- **Dungeon:** A secure underground dungeon once used to hold prisoners and enemies
+- **Main Keep:** The heart of Veridian Keep, robust and draped in nature’s overgrowth, stands resilient against the test of time and conflict.
+- **Watchtowers:** These high structures provide comprehensive views over the dense forest, essential for both defense and surveillance.
+- **Great Hall:** Once the social center of the keep, adorned with ancient tapestries and relics, now echoing with the ghosts of its grand past.
+- **Training Grounds:** What used to be a bustling area for martial preparations is now reclaimed by the encroaching forest, a symbol of nature’s indomitable will.
+- **Dungeon:** Deep beneath the keep, this dungeon holds the echoes of its past prisoners, a chilling reminder of the keep’s grim history.
 
 **Local Legends or Stories:** 
 

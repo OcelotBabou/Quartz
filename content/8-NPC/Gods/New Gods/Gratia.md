@@ -10,7 +10,7 @@ tags:
 ## Basic Information
 
 - **Name**: Gratia
-- **Domain**: Grace, Beauty, Charm
+- **Domain**: Grace, Beauty, Charisma
 - **Title**: The Graceful, The Enchantress
 - **Alignment**: Lawful Excess 
 - **Symbol**: A blooming rose

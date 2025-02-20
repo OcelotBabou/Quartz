@@ -38,7 +38,21 @@ tags:
 
 ## Mythology and Worship
 
-- **Creation Myth**: (Stories of their origin or significant mythological tales)
+- **Creation Myth**: 
+
+In an era when the New Gods were still carving out their roles within Staterum, a rivalry unfolded between two divine brothers, Dorna and Eris. Dorna, ever the mischief-maker and patron of the untamed, had recently elevated Kakurcia, a master hunter, to godhood. Boasting of Kakurcia’s prowess, Dorna proclaimed him not only the greatest hunter but also the mightiest warrior among the new gods. He ridiculed Eris’s disciple, Sanara, and mocked Eris's commitment to wisdom and order as signs of weakness.
+
+Eris, ever the embodiment of strategy and discipline, tried to explain that true strength lay not just in martial skill but in the wisdom to wield it effectively. Unconvinced and dismissive, Dorna challenged Eris to prove his philosophy. Rising to the occasion, Eris proposed a challenge: he would create a warrior who could outmatch Kakurcia in combat, demonstrating the superiority of strategic thinking and disciplined procedure over the whimsical and seemingly chaotic approach of Kakurcia. 
+
+Eris crafted a formidable golem from the finest steel, imbuing it with extensive martial knowledge and strategic prowess. However, in their first encounter, Kakurcia, relying on his cunning and adaptability, swiftly outmaneuvered the golem. Despite its impeccable training and strength, the golem lacked the ability to adapt to the unpredictable nature of real combat.
+
+Frustrated and claiming foul play, Eris demanded a rematch, this time instilling a strategy to counter the ambush set by Kakurcia last time. However, Kakurcia's arsenal was not so limited, and he once again out maneuvered Eris' golem, handing hi a second defeat. Eris was no slow learner though, and recognized where he had failed.
+
+Seeking out his sister, Eris had Contrabastem provide the golem the sacred gift of life. Reborn now as Riero, the new god was granted to freedom to learn and adapt beyond its initial programming. It was not hard then to convince Dorna to one more rematch, Dorna ever eager to humiliate his brother. 
+
+The next duel between Riero and Kakurcia was markedly different however. It ended in a draw, with both combatants exhibiting equal prowess but vastly different styles. Subsequent encounters saw each winning and losing in turn, illustrating that no single approach to combat was superior to another. Riero, with his disciplined strategy and newfound adaptability, and Kakurcia, with his instinctual cunning and agility, proved to be perfect foils for each other.
+
+Through these duels, Eris and Dorna came to realize a profound truth: the realm needed both types of warriors. Riero and Kakurcia together embodied the balance between order and chaos, strategy and spontaneity. Their rivalry evolved into a mutual respect, symbolizing the duality of war—where strategic planning and adaptable tactics are both essential for triumph.
 - **Major Cults and Religious Practices**: (Description of main worship practices and any associated cults)
 - **Festivals**: (Special times of the year dedicated to this deity, including rituals and celebrations)
 - **Clergy and Temples**: (Description of priests, holy orders, and sacred sites dedicated to the deity)

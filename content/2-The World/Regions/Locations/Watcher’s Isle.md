@@ -8,7 +8,7 @@ tags:
 ---
 **Overview:** 
 
-Watcher’s Isle is a small, strategically located island off the coast of Portum, serving as a lookout point and a historical reminder of the region’s strategic significance. It houses an ancient fort, Fort Vigil that once served as both a bastion for those making the perilous journey across the Periculosus Ocean and an early defense against attacks aimed at Portum. 
+Watcher’s Isle is a small, strategically located island off the coast of [[Portum]], serving as a lookout point and a historical reminder of the region’s strategic significance. It houses an ancient fort, Fort Vigil that once served as both a bastion for those making the perilous journey across the Periculosus Ocean and an early defense against attacks aimed at Portum. 
 
 
 **Description:** 
