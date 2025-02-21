@@ -39,7 +39,15 @@ tags:
 
 ## Mythology and Worship
 
-- **Creation Myth**: (Stories of their origin or significant mythological tales)
+- **Creation Myth**: 
+
+In the primal days of Staterum, Contrabastem undertook the monumental task of imbuing the burgeoning world with vibrant life. Guided by her mother's ancient wisdom, Contrabastem was to create a being who would oversee the wild spirit of nature and guide the creatures of the land.
+
+As the primal energies of creation swirled through Staterum, Contrabastem reached into the very essence of the wild universe. She gathered the chaotic, untamed forces that fluttered on the edge of existence—the fierce spirit of the predator, the enduring heart of the prey, and the keen instinct of the tracker. From these raw, vibrant energies, she imbued her gift of life, Theri'an was born, lord of all beasts.
+
+Theri'an was more than just a deity; he was the embodiment of the primal life force that courses through every vein of the natural world. His creation marked the dawn of true mortal life in Staterum, heralding an era where the land thrummed with the footsteps of creatures both great and small. As the Lord of All Beasts, Theri'an possessed an intrinsic understanding of the natural world, an unspoken bond with every creature that roamed the wilds.
+
+His form mirrored the diversity of the life he protected. It is said that Theri'an could shift his shape to match any beast, from the mightiest dragons soaring in the sky to the smallest critters hidden beneath the leaves.
 - **Major Cults and Religious Practices**: (Description of main worship practices and any associated cults)
 - **Festivals**: (Special times of the year dedicated to this deity, including rituals and celebrations)
 - **Clergy and Temples**: (Description of priests, holy orders, and sacred sites dedicated to the deity)

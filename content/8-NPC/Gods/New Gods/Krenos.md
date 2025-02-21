@@ -38,7 +38,15 @@ tags:
 
 ## Mythology and Worship
 
-- **Creation Myth**: (Stories of their origin or significant mythological tales)
+- **Creation Myth**: 
+
+In the time before time itself, when the pantheon of gods as known today had yet to shape the cosmos, there existed a primordial entity—ancient and immense, a fundamental aspect of existence itself. This entity, understood only as the universe itself, spanned the breadth of all creation and destruction, its presence a constant from which all things drew their essence.
+
+It was within this boundless expanse that Gahrian, was brought before this force. From this extraordinary meeting, stirred by forces beyond comprehension, two beings were born: Krenos and his brother Sthenos. Unlike other gods whose domains were forged by clear intent and purpose, Krenos and Sthenos emerged attached to an ancient prophecy—one foretelling their crucial role in the cosmic balance.
+
+Krenos, The Mighty, was gifted with unparalleled strength and the essence of brute force. His form was that of a titan, a colossal figure sculpted from the cosmic energies of raw power. His skin shone like bronzed metal, tough and invincible, and his eyes blazed with the fierce light of stars. His brother Sthenos, though equally formidable, contrasted Krenos in the manifestation of their shared power. While Krenos embodied the overt might and force, Sthenos represented the enduring, unbreakable will of the cosmos.
+
+Together, these titanic brothers were bound by the prophecy that spoke of a looming threat known simply as Entropy—a fundamental force of the universe, an entity that would one day seek to unravel the very fabric of existence, to turn all back into the void from which it came. This dark prophecy foretold that only the combined might of Krenos and Sthenos could stand against Entropy, preserving the universe from returning to chaos and nothingness, at least for a time.
 - **Major Cults and Religious Practices**: (Description of main worship practices and any associated cults)
 - **Festivals**: (Special times of the year dedicated to this deity, including rituals and celebrations)
 - **Clergy and Temples**: (Description of priests, holy orders, and sacred sites dedicated to the deity)

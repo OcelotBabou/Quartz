@@ -42,7 +42,9 @@ tags:
 
 ## Mythology and Worship
 
-- **Creation Myth**: As the most recent of the Gods, and due to his role in the Age of Darkness ([[AoD]]), Raxenos's story is well known. Born along the [[Aegir Coast]] during an age of seemingly endless war, Raxenos sought power above all else. His relentless pursuit of the arcane arts drove him to the region now known as [[Nordholt]], where he was free to delve into increasingly dark pursuits. It was in Nordholt that Raxenos made contact with Eolas, the Fallen Goddess of Knowledge. Their collaboration led to the creation of a powerful ritual, one that would not only empower Raxenos to Godhood but also open rifts to the demonic realm, inadvertently ushering in the AoD.
+- **Creation Myth**: 
+
+As the most recent of the Gods, and due to his role in the Age of Darkness ([[AoD]]), Raxenos's story is well known. Born along the [[Aegir Coast]] during an age of seemingly endless war, Raxenos sought power above all else. His relentless pursuit of the arcane arts drove him to the region now known as [[Nordholt]], where he was free to delve into increasingly dark pursuits. It was in Nordholt that Raxenos made contact with Eolas, the Fallen Goddess of Knowledge. Their collaboration led to the creation of a powerful ritual, one that would not only empower Raxenos to Godhood but also open rifts to the demonic realm, inadvertently ushering in the AoD.
 - **Major Cults and Religious Practices**: His followers are scholars, mages, and seekers of forbidden knowledge. They engage in rituals designed to pierce the veil of the unknown, often involving the use of ancient texts and arcane symbols.
 - **Festivals**: Having ascended to Godhood recently, and at the great expensive of Staterum there are no formal festivals or rituals dedicated to Raxenos
 - **Clergy and Temples**: Temples to Raxenos are often hidden sanctums, filled with ancient tomes and powerful artifacts. While his priest and devote followers are often rank amongst the most powerful wizards. 

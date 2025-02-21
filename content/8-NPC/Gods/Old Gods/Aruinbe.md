@@ -41,7 +41,9 @@ Aruinbe is often depicted as a figure of ethereal beauty, with features that are
 
 ## Mythology and Worship
 
-- **Creation Myth**: (Stories of their origin or significant mythological tales)
+- **Creation Myth**: 
+
+Among all the deities in the pantheon, with their rich and often enigmatic creation myths, Aruinbe stands uniquely unknown. Unlike his divine counterparts, whose origins are at least whispered about in tales ranging from the abstract to the profound, the genesis of Aruinbe remains conspicuously absent. This complete lack of any origin story is not merely an oversight—it appears to be a deliberate omission. The reasons for this are as mysterious as the deities origins.  
 - **Major Cults and Religious Practices**: (Description of main worship practices and any associated cults)
 - **Festivals**: (Special times of the year dedicated to this deity, including rituals and celebrations)
 - **Clergy and Temples**: (Description of priests, holy orders, and sacred sites dedicated to the deity)
