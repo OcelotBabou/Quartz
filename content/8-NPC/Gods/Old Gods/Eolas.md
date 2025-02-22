@@ -46,7 +46,11 @@ Once Eolas was depicted as an enigmatic figure shrouded in a cloak of many color
 
 - **Creation Myth**: 
 
+Eolas's origins trace back to the era of the Incorporeals, a precursor race that existed before the material universe took shape. These beings were entities of pure concept and emotion, predecessors to what would later become the Vices. While her kin engaged in ceaseless conflict, driven by their intrinsic natures, Eolas devoted herself to observation and study. She wandered the void, gathering the threads of knowledge and wisdom scattered in the chaos.
 
+As the Ancient Gods began to carve order from the primordial chaos, Eolas saw an opportunity for a more structured and enlightened cosmos. In stark contrast to the other Vices, who viewed these new powers as threats to be challenged, Eolas approached them as allies. She offered her vast store of knowledge and her insights into the nature of the universe as tools to aid in their monumental task of creation.
+
+When the material realm was formed, the forced transition of the Incorporeals into this new world twisted many of them, corrupting their essences with the darkest facets of the Ancient Gods, thus birthing the Vices. Unlike her counterparts, Eolas, armed with profound understanding and foresight, embraced this change willingly. By accepting the transition into the material realm rather than resisting it, Eolas avoided the fate of the Vices. Instead she maintained much of her essence, and was able to join the ranks of these new Gods. Over the ages, Eolas continued to serve as a guide not only to gods but eventually also to mortals.
 - **Major Cults and Religious Practices**: (Description of main worship practices and any associated cults)
 - **Festivals**: (Special times of the year dedicated to this deity, including rituals and celebrations)
 - **Clergy and Temples**: (Description of priests, holy orders, and sacred sites dedicated to the deity)

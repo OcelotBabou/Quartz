@@ -46,7 +46,7 @@ Alache's more humanoid depiction presents him as a strikingly handsome figure, w
 - [[Tenebrim]] [[Elves]], Favoured people. Alache views the Tenebrim Elves as the remnants of his influence in the world, favouring them discreetly from the shadows.
 - [[Lore Keepers]], A religious but elusive group rumored to possess the entire history of the gods in their archives.
 
-**Attitude towards Mortals**: Largely detached, with a subtle preference for the Lux Elves. 
+**Attitude towards Mortals**: Largely detached, with a subtle preference for the Tenebrim Elves. 
 
 ## Mythology and Worship
 

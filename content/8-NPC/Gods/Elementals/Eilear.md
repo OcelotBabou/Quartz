@@ -31,10 +31,10 @@ Eilear’s eyes are deep and captivating, mirroring the rich, mysterious blues o
 
 ## Personality
 
-- **Traits**: (Key personality traits)
-- **Strengths**: (Divine powers and positive traits)
-- **Weaknesses**: (Any known divine limitations or emotional vulnerabilities)
-- **Goals and Motivations**: (What drives this god? What are their divine objectives?)
+- **Traits**: Solitary, contemplative, patient
+- **Strengths**: Possesses immense strength, like all of Talam's sons. Additional, one of few elementals capable of navigating both the realms of sea and stone.
+- **Weaknesses**: His reclusive nature isolates him from the broader concerns of the other gods and their realms, leading to a limited understanding of the greater dynamics at play in Staterum.
+- **Goals and Motivations**: Eilear is dedicated to maintaining the delicate balance between land and sea. His primary divine aim is to act as a mediator between Ooscie’s watery domain and Talam’s earthen territories, ensuring that the boundaries are respected and preserved. Beyond his custodial duties, he strives to ensure that the islands serve as refuges for those in need. 
 
 ## Relationships
 

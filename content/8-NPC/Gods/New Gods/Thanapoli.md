@@ -25,10 +25,10 @@ tags:
 
 ## Personality
 
-- **Traits**: (Key personality traits)
-- **Strengths**: (Divine powers and positive traits)
-- **Weaknesses**: (Any known divine limitations or emotional vulnerabilities)
-- **Goals and Motivations**: (What drives this god? What are their divine objectives?)
+- **Traits**: Solemn, meticulous, and fair.
+- **Strengths**: Possesses the divine power to shepherd souls between the realms of the living and the dead without prejudice, ensuring all are treated equally in death.
+- **Weaknesses**: His deep commitment to balance and order makes him emotionally detached, sometimes perceived as cold or indifferent to individual tragedies or the emotional complexities of mortal lives.
+- **Goals and Motivations**: His primary divine duty is to uphold the integrity of the afterlife's laws and order. He seeks to maintain the balance between life and death, ensuring that the transition for each soul is seamless and just, without interference from external forces or biases. His isolation from the living serves to preserve the impartiality necessary for his role, though it also distances him from the changing tides of the mortal world.
 
 ## Relationships
 

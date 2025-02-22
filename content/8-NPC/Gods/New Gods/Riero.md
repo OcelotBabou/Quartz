@@ -25,7 +25,7 @@ tags:
 
 ## Personality
 
-- **Traits**: Disciplined, tactical, unyielding
+- **Traits**: Disciplined, tactical, unyielding, valorous
 - **Strengths**: Master tactician, inspires courage and fearlessness in his followers
 - **Weaknesses**: His warlike nature can make diplomacy difficult, sometimes seeing conflicts as the first solution and only solution
 - **Goals and Motivations**: To uphold the virtues of honour and valour in combat, ensuring that war is waged justly and that warriors act with integrity and bravery.

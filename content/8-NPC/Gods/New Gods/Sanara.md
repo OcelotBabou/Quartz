@@ -38,7 +38,15 @@ tags:
 
 ## Mythology and Worship
 
-- **Creation Myth**: (Stories of their origin or significant mythological tales)
+- **Creation Myth**: 
+
+After witnessing Eolas's descent into vice and her transformation into a figure of malevolence, Eris was profoundly impacted. In the days before her fall, Eolas had served as a mentor to him, guiding his early steps in the cosmos. Determined to preserve the benevolent aspects of Eolas's legacy, Eris resolved to create a new deity—one that would embody the positive attributes of knowledge and nurturing that Eolas had once championed.
+
+Eris safeguarded a relic from Eolas's past—a tome brimming with profound knowledge. This book contained the secrets of the universe as Eolas had understood them, its pages pulsing with the essence of her untainted wisdom. This relic was a reservoir of pure potential, still untouched by the corruption that had ensnared its creator.
+
+Venturing to the edge of existence, where the material realm frays into the primordial energies of creation, Eris reached the domain from which Eolas had first emerged—a realm of boundless energy and infinite possibilities. Clutching the tome, Eris harnessed these primordial energies, channeling them through the sacred texts to craft a new being infused with the forsaken virtues of Eolas. The energies within the tome coalesced under the guidance of Eris’s intent, and thus Sanara was born from this cosmic alchemy.
+
+Sanara emerged endowed with Eolas's expansive knowledge and her potential for good, yet she was untainted by the flaws that led to her predecessor's downfall. Recognizing the risks inherent in such vast knowledge, Eris took Sanara under his wing as both daughter and apprentice. He steered her towards domains where her knowledge could manifest as unequivocal benefits—medicine, healing, and compassion—thus ensuring she used her powers to foster life and aid, rather than to dominate or corrupt.
 - **Major Cults and Religious Practices**: (Description of main worship practices and any associated cults)
 - **Festivals**: (Special times of the year dedicated to this deity, including rituals and celebrations)
 - **Clergy and Temples**: (Description of priests, holy orders, and sacred sites dedicated to the deity)
