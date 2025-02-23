@@ -44,7 +44,9 @@ However, despite these natural defenses, the coast is not without its threats. T
 
 ### 8. **Notable Locations**
 
-List and describe significant cities, landmarks, or mysterious places within the region. This can include capitals, cultural sites, and areas of particular danger or interest.
+- **Haven Hollows**: The Haven Hollows are a series of sea caves along the mid-section of the Berez Coast, carved over millennia by the relentless action of the waves. These caves provide shelter and a hidden base for the local populace during the worst of the desert storms.
+- **Stormwatch Ridge:** A section of rugged cliffs that mark the southernmost point of the Berez Coast, where the Ridgeback Mountains dramatically meet the Periculosus Ocean. These cliffs are continually battered by fierce storms, making them a treacherous region to linger. 
+- **Grotto Market**: Off the coast of the Berez Coast lies the Grotto Market Village, a unique underwater settlement inhabited by aquatic lizardfolk. This village is nestled within the fertile marine ecosystems below the surface, allowing the lizardfolk the best of the Berez's coasts meagre resources. Although should times get tough, they are not above raiding the coast for more sentient prey. 
 
 ### 9. **Significant Characters**
 

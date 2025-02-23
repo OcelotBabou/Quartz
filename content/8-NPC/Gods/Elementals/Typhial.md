@@ -67,7 +67,11 @@ Thus Typhial was born, sovereign of the vast and endless waters that encircled S
 ## Significant Historical Impact
 
 - **Major Plot Points in World History**: (Key moments when this god significantly influenced the world’s history)
-- **Artifacts**: (Relics or magical items associated with the deity)
+- **Artifacts**: 
+	- **Ring of the Abyssal Pact**:
+
+	- **Description**: This ring is crafted from a single piece of deep-sea obsidian, with intricate runes etched around its circumference that glow faintly with a bioluminescent light. The design mimics the patterns found on the shells of ancient ocean creatures long thought extinct.
+	- **Powers**: While wearing the Ring of the Abyssal Pact, the bearer loses their natural ability to swim, feeling an unnatural heaviness in water. However, they gain the incredible ability to breathe freely underwater and withstand the crushing pressures of the ocean's depths. The ring also grants the wearer the power to cast the _control water_ spell at will, allowing them to manipulate water environments to their advantage, creating pathways or barriers within the water. This artifact symbolizes a deep bond with the ocean, trading surface agility for the profound depths of marine mastery.
 
 ## Quotes
 

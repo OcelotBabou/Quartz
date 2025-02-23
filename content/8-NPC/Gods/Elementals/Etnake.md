@@ -36,14 +36,15 @@ Her wings, vast and majestic, stretch wide, each movement sending a cascade of s
 
 ## Personality
 
-- **Traits**: (Key personality traits)
-- **Strengths**: (Divine powers and positive traits)
-- **Weaknesses**: (Any known divine limitations or emotional vulnerabilities)
-- **Goals and Motivations**: (What drives this god? What are their divine objectives?)
+- **Traits**: Passionate, unpredictable, and conflicted
+- **Strengths**: Immense power over fire and rebirth, ability to inspire change and renewal.
+- **Weaknesses**: Vulnerable to her own intense emotions, which can lead to destructive outbursts.
+- **Goals and Motivations**: To oversee the cycles of destruction and rebirth, ensuring that from every end springs a new beginning
 
 ## Relationships
 
-**Family**: (Other gods or celestial beings they align with)
+**Family**: 
+- [[Lasair]]: Mother. 
 **Rivals/Enemies**: (Antagonistic relationships within the pantheon)
 **Attitude towards Mortals**: (How they generally treat or interact with their followers and other mortals)
 

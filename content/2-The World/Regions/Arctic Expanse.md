@@ -47,7 +47,9 @@ Given their isolation and the natural barriers provided by their environment, th
 
 ### 8. **Notable Locations**
 
-List and describe significant cities, landmarks, or mysterious places within the region. This can include capitals, cultural sites, and areas of particular danger or interest.
+- [[Frosthold]]: Frosthold is the largest settlement within the Arctic Expanse, serving as the central hub for the Iceborne community. This city is entirely sculpted from ice and snow, showcasing the pinnacle of glacimancy in its architecture.
+- [[Everfrost Spire]]: A towering, naturally formed ice monolith at the heart of the Arctic Expanse, the Everfrost Spire, houses the Shrine to Ooscara. This shrine is a sacred site where the Iceborne first received the gift of glacimancy.
+- **Ice and more ice:** There is little else of substance in these barren lands, just endless stretches of ice and snow. 
 
 ### 9. **Significant Characters**
 

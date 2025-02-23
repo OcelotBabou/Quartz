@@ -50,7 +50,11 @@ The military organization in Amyna is robust, particularly focused on the defens
 
 ### 8. **Notable Locations**
 
-List and describe significant cities, landmarks, or mysterious places within the region. This can include capitals, cultural sites, and areas of particular danger or interest.
+- [[Paleomyna Wall]]: Dominating the landscape of Amyna, the Paleomyna Wall is an architectural and engineering marvel stretching for hundreds of miles across the region. Constructed eons ago, to protect the civilizations of Siar’Morrin from the trog threat from the Anteanus Peninsula. 
+- [[Troianos]]: As the capital city of Amyna and the seat of the region's military command, Troianos is the political and strategic heart of the region. It is positioned near the central section of the Paleomyna Wall, optimized for rapid deployment of troops along the wall.
+- [[Solway]]: Situated along the northernmost edge of the Paleomyna Wall, Solway is recognized as the economic powerhouse of Amyna. Its strategic location has historically afforded it unique access to trade routes coming from the northern territories and extensive maritime trade via the Sea of Calanthe.
+- [[Anteanus Peninsula]]: The Anteanus Peninsula is a stark, rugged stretch of land that serves as the ancient homeland of the trogs. It is characterized by its steep cliffs, rocky terrain, and a labyrinth of limestone caves that have been the trogs' lairs for millennia.
+- Serinara Delta: At the northern end of Amyna, where the River Serinara meets the Sea of Calanthe, lies the Serinara Delta. This area is a blend of fertile agricultural land and challenging marshes, providing both a natural resource base and a defensive barrier against northern threats.
 
 ### 9. **Significant Characters**
 

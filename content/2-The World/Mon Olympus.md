@@ -17,7 +17,7 @@ Mon Olympus, a towering mountain that rises from the heart of the Mare Sanctum O
 
 - **Destiny Beach**: The outer edges of Mon Olympus are a true paradise, boasting golden beaches and verdant gardens that brim with exotic flora. The air is perpetually infused with the sweet perfume of blossoms, creating an otherworldly tranquility. Hidden within the lush forests are cascading waterfalls and crystal-clear streams that wind their way gracefully into the Mare Sanctum, blending seamlessly with the pristine beaches that encircle the island. 
 - **The Summit:** Hidden high above the clouds lies the legendary city of the gods. Though no mortal has laid eyes on it since the gods’ departure, legends speak of a radiant metropolis crafted from materials beyond mortal comprehension, with shimmering towers and celestial gardens.
-- [[Redacted]]: 
+- [[?????]]: 
 
 ### 3. **Description**
 

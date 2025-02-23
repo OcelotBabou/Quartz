@@ -46,7 +46,11 @@ In times of conflict or external threat, the Cia'an are capable of mobilizing ra
 
 ### 8. **Notable Locations**
 
-- [[Vatnet Lake]]
+- [[Fi'an's Rest]]: Fi'an's Rest is the primary settlement of the Cia'an community within Sabhaile Forest. Positioned strategically at the confluence of several key streams feeding into Vatnet Lake, this settlement serves as the cultural, political, and economic center of the Cia'an society.
+- [[Vatnet Lake]]: The heart of Sabhaile Forest, Vatnet Lake, is a large, serene body of water fed by streams flowing down from the Ridgeback Mountains. This pristine lake is crucial for the ecosystem's balance, supporting a diverse range of aquatic and terrestrial life.
+- **The Elders' Grove:** Nestled deep within the forest, the Elders' Grove is a sacred area where the oldest and tallest trees in Sabhaile are found. This grove is the traditional meeting place of the Cia'an council of elders.
+- **Moonwell Clearing:** A secluded clearing that is open to the sky, Moonwell Clearing is a spiritual site where the Cia'an celebrate their lunar festivals. This clearing is named for the small, crystal-clear pond at its center, which reflects the moonlight during the night.
+- **The Howling Cliffs:** Located on the southern boundary of the forest, the Howling Cliffs offer breathtaking views of the surrounding landscapes. The Cia'an retain the cliffs get their name from the haunting sounds produced by the wind as it whistles through the rock formations, though many speculate its secretly the Cia'an penchant for coming here at night to howl at the moon. 
 
 ### 9. **Significant Characters**
 
