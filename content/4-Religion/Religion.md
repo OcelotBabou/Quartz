@@ -16,6 +16,7 @@ In the world of Staterum, the spiritual landscape is shaped by a complex and div
 - [[The New Gods]]
 - [[The Vices]]
 - [[The Elemental Envoys]]
+- [[Lesser Gods and Demi-Gods]]
 - [[???]]
 - [[????]]
 

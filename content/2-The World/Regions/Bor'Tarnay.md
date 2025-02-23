@@ -42,7 +42,9 @@ Bor’Tarnay lacks a formal military presence but maintains a militia capable of
 
 ### 8. **Notable Locations**
 
-List and describe significant cities, landmarks, or mysterious places within the region. This can include capitals, cultural sites, and areas of particular danger or interest.
+- **Cadura:** The capital city of Bor'Tarnay, located on the edge of the Vahshi Forest and the vast Delta. It has long stood as the crossing point, culturally, economically and physically of the Vahshi forest and the wider world. 
+- **Avanpost:** A Riben outpost city, it has seen significant growth in recent years, and teeters on the edge of becoming to dominant city within Bor'Tarnay. It's recent growth and bullying tactics have not made it a popular location with other Bor'Tarnay residents.  
+- **Mangrove Cathedral**: Located on an island in the vast delta area, the Mangrove Cathedral is a naturally formed network of mangrove roots and trunks so dense and expansive that it resembles the vaulted ceiling of a massive cathedral. It has become a significant place of worship for a range of nature bound deities, from [[Alber]] to [[needs name still]]
 
 ### 9. **Significant Characters**
 

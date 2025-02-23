@@ -10,7 +10,7 @@ tags:
 *[yo-roo-doh]*
 ### 1. **Overview**
 
-Yorudo is a striking region nestled in the northern Fjord lands of Kair'Thear, characterized by its dramatic landscape of towering peaks and deep valleys. Known for its breathtaking fjords that slice through the terrain, Yorudo combines natural beauty with architectural marvels, with cities and fortresses built into the mountainsides.
+Nestled in the northern Fjord lands of Kair'Thear, Yorudo presents a stunning tableau of nature's artistry, where the rugged drama of towering peaks and deep valleys unfolds. This region is celebrated not only for its breathtaking fjords that dramatically slice through the landscape but also for the seamless integration of exquisite architectural feats within these natural wonders. Cities and fortresses are ingeniously built into the mountainsides, displaying a harmonious blend of human ingenuity and the raw power of nature. Yorudo's isolation, coupled with its formidable geography, has preserved a unique cultural heritage that thrives amidst these awe-inspiring surroundings.
 
 ![[Yorudo.webp]]
 ### 2. **Geography**
@@ -49,16 +49,24 @@ Central to Yorudo's military doctrine is the cultural emphasis on honor, which p
 
 ### 8. **Notable Locations**
 
-- Sakura Fortress: Perched atop the highest peak, Sakura Fortress combines the formidable structure of a mountain stronghold with elegant design. A beacon of Yorudo's strength and beauty. 
-- O-Torii: Nestled within Jinja Fjord, O-Torii serves as Yorudo's bustling port, a symbolic gate-way to the kingdom of Yorudo. 
-- Byukama Village: Located on a high plateau, Byukama Village showcases Yorudo's increible agricultural might, transforming steep mountains sides, into luscious terraces, used to feed the dense populations. 
-- Umi City: A floating city built in a secluded fjord, sheltered from the worst elemnets typical of this part of the world. 
-- Kage Caverns:
-- 
+- **Sakura Fortress:** Perched atop the highest peak, Sakura Fortress combines the formidable structure of a mountain stronghold with elegant design. A beacon of Yorudo's strength and beauty. 
+- **O-Torii:** Nestled within Jinja Fjord, O-Torii serves as Yorudo's bustling port, a symbolic gate-way to the kingdom of Yorudo. 
+- **Byukama Village:** Located on a high plateau, Byukama Village showcases Yorudo's incredible agricultural might, transforming steep mountains sides, into luscious terraces, used to feed the dense populations. 
+- **Umi City:** A floating city built in a secluded fjord, sheltered from the worst elements typical of this part of the world. 
+- **Hidden Blossom Village**: A legendary village, said to house the best ninja of this region. It's location is a tightly guarded secret. 
+- **Kage Caverns**: An intricate series of tunnels deep into the Yorudo mountains, said to house an ancient shadow dragon, last of its kind. 
 
 ### 9. **Significant Characters**
 
-Introduce key figures associated with the region, such as rulers, heroes, or villains. Include brief descriptions of their roles and impacts on the region.
+- **Emperor Yamamoto**: At the helm of Yorudo's governance stands Emperor Yamamoto, an elderly statesman whose wisdom has steered the region through countless challenges. Despite his advanced years, his leadership remains as sharp and decisive as ever, marked by moments of ruthlessness when the situation demands. Under his reign, Yorudo has flourished, balancing tradition with the need for progressive governance.
+    
+- **Luffy**: Self-proclaimed King of the Pirates, Luffy is a charismatic and daring figure known for his exploits along the fjords of Yorudo. His reputation for seeking freedom and adventure inspires many, while his disregard for the traditional rules of engagement earns him notoriety among the region's more conventional leaders.
+    
+- **Shikamaru**: As the head of one of Yorudo's hidden ninja villages, Shikamaru is a master strategist renowned for his brilliant tactical mind. His leadership is subtle yet profound, influencing the shadows of political and military engagements across the region. His village remains elusive, known only to those who need to find it.
+    
+- **Edward and Alphonse**: These brothers are celebrated across Yorudo and beyond as the foremost alchemists of their time. Edward, the elder, is bold and passionate, while Alphonse is thoughtful and kind. Together, they are sought after for their unparalleled expertise in alchemy, which they use to unlock mysteries and solve problems thought beyond reach.
+    
+- **Mugen**: A swordsman of legendary skill, Mugen's fame—or infamy—depends largely on whom you ask. Known for his unconventional fighting style and rebellious spirit, he wanders Yorudo challenging other warriors to duel, carving a path of stories and rumors that follow him wherever he goes.
 
 ### 10. **Current Issues and Future Prospects**
 

@@ -39,7 +39,10 @@ Each cultural group within Umbravalle maintains its militia, primarily for defen
 
 ### 8. **Notable Locations**
 
-List and describe significant cities, landmarks, or mysterious places within the region. This can include capitals, cultural sites, and areas of particular danger or interest.
+- **Bergtopp Citadel:** Nestled within the Montis Custos Range, Bergtopp Citadel serves as a fortress and meeting place for the Bergborn leaders. This imposing structure is carved directly into the mountain, making it nearly impregnable.
+- **Skogheim Grove:** Deep within the forested valleys of Umbravalle lies Skogheim Grove, the central settlement of the Skogvandrere peoples. The village is constructed around ancient trees, using elevated platforms to avoid the season flooding from the Montis Custos Range.
+- **Aræði Stronghold:** On the shores of Mirrorwater Lake, this stronghold is the primary base for the Sjøplyndrere. It features robust defenses and docks for their raiding vessels, while its western location minimalizes travel distances to the [[Road North]], for raiding practices. 
+- 
 
 ### 9. **Significant Characters**
 
