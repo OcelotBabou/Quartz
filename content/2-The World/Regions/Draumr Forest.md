@@ -45,7 +45,11 @@ Despite their lack of traditional military prowess, the Fictors display a remark
 
 ### 8. **Notable Locations**
 
-List and describe significant cities, landmarks, or mysterious places within the region. This can include capitals, cultural sites, and areas of particular danger or interest.
+- **Mount Huginn**: The central peak of Draumr Forest, Mount Huginn is a towering presence that is both a physical and spiritual anchor for the region.
+- **Dreaming Glades:** A secluded area within the forest where the spiritual energy is particularly potent, the Dreaming Glades are where Fictors come to seek visions and commune with Dath-Gea through dream trances.
+- **Dreamweaver's Haven:** Dreamweaver’s Haven is the spiritual heart of Draumr Forest, serving as the central hub for the Fictors. This settlement is built around a massive, ancient tree known as the Dreaming Sentinel, believed to be directly connected to Dath-Gea, the Dreaming Dragon.
+- asd
+- **Border Thickets:** The perimeter of Draumr Forest, lined with dense thickets that serve as natural barriers and the first line of defense against intruders.
 
 ### 9. **Significant Characters**
 
