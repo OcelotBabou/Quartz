@@ -9,7 +9,7 @@ tags:
 *[pil-lee-guh]*
 ### 1. **Overview**
 
-Welcome to Pilliga, a vast region defined by the sprawling expanse of dry landscapes that radiate from the banks of the majestic [[Fluvitae River]]. Stretching from the fortified stronghold of Fort Logos to the bandit-infested hills of [[Collis Brigantium]], Pilliga is a land marked by its arid terrain and drought-resistant flora. Despite its harsh conditions, this region plays a crucial role in connecting the eastern and western territories of Siar’Morrin, serving as a vital conduit for trade and travel.
+Pilliga, a vast region defined by the sprawling expanse of dry landscapes that radiate from the banks of the majestic [[Fluvitae River]]. Stretching from the fortified stronghold of Fort Logos to the bandit-infested hills of [[Collis Brigantium]], Pilliga is a land marked by its arid terrain and drought-resistant flora. Despite its harsh conditions, this region plays a crucial role in connecting the eastern and western territories of Siar’Morrin, serving as a vital conduit for trade and travel.
 
 ![[Pilliga.webp]]
 ### 2. **Geography**
@@ -54,7 +54,8 @@ This local force works in coordination with the New Biranian military to ensure 
 
 ### 8. **Notable Locations**
 
-List and describe significant cities, landmarks, or mysterious places within the region. This can include capitals, cultural sites, and areas of particular danger or interest.
+- One is a settlement on the south of the river, a decent bit of trade exits here, crossing into the great dividing forest, and picking up additional rare supplies for NB here. 
+- Another is the fort city on the Eastern edge that marks the start of the Pilliga stretch of the Journey West, and acts as a defence against the bandits of Briggis. 
 
 ### 9. **Significant Characters**
 

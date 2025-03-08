@@ -17,7 +17,7 @@ tags:
 - **Age**: 52 years
 - **Occupation**: [[Praesul Staterae]] (Head of the Church of Statera)
 - **Affiliation**: [[Church of Statera]]
-- **Home Region**: New Birania
+- **Home Region**: [[New Birania]]
 ### Physical Description
 
 - **Appearance**: Konrad is a tall, slender man with an air of solemn grace. His face is sharply angular, with penetrating gray eyes that seem to weigh and measure every glance. His hair is black, flecked with gray, typically worn long and swept back.

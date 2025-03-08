@@ -46,7 +46,9 @@ In times of conflict or external threat, the Cia'an are capable of mobilizing ra
 
 ### 8. **Notable Locations**
 
-- [[Fi'an's Rest]]: Fi'an's Rest is the primary settlement of the Cia'an community within Sabhaile Forest. Positioned strategically at the confluence of several key streams feeding into Vatnet Lake, this settlement serves as the cultural, political, and economic center of the Cia'an society.
+- [[Fi'an's Rest]]: Fi'an's Rest is the primary gathering place of the Cia'an communities within Sabhaile Forest. Positioned strategically at the confluence of several key streams feeding into Vatnet Lake, this settlement serves as the cultural, political, and economic center of the Cia'an society. 
+- [[Skugga Cave]]: Nestled within a secluded part of Sabhaile Forest, Skugga Cave serves as the home to the Skugga Pack. This impressive cave system has been ingeniously transformed into a vibrant village by its inhabitants.
+- [[Tempest Heights]]: High above the forest floor, nestled in the towering canopy of Sabhaile Forest, lies the Treetop Village of the Tempest Pack. This aerial village is an architectural marvel, built upon the ancient, sturdy branches of the oldest trees in the forest.
 - [[Vatnet Lake]]: The heart of Sabhaile Forest, Vatnet Lake, is a large, serene body of water fed by streams flowing down from the Ridgeback Mountains. This pristine lake is crucial for the ecosystem's balance, supporting a diverse range of aquatic and terrestrial life.
 - **The Elders' Grove:** Nestled deep within the forest, the Elders' Grove is a sacred area where the oldest and tallest trees in Sabhaile are found. This grove is the traditional meeting place of the Cia'an council of elders.
 - **Moonwell Clearing:** A secluded clearing that is open to the sky, Moonwell Clearing is a spiritual site where the Cia'an celebrate their lunar festivals. This clearing is named for the small, crystal-clear pond at its center, which reflects the moonlight during the night.
@@ -54,7 +56,11 @@ In times of conflict or external threat, the Cia'an are capable of mobilizing ra
 
 ### 9. **Significant Characters**
 
-Introduce key figures associated with the region, such as rulers, heroes, or villains. Include brief descriptions of their roles and impacts on the region.
+- **Akela**: Leader of the Skugga Pack and an elder council member, Akela is known for his gentle leadership and openness to outside influences, marking a departure from traditional Cia'an insularity.
+- **Ranga**: As the leader of the Tempest Pack and an elder council member, Ranga is a staunch traditionalist who prioritizes the safety and tradition of the Cia'an community, often finding himself at odds with Akela's progressive views.
+- **Mysaria**: A young and gifted seer who has ascended rapidly to become a member of the elder council, Mysaria's deep connection with nature makes her indifferent to the usual political struggles, though her insights are highly valued.
+- **Stefna**: An eccentric elderly druid who believes he is a descendant of Poraal Oir. Known for his potent ability to manipulate lightning and thunder, Stefna's claims and powers add an element of awe and fear to his presence in the council.
+- Some connect to Tom's character.
 
 ### 10. **Current Issues and Future Prospects**
 

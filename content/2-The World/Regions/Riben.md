@@ -71,7 +71,11 @@ Recent efforts to expand the military’s size and capabilities suggest preparat
 ### 9. **Significant Characters**
 
 - [[Ming Donismus]]: The Supreme Chancellor of Riben, Ming Honismus is a visionary leader with a strategic mind adept at balancing the intricacies of Riben's political landscape. His tenure is marked by aggressive urban development, keen focus on technological dominance, and providing opulent luxuries to the upper classes.
-- [[Arta Hu]]: 
+- [[Arta Hu]]: As the commander of Riben's military forces, General Hu is both celebrated and feared. He prides himself on rigorous discipline and ruthless efficiency. 
+- [[Lina Cyrus]]: A powerful oligarch and influential member of the Grand Prefecture, Lina commands considerable influence over Riben's economic strategies and trade policies, ensuring that the commercial elite remains prosperous and powerful.
+- [[Feng Artaxerxes]]: Emerging from the working classes, Feng has become a symbol of resistance and potential change. Currently he ranks as number one most wanted criminal amongst Ribens elite. 
+- [[Darius Zahra]]: Leader of Riben's forbidden spiritual practices, Darius nurtures the old ways, providing spiritual guidance and a sense of belonging to those marginalized by the secular government.
+- [[Dao Shen Mithradates]]: The mastermind behind Riben’s extensive surveillance system, Dao Shen Mithradates plays a crucial role in maintaining the government's control over its citizens.
 
 ### 10. **Current Issues and Future Prospects**
 

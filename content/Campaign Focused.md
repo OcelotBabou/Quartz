@@ -54,7 +54,8 @@ Family Members
 
 **Specific for Players**
 - Brandon ([[Virag Greytail]]) [[Paloto Swamplands]], [[Eris]], [[Ratfolk]]
-- Jondo and Mammo [[Riben]] or [[Yorudo]] [[Raxenos]], [[Kitsune]]
+- Mammo [[Riben]] or [[Yorudo]], [[Kitsune]]
+- Jondo
 - Tobes [[Paloto Swamplands]], [[Eastern Siar'Morrin]], [[Geppettin]], [[Gunslinger]]
-- [[Tom]] [[Sabhaile Forest]] + [[New Birania]] + [[Cia'an]]
+- [[Rhaegar]] [[Sabhaile Forest]] + [[New Birania]] + [[Cia'an]]
 - Jaryd 
