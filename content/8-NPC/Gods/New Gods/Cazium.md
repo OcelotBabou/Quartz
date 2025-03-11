@@ -38,8 +38,8 @@ His arms, muscular and strong, are not merely for show. They carry the weight of
 
 ## Relationships
 
-**Family**: 
-**Relations**: 
+**Family**: Unknown
+**Rivals/Enemies**: 
 **Attitude towards Mortals**: Cazium is both a patron and a challenge to mortals. He provides the materials and inspiration for artistic and crafting endeavors but expects that his followers will seek out and appreciate the deeper beauty in their creations. He is less involved in day-to-day mortal affairs, focusing more on those who pursue excellence in craftsmanship.
 
 ## Mythology and Worship

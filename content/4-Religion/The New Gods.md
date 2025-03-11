@@ -10,7 +10,7 @@ In Statera, the New Gods stand as vibrant symbols of the nuanced aspects of civi
 
 The power and influence of the New Gods vary greatly among them, dependent on the extent of their worship and the relevance of their domains to current societal needs. Some, like [[Mercio]] and [[Vilcren]], may wield substantial influence and thus power, in economically driven or agriculturally rich regions. While the Goddess [[Ludara]] has largely been forgotten and diminished since the Age of Darkness ([[AoD]]).
 
-### 2. **Deities*
+### 2. **Deities**
 
 - [[Tilita]]
 - [[Mercio]]

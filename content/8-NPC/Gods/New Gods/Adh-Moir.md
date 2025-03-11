@@ -36,9 +36,12 @@ Adh-Moir is often depicted as a jovial figure, ever-smiling, with a pair of dice
 
 ## Relationships
 
-- **Allies**: Unknown
-- **Rivals/Enemies**: Paysius, Entropy
-- **Attitude towards Mortals**: Views them with a playful detachment, enjoying the drama of their fortunes and misfortunes as if they were pieces in a game.
+**Family**: 
+- **[[Dorna]]**: Father, little is known about Adh-Moir's relation with his supposed father. Not much is known about any of Adh-Moir's relationships though. 
+**Rivals/Enemies**: 
+- [[Paysius]], Adh-Moir views his interactions with Paysius more as a diversion than a rivalry. He takes a certain pleasure in toying with the Vice of Arrogance, often belittling and provoking him at every turn to showcase his superiority.
+- Entropy, Adh-Moir remains enigmatic about his true adversary but he has on rare occasion mentioned that Entropy is the only entity he truly considers a threat in the cosmos.
+**Attitude towards Mortals**: Views them with a playful detachment, enjoying the drama of their fortunes and misfortunes as if they were pieces in a game.
 
 ## Mythology and Worship
 
@@ -53,7 +56,7 @@ Adh-Moir, from his first appearance, was an enigma. His features bore the mark o
 The circumstances of Adh-Moir's conception and birth are draped in mystery. Rumors among the gods suggested that Dorna encountered ancient entities or forces in the darkness, primeval entities that predate even the oldest of the gods, fundamental being of the universe itself. Despite the speculations, Dorna never confirmed any theory about his son’s origins, and Adh-Moir himself remained aloof and blasé about his history. 
 - **Major Cults and Religious Practices**: Adh-Moir has no dedicated religions and few temples, rather he is called upon by gamblers and those in precarious situations. His failure to answer the majority of pleas, is out weighed by the praise earned at an unexpected turn of good fortune. 
 - **Festivals**: There are no large scale festivals dedicated to Adh-Moir, yet he often plays a role in other deities festivities. 
-- **Clergy and Temples**: Temples are few, usually more like taverns or casinos than traditional religious sites. Those devoted to him are often seen as tricksters and soothsayers, looking to use his blessing for personal gain. 
+- **Clergy and Temples**: Temples are few, usually more like taverns or casinos than traditional religious sites, unofficially created and operated by those few that have devoted themselves to Adh-Moir. Those devoted to him are often seen as tricksters and soothsayers, looking to use his blessing for personal gain. 
 
 ## Significant Historical Impact
 

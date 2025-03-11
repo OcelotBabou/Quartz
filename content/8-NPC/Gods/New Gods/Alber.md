@@ -41,9 +41,14 @@ Adorned with elements of her domain, Alber wears no crafted garments but is inst
 
 ## Relationships
 
-- **Allies**: [[Theri'an]], often portrayed as her brother. [[Agra]], some believe Agra is the mother of Theri'an and Alber. 
-- **Rivals/Enemies**: The [[Dahri Empire]] and [[Riben]]. 
-- **Attitude towards Mortals**: Alber is both nurturing and wrathful. She can be a protector to those who respect and care for nature, but she shows fierce anger towards those who exploit or destroy it. Her interactions with mortals are often driven by their actions towards the environment.
+**Family**: 
+- **[[Theri'an]]**: Brother. Agra shares a unique relationship with Theri'an, blending rivalry and camaraderie. Unlike her typical reserved or indifferent demeanor towards other gods, Theri'an's shared wild side and occasional ruthlessness resonates with Alber, and the two are often depicted in stories as working side by side. 
+- **Alber**: The connection between Agra and Alber is less clear. Some believe Agra may be Alber’s mother, given their shared dominion over nature. Others theorize that Alber is not a seperate goddess, rather she represents a wrathful aspect of Agra, a side brought forth by humanity’s relentless destruction of the natural world. 
+**Rivals/Enemies**: 
+Unlike many of her divine counterparts, Agra's enmity is less focused on the machinations of gods or even the vices and more directed towards mortal empires that threaten the natural world.
+- **[[Dahri Empire]]**: Agra has harbored a longstanding animosity towards the Dahri Empire, primarily due to their extensive deforestation and environmental destruction, particularly in the [[Vahshi Forest]]. This conflict has not only fueled a bitter feud but also precipitated numerous wars. Agra views the Dahri as a persistent blight on the landscape.
+- **[[Riben]]**: Emerging more recently as a focal point of Agra’s ire, Riben has drawn her wrath through their bold encroachments and disregard for the sanctity of the Vahshi Forest. As this empire's activities increasingly threaten the ecological balance, they have become the primary target of Agra. 
+**Attitude towards Mortals**: Alber is both nurturing and wrathful. She can be a protector to those who respect and care for nature, but she shows fierce anger towards those who exploit or destroy it. Her interactions with mortals are often driven by their actions towards the environment.
 
 ## Mythology and Worship
 
