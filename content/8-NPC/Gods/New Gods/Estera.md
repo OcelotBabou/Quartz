@@ -19,9 +19,12 @@ tags:
 ## Physical Description
 
 - **Appearance**: 
-Estera, the embodiment of summer, exudes warmth and vitality. She is portrayed as a luminous figure, her skin aglow with the golden radiance of the midday sun. Her attire is as brilliant as the summer sky at sunset, composed of shimmering fabrics in hues of gold and fiery red. These garments flow around her in graceful folds, catching the light with every movement, mimicking the dynamic and ever-changing patterns of sunlight dancing across the earth. The fabrics are light and airy, designed to enhance her natural radiance and the sense of warmth she brings. 
+Estera, the embodiment of summer, exudes warmth and vitality. Portrayed as a luminous figure, her skin aglow with the golden radiance of the midday sun, she radiates the effervescent charm of the summer season. Her attire is a brilliant display of shimmering blues like a clear summer sky. 
 
-Estera's hair is a cascade of vibrant, sun-kissed locks that frame her face and spill over her shoulders like rays of sunshine. Each strand shimmers with the vibrant energy of summer, reflecting the intensity and passion of her domain. While her eyes sparkle with the clear blue of a perfect summer sky, inviting and warm. 
+Her hair, a fiery cascade of vibrant red locks, frames her face and spills over her shoulders like rays of the setting sun. Each strand shimmers with the energetic warmth of summer, capturing the intensity and passion of her domain. Estera’s eyes, a fiery red, burn with a deep passion, mirroring the intense heat and vitality of summer itself. They sparkle with a dynamic energy, inviting all who gaze into them to feel the compelling warmth and vibrant spirit of her season.
+
+![[Brega.webp]]
+
 - **Height**: 177cm
 - **Weight**: 62kg
 - **Distinguishing Features**: Her jewelry of gold and precious stones that grace her neck and wrists. 
@@ -35,9 +38,14 @@ Estera's hair is a cascade of vibrant, sun-kissed locks that frame her face and 
 
 ## Relationships
 
-- **Allies**: (Other gods or celestial beings they align with)
-- **Rivals/Enemies**: (Antagonistic relationships within the pantheon)
-- **Attitude towards Mortals**: (How they generally treat or interact with their followers and other mortals)
+**Family**: 
+- **[[Statera]]**: Creator, Initially born from Statera’s overwhelming anger, Estera's relationship with her creator was tumultuous. Over time, as her fiery temperament simmered down, she developed a respectful and appreciative bond with Statera. While they maintain a good relationship, they don't have a particularly close bond or often see each other. 
+- **[[Tunera]]**: Sister, Estera finds Tunera a tad dull compared to her own vibrant and energetic nature. While they maintain a cordial relationship, Estera often feels that Tunera's contemplative and subdued demeanor doesn't quite sync with her own lively spirit. Nonetheless, they share a familial bond that keeps their interactions amicable.
+- **[[Invera]]**: Sister, Invera, embodying the cold and reticent traits of winter, stands in stark contrast to Estera's warm and exuberant personality. Their differences make it challenging for them to relate to each other, resulting in a relationship that, while not openly antagonistic, lacks closeness and warmth.
+- **[[Mavera]]**: Sister, Estera shares the closest bond with Mavera, the youngest of the seasonal sisters. She is protective of Mavera and appreciates her fresh, optimistic view of the world. However, Estera’s intense nature can sometimes be overwhelming for Mavera, who embodies the gentle and renewing qualities of spring. Despite this, their relationship is the most affectionate among the siblings, filled with mutual care and understanding.
+**Rivals/Enemies**:
+- **[[Ooscara]]**: Estera harbors a deep-seated mistrust and animosity towards Ooscara, whom she views as a malevolent counterpart to her own nurturing warmth. Known as the Queen of Ice in the frigid realms of Northern Siar'Morrin, Ooscara represents an extreme of cold and frost. Unlike her sister Invera, who Estera acknowledges as a necessary part of the world's natural cycle, she sees Ooscara as a dangerous entity.
+**Attitude towards Mortals**: (How they generally treat or interact with their followers and other mortals)
 
 ## Mythology and Worship
 

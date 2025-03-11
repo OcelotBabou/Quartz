@@ -9,7 +9,7 @@ tags:
 ## Basic Information
 
 - **Name**:
-- **Domain**: Protection
+- **Domain**: Protection, Defense and Fortifications
 - **Title**: (e.g., Lord of Thunder, Keeper of Secrets)
 - **Alignment**: (e.g., Chaotic Good, Lawful Neutral)
 - **Symbol**: (A brief description of the god's emblem or symbol)

@@ -40,6 +40,7 @@ His arms, muscular and strong, are not merely for show. They carry the weight of
 
 **Family**: Unknown
 **Rivals/Enemies**: 
+- **[[Listunos]]**: Cazium harbors a profound disdain for Listunos, the Vice of Greed, whose penchant for hoarding and accumulating wealth starkly contrasts with Cazium's ethos of spreading beauty and art. Cazium believes that masterful creations and the earth’s natural beauty should be accessible to all, not locked away or monopolized for the benefit of the few.  Further, Listunos targeted Cazium directly, with Listunos's aggressive pursuit culminated in a notable conflict where he not only defeated Cazium but, according to rumors, may have even succeeded in capturing him
 **Attitude towards Mortals**: Cazium is both a patron and a challenge to mortals. He provides the materials and inspiration for artistic and crafting endeavors but expects that his followers will seek out and appreciate the deeper beauty in their creations. He is less involved in day-to-day mortal affairs, focusing more on those who pursue excellence in craftsmanship.
 
 ## Mythology and Worship
