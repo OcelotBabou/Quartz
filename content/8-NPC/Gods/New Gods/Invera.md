@@ -38,9 +38,13 @@ She is draped in robes of shimmering whites and icy blues, their fabrics etherea
 
 ## Relationships
 
-- **Allies**: (Other gods or celestial beings they align with)
-- **Rivals/Enemies**: (Antagonistic relationships within the pantheon)
-- **Attitude towards Mortals**: (How they generally treat or interact with their followers and other mortals)
+**Family**: 
+- **[[Statera]]**: Creator, Invera holds a deep respect for Statera, acknowledging her role as the architect of the seasonal balance. Her relationship with Statera is marked by reverence and adherence to her creator's vision of the natural world’s cycle, though she remains somewhat distant.
+- **[[Estera]]**: Sister, The relationship between Invera and Estera is defined by their contrasting domains. Invera often finds Estera's vibrant warmth a stark contrast to her own chill serenity. They respect each other's roles in maintaining the balance of seasons but maintain a respectful distance, interacting minimally beyond necessity.
+- **[[Tunera]]**: Sister, Invera shares a harmonious bond with Tunera, as the latter’s season naturally prepares the world for the quiet and rest that winter brings. They work closely during the seasonal transition, often finding common ground in the cycle of decay and preparation for the harsher months ahead. 
+- **[[Mavera]]**: Sister, Invera's relationship with Mavera is tinged with protectiveness and a touch of reluctance. She sees Mavera as somewhat naive, given her role in ushering in renewal and growth after the harsh winter. As winter gives way to spring, Invera hesitates, not wanting to burden her younger sister with the aftermath of her season yet understanding the necessity of her vibrant rejuvenation.
+**Rivals/Enemies**: (Antagonistic relationships within the pantheon)
+**Attitude towards Mortals**: (How they generally treat or interact with their followers and other mortals)
 
 ## Mythology and Worship
 

@@ -45,21 +45,23 @@ Her hair, a fiery cascade of vibrant red locks, frames her face and spills over 
 - **[[Mavera]]**: Sister, Estera shares the closest bond with Mavera, the youngest of the seasonal sisters. She is protective of Mavera and appreciates her fresh, optimistic view of the world. However, Estera’s intense nature can sometimes be overwhelming for Mavera, who embodies the gentle and renewing qualities of spring. Despite this, their relationship is the most affectionate among the siblings, filled with mutual care and understanding.
 **Rivals/Enemies**:
 - **[[Ooscara]]**: Estera harbors a deep-seated mistrust and animosity towards Ooscara, whom she views as a malevolent counterpart to her own nurturing warmth. Known as the Queen of Ice in the frigid realms of Northern Siar'Morrin, Ooscara represents an extreme of cold and frost. Unlike her sister Invera, who Estera acknowledges as a necessary part of the world's natural cycle, she sees Ooscara as a dangerous entity.
-**Attitude towards Mortals**: (How they generally treat or interact with their followers and other mortals)
+**Attitude towards Mortals**: Estera has a complex view of mortals. While she is generally indifferent, she harbors a special fondness for those who embrace life with zeal and passion, mirroring her own vibrant nature. To her, many mortals seem to squander their brief lives, which leads to her occasional disdain. However, she has a particular affinity for the Vindri people of the [[Windswept Marches]] and the centaurs of [[Hybla Gratis]], drawn to their robust celebration of life. Additionally, the chaotic yet ephemeral lives of the ratfolk fascinate her, finding their intensity intriguing despite their short lifespan.
 
 ## Mythology and Worship
 
 - **Creation Myth**: 
 
 In the nascent days of Staterum, when the earth was still young and malleable under the hands of the gods, Statera, the Goddess of Balance, was struck by a profound tragedy—the loss of her beloved husband to the dark schemes of the Vices. Overwhelmed by grief, her emotions began to manifest into the world itself, influencing the fabric of creation. The first surge of feeling was a fiery rage, a burning fury against the injustice she suffered. This intense emotion sparked into existence Estera, born of fire and passion, embodying the fierce warmth and unyielding light of summer. Estera’s arrival marked the world’s first encounter with the scorching power of the sun, her radiant energy fueling growth and sustaining life, even in the face of sorrow.
-- **Major Cults and Religious Practices**: (Description of main worship practices and any associated cults)
-- **Festivals**: (Special times of the year dedicated to this deity, including rituals and celebrations)
-- **Clergy and Temples**: (Description of priests, holy orders, and sacred sites dedicated to the deity)
+- **Major Cults and Religious Practices**: In Northern Siar'Morrin, where the seasonal changes are most pronounced, the worship of Estera and her sisters is deeply interwoven with the life cycle of the communities. These regions operate in harmony with the transitioning seasons, each goddess's influence palpably felt. Worship involves both communal and individual practices that honor the goddesses' roles in nurturing and transitioning the environment and its people.
+- **Festivals**: 
+	- **Sumari Festival**: The Sumari festival celebrates the transition from spring to summer, marking Mavera's handover to Estera. This festival is vibrant and full of life, symbolizing the peak of growth and the beginning of summer's warmth. Activities during Sumari include colorful parades, music, and dance that last until the early hours of the morning, reflecting the boundless energy of Estera.
+	- **Høst Festival**: As summer wanes, the Høst festival eases the community into the more subdued season of autumn. It begins with a flurry of activity, perparing all that will occur during the festivals. This early preparation means that once the festival begins all those involved are free to relax and unwind. The festival involves storytelling's around campfires, the sharing of harvest meals, and time for personal reflection. 
+- **Clergy and Temples**: Worship of Estera does not center around permanent temples due to the nomadic tendencies of her followers, who prefer to honor her in the open landscapes that reflect her dynamic essence. However, there are four sacred temples, each dedicated to one of the Seasonal Sisters, scattered across the region. The temple in Cragport is devoted specifically to Estera, serving as a cultural and spiritual hub during her season.
 
 ## Significant Historical Impact
 
-- **Major Plot Points in World History**: (Key moments when this god significantly influenced the world’s history)
-- **Artifacts**: (Relics or magical items associated with the deity)
+- **Major Plot Points in World History**: 
+- **Artifacts**: 
 
 ## Quotes
 
