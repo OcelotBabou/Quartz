@@ -43,7 +43,9 @@ She is draped in robes of shimmering whites and icy blues, their fabrics etherea
 - **[[Estera]]**: Sister, The relationship between Invera and Estera is defined by their contrasting domains. Invera often finds Estera's vibrant warmth a stark contrast to her own chill serenity. They respect each other's roles in maintaining the balance of seasons but maintain a respectful distance, interacting minimally beyond necessity.
 - **[[Tunera]]**: Sister, Invera shares a harmonious bond with Tunera, as the latter’s season naturally prepares the world for the quiet and rest that winter brings. They work closely during the seasonal transition, often finding common ground in the cycle of decay and preparation for the harsher months ahead. 
 - **[[Mavera]]**: Sister, Invera's relationship with Mavera is tinged with protectiveness and a touch of reluctance. She sees Mavera as somewhat naive, given her role in ushering in renewal and growth after the harsh winter. As winter gives way to spring, Invera hesitates, not wanting to burden her younger sister with the aftermath of her season yet understanding the necessity of her vibrant rejuvenation.
+
 **Rivals/Enemies**: (Antagonistic relationships within the pantheon)
+
 **Attitude towards Mortals**: (How they generally treat or interact with their followers and other mortals)
 
 ## Mythology and Worship

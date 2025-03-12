@@ -46,7 +46,13 @@ Her eyes are deep brown, like the rich earth itself, warm and inviting, yet fill
 - [[Siar]]: Brother: Among her siblings, Siar is the brother with whom Agra shares the deepest bond. They find common ground in their roles as sustainers of life, their relationship is marked by mutual respect and shared intrigue with mortals. 
 - [[Kair]], [[Niphar]], [[Eilear]]: Brohters. With her other brothers, Agra maintains cordial but distant relationships. There are no conflicts, but their interactions are infrequent to the point of virtually non-existent. 
 - [[Thear]]: Brother: Thear, the embodiment of deserts and desolation, stands in stark contrast to Agra’s lush and fertile realms. This fundamental opposition in their natures breeds a natural rivalry. Agra harbors a particular disdain for Thear, viewing his barren landscapes as antithetical to her own life-giving territories.
-**Rivals/Enemies**: [[Thear]], [[Raxenos]], [[Mercio]], [[Listunos]] and [[Spatalos]]
+
+**Rivals/Enemies**: 
+- [[Thear]]: Agra's disdain for her brother is profound and deeply personal. She views Thear as a betrayal of their father's legacy, having transformed from a bringer of life to a lord of desolation. His domain, which once complemented hers in the cycle of growth and decay, now starkly opposes it, embodying wastefulness and barrenness. 
+- [[Mercio]]: Agra views Mercio with a mix of disappointment and resentment. She believes that his emphasis on commerce and material wealth encourages humanity to exploit natural resources for short-term gains, overlooking their intrinsic value and sustainable management.
+- [[Listunos]]: Her contempt for Listunos extends beyond that for Mercio, rooted in Listunos's embodiment of hoarding and greed. Agra sees him as a personification of the most destructive human impulses—those that lead to the exploitation and irreversible damage of natural landscapes. His actions represent a severe threat to the balance she strives to maintain, making him one of her principal adversaries.
+- [[Spatalos]]: Among her rivals, Spatalos invokes the strongest aversion in Agra. She equates his presence with the wholesale devastation of natural environments, akin to a plague that consumes and destroys without replenishment. In her view, Spatalos is the epitome of reckless consumption and environmental ruin, and she regards his influence as the most malignant force against the natural order, making him the ultimate antagonist in her eyes.
+
 **Attitude towards Mortals**: Sees them as children to be cared for; although has become increasingly frustrated and disheartened with humanity. 
 
 ## Mythology and Worship
