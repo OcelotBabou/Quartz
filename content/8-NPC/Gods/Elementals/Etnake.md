@@ -44,9 +44,17 @@ Her wings, vast and majestic, stretch wide, each movement sending a cascade of s
 ## Relationships
 
 **Family**: 
-- [[Lasair]]: Mother. 
-**Rivals/Enemies**: (Antagonistic relationships within the pantheon)
-**Attitude towards Mortals**: (How they generally treat or interact with their followers and other mortals)
+- [[Lasair]]: Mother,  Etnake's relationship with her mother, Lasair, is as tempestuous and unpredictable as the flames that birthed her. This bond is marked by profound love and intense conflict, fluctuating between empathy and resentment towards Lasair for the duality that defines her existence.
+- **[[Hodophis]]**: Half-Brother, With Hodophis, her adventurous and spirited half-brother, Etnake's connection varies with her mood. In her fiery guise, she admires his embodiment of fire's wildness and his unfettered spirit, seeing him as a fellow bearer of their mother's formidable legacy. His daring nature resonates with her more aggressive form, fostering a bond of respect and shared pride in the raw power of their elemental heritage.
+- **[[Oikos]]**: Half-Sister, In her more reflective and calm moments, Etnake regards Oikos with a blend of admiration and envy. Oikos' gentle and nurturing demeanor showcases the protective and life-giving aspects of fire, contrasting sharply with Etnake's own destructive capabilities. This relationship is tinged with jealousy, as Etnake often wishes for the stability and acceptance Oikos enjoys. Nonetheless, she is proud of Oikos' ability to demonstrate the beneficial qualities of their elemental domain, offering a perspective of fire that transcends mere destruction.
+**Rivals/Enemies**: 
+- **[[Ooscie]]**: Etnake harbors a deep-seated animosity towards Ooscie, whom she blames for triggering the legendary downfall of her mother, Lasair. She views Ooscie as the catalyst for the internal turmoil that plagues her existence, exacerbating the creative and destructive aspects of her nature. 
+- **[[Gaoth Oir]]**: Her disdain for Gaoth Oir stems from his reputation for cunning and manipulation. Etnake sees him as a schemer whose actions have sown strife and discord among the gods, particularly within her own family. She accuses him of exploiting her mother's vulnerabilities, contributing to the instability that she, as Lasair's offspring, must endure. 
+- **[[Ooscara]]**: The rivalry with Ooscara is shrouded in mystery and unknown historical grievances. What is known, is that the two have come to blows on multiple occasions, with the results of these conflicts said to have incurred widespread destruction on entire regions. 
+
+**Attitude towards Mortals**: Etnake views mortals with a mixture of affection and caution. She cherishes all forms of life as vibrant expressions of the world's inherent creativity and dynamism. Her love for life extends to mortals, whom she sees as particularly creative and vibrant beings capable of enriching the tapestry of existence with their diverse cultures and innovations.
+
+However, Etnake is acutely aware of her own power and the potential for destruction that accompanies her fiery nature. This awareness makes her exceedingly cautious in her interactions with mortals, whom she perceives as fragile and vulnerable to the unintended consequences of her elemental force. Her fear of causing harm leads her to maintain a careful distance
 
 ## Mythology and Worship
 
@@ -61,24 +69,33 @@ Gaoth Oir proposed a ritual to extract the most uncontrollable aspects of her em
 Etnake arose as a colossal phoenix, her form a brilliant conflagration of roaring flames, embodying the dual forces of creation and destruction. Her existence marked a dichotomy as ancient as the cosmos itself, a tale woven into the fabric of creation. Fire, that primal force, cradles the seeds of life in its warm embrace, offering sanctuary and the vital warmth that sustains existence. Yet, this same nurturing flame harbors the power to unleash devastation, transforming verdure into ash with its fierce and unyielding touch.
 
 So too does passion dance within the heart, a luminary force driving the engines of creativity and the flowering of innovation. But within its shadow lurks the specter of rage, a tempest capable of tearing asunder the bonds of love and fraternity. This dual nature mirrors the cycle of life itself—a journey from the cradle to the grave, where every bloom of life is shadowed by the quiet inevitability of decay. Etnake's eyes, one fiery red and the other verdant green, symbolize her complex legacy—her capacity for both nurturing growth and unleashing devastation. 
-- **Major Cults and Religious Practices**: (Description of main worship practices and any associated cults)
-- **Festivals**: (Special times of the year dedicated to this deity, including rituals and celebrations)
-- **Clergy and Temples**: (Description of priests, holy orders, and sacred sites dedicated to the deity)
+
+- **Major Cults and Religious Practices**: It is rumored that Etnake, despite her volatile nature, is revered by a secretive cult that resides in the depths of [[Entnakes' End]]. It is said they reside within a safe haven amid the desolate lands of ice and snow, protected by the divine influence of Etnake herself. 
+- **Festivals**: Mainstream celebrations dedicated to Etnake are uncommon in the modern age, however, some isolated communities, may still observe small, localized festivals that honor her.
+- **Clergy and Temples**: N/A
 
 ## Significant Historical Impact
 
-- **Major Plot Points in World History**: (Key moments when this god significantly influenced the world’s history)
-- **Artifacts**: (Relics or magical items associated with the deity)
+**Major Plot Points in World History**: 
+- **The Creation of the Cradle of Life**: This mythic area, located north of Chorkas Forest, is renowned as a sanctuary for all forms of life. It is revered as a place where new and unusual creatures spontaneously emerge, nurtured by the mystical energies of the land. The Cradle of Life is also said to house the Flame of Renewal, a legendary fire left behind by Etnake. 
+- **The Cataclysm of Uruk**: In a tragic demonstration of her destructive power, Etnake once razed the thriving city of Uruk, which lay on the verdant slopes near the Cradle of Life. Driven to an uncontrolled fury by circumstances now lost to myth, her fiery wrath obliterated the city and scorched a vast expanse of the surrounding land. The event, known as the Cataclysm of Uruk, left no survivors, and the area has since been shunned and abandoned.
+
+**Artifacts**: 
+- **The Flames of Renewal**: This legendary artifact is a manifestation of Etnake's most sacred and powerful essence. Located deep within the Cradle of Life, the Flames of Renewal are a colossal bonfire that never diminishes nor consumes its fuel. According to ancient lore, those who willingly cast themselves into this divine inferno will be granted a portion of Etnake's power, mirroring the mythical phoenix's ability to rise anew from its ashes. This extraordinary gift bestows upon the faithful the ability to be reborn upon death, emerging rejuvenated.
 
 ## Quotes
 
-- **Key Quotes**: (Iconic sayings or teachings attributed to the deity)
+"Every day is a renewal, every morning the daily miracle."
 
 ## Background
 
-- **Legends and Lore**: (Lesser-known tales and esoteric knowledge about the deity)
+**[[Elementum Arcanum]]**: 
 
-This template should provide a comprehensive overview that can be used to detail each god within your pantheon, giving depth and context to their roles within your fantasy world.
+To the scholars and mages of the Elementum Arcanum, Etnake is not only the favored child of Lasair but also the epitome of elemental power within the pantheon. Her dual nature of destruction and creation makes her particularly appealing to those who wield fire magic, viewing their practices as a direct channeling of her formidable energies. In the arcane circles, Etnake is revered for her unmatched strength among the Elemental Envoys, and many an ambitious mage has disappeared into Etnakes' End seeking to uncover her fabled sanctuary. 
+
+**[[Dahri Empire]]**
+
+In the Dahri Empire, scholars and historians consider Etnake not as a divine entity but as a symbolic representation of volcanic forces. They hypothesize that "Etnake" might have originally been the name of an ancient volcano, now dormant or perhaps erased from the landscape through geological changes over millennia. The Empire's academics argue that ancient inhabitants of the region, witnessing the terrifying yet life-giving nature of volcanic eruptions, crafted the deity Etnake to embody these dual aspects. The destruction wrought by lava flows and pyroclastic surges illustrates her fiery wrath, while the ash-enriched soils that lead to lush vegetation growth showcase her role in creation and renewal. This narrative served not only to explain natural phenomena but also to instill respect and preparedness among the people living in proximity to volcanoes.
 
 ![[e0f7dd4f-ce59-4a81-8651-846d19a9a686.webp]]
 Humanoid Form

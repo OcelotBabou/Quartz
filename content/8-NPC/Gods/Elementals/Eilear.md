@@ -41,7 +41,10 @@ Eilear’s eyes are deep and captivating, mirroring the rich, mysterious blues o
 **Family**: 
 - **[[Talam]]**: Father. Eilear's relationship with Talam is one of respect, but it is marked by distance, both emotional and in terms of their domains.
 - **[[Siar]], [[Kair]], [[Niphar]], [[Thear]], & [[Agra]]**: Siblings. Eilear's interactions with his siblings are similarly characterized by a sense of isolation. He does not engage in conflicts or deep alliances with them, preferring instead to remain apart.
-**Rivals/Enemies**: (Antagonistic relationships within the pantheon)
+
+**Rivals/Enemies**: 
+- **[[Poraal Oir]]**: As the god who commands the storms and winds, Poraal Oir often disrupts the serene and isolated realms that Eilear oversees. The powerful storms that Poraal Oir brings can wreak havoc on the tranquil islands under Eilear's protection, undermining the peace and stability Eilear strives to maintain.
+- 
 **Attitude towards Mortals**: Eilear maintains a stance of reserved detachment from most mortal affairs, however, beneath his aloof exterior lies a guardian spirit inclined towards acts of quiet benevolence, particularly towards those in peril on the seas. 
 
 ## Mythology and Worship
@@ -62,13 +65,17 @@ Grateful for Ooscie’s aid and recognising the strategic importance of such san
 **Major Plot Points in World History**: 
 - During the Age of Darkness ([[AoD]]), the seas turned treacherous with the emergence of immense beasts from the realm of Excess. Eilear, typically a solitary and passive deity, took an unprecedented active stance during this time. He fiercely protected these areas from the encroaching dangers, allowing the Dragon Teeth Islands to become a sanctuary amid the turmoil. While other parts of Staterum succumbed to the darkness and the monstrous invasions from the sea, Eilear’s realm remained largely unscathed.
 **Artifacts**: 
-
+- The Body of Eilaer is a revered artifact of extraordinary power, believed to encapsulate the essence of Eilear himself. This mystical object holds the power to manifest a temporary island from the depths of any body of water. The island conjured by this artifact is always appears the same, a paradisiacal haven, lush with vegetation, abundant in fresh water, and teeming with food sources. It emerges seamlessly from the water, forming a perfect sanctuary for weary travelers or desperate sailors. However, the island's beauty and resources are fleeting; it vanishes just as mysteriously as it appears after two days, sinking back into the watery depths from which it came. Over the ages, numerous legends have woven themselves around the Body of Eilear. It is often equated with the mythical treasure island described in pirate lore, notably in tales of Captain Roger. According to these stories, it is here on this elusive island that Roger concealed his vast treasures, in one piece.
 ## Quotes
 
-- **Key Quotes**: (Iconic sayings or teachings attributed to the deity)
+N/A
 
 ## Background
 
-- **Legends and Lore**: (Lesser-known tales and esoteric knowledge about the deity)
+**[[Tribe Eilearian]] [[Harpies]]**
 
-He is known to manifest islands as sanctuaries for lost or storm-tossed sailors—ephemeral havens that appear just when needed most, though they might vanish just as quickly once the danger has passed.
+For the Harpies of the Eilearian Tribe, Eilear is an anomaly within the pantheon, a god whose actions transcend the typical animosity harbored by their kind against the terrestrial gods. Eilear’s benevolent guardianship of the Dragon Teeth Islands has earned him an esteemed place in their lore. They view him not just as a protector but as a savior of their skies and seas. The Harpies recount tales of Eilear’s fierce battles to safeguard their homeland from the encroaching chaos of the seas during the Age of Darkness. His vigilance and strength are celebrated in their songs and stories, portraying him as a steadfast guardian whose watchful presence ensures the safety and freedom of their island realms. 
+
+**Sea Dwarves**
+
+The Sea Dwarves regard Eilear not merely as a god of islands and shores but as the progeny of Cazium, symbolizing the intrinsic link between the terrestrial and the aquatic, the stone and the tide. In their legends, Eilear is seen as the manifestation of the Dwarves' rightful dominion over all realms of nature, including the vast and mysterious oceans. This belief underscores a foundational aspect of their worldview—that the mastery over rock and wave is not only their heritage but their destiny. Eilear, in their eyes, is a testament to their ancestors’ prowess and a divine confirmation of their claims over the natural world. To the Sea Dwarves, Eilear's existence validates their ancient lore, which proclaims their kind as sovereigns not just of the undermountain but of the undersea. 
