@@ -13,7 +13,7 @@ tags:
 
 - **Name**: Rhaegar
 - **Species**: [[Cia'an]]
-- **Class**: 
+- **Class**: Rouge
 - **Gender**: Male
 - **Age**: 20
 - **Occupation**: Hired Guard
@@ -26,6 +26,7 @@ tags:
 - **Weight**: 71 kg
 - **Distinguishing Features**: Jet black fur and piercing amber eyes.
 
+![[DALL·E 2024-05-02 10.40.05 - A full-body shot of a slender and stealthy humanoid wolf rogue with black fur, slinking through the city streets at night. The character should embody.webp]]
 ## Personality
 
 - **Traits**: Secretive yet fiercely loyal, Rhaegar keeps his thoughts close and his intentions closer. Brooding and reflective, he rarely speaks unless it matters, but when he does, his words carry weight. He is both observant and intelligent, always two steps ahead in both conversation and confrontation.

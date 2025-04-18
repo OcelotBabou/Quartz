@@ -24,6 +24,7 @@ tags:
 - **Weight:** 104 kg  
 - **Distinguishing Features:** Her trade mark glaive, far too large for any other to wield. 
 
+![[Vaerunart.png]]
 ### Personality
 
 - **Traits:** Confident, commanding, and unapologetically ambitious. Veyna believes in making her mark on the world, and refuses to let tradition or territory limit her. Yet beneath her warrior’s bravado lies a heart fiercely protective of her kin. As the eldest sibling, she often played the role of quiet comforter, offering strength and solace when their mothers harsh lesson became to much. 

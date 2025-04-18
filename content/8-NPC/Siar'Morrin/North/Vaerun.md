@@ -23,6 +23,7 @@ tags:
 - **Weight:** 109 kg  
 - **Distinguishing Features:** A heavy-lidded stare that scans every horizon; a softly worn carving of the Skugga crest tucked beneath his armor, made by [[Veyna]] long ago.
 
+![[Veynaart.png]]
 ### Personality
 
 - **Traits:** Gruff and disciplined in public, Vaerun speaks little and acts swiftly. Yet beneath that hardened exterior lies a fiercely devoted father and mate, whose love for his family often pulls at the edges of his focus. He takes great pride in the pack, but greater pride in the quiet achievements of his children.

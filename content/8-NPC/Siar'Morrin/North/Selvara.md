@@ -24,6 +24,7 @@ tags:
 - **Weight:** 62 kg  
 - **Distinguishing Features:** A long scar devoid of hair, that runs the length of her right forearm. 
 
+![[Selvaraart.png]]
 ### Personality
 
 - **Traits:** Calm, nurturing, and perceptive. Selvara is the kind of mother who offers guidance without demanding obedience. She fosters independence with warmth, believing in preparing her children for the world's harshness rather than shielding them from it.

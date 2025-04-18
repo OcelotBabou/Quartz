@@ -21,6 +21,7 @@ tags:
 - **Weight:** 78 kg  
 - **Distinguishing Features:** A self-stitched sash covered in embroidery she never finished
 
+![[Renart.png]]
 ### Personality
 
 - **Traits:** Lioren is clever, opinionated, and effortlessly charming when she wants to be. She leans into the image of a dreamer, someone drawn to “culture” and “meaningful pursuits,” but more often than not, this is a mask for her avoidance of effort.

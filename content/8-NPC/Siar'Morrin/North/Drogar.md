@@ -23,6 +23,7 @@ tags:
 - **Weight:** 41 kg  
 - **Distinguishing Features:** His wooden practice spear he wields with pride. 
 
+![[Drogarart.png]]
 ### Personality
 
 - **Traits:** Drogar is sincere, determined, and warm-hearted. He idolizes his older siblings, especially Veyna and [[Rhaegar]], and tries hard to live up to what he believes they represent. Compassionate and loyal to a fault, he’s the kind of child who comforts others even when he’s quietly struggling himself.
