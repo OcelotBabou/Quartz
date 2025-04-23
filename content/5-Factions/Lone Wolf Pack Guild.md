@@ -12,7 +12,7 @@ The Lone Wolf Pack Guild thrives in the wild, untamed regions of Eastern Siar'Mo
 
 ### 2. **History**
 
-Founded by a group of exiles and survivalists, The Lone Wolf Pack Guild has always embraced the chaotic nature of the wild. Under the leadership of NAME, the guild has refined its focus to not only surviving but mastering the wilderness. Their history is marked by a gradual ascent from mere survivors to a formidable force within the hunting community. Further, the recent addition of Cailean, a Cia'an demi-god, has further bolstered their reputation.
+Founded by a group of exiles and survivalists, The Lone Wolf Pack Guild has always embraced the chaotic nature of the wild. Under the leadership of NAME, the guild has refined its focus to not only surviving but mastering the wilderness. Their history is marked by a gradual ascent from mere survivors to a formidable force within the hunting community. Further, the recent addition of [[Cailean Varkalir]], a Cia'an demi-god, has further bolstered their reputation.
 
 ### 3. **Leadership and Structure**
 
