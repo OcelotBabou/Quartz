@@ -2,10 +2,8 @@
 title: Gahrian
 draft: false
 tags:
-  - Religion
-  - God
-  - TheAncients
-  - Lux
+  - gods/ancients
+  - deity/gahrian
 ---
 *[gahr-ee-an]*
 

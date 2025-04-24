@@ -2,11 +2,11 @@
 title: Elves
 draft: false
 tags:
-  - Elf
-  - PlayerRace
-  - Lux
-  - Tenebrim
-  - Dorna
+  - race/elf
+  - subrace/lux
+  - subrace/tenebrim
+  - deity/dorna
+  - subrace/fae
 ---
 
 
@@ -35,4 +35,4 @@ Elves have long been regarded as some of the closest allies to humans and numero
 **Sub-races**:
 - [[Lux]]
 - [[Tenebrim]]
-- [[Dorna Elf]]
+- [[Fae Elf]]

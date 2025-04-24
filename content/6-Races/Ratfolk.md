@@ -2,12 +2,11 @@
 title: Ratfolk
 draft: false
 tags:
-  - Ratfolk
-  - PlayerRace
-  - PalotoSwamplands
-  - LabRat
-  - BlightedBrute
-  - ShadowScurrier
+  - race/ratfolk
+  - subrace/blighted-brute
+  - subrace/shadow-scurrier
+  - subrace/lab-rat
+  - region/paloto-swamplands
 ---
 ![[gentlemanrat.webp]]
 

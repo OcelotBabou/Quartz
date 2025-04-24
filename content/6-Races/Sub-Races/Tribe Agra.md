@@ -2,11 +2,10 @@
 title: Tribe Agra
 draft: false
 tags:
-  - Sub-race
-  - PlayerRace
-  - Harpies
-  - TribeAgra
-  - AgraIsland
+  - race/harpy
+  - subrace/tribe-agra
+  - continent/agra-island
+  - deity/agra
 ---
 ![[tribeagra.webp]]
 

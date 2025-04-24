@@ -2,10 +2,8 @@
 title: Alache
 draft: false
 tags:
-  - Religion
-  - God
-  - TheAncients
-  - Tenebrim
+  - gods/ancients
+  - deity/alache
 ---
 *[ah-lah-chee]*
 

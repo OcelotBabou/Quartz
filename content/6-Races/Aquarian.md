@@ -3,7 +3,7 @@ title: Aquarian
 draft: false
 tags:
   - race/aquarian
-  - subrace/cetacans
+  - subrace/cetacians
   - subrace/piscarians
   - subrace/selachians
   - subrace/rare-aquarian

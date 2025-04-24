@@ -2,11 +2,9 @@
 title: Timber Wolf
 draft: false
 tags:
-  - Sub-race
-  - Ciaan
-  - PlayerRace
-  - TimberWolf
-  - SabhaileForest
+  - race/cia-an
+  - subrace/timber-wolf
+  - region/sabhaile-forest
 ---
 ![[timberwolf.webp]]
 

@@ -2,11 +2,9 @@
 title: Tribe Invera
 draft: false
 tags:
-  - Harpies
-  - Sub-race
-  - PlayerRace
-  - TribeInvera
-  - ArcticExpanse
+  - race/harpy
+  - subrace/tribe-invera
+  - region/arctic-expanse
 ---
 Image
 

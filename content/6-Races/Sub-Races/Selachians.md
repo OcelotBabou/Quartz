@@ -2,9 +2,8 @@
 title: Selachians
 draft: false
 tags:
-  - Sub-race
-  - PlayerRace
-  - Aquarian
+  - race/aquarian
+  - subrace/selachians
 ---
 *[sɪˈleɪkiənz]*
 

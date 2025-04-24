@@ -2,10 +2,9 @@
 title: Arctic Wolf
 draft: false
 tags:
-  - Sub-race
-  - ArcticWolf
-  - Ciaan
-  - PlayerRace
+  - race/cia-an
+  - subrace/arctic-wolf
+  - region/arctic-expanse
 ---
 ![[arcticwolf.webp]]
 

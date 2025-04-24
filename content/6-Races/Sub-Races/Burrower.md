@@ -2,10 +2,9 @@
 title: Burrower
 draft: false
 tags:
-  - Sub-race
-  - PlayerRace
-  - Alberine
-  - Burrower
+  - race/alberine
+  - subrace/burrower
+  - region/vahshi-forest
 ---
 ![[Badger1 (1).webp]]
 

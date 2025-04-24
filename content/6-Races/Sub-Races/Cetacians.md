@@ -2,9 +2,8 @@
 title: Cetacains
 draft: false
 tags:
-  - Sub-race
-  - Aquarian
-  - PlayerRace
+  - race/aquarian
+  - subrace/cetacians
 ---
 *[sɛˈteɪʃənz]*
 

@@ -2,13 +2,11 @@
 title: Harpies
 draft: false
 tags:
-  - PlayerRace
-  - Harpies
-  - TribeAgra
-  - TribeKairn
-  - TribeInvera
-  - TribeEilearian
-  - RidgebackForest
+  - race/harpy
+  - subrace/tribe-agra
+  - subrace/tribe-invera
+  - subrace/tribe-eilearian
+  - subrace/tribe-kairn
 ---
 Image (if I can ever get a good one)
 

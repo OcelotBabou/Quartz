@@ -2,10 +2,9 @@
 title: Streamrunner
 draft: false
 tags:
-  - Alberine
-  - Sub-race
-  - PlayerRace
-  - Streamrunner
+  - race/alberine
+  - subrace/streamrunner
+  - region/vahshi-forest
 ---
 ![[Otter2.webp]]
 

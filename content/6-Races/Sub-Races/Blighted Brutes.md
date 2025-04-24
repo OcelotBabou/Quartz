@@ -2,10 +2,9 @@
 title: Blighted Brutes
 draft: false
 tags:
-  - Sub-race
-  - Ratfolk
-  - PlayerRace
-  - BlightedBrute
+  - race/ratfolk
+  - subrace/blighted-brute
+  - region/paloto-swamplands
 ---
 ![[ratogre.webp]]
 

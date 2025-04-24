@@ -2,10 +2,9 @@
 title: Kitsune
 draft: false
 tags:
-  - Kitsune
-  - PlayerRace
-  - Riben
-  - Yorudo
+  - race/kitsune
+  - region/riben
+  - region/yorudo
 ---
 
 ![[kitsunea.webp]]

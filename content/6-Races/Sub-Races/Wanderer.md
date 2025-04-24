@@ -2,10 +2,8 @@
 title: Wanderer
 draft: false
 tags:
-  - Sub-race
-  - PlayerRace
-  - Ciaan
-  - Wanderer
+  - race/cia-an
+  - subrace/wanderer
 ---
 ![[Ciaan warrior.webp]]
 

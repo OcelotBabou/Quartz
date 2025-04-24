@@ -2,6 +2,7 @@
 title: Geppettin
 draft: false
 tags:
+  - race/geppettin
 ---
 
 “As soon as he reached home, Geppetto took his tools and began to cut and shape the wood into a Marionette.”

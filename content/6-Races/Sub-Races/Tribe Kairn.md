@@ -2,12 +2,9 @@
 title: Tribe Kairn
 draft: false
 tags:
-  - Harpies
-  - Sub-race
-  - PlayerRace
-  - TribeKairn
-  - RidgebackMountains
-  - TalamMountains
+  - race/harpy
+  - subrace/tribe-kairn
+  - region/talam-mountains
 ---
 Image
 

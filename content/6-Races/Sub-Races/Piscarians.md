@@ -2,9 +2,8 @@
 title: Piscarians
 draft: false
 tags:
-  - Sub-race
-  - Aquarian
-  - PlayerRace
+  - race/aquarian
+  - subrace/piscarians
 ---
 *[pɪˈskɛəriənz]*
 

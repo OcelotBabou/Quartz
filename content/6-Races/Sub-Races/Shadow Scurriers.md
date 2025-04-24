@@ -2,10 +2,9 @@
 title: Shadow Scurriers
 draft: false
 tags:
-  - PlayerRace
-  - Sub-race
-  - Ratfolk
-  - ShadowScurrier
+  - race/ratfolk
+  - subrace/shadow-scurrier
+  - region/paloto-swamplands
 ---
 ![[Shadowscurrier.webp]]
 

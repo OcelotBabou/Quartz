@@ -2,10 +2,9 @@
 title: Lab Rat
 draft: false
 tags:
-  - Sub-race
-  - PlayerRace
-  - Ratfolk
-  - LabRat
+  - race/ratfolk
+  - subrace/lab-rat
+  - region/paloto-swamplands
 ---
 
 ![[Labratglow.webp]]

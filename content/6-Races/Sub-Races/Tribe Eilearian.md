@@ -2,11 +2,9 @@
 title: Tribe Eilearian
 draft: false
 tags:
-  - Harpies
-  - Sub-race
-  - PlayerRace
-  - TribeEilearian
-  - DragonTeethIslands
+  - race/harpy
+  - subrace/tribe-eilearian
+  - continent/dragon-teeth-islands
 ---
 Image
 

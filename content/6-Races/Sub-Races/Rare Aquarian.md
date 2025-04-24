@@ -2,9 +2,8 @@
 title: Rare Aquarians
 draft: false
 tags:
-  - Sub-race
-  - PlayerRace
-  - Aquarian
+  - race/aquarian
+  - subrace/rare-aquarian
 ---
 ![[Octopusdude.png]]
 Photo by Dndartforge on August 19, 2024.

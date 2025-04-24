@@ -2,10 +2,9 @@
 title: Scurrier
 draft: false
 tags:
-  - Alberine
-  - PlayerRace
-  - Sub-race
-  - Scurrier
+  - race/alberine
+  - subrace/scurrier
+  - region/vahshi-forest
 ---
 ![[Squirrel 2.webp]]
 
