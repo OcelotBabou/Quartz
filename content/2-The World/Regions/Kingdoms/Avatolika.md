@@ -2,9 +2,9 @@
 title: Avatolika
 draft: false
 tags:
-  - Kingdom
-  - EasternSiarMorrin
-  - ShatteredKingdoms
+  - continent/eastern-siarmorrin
+  - region/shattered-kingdoms
+  - location/kingdom
 ---
 *[ah-vah-toh-lee-kah]*
 
@@ -55,7 +55,7 @@ Despite the growing external pressures, the people of Avatolika remain hardy and
 
 Despite its modest means, Avatolika has maintained a surprisingly resilient and capable military force. Its avoidance of the Schism Wars spared it from the financial burdens and population losses that weakened many neighboring kingdoms, allowing it to focus resources on maintaining and strengthening its defenses. 
 
-Additionally, Avatolika's proximity to the North Road Barrens and [[the Western Scar]] has long made it a critical line of defence against the corrupted forces seeking to expand west for generations. The constant threat from these forces has forged Avatolika’s people into a hardy and self-reliant population. Virtually all citizens are trained in self-defense, and many possess the skills and fortitude to contribute to the kingdom's military efforts if needed.
+Additionally, Avatolika's proximity to the North Road Barrens and [[The Western Scar]] has long made it a critical line of defence against the corrupted forces seeking to expand west for generations. The constant threat from these forces has forged Avatolika’s people into a hardy and self-reliant population. Virtually all citizens are trained in self-defense, and many possess the skills and fortitude to contribute to the kingdom's military efforts if needed.
 
 As tensions with Vesae escalate, Avatolika has been actively growing its military capabilities. While it lacks the resources to sustain a standing army solely dedicated to warfare, the kingdom has focused on equipping its populace and fostering a sense of patriotic duty. Every citizen is seen as a potential soldier, ready and willing to defend their homeland at a moment’s notice.
 

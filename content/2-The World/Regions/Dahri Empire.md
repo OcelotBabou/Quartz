@@ -1,10 +1,9 @@
 ---
 title: Dahri Empire
 tags:
-  - region
-  - KairThear
-  - WesternKairThear
-  - DahriEmpire
+  - continent/western-kairthear
+  - region/dahri-empire
+  - faction/dahri-empire
 ---
 *[dah-ree em-pyre]*
 ### 1. **Overview**

@@ -2,9 +2,8 @@
 title: Dellesis' Islands
 draft: false
 tags:
-  - Dellesis
-  - DellesisIslands
-  - Staterum
+  - continent/dellesis-island
+  - gods/vices
 ---
 ### 1. **Overview**
 

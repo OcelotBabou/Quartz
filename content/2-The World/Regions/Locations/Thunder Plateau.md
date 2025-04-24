@@ -2,9 +2,9 @@
 title: Thunder Plateau
 draft: false
 tags:
-  - Location
-  - PhemusReach
-  - WesternSiarMorrin
+  - continent/western-siarmorrin
+  - region/phemus-reach
+  - location/landmark
 ---
 **Overview:** 
 

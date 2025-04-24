@@ -2,9 +2,9 @@
 title: The Azure Quarry
 draft: false
 tags:
-  - Location
-  - NewBirania
-  - EasternSiarMorrin
+  - continent/eastern-siarmorrin
+  - region/new-birania
+  - location/landmark
 ---
 **Overview:** 
 

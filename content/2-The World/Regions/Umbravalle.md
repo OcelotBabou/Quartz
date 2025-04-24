@@ -1,10 +1,8 @@
 ---
 title: Umbravalle
 tags:
-  - region
-  - EasternSiarMorrin
-  - SiarMorrin
-  - Umbravalle
+  - continent/eastern-siarmorrin
+  - region/umbravalle
 ---
 *[um-bra-vahl-lay]*
 ### 1. **Overview**

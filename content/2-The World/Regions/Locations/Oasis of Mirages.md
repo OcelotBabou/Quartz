@@ -2,9 +2,10 @@
 title: Oasis of Mirages
 draft: false
 tags:
-  - Location
-  - DonatusStultitia
-  - WesternSiarMorrin
+  - continent/western-siarmorrin
+  - region/donatus-stultitia
+  - location/landmark
+  - terrain/oasis
 ---
 **Overview:** 
 

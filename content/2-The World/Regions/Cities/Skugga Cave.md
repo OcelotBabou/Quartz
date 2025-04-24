@@ -2,6 +2,10 @@
 title: Skugga Cave
 draft: false
 tags:
+  - continent/northern-siarmorrin
+  - region/sabhaile-forest
+  - location/city
+  - race/cia-an
 ---
 *[]*
 
@@ -11,7 +15,7 @@ Skugga Cave, a spectacular subterranean complex within Sabhaile Forest, serves a
 
 **Description:** 
 
-The village within Skugga Cave is a marvel of natural architecture and Cai'an ingenuity. The main cavern, known as the Arinn Hall, acts as the communal center where meetings, celebrations, and daily interactions occur. Here, the ceiling soars high, dotted with natural skylights that allow shafts of light to penetrate the darkness, illuminating the chamber's intricate wall carvings that depict the pack's history and mythology.
+The village within Skugga Cave is a marvel of natural architecture and [[Cia'an]] ingenuity. The main cavern, known as the Arinn Hall, acts as the communal center where meetings, celebrations, and daily interactions occur. Here, the ceiling soars high, dotted with natural skylights that allow shafts of light to penetrate the darkness, illuminating the chamber's intricate wall carvings that depict the pack's history and mythology.
 
 Living quarters are carved into the cave's walls, ranging from modest alcoves for single inhabitants to larger, family-sized chambers. Each dwelling is uniquely decorated with natural materials found within the forest, such as wood, stone, and woven plant fibers, creating cozy, inviting homes.
 

@@ -1,8 +1,7 @@
 ---
 title: The Old Gods
 tags:
-  - Religion
-  - TheOldGods
+  - gods/oldgods
 ---
 ### 1. **Overview**
 

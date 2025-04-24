@@ -2,6 +2,10 @@
 title: Tempest Heights
 draft: false
 tags:
+  - continent/western-siarmorrin
+  - region/sabhaile-forest
+  - location/city
+  - race/cia-an
 ---
 *[]*
 

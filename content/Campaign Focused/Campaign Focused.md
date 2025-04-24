@@ -57,5 +57,5 @@ Family Members
 - Mammo [[Riben]] or [[Yorudo]], [[Kitsune]]
 - Jondo
 - Tobes [[Paloto Swamplands]], [[Eastern Siar'Morrin]], [[Geppettin]], [[Gunslinger]]
-- [[Rhaegar]] [[Sabhaile Forest]] + [[New Birania]] + [[Cia'an]]
+- [[Rhaegar Varkalir]] [[Sabhaile Forest]] + [[New Birania]] + [[Cia'an]]
 - Jaryd 

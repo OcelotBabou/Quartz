@@ -2,9 +2,7 @@
 title: Northern Siar'Morrin
 draft: false
 tags:
-  - NorthernSiarMorrin
-  - SiarMorrin
-  - Staterum
+  - continent/northern-siarmorrin
 ---
 *[naw-dhuhn si-arh mor-in]*
 

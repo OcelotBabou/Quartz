@@ -2,10 +2,11 @@
 title: Virag Greytail
 draft: false
 tags:
-  - ViragGreytail
-  - PalotoSwamplands
-  - PlayerCharacters
-  - Ratfolk
+  - character/pc
+  - race/ratfolk
+  - subrace/blighted-brute
+  - region/paloto-swamplands
+  - family/greytail
 ---
 ![[Virag1.jpg]]
 

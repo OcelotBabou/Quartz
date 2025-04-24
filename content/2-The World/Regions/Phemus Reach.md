@@ -1,10 +1,8 @@
 ---
 title: Phemus Reach
 tags:
-  - region
-  - WesternSiarMorrin
-  - SiarMorrin
-  - PhemusReach
+  - continent/western-siarmorrin
+  - region/phemus-reach
 ---
 *[fee-muhs reech]*
 ### 1. **Overview**

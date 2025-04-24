@@ -1,5 +1,5 @@
 ---
-title: Vaerun
+title: Vaerun Varkalir
 draft: false
 tags:
   - NPC
@@ -9,7 +9,7 @@ tags:
 
 ### Basic Information
 
-- **Name:** Vaerun
+- **Name:** Vaerun Varkalir
 - **Species:** [[Cia'an]]
 - **Age:** 49  
 - **Occupation:** Wardclaw (Head of Pawtrol)
@@ -21,7 +21,7 @@ tags:
 - **Appearance:** Vaerun is an imposing figure, broad of shoulder and thick with muscle, his presence casting a long shadow even in the twilight of the forest. His fur is a mottled charcoal with flecks of dark grey across his limbs, while a trio of faded scars slash across his left cheek—silent warnings from past confrontations. His armor is functional and weather-worn, a patchwork of treated leather and iron accents that tell of decades defending the pack’s borders.
 - **Height:** 195 cm  
 - **Weight:** 109 kg  
-- **Distinguishing Features:** A heavy-lidded stare that scans every horizon; a softly worn carving of the Skugga crest tucked beneath his armor, made by [[Veyna]] long ago.
+- **Distinguishing Features:** A heavy-lidded stare that scans every horizon; a softly worn carving of the Skugga crest tucked beneath his armor, made by [[Veyna Varkalir]] long ago.
 
 ![[Veynaart.png]]
 ### Personality

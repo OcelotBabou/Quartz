@@ -1,11 +1,8 @@
 ---
 title: Bor'Tarnay
 tags:
-  - region
-  - WesternKairThear
-  - KairThear
-  - BorTarnay
-  - VahshiForest
+  - continent/western-kairthear
+  - region/bor-tarnay
 ---
 *[bor-tar-nay]*
 ### 1. **Overview**

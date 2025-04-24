@@ -1,12 +1,10 @@
 ---
 title: Draumr Forest
 tags:
-  - region
-  - NorthernSiarMorrin
-  - SiarMorrin
-  - DraumrForest
-  - Fictor
   - DathGea
+  - continent/northern-siarmorrin
+  - region/draumr-forest
+  - race/fictor
 ---
 *[drow-mer forest]*
 ### 1. **Overview**

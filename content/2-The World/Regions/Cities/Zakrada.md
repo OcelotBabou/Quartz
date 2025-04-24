@@ -2,9 +2,10 @@
 title: Zakrada
 draft: false
 tags:
-  - NewBirania
-  - EasternSiarMorrin
-  - City
+  - continent/eastern-siarmorrin
+  - region/new-birania
+  - location/city
+  - faction/new-birania
 ---
 *[Zah-krah-duh]*
 

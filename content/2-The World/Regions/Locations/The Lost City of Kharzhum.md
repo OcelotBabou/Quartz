@@ -2,9 +2,10 @@
 title: The Lost City of Kharzhum
 draft: false
 tags:
-  - Location
-  - PhemusReach
-  - WesternSiarMorrin
+  - continent/western-siarmorrin
+  - region/phemus-reach
+  - location/landmark
+  - location/rumour
 ---
 **Overview:** 
 

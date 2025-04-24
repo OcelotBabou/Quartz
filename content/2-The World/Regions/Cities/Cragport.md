@@ -2,15 +2,15 @@
 title: Cragport
 draft: false
 tags:
-  - NorthernSiarMorrin
-  - AegirCoast
-  - City
+  - continent/northern-siarmorrin
+  - region/aegir-coast
+  - location/city
 ---
 *[]*
 
 **Overview:**
 
-Cragport, the principal port city on the Aegir Coast, is famed for its strategic position atop jagged cliffs that oversee the tumultuous sea below. As the largest city of the Aiger coast, Cragport serves as both a formidable bastion against seaborne threats and a bustling hub of commerce and maritime activity. The city's natural defenses, combined with its historical resilience, have made it a central figure in the coastal economy and politics.
+Cragport, the principal port city on the [[Aegir Coast]], is famed for its strategic position atop jagged cliffs that oversee the tumultuous sea below. As the largest city of the Aegir coast, Cragport serves as both a formidable bastion against seaborne threats and a bustling hub of commerce and maritime activity. The city's natural defenses, combined with its historical resilience, have made it a central figure in the coastal economy and politics.
 
 **Description:**
 

@@ -1,5 +1,5 @@
 ---
-title: Example Title
+title: Lioren Varkalir
 draft: false
 tags:
 ---
@@ -7,7 +7,7 @@ tags:
 
 ### Basic Information
 
-- **Name:** Lioren 
+- **Name:** Lioren Varkalir
 - **Species:** [[Cia'an]]
 - **Age:** 17
 - **Occupation:** Currently Unemployed (exploring her “options”)
@@ -34,7 +34,7 @@ tags:
 
 **Key Events:**
 - **Training Clashes:** Repeated friction with Selvara marked her early years. Lioren frequently skipped drills or turned them into performances, much to her mother’s irritation.
-- **Bond with [[Vaerun]]:** Unlike her strained relationship with Selvara, Lioren shares a close and affectionate bond with her father, who never presses her to be anything but herself. He dotes on her, and she in turn lavishes him with appreciation and affection. 
+- **Bond with [[Vaerun Varkalir]]:** Unlike her strained relationship with Selvara, Lioren shares a close and affectionate bond with her father, who never presses her to be anything but herself. He dotes on her, and she in turn lavishes him with appreciation and affection. 
 - **The Farewells:** Lioren was particularly affected by her eldest sister’s departure. Veyna, who always shielded her from the worst of Selvara’s expectations, was one of the few she truly admired. Guess seeing Rhaegar leave was also kinda sad. 
 
 ### Goals and Motivations

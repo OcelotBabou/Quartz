@@ -2,12 +2,9 @@
 title: 
 draft: false
 tags:
-  - MonOlympus
-  - Religion
-  - TheOldGods
-  - TheNewGods
-  - Statera
-  - Staterum
+  - continent/mon-olympus
+  - gods/oldgods
+  - gods/newgods
 ---
 ### 1. **Overview**
 

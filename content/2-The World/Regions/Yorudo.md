@@ -1,11 +1,9 @@
 ---
 title: Yorudo
 tags:
-  - region
-  - WesternKairThear
-  - KairThear
-  - Yorudo
-  - Kitsune
+  - continent/western-kairthear
+  - region/yorudo
+  - race/kitsune
 ---
 *[yo-roo-doh]*
 ### 1. **Overview**

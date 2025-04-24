@@ -1,10 +1,9 @@
 ---
 title: Omich Nisi
 tags:
-  - region
-  - EasternSiarMorrin
-  - SiarMorrin
-  - OmichNisi
+  - continent/eastern-siarmorrin
+  - region/omich-nisi
+  - terrain/island
 ---
 *[oh-mich nee-see]*
 ### 1. **Overview**

@@ -1,10 +1,8 @@
 ---
 title: Windswept Marches
 tags:
-  - region
-  - NorthernSiarMorrin
-  - SiarMorrin
-  - WindsweptMarches
+  - continent/northern-siarmorrin
+  - region/windswept-marches
 ---
 *[wind-swept mar-chez]*
 ### 1. **Overview**

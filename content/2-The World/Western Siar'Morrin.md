@@ -3,8 +3,6 @@ title: Western Siar'Morrin
 draft: false
 tags:
   - WesternSiarMorrin
-  - SiarMorrin
-  - Staterum
 ---
 *[west-uhn si-arh mor-in]*
 

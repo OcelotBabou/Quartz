@@ -2,10 +2,8 @@
 title: Eastern Kair'Thear
 draft: false
 tags:
-  - EasternKairThear
-  - KairThear
-  - TheVices
-  - Staterum
+  - continent/eastern-kairthear
+  - gods/vices
 ---
 ### 1. **Overview**
 

@@ -1,11 +1,9 @@
 ---
 title: Paloto Swamplands
 tags:
-  - region
-  - SiarMorrin
-  - PalotoSwamplands
-  - Ratfolk
-  - WesternSiarMorrin
+  - continent/western-siarmorrin
+  - region/paloto-swamplands
+  - race/ratfolk
 ---
 *[puh-loh-toh swamp-lands]*
 ### 1. **Overview**

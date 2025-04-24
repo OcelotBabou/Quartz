@@ -2,13 +2,13 @@
 title: Iterdeep
 draft: false
 tags:
-  - ShadowAisleMountains
-  - WesternSiarMorrin
-  - City
+  - continent/western-siarmorrin
+  - region/shadow-aisle-mountains
+  - location/city
 ---
 **Overview:** 
 
-Iterdeep, located within the Shadow Aisle Mountains, serving as the primary gateway between the eastern and western realms of Siar’Morrin. Once a bustling hub of trade and commerce, Iterdeep has recently become an isolated and secretive city under the rule of a strict monarchy.
+Iterdeep, located within the [[Shadow Aisle Mountains]], serving as the primary gateway between the eastern and western realms of Siar’Morrin. Once a bustling hub of trade and commerce, Iterdeep has recently become an isolated and secretive city under the rule of a strict monarchy.
 
 **Description:** 
 

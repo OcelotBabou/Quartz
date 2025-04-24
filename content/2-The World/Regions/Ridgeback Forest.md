@@ -1,10 +1,9 @@
 ---
 title: Ridgeback Forest
 tags:
-  - region
-  - WesternSiarMorrin
-  - SiarMorrin
-  - RidgebackForest
+  - continent/western-siarmorrin
+  - region/ridgeback-forest
+  - terrain/forest
 ---
 *[rij-back forest]*
 ### 1. **Overview**

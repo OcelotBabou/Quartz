@@ -1,5 +1,5 @@
 ---
-title: Drogar
+title: Drogar Varkalir
 draft: false
 tags:
   - NPC
@@ -9,7 +9,7 @@ tags:
 
 ### Basic Information
 
-- **Name:** Drogar
+- **Name:** Drogar Varkalir
 - **Species:** [[Cia'an]]
 - **Age:** 11  
 - **Occupation:** N/A
@@ -18,7 +18,7 @@ tags:
 
 ### Physical Description
 
-- **Appearance:** Drogar is large and solidly built for his age, already showing signs of the formidable strength that runs through his bloodline. His fur is a deep, glossy black, with tufts of silver beginning to appear around his ears, a trait passed from his mother. Though his frame is still growing into its full potential, his stance is proud and his movements already carry the disciplined edge of a future warrior. He typically wears simple training gear, often slightly oversized, and carries a carved wooden practice spear, his own design, modeled after [[Veyna]]’s glaive.
+- **Appearance:** Drogar is large and solidly built for his age, already showing signs of the formidable strength that runs through his bloodline. His fur is a deep, glossy black, with tufts of silver beginning to appear around his ears, a trait passed from his mother. Though his frame is still growing into its full potential, his stance is proud and his movements already carry the disciplined edge of a future warrior. He typically wears simple training gear, often slightly oversized, and carries a carved wooden practice spear, his own design, modeled after [[Veyna Varkalir]]’s glaive.
 - **Height:** 158 cm  
 - **Weight:** 41 kg  
 - **Distinguishing Features:** His wooden practice spear he wields with pride. 
@@ -26,7 +26,7 @@ tags:
 ![[Drogarart.png]]
 ### Personality
 
-- **Traits:** Drogar is sincere, determined, and warm-hearted. He idolizes his older siblings, especially Veyna and [[Rhaegar]], and tries hard to live up to what he believes they represent. Compassionate and loyal to a fault, he’s the kind of child who comforts others even when he’s quietly struggling himself.
+- **Traits:** Drogar is sincere, determined, and warm-hearted. He idolizes his older siblings, especially Veyna and [[Rhaegar Varkalir]], and tries hard to live up to what he believes they represent. Compassionate and loyal to a fault, he’s the kind of child who comforts others even when he’s quietly struggling himself.
 - **Strengths:** Natural strength and discipline, a quick learner, and deeply empathetic. His ability to connect with others and offer support makes him well-loved and respected within the pack, despite his age.
 - **Weaknesses:** Drogar’s desire to please everyone can lead to self-neglect, and he struggles with the pressure of living up to the family’s expectations. His emotional sensitivity, while a strength, can leave him vulnerable when he feels overlooked or forgotten.
 ### Background

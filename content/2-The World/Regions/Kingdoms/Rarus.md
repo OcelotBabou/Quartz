@@ -2,9 +2,9 @@
 title: Rarus
 draft: false
 tags:
-  - Kingdom
-  - ShatteredKingdoms
-  - EasternSiarMorrin
+  - continent/eastern-siarmorrin
+  - region/shattered-kingdoms
+  - location/kingdom
 ---
 *[rah-roos]*
 

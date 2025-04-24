@@ -2,9 +2,10 @@
 title: Skeleton Grove
 draft: false
 tags:
-  - Location
-  - DonatusStultitia
-  - WesternSiarMorrin
+  - continent/western-siarmorrin
+  - region/donatus-stultitia
+  - location/landmark
+  - terrain/desert
 ---
 **Overview:** 
 

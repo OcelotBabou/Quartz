@@ -1,9 +1,9 @@
 ---
 title: The Rift Lands
 tags:
-  - region
-  - WesternKairThear
-  - RiftLands
+  - continent/western-kairthear
+  - region/rift-lands
+  - gods/vices
 ---
 *[Phonetic]*
 ### 1. **Overview**

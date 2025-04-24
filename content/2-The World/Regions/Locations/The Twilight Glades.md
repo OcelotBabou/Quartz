@@ -2,9 +2,11 @@
 title: The Twilight Glades
 draft: false
 tags:
-  - Location
-  - RidgebackForest
-  - WesternSiarMorrin
+  - continent/western-siarmorrin
+  - region/ridgeback-forest
+  - location/landmark
+  - location/rumour
+  - terrain/forest
 ---
 **Overview:** 
 

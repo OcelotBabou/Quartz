@@ -1,11 +1,9 @@
 ---
 title: Centaur Plains
 tags:
-  - region
-  - WesternKairThear
-  - SiarMorrin
-  - CentaurPlains
-  - Centaur
+  - continent/western-kairthear
+  - region/centaur-plains
+  - race/centaur
 ---
 *[sen-tor plains]*
 ### 1. **Overview**

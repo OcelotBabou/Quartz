@@ -1,12 +1,10 @@
 ---
 title: Arctic Expanse
 tags:
-  - region
-  - NorthernSiarMorrin
-  - SiarMorrin
-  - ArcticExpanse
-  - ArcticWolf
-  - TribeInvera
+  - continent/northern-siarmorrin
+  - region/arctic-expanse
+  - subrace/arctic-wolf
+  - subrace/tribe-invera
 ---
 *[ar-tik ex-spans]*
 ### 1. **Overview**

@@ -1,10 +1,8 @@
 ---
 title: Agroma
 tags:
-  - WesternSiarMorrin
-  - SiarMorrin
-  - Agroma
-  - region
+  - continent/western-siarmorrin
+  - region/agroma
 ---
 *[ag-roh-mah]*
 ### 1. **Overview**

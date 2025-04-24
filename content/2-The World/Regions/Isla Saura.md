@@ -1,9 +1,10 @@
 ---
 title: Isla Saura
 tags:
-  - region
-  - ForgottenIsles
-  - SiarMorrin
+  - continent/forgotten-isles
+  - region/isla-saura
+  - terrain/island
+  - terrain/forest
 ---
 *[eye-lah saw-rah]*
 ### 1. **Overview**

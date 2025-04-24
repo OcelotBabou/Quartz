@@ -2,7 +2,7 @@
 title: Bacchin
 draft: false
 tags:
-  - PlayerRace
+  - race/bacchin
 ---
 *[]*
 

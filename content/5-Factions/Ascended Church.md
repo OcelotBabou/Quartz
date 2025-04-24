@@ -1,10 +1,9 @@
 ---
 title: The Ascended Church
-draft: false
+draft: true
 tags:
-  - Faction
-  - Religion
-  - TheAscendedChurch
+  - faction/religious
+  - continent/western-siarmorrin
 ---
 ### 1. **Basic Info**
 

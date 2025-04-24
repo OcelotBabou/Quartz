@@ -2,9 +2,10 @@
 title: Abdurii
 draft: false
 tags:
-  - EasternSiarMorrin
-  - NewBirania
-  - City
+  - continent/eastern-siarmorrin
+  - region/new-birania
+  - location/city
+  - faction/new-birania
 ---
 *[Ahb-doo-ree]*
 

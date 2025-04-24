@@ -2,9 +2,10 @@
 title: Lake Serenith
 draft: false
 tags:
-  - Location
-  - ShatteredKingdoms
-  - EasternSiarMorrin
+  - continent/eastern-siarmorrin
+  - region/shattered-kingdoms
+  - location/landmark
+  - terrain/lake
 ---
 *[sir-en-nith]*
 

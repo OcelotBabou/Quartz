@@ -2,12 +2,10 @@
 title: Cia'an
 draft: false
 tags:
-  - Ciaan
-  - PlayerRace
-  - TimberWolf
-  - SabhaileForest
-  - ArcticWolf
-  - Wanderer
+  - race/cia-an
+  - subrace/arctic-wolf
+  - subrace/timber-wolf
+  - subrace/wanderer
 ---
 ![[Cia'anold.webp]]
 

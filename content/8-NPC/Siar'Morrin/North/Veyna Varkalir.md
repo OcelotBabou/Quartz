@@ -1,5 +1,5 @@
 ---
-title: Veyna
+title: Veyna Varkalir
 draft: false
 tags:
   - NPC
@@ -10,7 +10,7 @@ tags:
 
 ### Basic Information
 
-- **Name:** Vayna
+- **Name:** Vayna Varkalir
 - **Species:** [[Cia'an]]
 - **Age:** 23
 - **Occupation:** Unknown

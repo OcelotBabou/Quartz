@@ -1,9 +1,10 @@
 ---
 title: Isla Thera
 tags:
-  - region
-  - ForgottenIsles
-  - SiarMorrin
+  - continent/forgotten-isles
+  - region/isla-thera
+  - terrain/island
+  - terrain/forest
 ---
 *[eye-lah thee-rah]*
 ### 1. **Overview**

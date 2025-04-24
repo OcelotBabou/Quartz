@@ -2,11 +2,9 @@
 title: Barbearian
 draft: false
 tags:
-  - Alberine
-  - Ormos
-  - KairThear
-  - ChorkasForest
-  - PlayerRace
+  - race/barbearian
+  - region/chorkas-forest
+  - deity/ormos
 ---
 ![[Barbearian.webp]]
 

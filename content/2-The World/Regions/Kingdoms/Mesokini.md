@@ -2,10 +2,9 @@
 title: Mesokini
 draft: false
 tags:
-  - Kingdom
-  - Location
-  - EasternSiarMorrin
-  - ShatteredKingdoms
+  - continent/eastern-siarmorrin
+  - region/shattered-kingdoms
+  - location/kingdom
 ---
 *[meh-soh-kee-nee]*
 

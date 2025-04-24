@@ -1,9 +1,10 @@
 ---
 cssclasses:
   - special-layout
-title: History
+title: Staterum
 tags:
   - Setting
+  - History
 ---
 In the annals of time, the saga of Staterum unfolds, its origins shrouded in the mists of antiquity, where myth and reality intertwine like the roots of ancient trees. At the dawn of creation, amidst the cosmic tapestry, [[Statera]], the divine arbiter of balance, reigned supreme over the celestial realm. With her four sons - [[Gahrian]], embodiment of radiant light and excess; [[Alache]], harbinger of shadowy depths and void; [[Eris]], the enforcer of law's immutable decree; and [[Dorna]], the capricious muse of chaos - she wove the fabric of existence itself. 
 

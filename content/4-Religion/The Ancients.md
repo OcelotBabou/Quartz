@@ -1,8 +1,7 @@
 ---
 title: The Ancients
 tags:
-  - Religion
-  - TheAncients
+  - gods/ancients
 ---
 ### 1. **Overview**
 

@@ -2,9 +2,10 @@
 title: Great Dividing Forest
 draft: false
 tags:
-  - Location
-  - NewBirania
-  - EasternSiarMorrin
+  - continent/eastern-siarmorrin
+  - region/new-birania
+  - location/landmark
+  - terrain/forest
 ---
 **Overview:** 
 

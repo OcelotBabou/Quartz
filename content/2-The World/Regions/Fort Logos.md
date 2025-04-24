@@ -1,10 +1,8 @@
 ---
 title: Fort Logos
 tags:
-  - region
-  - EasternSiarMorrin
-  - SiarMorrin
-  - FortLogos
+  - continent/eastern-siarmorrin
+  - region/fort-logos
 ---
 *[fort lo-gohs]*
 ### 1. **Overview**

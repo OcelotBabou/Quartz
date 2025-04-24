@@ -2,9 +2,8 @@
 title: 
 draft: false
 tags:
-  - DragonTeethIslands
-  - TribeEilearian
-  - Staterum
+  - continent/dragon-teeth-islands
+  - subrace/tribe-eilearian
 ---
 ### 1. **Overview**
 

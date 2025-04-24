@@ -2,9 +2,10 @@
 title: The Ruins of Donatus
 draft: false
 tags:
-  - Location
-  - DonatusStultitia
-  - WesternSiarMorrin
+  - continent/western-siarmorrin
+  - region/donatus-stultitia
+  - location/landmark
+  - location/rumour
 ---
 **Overview:** 
 

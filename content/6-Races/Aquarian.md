@@ -2,12 +2,11 @@
 title: Aquarian
 draft: false
 tags:
-  - PlayerRace
-  - Aquarian
-  - Cetacans
-  - Piscarians
-  - Selachians
-  - RareAquarian
+  - race/aquarian
+  - subrace/cetacans
+  - subrace/piscarians
+  - subrace/selachians
+  - subrace/rare-aquarian
 ---
 *[əˈkwɛəriən]*
 

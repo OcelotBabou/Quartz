@@ -2,9 +2,10 @@
 title: Phemus Pass
 draft: false
 tags:
-  - Location
-  - Portum
-  - WesternSiarMorrin
+  - continent/western-siarmorrin
+  - region/portum
+  - location/landmark
+  - terrain/valley
 ---
 **Overview:** 
 

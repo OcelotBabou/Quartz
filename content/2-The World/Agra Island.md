@@ -2,10 +2,10 @@
 title: Agra Island
 draft: false
 tags:
-  - AgraIsland
-  - TribeAgra
-  - Alber
-  - Staterum
+  - continent/agra-island
+  - terrain/forest
+  - terrain/island
+  - subrace/tribe-agra
 ---
 
 ### 1. **Overview**

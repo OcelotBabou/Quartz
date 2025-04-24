@@ -1,11 +1,8 @@
 ---
 title: Seagate
 tags:
-  - region
-  - WesternSiarMorrin
-  - SiarMorrin
-  - Portum
-  - Seagate
+  - continent/western-siarmorrin
+  - region/portum
 ---
 *[por-tuhm]*
 ### 1. **Overview**

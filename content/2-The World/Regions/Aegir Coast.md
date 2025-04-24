@@ -1,10 +1,8 @@
 ---
 title: Aegir Coast
 tags:
-  - region
-  - NorthernSiarMorrin
-  - SiarMorrin
-  - AegirCoast
+  - continent/northern-siarmorrin
+  - region/aegir-coast
 ---
 *[ay-gear coast]*
 ### 1. **Overview**

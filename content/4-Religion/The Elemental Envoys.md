@@ -1,8 +1,8 @@
 ---
 title: The Elemental Envoys
 tags:
-  - Religion
-  - TheElementalEnvoys
+  - gods/elemental-envoys
+  - gods/primordials
 ---
 ### 1. **Overview**
 

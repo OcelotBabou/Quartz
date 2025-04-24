@@ -1,10 +1,9 @@
 ---
 title: Vahshi Forest
 tags:
-  - region
-  - KairThear
-  - WesternKairThear
-  - VahshiForest
+  - continent/western-kairthear
+  - region/vahshi-forest
+  - race/alberine
 ---
 *[vah-shee for-est]*
 ### 1. **Overview**

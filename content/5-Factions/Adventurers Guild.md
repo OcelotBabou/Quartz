@@ -2,9 +2,10 @@
 title: Adventurers Guild
 draft: false
 tags:
-  - Faction
-  - AdventurersGuild
-  - SiarMorrin
+  - faction/guild
+  - continent/eastern-siarmorrin
+  - continent/western-siarmorrin
+  - continent/northern-siarmorrin
 ---
 ### 1. **Overview**
 

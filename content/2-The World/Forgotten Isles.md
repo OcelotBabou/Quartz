@@ -2,9 +2,7 @@
 title: Forgotten Isles
 draft: false
 tags:
-  - ForgottenIsles
-  - SiarMorrin
-  - Staterum
+  - continent/forgotten-isles
 ---
 ### 1. **Overview**
 

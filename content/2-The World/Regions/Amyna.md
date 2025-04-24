@@ -1,11 +1,8 @@
 ---
 title: Amyna
 tags:
-  - region
-  - EasternSiarMorrin
-  - SiarMorrin
-  - Amyna
-  - PaleomynaWall
+  - continent/eastern-siarmorrin
+  - region/amyna
 ---
 *[ah-me-nuh]*
 ### 1. **Overview**

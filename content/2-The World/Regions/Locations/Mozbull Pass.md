@@ -2,13 +2,14 @@
 title: Mozkull Pass
 draft: false
 tags:
-  - Location
-  - RidgebackForest
-  - WesternSiarMorrin
+  - continent/western-siarmorrin
+  - region/ridgeback-forest
+  - location/landmark
+  - terrain/mountain
 ---
 **Overview:** 
 
-Mozbull Pass is a treacherous route through the Ridgeback Mountains, providing the only known pathway from Ridgeback Forest to the [[Sceel Wastelands]]. For most it exists only in rumors and the paranoia of feeble locals. 
+Mozbull Pass is a treacherous route through the Ridgeback Mountains, providing the only known pathway from Ridgeback Forest to the [[Sceel wastelands]]. For most it exists only in rumors and the paranoia of feeble locals. 
 
 **Description:** 
 

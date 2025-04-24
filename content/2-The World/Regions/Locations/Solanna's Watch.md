@@ -2,9 +2,9 @@
 title: Solanna's Watch
 draft: false
 tags:
-  - Location
-  - EasternSiarMorrin
-  - NewBirania
+  - continent/eastern-siarmorrin
+  - region/new-birania
+  - location/landmark
 ---
 *[soh-lah-nuhz watch]*
 

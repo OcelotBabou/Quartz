@@ -1,7 +1,9 @@
 ---
 title: Lesser Gods and Demi-Gods
-draft: false
+draft: true
 tags:
+  - gods/lesser
+  - gods/demi
 ---
 *[]*
 

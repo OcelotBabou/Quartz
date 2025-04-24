@@ -2,9 +2,10 @@
 title: Perfidius Plunge
 draft: false
 tags:
-  - Location
-  - ShadowAisleMountains
-  - WesternSiarMorrin
+  - continent/western-siarmorrin
+  - region/shadow-aisle-mountains
+  - location/landmark
+  - terrain/river
 ---
 **Overview:** 
 

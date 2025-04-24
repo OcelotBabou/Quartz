@@ -1,7 +1,6 @@
 ---
 title: Religion
-tags:
-  - Religion
+tags: []
 ---
 ### 1. **Overview**
 

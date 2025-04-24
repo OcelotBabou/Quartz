@@ -1,10 +1,9 @@
 ---
 title: Led'Zemya
 tags:
-  - region
-  - NorthernSiarMorrin
-  - SiarMorrin
-  - LedZemya
+  - continent/northern-siarmorrin
+  - region/led-zemya
+  - terrain/desert
 ---
 *[led-zem-yah]*
 ### 1. **Overview**

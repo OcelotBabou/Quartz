@@ -2,9 +2,10 @@
 title: Giant's Grotto
 draft: false
 tags:
-  - Location
-  - PhemusReach
-  - WesternSiarMorrin
+  - continent/western-siarmorrin
+  - region/phemus-reach
+  - location/landmark
+  - terrain/cave
 ---
 **Overview:** 
 

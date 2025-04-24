@@ -1,5 +1,5 @@
 ---
-title: Selvara
+title: Selvara Varkalir
 draft: false
 tags:
   - NPC
@@ -10,7 +10,7 @@ tags:
 
 ### Basic Information
 
-- **Name:** Selvara
+- **Name:** Selvara Varkalir
 - **Species:** [[Cia'an]]
 - **Age:** 45  
 - **Occupation:** Hunter
@@ -39,8 +39,8 @@ Her father, Thrain, then Jarl of the Skugga Pack, was a respected figure known f
 
 **Key Events:**
 - **Death of Thrain:** The loss of her father instilled in Selvara a steely resilience and an acute understanding of leadership’s burdens.
-- **Marriage to [[Vaerun]]:** A partnership forged through shared values and mutual strength. The two were known as a formidable hunting pair in their youth.
-- **The Farewells:** Watching her two eldest children, Rhaegar and Veyna, leave the pack to seek their own paths was a bittersweet turning point. Since then, she has grown particularly attached, though in her own quiet, disciplined way, to her younger children, [[Lioren]] and [[Drogar]], finding renewed purpose in guiding their growth within the safety of the pack.
+- **Marriage to [[Vaerun Varkalir]]:** A partnership forged through shared values and mutual strength. The two were known as a formidable hunting pair in their youth.
+- **The Farewells:** Watching her two eldest children, Rhaegar and Veyna, leave the pack to seek their own paths was a bittersweet turning point. Since then, she has grown particularly attached, though in her own quiet, disciplined way, to her younger children, [[Lioren Varkalir]] and [[Drogar Varkalir]], finding renewed purpose in guiding their growth within the safety of the pack.
 
 ### Goals and Motivations
 

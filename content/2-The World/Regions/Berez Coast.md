@@ -1,10 +1,10 @@
 ---
 title: Berez Coast
 tags:
-  - region
-  - NorthernSiarMorrin
-  - SiarMorrin
-  - BerezCoast
+  - continent/northern-siarmorrin
+  - region/berez-coast
+  - terrain/desert
+  - terrain/coast
 ---
 *[buh-rez kohst]*
 ### 1. **Overview**

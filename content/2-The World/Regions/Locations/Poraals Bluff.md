@@ -2,9 +2,9 @@
 title: Poraals Bluff
 draft: false
 tags:
-  - Location
-  - Portum
-  - WesternSiarMorrin
+  - continent/western-siarmorrin
+  - region/portum
+  - location/landmark
 ---
 **Overview:** 
 

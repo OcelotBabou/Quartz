@@ -1,8 +1,7 @@
 ---
 title: The New Gods
 tags:
-  - Religion
-  - TheNewGods
+  - gods/newgods
 ---
 ### 1. **Overview**
 

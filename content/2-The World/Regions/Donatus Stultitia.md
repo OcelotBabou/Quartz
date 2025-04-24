@@ -1,10 +1,9 @@
 ---
 title: Donatus Stultitia
 tags:
-  - region
-  - NorthernSiarMorrin
-  - SiarMorrin
-  - DonatusStultitia
+  - continent/western-siarmorrin
+  - region/donatus-stultitia
+  - race/gnoll
 ---
 *[doh-nah-tuhs stool-tish-ee-uh]*
 ### 1. **Overview**

@@ -1,10 +1,8 @@
 ---
 title: Shattered Kingdoms
 tags:
-  - region
-  - EasternSiarMorrin
-  - SiarMorrin
-  - ShatteredKingdoms
+  - continent/eastern-siarmorrin
+  - region/shattered-kingdoms
 ---
 *[shat-erd king-dums]*
 ### 1. **Overview**

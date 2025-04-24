@@ -1,11 +1,9 @@
 ---
 title: New Birania
 tags:
-  - region
-  - EasternSiarMorrin
-  - SiarMorrin
-  - NewBirania
-  - BiranianGuard
+  - continent/eastern-siarmorrin
+  - region/new-birania
+  - faction/new-birania
 ---
 *[nyoo bee-rahn-nee-uh]*
 ### 1. **Overview**

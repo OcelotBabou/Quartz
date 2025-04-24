@@ -2,9 +2,9 @@
 title: Hu Dao
 draft: false
 tags:
-  - Agroma
-  - WesternSiarMorrin
-  - City
+  - continent/western-siarmorrin
+  - region/agroma
+  - location/city
 ---
 *[hoo dow]*
 

@@ -15,7 +15,7 @@ tags:
 - **Species**: Gnoll
 - **Gender**: Male
 - **Age**: Unknown
-- **Occupation**: Guardian of [[the Ruins of Donatus]]
+- **Occupation**: Guardian of [[The Ruins of Donatus]]
 - **Affiliation**: Bloodfang Clan
 - **Home Region**: Donatus Stultitia
 
@@ -28,7 +28,7 @@ tags:
 
 **Personality**
 
-- **Traits**: Stoic, relentless, and fiercely protective of [[the Ruins of Donatus]].
+- **Traits**: Stoic, relentless, and fiercely protective of [[The Ruins of Donatus]].
 - **Strengths**: Unmatched combat skills, strategic thinking in protection and defense, and an intimidating presence that deters potential threats.
 - **Weaknesses**: Unknown
 - **Goals and Motivations**: To protect the Ruins of Donatus at all costs, ensuring that the sacred site remains undisturbed.

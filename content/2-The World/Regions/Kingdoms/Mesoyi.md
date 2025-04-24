@@ -2,9 +2,9 @@
 title: Mesoyi
 draft: false
 tags:
-  - EasternSiarMorrin
-  - Kingdom
-  - ShatteredKingdoms
+  - continent/eastern-siarmorrin
+  - region/shattered-kingdoms
+  - location/kingdom
 ---
 *[meh-soh-yee]*
 

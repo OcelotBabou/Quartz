@@ -2,9 +2,9 @@
 title: Taenarius
 draft: false
 tags:
-  - DonatusStultitia
-  - WesternSiarMorrin
-  - City
+  - continent/western-siarmorrin
+  - region/donatus-stultitia
+  - location/city
 ---
 *[tay-nah-ree-us]*
 

@@ -2,9 +2,9 @@
 title: The Canals
 draft: false
 tags:
-  - Location
-  - Agroma
-  - WesternSiarMorrin
+  - continent/western-siarmorrin
+  - region/agroma
+  - location/landmark
 ---
 **Overview:** 
 

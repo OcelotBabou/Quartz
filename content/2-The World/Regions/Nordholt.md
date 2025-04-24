@@ -1,11 +1,9 @@
 ---
 title: Nordholt
 tags:
-  - region
-  - NorthernSiarMorrin
-  - SiarMorrin
-  - Nordholt
   - Raxenos
+  - continent/northern-siarmorrin
+  - region/nordholt
 ---
 *[nord-holt]*
 ### 1. **Overview**

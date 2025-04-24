@@ -1,10 +1,8 @@
 ---
 title: Road North
 tags:
-  - region
-  - EasternSiarMorrin
-  - SiarMorrin
-  - RoadNorth
+  - continent/eastern-siarmorrin
+  - region/road-north
 ---
 *[rohd north]*
 ### 1. **Overview**

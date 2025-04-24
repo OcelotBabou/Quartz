@@ -1,10 +1,9 @@
 ---
 title: The Western Scar
 tags:
-  - region
-  - EasternSiarMorrin
-  - SiarMorrin
-  - WesternScar
+  - continent/eastern-siarmorrin
+  - region/western-scar
+  - gods/vices
 ---
 *[wes-tern scar]*
 ### 1. **Overview**

@@ -2,13 +2,13 @@
 title: Seagate
 draft: false
 tags:
-  - Portum
-  - WesternSiarMorrin
-  - City
+  - continent/western-siarmorrin
+  - region/portum
+  - location/city
 ---
 **Overview:** 
 
-Seagate, the capital city of Portum, was once a bustling port city known for its vibrant harbor and strategic position along the Periculosus Ocean. Now a relic of its former glory, Seagate still stands as a testament to its rich maritime heritage.
+Seagate, the capital city of [[Portum]], was once a bustling port city known for its vibrant harbor and strategic position along the Periculosus Ocean. Now a relic of its former glory, Seagate still stands as a testament to its rich maritime heritage.
 
 **Description:** 
 

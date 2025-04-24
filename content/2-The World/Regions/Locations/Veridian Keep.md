@@ -2,10 +2,11 @@
 title: Veridian Keep
 draft: false
 tags:
-  - Location
-  - RidgebackForest
-  - WesternSiarMorrin
-  - Orcs
+  - continent/western-siarmorrin
+  - region/ridgeback-forest
+  - location/landmark
+  - location/rumour
+  - terrain/forest
 ---
 **Overview:** 
 

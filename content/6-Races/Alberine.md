@@ -2,12 +2,10 @@
 title: Alberine
 draft: false
 tags:
-  - PlayerRace
-  - Alberine
-  - VahshiForest
-  - Burrower
-  - Scurrier
-  - Streamrunner
+  - race/alberine
+  - subrace/burrower
+  - subrace/streamrunner
+  - subrace/scurrier
 ---
 ![[Alberine1.webp]]
 

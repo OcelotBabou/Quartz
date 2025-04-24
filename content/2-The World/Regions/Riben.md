@@ -1,11 +1,10 @@
 ---
 title: Riben
 tags:
-  - region
-  - WesternKairThear
-  - KairThear
-  - Kitsune
   - Voluptia
+  - continent/western-kairthear
+  - region/riben
+  - race/kitsune
 ---
 *[rye-ben]*
 ### 1. **Overview**

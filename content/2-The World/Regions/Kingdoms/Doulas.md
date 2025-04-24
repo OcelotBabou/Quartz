@@ -2,10 +2,9 @@
 title: Doulas
 draft: false
 tags:
-  - Location
-  - ShatteredKingdoms
-  - Kingdom
-  - EasternSiarMorrin
+  - continent/eastern-siarmorrin
+  - region/shattered-kingdoms
+  - location/kingdom
 ---
 *[doo-luhs]*
 

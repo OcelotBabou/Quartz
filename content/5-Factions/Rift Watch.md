@@ -17,7 +17,7 @@ tags:
 
 ### 2. **Overview**
 
-The Rift Watch is a specialized ranger unit tasked with monitoring and protecting the borders of [[the Western Scar]], a region scarred by the Age of Darkness ([[AoD]]). Their primary mission is to safeguard Siar’Morrin from residual demonic forces and prevent any resurgence of dark activities. Comprised of seasoned rangers and warriors, the Rift Watch is revered for their vigilance, bravery, and expertise in dealing with supernatural threats.
+The Rift Watch is a specialized ranger unit tasked with monitoring and protecting the borders of [[The Western Scar]], a region scarred by the Age of Darkness ([[AoD]]). Their primary mission is to safeguard Siar’Morrin from residual demonic forces and prevent any resurgence of dark activities. Comprised of seasoned rangers and warriors, the Rift Watch is revered for their vigilance, bravery, and expertise in dealing with supernatural threats.
 
 ### 3. **History**
 

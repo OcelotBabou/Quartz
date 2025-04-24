@@ -2,9 +2,10 @@
 title: Temple of the Lost God
 draft: false
 tags:
-  - Location
-  - NewBirania
-  - EasternSiarMorrin
+  - continent/eastern-siarmorrin
+  - region/new-birania
+  - location/landmark
+  - location/temple
 ---
 **Overview:** 
 

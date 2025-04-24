@@ -1,17 +1,18 @@
 ---
-title: Rhaegar
+title: Rhaegar Varkalir
 draft: false
 tags:
-  - PlayerCharacters
-  - Ciaan
-  - SabhaileForest
-  - NewBirania
+  - character/pc
+  - race/cia-an
+  - subrace/timber-wolf
+  - region/sabhaile-forest
+  - family/varkalir
 ---
 *[]*
 
 ## Basic Information
 
-- **Name**: Rhaegar
+- **Name**: Rhaegar Varkalir
 - **Species**: [[Cia'an]]
 - **Class**: Rouge
 - **Gender**: Male
@@ -50,4 +51,4 @@ tags:
 
 TBC
 
-Family: [[Vaerun]], [[Selvara]], [[Veyna]], [[Lioren]], [[Drogar]]
+Family: [[Vaerun Varkalir]], [[Selvara Varkalir]], [[Veyna Varkalir]], [[Lioren Varkalir]], [[Drogar Varkalir]]

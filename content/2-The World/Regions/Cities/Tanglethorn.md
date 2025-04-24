@@ -2,9 +2,10 @@
 title: Tanglethon
 draft: false
 tags:
-  - PalotoSwamplands
-  - WesternSiarMorrin
-  - City
+  - continent/western-siarmorrin
+  - region/paloto-swamplands
+  - location/city
+  - race/ratfolk
 ---
 **Overview:** 
 

@@ -1,10 +1,9 @@
 ---
 title: The Vices
 tags:
-  - Religion
-  - TheVices
-  - ExcessVice
-  - VoidVice
+  - gods/vices
+  - gods/vice-excess
+  - gods/vice-void
 ---
 
 ### 1. **Overview**

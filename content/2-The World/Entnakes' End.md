@@ -2,8 +2,7 @@
 title: Entakes' End
 draft: false
 tags:
-  - EntakesEnd
-  - Staterum
+  - continent/entnakes-end
 ---
 ### 1. **Overview**
 

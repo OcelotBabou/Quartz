@@ -2,9 +2,10 @@
 title: Watcher's Isle
 draft: false
 tags:
-  - Location
-  - Portum
-  - WesternSiarMorrin
+  - continent/western-siarmorrin
+  - region/portum
+  - location/landmark
+  - terrain/island
 ---
 **Overview:** 
 

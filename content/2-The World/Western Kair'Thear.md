@@ -2,9 +2,7 @@
 title: Western Kair'Thear
 draft: false
 tags:
-  - WesternKairThear
-  - KairThear
-  - Staterum
+  - continent/western-kairthear
 ---
 Intro 
 

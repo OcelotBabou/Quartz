@@ -2,7 +2,8 @@
 title: The Unknown Gods
 draft: true
 tags:
-  - Religion
+  - gods/fundamentals
+  - gods/incorporeals
 ---
 
 ### 1. **Overview**

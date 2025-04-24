@@ -3,6 +3,7 @@ cssclasses:
   - special-layout
 tags:
   - Setting
+  - History
 ---
 
 # Staterum - The Setting

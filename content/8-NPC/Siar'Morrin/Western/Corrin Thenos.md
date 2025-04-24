@@ -39,7 +39,7 @@ tags:
 
 - **Early Life**: Born into the royal family of Iterdeep, Corrin showed an early aptitude for combat and strategy. From a young age, she had a strong connection to the Gods, a connection that would eventually see her depart her homelands.
 - **Education**: Trained by the kingdom's best warriors, Corrin quickly outpaced her peers in both skill and tactical acumen.
-- **Key Events**: Corrin left her homeland in her mid twenties to join the Rift Watch, a renowned military order in the East that deals with threats from [[the Western Scar]].
+- **Key Events**: Corrin left her homeland in her mid twenties to join the Rift Watch, a renowned military order in the East that deals with threats from [[The Western Scar]].
 - **Relationships**: Has all but lost connection with her family in Iterdeep. Over the years, her legend has grown among her comrades in the Rift Watch.
 
 **Skills and Abilities**

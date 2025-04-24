@@ -2,9 +2,10 @@
 title: Mount Virmire
 draft: false
 tags:
-  - Location
-  - PalotoSwamplands
-  - WesternSiarMorrin
+  - continent/western-siarmorrin
+  - region/paloto-swamplands
+  - location/landmark
+  - terrain/mountain
 ---
 **Overview:**
 

@@ -2,9 +2,11 @@
 title: Mesoramus Range
 draft: false
 tags:
-  - Location
-  - ShatteredKingdoms
   - EasternSiarMorrin
+  - continent/eastern-siarmorrin
+  - region/shattered-kingdoms
+  - location/landmark
+  - terrain/mountain
 ---
 *[mess-oh-ray-muhs]*
 

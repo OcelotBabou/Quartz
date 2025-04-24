@@ -2,9 +2,10 @@
 title: Lake Novus Mare
 draft: false
 tags:
-  - Location
-  - Agroma
-  - WesternSiarMorrin
+  - continent/western-siarmorrin
+  - region/agroma
+  - location/landmark
+  - terrain/lake
 ---
 *[layk noh-vus mah-ray]*
 

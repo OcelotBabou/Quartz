@@ -1,11 +1,10 @@
 ---
 title: Sabhaile Forest
 tags:
-  - region
-  - NorthernSiarMorrin
-  - SiarMorrin
-  - Ciaan
-  - TimberWolf
+  - continent/northern-siarmorrin
+  - region/sabhaile-forest
+  - race/cia-an
+  - subrace/timber-wolf
 ---
 *[suh-bay-lee forest]*
 ### 1. **Overview**

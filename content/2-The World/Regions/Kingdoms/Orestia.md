@@ -2,9 +2,9 @@
 title: Orestia
 draft: false
 tags:
-  - ShatteredKingdoms
-  - EasternSiarMorrin
-  - Kingdom
+  - continent/eastern-siarmorrin
+  - region/shattered-kingdoms
+  - location/kingdom
 ---
 *[oh-res-tee-uh]*
 

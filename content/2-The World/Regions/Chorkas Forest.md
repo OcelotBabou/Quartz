@@ -1,11 +1,9 @@
 ---
 title: Chorkas Forest
 tags:
-  - region
-  - WesternKairThear
-  - KairThear
-  - ChorkasForest
-  - Barbearian
+  - continent/western-kairthear
+  - region/chorkas-forest
+  - race/barbearian
 ---
 *[core-kas for-est]*
 ### 1. **Overview**

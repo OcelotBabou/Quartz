@@ -1,9 +1,9 @@
 ---
 title: Talam Mountains
 tags:
-  - region
-  - KairThear
-  - TalamMountains
+  - continent/western-kairthear
+  - continent/eastern-kairthear
+  - region/talam-mountains
 ---
 *[tah-lahm mountains]*
 ### 1. **Overview**
