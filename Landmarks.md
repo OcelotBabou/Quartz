@@ -1,0 +1,36 @@
+---
+title: Landmarks of Staterum
+draft: false
+tags:
+  - location/landmark
+---
+- [[Bloodstone Valley]]
+- [[Giant’s Grotto]]
+- [[Glimmerfen]]
+- [[Goraks Perch]]
+- [[The Great Dividing Forest]]
+- [[Lake Abscon]]
+- [[Lake Novus Mare]]
+- [[Lake Serenith]]
+- [[Mesoramus Range]]
+- [[Mount Virmire]]
+- [[Mozbull Pass]]
+- [[Oasis of Mirages]]
+- [[Perfidius Plunge]]
+- [[Phemus Pass]]
+- [[Poraals Bluff]]
+- [[Protoramus Range]]
+- [[Salt Flats]]
+- [[Skeleton Grove]]
+- [[Solanna's Watch]]
+- [[Temple of the Lost God]]
+- [[The Azure Quarry]]
+- [[The Canals]]
+- [[The Echoing Abyss]]
+- [[The Forgotten Pools]]
+- [[The Lost City of Kharzhum]]
+- [[The Ruins of Donatus]]
+- [[The Twilight Glades]]
+- [[Thunder Plateau]]
+- [[Veridian Keep]]
+- [[Watcher’s Isle]]
