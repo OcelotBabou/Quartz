@@ -2,10 +2,9 @@
 title: Aperkepsi
 draft: false
 tags:
-  - Religion
-  - God
-  - ExcessVice
-  - Aperkepsi
+  - gods/vices
+  - gods/vice-excess
+  - deity/aperkepsi
 ---
 *[ah-per-keh-psee]*
 

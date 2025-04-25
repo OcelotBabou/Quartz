@@ -2,9 +2,10 @@
 title: Agron Thalos
 draft: false
 tags:
-  - NPC
-  - Agroma
-  - WesternSiarMorrin
+  - character/npc
+  - race/human
+  - status/leader
+  - region/agroma
 ---
 *[ah-gron thay-los]*
 

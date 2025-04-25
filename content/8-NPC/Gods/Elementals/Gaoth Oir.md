@@ -2,10 +2,10 @@
 title: Gaoth Oir
 draft: false
 tags:
-  - Religion
-  - God
-  - TheElementalEnvoys
-  - Primordial
+  - gods/primordials
+  - gods/elemental-envoys
+  - deity/gaoth-oir
+  - element/air
 ---
 *[gayth ohr]* (kinda sounds like gay thor)
 

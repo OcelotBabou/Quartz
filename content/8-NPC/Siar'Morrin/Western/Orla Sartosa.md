@@ -2,9 +2,10 @@
 title: Orla Sartosa
 draft: false
 tags:
-  - NPC
-  - Portum
-  - WesternSiarMorrin
+  - character/npc
+  - race/human
+  - status/merchant
+  - region/portum
 ---
 *[or-lah sar-toh-sah]*
 

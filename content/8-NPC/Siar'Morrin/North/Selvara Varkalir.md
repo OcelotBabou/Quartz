@@ -2,9 +2,12 @@
 title: Selvara Varkalir
 draft: false
 tags:
-  - NPC
-  - SabhaileForest
-  - NorthernSiarMorrin
+  - character/npc
+  - race/cia-an
+  - status/ranger
+  - faction/skugga-pack
+  - region/sabhaile-forest
+  - family/varkalir
 ---
 *[]*
 

@@ -2,10 +2,9 @@
 title: Agra
 draft: false
 tags:
-  - Religion
-  - God
-  - TheElementalEnvoys
-  - AgraIsland
+  - gods/elemental-envoys
+  - deity/agra
+  - element/earth
 ---
 *[ah-grah]*
 ## Basic Information

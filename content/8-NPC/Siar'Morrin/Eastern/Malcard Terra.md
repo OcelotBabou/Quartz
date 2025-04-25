@@ -2,9 +2,12 @@
 title: Lord Malcard Terra
 draft: false
 tags:
-  - NPC
-  - ShatteredKingdoms
-  - EasternSiarMorrin
+  - character/npc
+  - race/human
+  - status/royalty
+  - region/shattered-kingdoms
+  - kingdom/pistos
+  - family/terra
 ---
 *[Mál-kard Té-rah]*
 

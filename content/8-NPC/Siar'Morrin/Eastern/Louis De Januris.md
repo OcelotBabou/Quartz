@@ -2,9 +2,11 @@
 title: King Louis De Januris
 draft: false
 tags:
-  - NPC
-  - EasternSiarMorrin
-  - ShatteredKingdoms
+  - character/npc
+  - race/human
+  - status/royalty
+  - region/shattered-kingdoms
+  - kingdom/doulas
 ---
 *[luː.iːz də ʤæn.jʊə.rɪs]*
 

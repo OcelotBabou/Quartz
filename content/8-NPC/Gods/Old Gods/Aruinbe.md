@@ -2,9 +2,9 @@
 title: Aruinbe
 draft: false
 tags:
-  - Religion
-  - God
-  - TheOldGods
+  - gods/oldgods
+  - deity/aruinbe
+  - lineage/contrabastem
 ---
 *[ah-roo-in-bay]*
 

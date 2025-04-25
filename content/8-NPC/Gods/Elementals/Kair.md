@@ -2,9 +2,9 @@
 title: Kair
 draft: false
 tags:
-  - Religion
-  - God
-  - TheElementalEnvoys
+  - gods/elemental-envoys
+  - deity/kair
+  - element/earth
 ---
 *[kayr]*
 

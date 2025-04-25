@@ -2,8 +2,12 @@
 title: Vaerun Varkalir
 draft: false
 tags:
-  - NPC
-  - SabhaileForest
+  - character/npc
+  - race/cia-an
+  - status/military
+  - faction/skugga-pack
+  - region/sabhaile-forest
+  - family/varkalir
 ---
 *[]*
 

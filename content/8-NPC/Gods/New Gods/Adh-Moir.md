@@ -2,9 +2,9 @@
 title: Adh-Moir
 draft: false
 tags:
-  - Religion
-  - God
-  - TheNewGods
+  - gods/newgods
+  - deity/adh-moir
+  - lineage/dorna
 ---
 *[add-moy-er]*
 

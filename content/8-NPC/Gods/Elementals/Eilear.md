@@ -2,9 +2,9 @@
 title: Eilear
 draft: false
 tags:
-  - Religion
-  - God
-  - TheElementalEnvoys
+  - gods/elemental-envoys
+  - deity/eilear
+  - element/earth
 ---
 *[eye-lair]*
 

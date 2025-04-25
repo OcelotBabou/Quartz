@@ -2,10 +2,11 @@
 title: Praesul Staterae Konrad Mercina
 draft: false
 tags:
-  - NPC
-  - TheChurchofStatera
-  - NewBirania
-  - EasternSiarMorrin
+  - character/npc
+  - race/human
+  - status/religious
+  - region/new-birania
+  - religion/church-of-statera
 ---
 *[]*
 

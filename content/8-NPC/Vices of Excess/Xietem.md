@@ -2,10 +2,9 @@
 title: Xietem
 draft: false
 tags:
-  - Religion
-  - God
-  - ExcessVice
-  - Xietem
+  - gods/vices
+  - gods/vice-excess
+  - deity/xietem
 ---
 *[zee-eh-tem]*
 

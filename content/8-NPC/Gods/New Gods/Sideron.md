@@ -2,9 +2,9 @@
 title: Sideron
 draft: false
 tags:
-  - Religion
-  - God
-  - TheNewGods
+  - gods/newgods
+  - deity/sideron
+  - lineage/alache
 ---
 *[sigh-deh-ron]*
 ## Basic Information

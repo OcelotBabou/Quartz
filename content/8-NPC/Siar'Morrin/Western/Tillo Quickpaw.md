@@ -2,10 +2,11 @@
 title: Tillo Quickpaw
 draft: false
 tags:
-  - NPC
-  - WesternSiarMorrin
-  - PalotoSwamplands
-  - LabRat
+  - character/npc
+  - race/ratfolk
+  - subrace/lab-rat
+  - status/leader
+  - region/paloto-swamplands
 ---
 *[till-oh kwik-paw]*
 

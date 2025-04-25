@@ -2,10 +2,9 @@
 title: Ormos
 draft: false
 tags:
-  - Religion
-  - God
-  - Ormos
-  - ExcessVice
+  - gods/vices
+  - gods/vice-excess
+  - deity/ormos
 ---
 *[or-moss]*
 

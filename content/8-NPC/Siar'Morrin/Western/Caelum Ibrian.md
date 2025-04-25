@@ -2,9 +2,11 @@
 title: Caelum Ibrian
 draft: false
 tags:
-  - NPC
-  - WesternSiarMorrin
-  - ShadowAisleMountains
+  - character/npc
+  - race/human
+  - status/leader
+  - faction/iterdeep
+  - region/shadow-aisle-mountains
 ---
 *[]*
 

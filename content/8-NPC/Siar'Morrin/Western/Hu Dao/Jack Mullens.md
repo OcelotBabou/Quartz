@@ -2,6 +2,11 @@
 title: Jack Mullens
 draft: true
 tags:
+  - character/npc
+  - race/human
+  - status/merchant
+  - faction/hu-dao
+  - region/agroma
 ---
 **Basic Information**
 

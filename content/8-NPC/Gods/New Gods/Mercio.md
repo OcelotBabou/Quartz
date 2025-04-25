@@ -2,10 +2,9 @@
 title: Mercio
 draft: false
 tags:
-  - Religion
-  - God
-  - TheNewGods
-  - TheAscendedChurch
+  - gods/newgods
+  - deity/mercio
+  - religion/ascended-church
 ---
 *[mer-see-oh]*
 

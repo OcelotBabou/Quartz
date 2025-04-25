@@ -2,7 +2,10 @@
 title: Calvin Hargrove
 draft: false
 tags:
-  - NPC
+  - character/npc
+  - race/human
+  - status/merchant
+  - region/pilliga
 ---
 **Basic Information**
 

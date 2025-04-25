@@ -2,10 +2,9 @@
 title: Matiodox
 draft: false
 tags:
-  - Religion
-  - God
-  - Matiodox
-  - ExcessVice
+  - gods/vices
+  - gods/vice-excess
+  - deity/matiodox
 ---
 *[ma-tee-oh-dox]*
 

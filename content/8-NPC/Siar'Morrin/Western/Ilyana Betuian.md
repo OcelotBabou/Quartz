@@ -2,10 +2,11 @@
 title: Ilyana Betuain
 draft: false
 tags:
-  - NPC
-  - WesternSiarMorrin
-  - ShadowAisleMountains
-  - Agroma
+  - character/npc
+  - race/human
+  - status/merchant
+  - region/shadow-aisle-mountains
+  - region/agroma
 ---
 *[ih-ly-ah-nah beh-too-ee-an]*
 

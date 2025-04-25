@@ -2,9 +2,9 @@
 title: Ludara
 draft: false
 tags:
-  - Religion
-  - God
-  - TheNewGods
+  - gods/newgods
+  - deity/ludara
+  - lineage/eris
 ---
 *[loo-dah-rah]*
 ## Basic Information

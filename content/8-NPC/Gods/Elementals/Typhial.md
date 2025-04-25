@@ -2,9 +2,9 @@
 title: Typhial
 draft: false
 tags:
-  - Religion
-  - God
-  - TheElementalEnvoys
+  - gods/elemental-envoys
+  - deity/typhial
+  - element/water
 ---
 *[Phonetic]*
 ## Basic Information

@@ -2,9 +2,9 @@
 title: Kakurcia
 draft: false
 tags:
-  - Religion
-  - God
-  - TheNewGods
+  - gods/newgods
+  - deity/kakurcia
+  - lineage/dorna
 ---
 *[kah-kur-see-ah]*
 

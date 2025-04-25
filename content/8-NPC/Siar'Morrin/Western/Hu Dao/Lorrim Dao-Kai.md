@@ -2,7 +2,11 @@
 title: Lorrim Dao-Kai
 draft: false
 tags:
-  - NPC
+  - character/npc
+  - race/human
+  - status/leader
+  - faction/hu-dao
+  - region/agroma
 ---
 *[Lor-rim Dow-Kai]*
 

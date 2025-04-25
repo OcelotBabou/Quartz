@@ -2,9 +2,9 @@
 title: Thalmon
 draft: false
 tags:
-  - Religion
-  - God
-  - TheElementalEnvoys
+  - gods/elemental-envoys
+  - deity/thalmon
+  - element/water
 ---
 *[Phonetic]*
 ## Basic Information

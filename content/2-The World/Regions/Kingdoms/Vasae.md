@@ -5,6 +5,7 @@ tags:
   - continent/eastern-siarmorrin
   - region/shattered-kingdoms
   - location/kingdom
+  - kingdom/vasae
 ---
 *[vah-say]*
 

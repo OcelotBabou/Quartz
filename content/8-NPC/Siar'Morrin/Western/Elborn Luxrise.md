@@ -2,7 +2,12 @@
 title: Elborn Luxrise
 draft: false
 tags:
-  - NPC
+  - character/npc
+  - race/elf
+  - subrace/lux
+  - status/religious
+  - faction/CotSG
+  - region/agroma
 ---
 *[El-born Lux-rise]*
 

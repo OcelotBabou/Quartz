@@ -2,10 +2,9 @@
 title: Listunos
 draft: false
 tags:
-  - Religion
-  - God
-  - VoidVice
-  - Listunos
+  - gods/vices
+  - gods/vice-void
+  - deity/listunos
 ---
 *[lis-too-nos]*
 

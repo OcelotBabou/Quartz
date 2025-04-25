@@ -2,11 +2,10 @@
 title: Eolas
 draft: false
 tags:
-  - Religion
-  - God
-  - TheOldGods
-  - TheVices
-  - ExcessVice
+  - gods/oldgods
+  - gods/vices
+  - gods/vice-excess
+  - deity/eolas
 ---
 *[oh-lahs]*
 

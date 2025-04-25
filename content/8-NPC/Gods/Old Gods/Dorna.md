@@ -3,10 +3,9 @@ title: Dorna
 "{ title }": 
 draft: false
 tags:
-  - Religion
-  - God
-  - TheOldGods
-  - Dorna
+  - gods/oldgods
+  - deity/dorna
+  - lineage/statera
 ---
 *[door-nah]*
 

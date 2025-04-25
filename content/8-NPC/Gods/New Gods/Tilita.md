@@ -2,9 +2,9 @@
 title: Tilita
 draft: false
 tags:
-  - Religion
-  - God
-  - TheNewGods
+  - gods/newgods
+  - deity/tilita
+  - lineage/aruinbe
 ---
 *[tee-lih-tah]*
 ## Basic Information

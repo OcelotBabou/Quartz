@@ -2,9 +2,11 @@
 title: Ronan Stormsinger
 draft: false
 tags:
-  - NPC
-  - Portum
-  - WesternSiarMorrin
+  - character/npc
+  - race/human
+  - status/religious
+  - deity/rezza-oir
+  - region/portum
 ---
 *[roh-nan storm-sing-er]*
 

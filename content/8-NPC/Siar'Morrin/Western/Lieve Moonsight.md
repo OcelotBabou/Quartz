@@ -2,7 +2,11 @@
 title: Lieve Moonsight
 draft: false
 tags:
-  - NPC
+  - character/npc
+  - race/elf
+  - subrace/tenebrim
+  - region/shattered-kingdoms
+  - status/guard
 ---
 *[Leev Moon-sight]*
 

@@ -2,9 +2,11 @@
 title: Dominarch Damian Tyarch Kordis
 draft: false
 tags:
-  - NPC
-  - EasternSiarMorrin
-  - ShatteredKingdoms
+  - character/npc
+  - race/human
+  - status/royalty
+  - region/shattered-kingdoms
+  - kingdom/neodoulas
 ---
 *[deɪ.mi.ən taɪ.ɑrk kɔr.dɪs]*
 

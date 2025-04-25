@@ -2,9 +2,9 @@
 title: Onasu
 draft: false
 tags:
-  - Religion
-  - God
-  - TheElementalEnvoys
+  - gods/elemental-envoys
+  - deity/onasu
+  - element/water
 ---
 *[Phonetic]*
 ## Basic Information

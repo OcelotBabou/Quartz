@@ -2,9 +2,11 @@
 title: Guildmaster Skadin Blackfur
 draft: false
 tags:
-  - NPC
-  - Ratfolk
-  - Agroma
+  - character/npc
+  - race/ratfolk
+  - subrace/shadow-scurrier
+  - status/leader
+  - region/paloto-swamplands
 ---
 *[]*
 

@@ -2,10 +2,14 @@
 title: Logar Oakford
 draft: false
 tags:
-  - NPC
-  - Agroma
-  - WesternSiarMorrin
-  - TheAscendedChurch
+  - character/npc
+  - race/human
+  - status/religious
+  - religion/ascended-church
+  - region/agroma
+  - deity/vilcren
+  - deity/mercio
+  - deity/ratura
 ---
 *[low-gar oak-ford]*
 

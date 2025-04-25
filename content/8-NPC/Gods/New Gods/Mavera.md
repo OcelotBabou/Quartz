@@ -2,9 +2,9 @@
 title: Mavera
 draft: false
 tags:
-  - Religion
-  - God
-  - TheNewGods
+  - gods/newgods
+  - deity/mavera
+  - lineage/statera
 ---
 *[mah-verhr-ah]*
 ## Basic Information

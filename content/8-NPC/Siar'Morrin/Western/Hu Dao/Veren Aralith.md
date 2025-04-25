@@ -2,7 +2,11 @@
 title: Veren Aralith
 draft: false
 tags:
-  - NPC
+  - character/npc
+  - race/human
+  - status/leader
+  - faction/hu-dao
+  - region/agroma
 ---
 *[Veh-ren Ah-rah-lith]*
 

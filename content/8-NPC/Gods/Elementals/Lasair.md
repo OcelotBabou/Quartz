@@ -2,10 +2,10 @@
 title: Lasair
 draft: false
 tags:
-  - Religion
-  - God
-  - TheElementalEnvoys
-  - Primordial
+  - gods/primordials
+  - gods/elemental-envoys
+  - deity/lasair
+  - element/fire
 ---
 *[lah-sair]*
 

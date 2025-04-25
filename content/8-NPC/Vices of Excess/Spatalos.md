@@ -2,10 +2,9 @@
 title: Spatalos
 draft: false
 tags:
-  - Religion
-  - God
-  - Spatalos
-  - ExcessVice
+  - gods/vices
+  - gods/vice-excess
+  - deity/spatalos
 ---
 *[spah-tah-lohs]*
 

@@ -2,9 +2,12 @@
 title: King Vornis Thenos
 draft: false
 tags:
-  - NPC
-  - ShadowAisleMountains
-  - WesternSiarMorrin
+  - character/npc
+  - race/human
+  - status/royalty
+  - faction/iterdeep
+  - region/shadow-aisle-mountains
+  - family/thenos
 ---
 *[vor-nis then-os]*
 

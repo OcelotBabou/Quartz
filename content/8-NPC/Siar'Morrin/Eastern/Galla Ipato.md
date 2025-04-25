@@ -2,9 +2,11 @@
 title: King Galla Ipato
 draft: false
 tags:
-  - NPC
-  - ShatteredKingdoms
-  - EasternSiarMorrin
+  - character/npc
+  - race/human
+  - status/royalty
+  - region/shattered-kingdoms
+  - kingdom/vasae
 ---
 *[]*
 

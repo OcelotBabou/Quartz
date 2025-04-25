@@ -2,10 +2,9 @@
 title: Pesmin
 draft: false
 tags:
-  - Religion
-  - God
-  - Pesmin
-  - ExcessVice
+  - gods/vices
+  - gods/vice-excess
+  - deity/pesmin
 ---
 *[pez-min]*
 

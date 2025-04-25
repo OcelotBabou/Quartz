@@ -2,10 +2,13 @@
 title: Corrin Thenos
 draft: false
 tags:
-  - NPC
-  - WesternSiarMorrin
-  - ShadowAisleMountains
-  - RIftWatch
+  - character/npc
+  - race/human
+  - status/royalty
+  - status/military
+  - faction/rift-watch
+  - region/shadow-aisle-mountains
+  - family/thenos
 ---
 *[kor-rin then-os]*
 

@@ -2,12 +2,10 @@
 title: Elden Reedwhistle
 draft: false
 tags:
-  - NPC
-  - WesternSiarMorrin
-  - PalotoSwamplands
-  - Ratfolk
-  - Agroma
-  - ViragGreytail
+  - character/npc
+  - race/ratfolk
+  - status/diplomat
+  - region/paloto-swamplands
 ---
 *[el-din reed-whiss-ul]*
 

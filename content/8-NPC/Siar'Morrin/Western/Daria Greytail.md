@@ -2,10 +2,11 @@
 title: Daria Greytail
 draft: false
 tags:
-  - NPC
-  - PalotoSwamplands
-  - ViragGreytail
-  - WesternSiarMorrin
+  - character/npc
+  - race/ratfolk
+  - region/paloto-swamplands
+  - family/greytail
+  - status/misc
 ---
 *[]*
 

@@ -2,10 +2,9 @@
 title: Theri'an
 draft: false
 tags:
-  - Religion
-  - God
-  - TheNewGods
-  - Ciaan
+  - gods/newgods
+  - deity/theri-an
+  - lineage/contrabastem
 ---
 *[ther-ee-an]*
 ## Basic Information

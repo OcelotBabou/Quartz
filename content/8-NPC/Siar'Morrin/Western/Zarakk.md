@@ -2,10 +2,11 @@
 title: Zarakk, Mouth of Spatalos
 draft: false
 tags:
-  - NPC
-  - Gnoll
-  - DonatusStultitia
-  - WesternSiarMorrin
+  - character/npc
+  - race/gnoll
+  - status/religious
+  - faction/bloodfang-clan
+  - deity/spatalos
 ---
 *[]*
 

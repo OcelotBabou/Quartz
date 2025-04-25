@@ -2,9 +2,12 @@
 title: Bryndis Thenos
 draft: false
 tags:
-  - NPC
-  - WesternSiarMorrin
-  - ShadowAisleMountains
+  - character/npc
+  - race/human
+  - status/royalty
+  - faction/iterdeep
+  - region/shadow-aisle-mountains
+  - family/thenos
 ---
 *[brin-dis then-os]*
 

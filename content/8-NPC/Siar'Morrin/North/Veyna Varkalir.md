@@ -2,9 +2,11 @@
 title: Veyna Varkalir
 draft: false
 tags:
-  - NPC
-  - SabhaileForest
-  - RIftWatch
+  - character/npc
+  - race/cia-an
+  - faction/rift-watch
+  - region/sabhaile-forest
+  - family/varkalir
 ---
 *[]*
 

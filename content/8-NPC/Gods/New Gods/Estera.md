@@ -2,9 +2,9 @@
 title: Estera
 draft: false
 tags:
-  - Religion
-  - God
-  - TheNewGods
+  - gods/newgods
+  - deity/estera
+  - lineage/statera
 ---
 *[es-teh-rah]*
 ## Basic Information

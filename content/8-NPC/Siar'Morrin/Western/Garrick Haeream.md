@@ -2,10 +2,11 @@
 title: Garrick Haeream
 draft: false
 tags:
-  - NPC
-  - WesternSiarMorrin
-  - Agroma
-  - Magisterium
+  - character/npc
+  - race/human
+  - faction/magisterium
+  - region/agroma
+  - status/leader
 ---
 *[garr-ick hair-eem]*
 

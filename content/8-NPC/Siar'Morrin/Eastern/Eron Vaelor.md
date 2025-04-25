@@ -2,10 +2,11 @@
 title: Legatus Eron Vaelor
 draft: false
 tags:
-  - NPC
-  - BiranianGuard
-  - NewBirania
-  - EasternSiarMorrin
+  - character/npc
+  - race/human
+  - status/military
+  - faction/new-birania
+  - region/new-birania
 ---
 *[]*
 

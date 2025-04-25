@@ -2,6 +2,10 @@
 title: Lioren Varkalir
 draft: false
 tags:
+  - character/npc
+  - race/cia-an
+  - region/sabhaile-forest
+  - family/varkalir
 ---
 *[]*
 

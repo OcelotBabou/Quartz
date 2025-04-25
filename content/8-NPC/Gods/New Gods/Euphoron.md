@@ -2,9 +2,9 @@
 title: Euphoron
 draft: false
 tags:
-  - Religion
-  - God
-  - TheNewGods
+  - gods/newgods
+  - deity/euphoron
+  - lineage/aruinbe
 ---
 *[yoo-for-on]*
 ## Basic Information

@@ -2,9 +2,10 @@
 title: Ooscara
 draft: false
 tags:
-  - Religion
-  - God
-  - TheElementalEnvoys
+  - gods/elemental-envoys
+  - deity/ooscara
+  - element/water
+  - region/arctic-expanse
 ---
 *[Phonetic]*
 ## Basic Information

@@ -2,7 +2,12 @@
 title: Danthel Elistar
 draft: false
 tags:
-  - NPC
+  - character/npc
+  - race/elf
+  - subrace/lux
+  - status/tavern
+  - faction/hu-dao
+  - region/agroma
 ---
 *[Dan-thel El-is-tar]*
 

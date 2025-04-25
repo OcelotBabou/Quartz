@@ -2,10 +2,9 @@
 title: Lepsis
 draft: false
 tags:
-  - Religion
-  - God
-  - VoidVice
-  - Lepsis
+  - gods/vices
+  - gods/vice-void
+  - deity/lepsis
 ---
 *[lep-sis]*
 

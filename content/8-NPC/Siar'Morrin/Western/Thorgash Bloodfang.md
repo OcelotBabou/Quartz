@@ -2,10 +2,12 @@
 title: Thorgash Bloodfang
 draft: false
 tags:
-  - NPC
-  - Gnoll
-  - DonatusStultitia
-  - WesternSiarMorrin
+  - character/npc
+  - race/gnoll
+  - status/leader
+  - faction/bloodfang-clan
+  - region/donatus-stultitia
+  - deity/spatalos
 ---
 *[θɔːr.gaʃ 'blʌd.fæŋ]*
 

@@ -2,9 +2,11 @@
 title: Araldus Luxcrest
 draft: false
 tags:
-  - NPC
-  - WesternSiarMorrin
-  - ShadowAisleMountains
+  - character/npc
+  - race/human
+  - status/military
+  - region/shadow-aisle-mountains
+  - faction/iterdeep
 ---
 *[]*
 

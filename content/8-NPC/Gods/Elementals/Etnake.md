@@ -2,10 +2,10 @@
 title: Etnake
 draft: false
 tags:
-  - Religion
-  - God
-  - TheElementalEnvoys
-  - EtnakesEnd
+  - gods/elemental-envoys
+  - deity/etnake
+  - continent/entnakes-end
+  - element/fire
 ---
 *[Phonetic]*
 ## Basic Information

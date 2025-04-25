@@ -2,9 +2,9 @@
 title: Skoteinos
 draft: false
 tags:
-  - Religion
-  - God
-  - TheNewGods
+  - gods/newgods
+  - deity/skoteinos
+  - lineage/alache
 ---
 *[Phonetic]*
 ## Basic Information

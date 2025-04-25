@@ -2,10 +2,9 @@
 title: Zilev
 draft: false
 tags:
-  - Religion
-  - God
-  - VoidVice
-  - Zilev
+  - gods/vices
+  - gods/vice-void
+  - deity/zilev
 ---
 *[zee-lev]*
 

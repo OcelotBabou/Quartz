@@ -2,9 +2,11 @@
 title: Viceroy Harold Virent
 draft: false
 tags:
-  - NPC
-  - NewBirania
-  - EasternSiarMorrin
+  - character/npc
+  - race/human
+  - status/leader
+  - faction/new-birania
+  - region/new-birania
 ---
 *[hair-old vye-rent]*
 

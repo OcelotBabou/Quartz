@@ -2,9 +2,10 @@
 title: Idris Elara
 draft: false
 tags:
-  - NPC
-  - NewBirania
-  - EasternSiarMorrin
+  - character/npc
+  - race/elf
+  - status/religious
+  - region/new-birania
 ---
 *[]*
 

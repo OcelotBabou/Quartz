@@ -2,10 +2,9 @@
 title: Paysius
 draft: false
 tags:
-  - Religion
-  - God
-  - Paysius
-  - ExcessVice
+  - gods/vices
+  - gods/vice-excess
+  - deity/paysius
 ---
 *[pay-see-us]*
 

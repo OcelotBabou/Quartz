@@ -2,7 +2,12 @@
 title: Kaelis Akurcia
 draft: false
 tags:
-  - NPC
+  - character/npc
+  - race/human
+  - status/military
+  - faction/hu-dao
+  - region/agroma
+  - status/leader
 ---
 *[Kay-liss Ah-kur-see-ah]*
 

@@ -3,9 +3,10 @@ title: Eldrin Starwatcher
 draft: false
 tags:
   - NPC
-  - Magisterium
-  - Portum
-  - WesternSiarMorrin
+  - race/human
+  - faction/magisterium
+  - region/portum
+  - region/dahri-empire
 ---
 *[]*
 

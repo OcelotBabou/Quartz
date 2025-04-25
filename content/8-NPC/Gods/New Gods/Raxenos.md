@@ -2,11 +2,8 @@
 title: Raxenos
 draft: false
 tags:
-  - Religion
-  - God
-  - TheNewGods
-  - Raxenos
-  - AoD
+  - gods/newgods
+  - deity/raxenos
 ---
 *[rahk-seh-nohs]*
 

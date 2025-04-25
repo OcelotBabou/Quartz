@@ -2,9 +2,9 @@
 title: Invera
 draft: false
 tags:
-  - Religion
-  - God
-  - TheNewGods
+  - gods/newgods
+  - deity/invera
+  - lineage/statera
 ---
 *[in-veh-rah]*
 ## Basic Information

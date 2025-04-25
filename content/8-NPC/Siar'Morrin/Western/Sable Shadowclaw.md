@@ -2,10 +2,11 @@
 title: Sable Shadowclaw
 draft: false
 tags:
-  - NPC
-  - WesternSiarMorrin
-  - PalotoSwamplands
-  - ShadowScurrier
+  - character/npc
+  - race/ratfolk
+  - subrace/shadow-scurrier
+  - status/leader
+  - region/paloto-swamplands
 ---
 *[say-bul shad-oh-claw]*
 

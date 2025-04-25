@@ -2,9 +2,11 @@
 title: Remona Raturian
 draft: false
 tags:
-  - NPC
-  - Agroma
-  - WesternSiarMorrin
+  - character/npc
+  - race/human
+  - status/leader
+  - status/entertainer
+  - region/agroma
 ---
 *[re-mo-na rat-ur-ee-an]*
 

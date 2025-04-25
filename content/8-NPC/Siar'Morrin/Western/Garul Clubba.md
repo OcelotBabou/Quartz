@@ -2,9 +2,9 @@
 title: Garul Clubba
 draft: false
 tags:
-  - NPC
-  - PhemusReach
-  - WesternSiarMorrin
+  - character/npc
+  - race/giant
+  - region/phemus-reach
 ---
 *[gah-rul kluh-bah]*
 

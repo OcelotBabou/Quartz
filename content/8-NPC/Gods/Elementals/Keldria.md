@@ -2,10 +2,11 @@
 title: 
 draft: false
 tags:
-  - Religion
-  - God
+  - gods/elemental-envoys
+  - deity/keldria
+  - element/water
 ---
-*[Phonetic]* Keldria hates Onasu, looks down on Thalmon. Onasu hates Keldria, also looks down on Thalmon. Thalmon hates both his elder brother equally. 
+*[Phonetic]* 
 ## Basic Information
 
 - **Name**: Keldria

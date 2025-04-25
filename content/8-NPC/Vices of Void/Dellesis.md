@@ -2,10 +2,9 @@
 title: Dellesis
 draft: false
 tags:
-  - Religion
-  - God
-  - VoidVice
-  - Dellesis
+  - gods/vices
+  - gods/vice-void
+  - deity/dellesis
 ---
 *[Del-eh-see]*
 

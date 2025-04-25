@@ -2,10 +2,7 @@
 title: Alber
 draft: false
 tags:
-  - Religion
-  - God
-  - Alber
-  - TheNewGods
+  - gods/newgods
 ---
 *[al-ber]*
 
@@ -43,7 +40,7 @@ Adorned with elements of her domain, Alber wears no crafted garments but is inst
 
 **Family**: 
 - **[[Theri'an]]**: Brother. Agra shares a unique relationship with Theri'an, blending rivalry and camaraderie. Unlike her typical reserved or indifferent demeanor towards other gods, Theri'an's shared wild side and occasional ruthlessness resonates with Alber, and the two are often depicted in stories as working side by side. 
-- **Alber**: The connection between Agra and Alber is less clear. Some believe Agra may be Alber’s mother, given their shared dominion over nature. Others theorize that Alber is not a seperate goddess, rather she represents a wrathful aspect of Agra, a side brought forth by humanity’s relentless destruction of the natural world. 
+- **[[Agra]]**: The connection between Agra and Alber is less clear. Some believe Agra may be Alber’s mother, given their shared dominion over nature. Others theorize that Alber is not a seperate goddess, rather she represents a wrathful aspect of Agra, a side brought forth by humanity’s relentless destruction of the natural world. 
 **Rivals/Enemies**: 
 Unlike many of her divine counterparts, Agra's enmity is less focused on the machinations of gods or even the vices and more directed towards mortal empires that threaten the natural world.
 - **[[Dahri Empire]]**: Agra has harbored a longstanding animosity towards the Dahri Empire, primarily due to their extensive deforestation and environmental destruction, particularly in the [[Vahshi Forest]]. This conflict has not only fueled a bitter feud but also precipitated numerous wars. Agra views the Dahri as a persistent blight on the landscape.

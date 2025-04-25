@@ -2,9 +2,9 @@
 title: Gratia
 draft: false
 tags:
-  - Religion
-  - God
-  - TheNewGods
+  - gods/newgods
+  - deity/gratia
+  - lineage/dorna
 ---
 *[gray-shee-ah]*
 ## Basic Information

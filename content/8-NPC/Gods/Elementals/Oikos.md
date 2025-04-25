@@ -2,9 +2,9 @@
 title: Oikos
 draft: false
 tags:
-  - Religion
-  - God
-  - TheElementalEnvoys
+  - gods/elemental-envoys
+  - deity/oikos
+  - element/fire
 ---
 *[oy-kohs]*
 ## Basic Information

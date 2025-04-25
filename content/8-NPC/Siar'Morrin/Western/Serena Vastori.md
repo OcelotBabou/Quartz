@@ -2,10 +2,11 @@
 title: Serena Vastori
 draft: false
 tags:
-  - NPC
-  - Agroma
-  - WesternSiarMorrin
-  - Riben
+  - character/npc
+  - race/human
+  - status/leader
+  - status/merchant
+  - region/agroma
 ---
 *[se-ree-na vas-to-ree]*
 

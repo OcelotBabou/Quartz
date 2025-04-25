@@ -2,11 +2,10 @@
 title: Grimtooth, the Raider
 draft: false
 tags:
-  - NPC
-  - DonatusStultitia
-  - WesternSiarMorrin
-  - Agroma
-  - Gnoll
+  - character/npc
+  - race/gnoll
+  - faction/nighthowl-clan
+  - region/donatus-stultitia
 ---
 *[]*
 

@@ -2,9 +2,9 @@
 title: Gorak
 draft: false
 tags:
-  - NPC
-  - PhemusReach
-  - WesternSiarMorrin
+  - character/npc
+  - race/giant
+  - region/phemus-reach
 ---
 *[goh-rak]*
 

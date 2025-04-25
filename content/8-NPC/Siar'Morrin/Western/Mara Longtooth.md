@@ -2,11 +2,11 @@
 title: Mara Longtooth
 draft: false
 tags:
-  - NPC
-  - Ratfolk
-  - LabRat
-  - WesternSiarMorrin
-  - PalotoSwamplands
+  - character/npc
+  - race/ratfolk
+  - subrace/lab-rat
+  - status/misc
+  - region/paloto-swamplands
 ---
 *[mar-uh long-tooth]*
 

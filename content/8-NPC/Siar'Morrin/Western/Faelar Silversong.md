@@ -2,7 +2,11 @@
 title: Faelar Silversong
 draft: false
 tags:
-  - NPC
+  - character/npc
+  - race/human
+  - status/entertainer
+  - faction/mithrallica
+  - region/fort-logos
 ---
 *[Fay-lar Sil-ver-song]*
 

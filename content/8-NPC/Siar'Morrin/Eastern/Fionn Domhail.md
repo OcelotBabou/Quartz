@@ -2,9 +2,11 @@
 title: Lord Fionn Domhail
 draft: false
 tags:
-  - NPC
-  - ShatteredKingdoms
-  - EasternSiarMorrin
+  - character/npc
+  - race/human
+  - region/shattered-kingdoms
+  - kingdom/avatolika
+  - status/leader
 ---
 *[]*
 

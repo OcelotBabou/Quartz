@@ -2,7 +2,12 @@
 title: Tiana Illuminor
 draft: false
 tags:
-  - NPC
+  - character/npc
+  - race/elf
+  - subrace/lux
+  - status/religious
+  - faction/CotSG
+  - region/agroma
 ---
 *[Tee-ah-nah Il-loo-min-or]*
 

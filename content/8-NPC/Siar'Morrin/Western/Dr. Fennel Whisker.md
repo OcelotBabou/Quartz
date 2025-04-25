@@ -2,10 +2,11 @@
 title: Dr. Fennel Whisker
 draft: false
 tags:
-  - NPC
-  - PalotoSwamplands
-  - WesternSiarMorrin
-  - Ratfolk
+  - character/npc
+  - race/ratfolk
+  - subrace/lab-rat
+  - status/misc
+  - region/paloto-swamplands
 ---
 *[Dr. fen-nel wis-ker]*
 

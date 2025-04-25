@@ -2,9 +2,9 @@
 title: Thear
 draft: false
 tags:
-  - Religion
-  - God
-  - TheElementalEnvoys
+  - gods/elemental-envoys
+  - deity/thear
+  - element/earth
 ---
 *[thee-ar]*
 

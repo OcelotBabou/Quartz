@@ -2,9 +2,9 @@
 title: Hodophis
 draft: false
 tags:
-  - Religion
-  - God
-  - TheElementalEnvoys
+  - gods/elemental-envoys
+  - deity/hodophis
+  - element/fire
 ---
 *[hoh-doh-fis]*
 ## Basic Information

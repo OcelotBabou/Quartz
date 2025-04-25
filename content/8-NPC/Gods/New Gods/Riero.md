@@ -2,9 +2,9 @@
 title: Riero
 draft: false
 tags:
-  - Religion
-  - God
-  - TheNewGods
+  - gods/newgods
+  - deity/riero
+  - lineage/eris
 ---
 *[ree-eh-ro]*
 ## Basic Information

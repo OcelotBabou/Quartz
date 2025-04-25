@@ -2,10 +2,10 @@
 title: Talam
 draft: false
 tags:
-  - Religion
-  - God
-  - TheElementalEnvoys
-  - Primordial
+  - gods/primordials
+  - gods/elemental-envoys
+  - deity/talam
+  - element/earth
 ---
 *[tah-lahm]*
 

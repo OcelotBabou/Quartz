@@ -2,10 +2,11 @@
 title: Mira Galewing
 draft: false
 tags:
-  - NPC
-  - Portum
-  - WesternSiarMorrin
-  - Seagate
+  - character/npc
+  - race/human
+  - status/leader
+  - status/diplomat
+  - region/portum
 ---
 *[meer-ah gayl-wind]*
 

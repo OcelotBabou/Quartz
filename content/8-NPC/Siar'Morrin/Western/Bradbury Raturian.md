@@ -2,7 +2,10 @@
 title: Bradbury Raturian
 draft: false
 tags:
-  - NPC
+  - character/npc
+  - race/human
+  - status/guard
+  - faction/new-birania
 ---
 *[Brad-buh-ree]*
 

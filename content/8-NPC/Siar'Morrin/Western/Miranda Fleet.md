@@ -2,7 +2,11 @@
 title: Miranda Fleet
 draft: true
 tags:
-  - NPC
+  - character/npc
+  - race/human
+  - status/merchant
+  - kingdom/neodoulas
+  - region/shattered-kingdoms
 ---
 *[Muh-ran-duh Fleet]*
 

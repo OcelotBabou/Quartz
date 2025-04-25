@@ -2,10 +2,9 @@
 title: Chyntum
 draft: false
 tags:
-  - Religion
-  - God
-  - VoidVice
-  - Chyntum
+  - gods/vices
+  - gods/vice-void
+  - deity/chyntum
 ---
 *[chin-tuhm]*
 

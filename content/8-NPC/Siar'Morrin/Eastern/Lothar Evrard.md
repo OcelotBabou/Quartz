@@ -2,9 +2,11 @@
 title: King Lothar Evrard
 draft: false
 tags:
-  - NPC
-  - EasternSiarMorrin
-  - ShatteredKingdoms
+  - character/npc
+  - race/human
+  - status/royalty
+  - region/shattered-kingdoms
+  - kingdom/orestia
 ---
 *[]*
 

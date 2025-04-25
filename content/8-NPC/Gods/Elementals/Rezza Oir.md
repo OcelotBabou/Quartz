@@ -2,9 +2,9 @@
 title: Rezza Oir
 draft: false
 tags:
-  - Religion
-  - God
-  - TheElementalEnvoys
+  - gods/elemental-envoys
+  - deity/rezza-oir
+  - element/air
 ---
 *[reh-zah ohr]*
 ## Basic Information

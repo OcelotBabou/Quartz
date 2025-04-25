@@ -2,9 +2,9 @@
 title: Sthenos
 draft: false
 tags:
-  - Religion
-  - God
-  - TheNewGods
+  - gods/newgods
+  - deity/sthenos
+  - lineage/gahrian
 ---
 *[ss-then-os]*
 ## Basic Information

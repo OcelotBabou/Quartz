@@ -2,9 +2,9 @@
 title: Siar
 draft: false
 tags:
-  - Religion
-  - God
-  - TheElementalEnvoys
+  - gods/elemental-envoys
+  - deity/siar
+  - element/earth
 ---
 *[see-ar]*
 

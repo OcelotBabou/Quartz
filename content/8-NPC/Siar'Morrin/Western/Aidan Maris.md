@@ -2,10 +2,10 @@
 title: Aidan Maris
 draft: false
 tags:
-  - NPC
-  - Seagate
-  - Portum
-  - WesternSiarMorrin
+  - character/npc
+  - race/human
+  - status/leader
+  - region/portum
 ---
 *[ay-dan mare-iss]*
 

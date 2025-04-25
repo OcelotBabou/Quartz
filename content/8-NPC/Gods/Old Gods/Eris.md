@@ -3,9 +3,9 @@ title: Eris
 "{ title }": 
 draft: false
 tags:
-  - Religion
-  - God
-  - TheOldGods
+  - gods/oldgods
+  - deity/eris
+  - lineage/statera
 ---
 *[air-riss]*
 

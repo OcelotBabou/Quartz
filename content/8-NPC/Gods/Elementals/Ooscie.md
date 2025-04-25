@@ -2,10 +2,10 @@
 title: Ooscie
 draft: false
 tags:
-  - Religion
-  - God
-  - TheElementalEnvoys
-  - Primordial
+  - gods/primordials
+  - gods/elemental-envoys
+  - element/water
+  - deity/ooscie
 ---
 *[oo-see]*
 

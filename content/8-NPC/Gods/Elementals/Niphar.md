@@ -2,9 +2,9 @@
 title: Niphar
 draft: false
 tags:
-  - Religion
-  - God
-  - TheElementalEnvoys
+  - gods/elemental-envoys
+  - deity/niphar
+  - element/earth
 ---
 *[nee-far]*
 

@@ -2,10 +2,12 @@
 title: Zinna Marshroot
 draft: false
 tags:
-  - NPC
-  - WesternSiarMorrin
-  - PalotoSwamplands
-  - BlightedBrute
+  - character/npc
+  - race/ratfolk
+  - subrace/blighted-brute
+  - status/leader
+  - status/military
+  - region/paloto-swamplands
 ---
 *[zin-nuh marsh-root]*
 

@@ -2,9 +2,9 @@
 title: Thornak
 draft: false
 tags:
-  - NPC
-  - PhemusReach
-  - WesternSiarMorrin
+  - character/npc
+  - race/ogre
+  - region/phemus-reach
 ---
 *[thor-nak]*
 

@@ -2,9 +2,9 @@
 title: Krenos
 draft: false
 tags:
-  - Religion
-  - God
-  - TheNewGods
+  - gods/newgods
+  - deity/krenos
+  - lineage/gahrian
 ---
 *[kreh-nos]*
 ## Basic Information

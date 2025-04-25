@@ -2,8 +2,9 @@
 title: Clypeus
 draft: false
 tags:
-  - Religion
-  - God
+  - gods/newgods
+  - deity/clypeus
+  - lineage/gahrian
 ---
 *[Phonetic]*
 ## Basic Information

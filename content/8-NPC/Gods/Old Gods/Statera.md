@@ -2,11 +2,9 @@
 title: Statera
 draft: false
 tags:
-  - Religion
-  - God
-  - TheOldGods
-  - Statera
-  - TheChurchofStatera
+  - gods/oldgods
+  - deity/statera
+  - religion/church-of-statera
 ---
 *[stah-teer-rah]*
 ## Basic Information

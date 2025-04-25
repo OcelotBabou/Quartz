@@ -2,9 +2,9 @@
 title: Thanapoli
 draft: false
 tags:
-  - Religion
-  - God
-  - TheNewGods
+  - gods/newgods
+  - deity/thanapoli
+  - lineage/contrabastem
 ---
 *[than-uh-poh-lee]*
 ## Basic Information

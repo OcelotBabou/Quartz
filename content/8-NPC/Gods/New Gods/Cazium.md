@@ -2,9 +2,7 @@
 title: Cazium
 draft: false
 tags:
-  - Religion
-  - God
-  - TheNewGods
+  - gods/newgods
 ---
 *[kaz-ee-um]*
 ## Basic Information

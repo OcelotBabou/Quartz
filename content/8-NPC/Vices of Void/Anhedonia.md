@@ -2,10 +2,9 @@
 title: Anhedonia
 draft: false
 tags:
-  - Religion
-  - God
-  - VoidVice
-  - Anhedonia
+  - gods/vices
+  - gods/vice-void
+  - deity/anhedonia
 ---
 *[an-hee-doh-nee-uh]*
 

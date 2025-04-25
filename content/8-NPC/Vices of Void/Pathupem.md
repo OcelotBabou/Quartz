@@ -2,10 +2,9 @@
 title: Pathupem
 draft: false
 tags:
-  - Religion
-  - God
-  - VoidVice
-  - Pathupem
+  - gods/vices
+  - gods/vice-void
+  - deity/pathupem
 ---
 *[pah-thoo-pem]*
 

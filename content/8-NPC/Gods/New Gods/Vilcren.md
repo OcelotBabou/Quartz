@@ -2,10 +2,9 @@
 title: Vilcren
 draft: false
 tags:
-  - Religion
-  - God
-  - TheNewGods
-  - TheAscendedChurch
+  - gods/newgods
+  - deity/vilcren
+  - religion/ascended-church
 ---
 *[vil-kren]*
 

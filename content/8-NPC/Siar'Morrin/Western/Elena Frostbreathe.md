@@ -2,11 +2,11 @@
 title: Elena Frostbreathe
 draft: false
 tags:
-  - NPC
-  - Agroma
-  - ArcticExpanse
-  - WesternSiarMorrin
-  - Glacimancer
+  - character/npc
+  - race/human
+  - faction/glacimancer
+  - region/arctic-expanse
+  - region/agroma
 ---
 *[eh-lay-na frost-breath]*
 

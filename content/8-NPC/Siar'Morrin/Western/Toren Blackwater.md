@@ -2,10 +2,11 @@
 title: Toren Blackwater
 draft: false
 tags:
-  - NPC
-  - Portum
-  - Seagate
-  - WesternSiarMorrin
+  - character/npc
+  - race/human
+  - status/leader
+  - status/military
+  - region/portum
 ---
 *[toh-ren blak-wah-ter]*
 

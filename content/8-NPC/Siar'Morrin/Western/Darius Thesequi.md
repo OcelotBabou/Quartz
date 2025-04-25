@@ -2,10 +2,11 @@
 title: Darius Thesequi
 draft: false
 tags:
-  - NPC
-  - RidgebackForest
-  - WesternSiarMorrin
-  - Tenebrim
+  - character/npc
+  - race/elf
+  - subrace/tenebrim
+  - status/ranger
+  - region/ridgeback-forest
 ---
 *[dahr-ee-us thuh-sek-wee]*
 

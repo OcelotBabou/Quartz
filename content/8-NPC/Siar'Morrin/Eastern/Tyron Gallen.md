@@ -2,9 +2,10 @@
 title: Tyron Gallen
 draft: false
 tags:
-  - NPC
-  - NewBirania
-  - EasternSiarMorrin
+  - character/npc
+  - race/human
+  - status/merchant
+  - region/new-birania
 ---
 *[]*
 

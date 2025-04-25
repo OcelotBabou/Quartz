@@ -2,15 +2,14 @@
 title: Jane Doe
 draft: true
 tags:
+  - character/npc
+  - region/agroma
 ---
 **Basic Information**
 
 - **Name**: Jane Doe
-- **Species**: Human
 - **Gender**: Female
 - **Age**: 28
-- **Occupation**: Receptionist at the Hu Dao Adventurers Guild; Secret Informant for the Biranian Guard
-- **Affiliation**: Hu Dao Adventurers Guild, Biranian Guard (covertly)
 
 **Physical Description**
 

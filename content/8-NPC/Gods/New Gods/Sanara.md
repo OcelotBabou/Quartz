@@ -2,9 +2,9 @@
 title: Sanara
 draft: false
 tags:
-  - Religion
-  - God
-  - TheNewGods
+  - gods/newgods
+  - deity/sanara
+  - lineage/eris
 ---
 *[sah-nah-rah]*
 ## Basic Information

@@ -2,9 +2,9 @@
 title: Gorath Hamma
 draft: false
 tags:
-  - NPC
-  - PhemusReach
-  - WesternSiarMorrin
+  - character/npc
+  - race/giant
+  - region/phemus-reach
 ---
 *[goh-rath hah-mah]*
 

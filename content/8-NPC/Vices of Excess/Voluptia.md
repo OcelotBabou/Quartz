@@ -2,10 +2,9 @@
 title: Voluptia
 draft: false
 tags:
-  - Religion
-  - God
-  - ExcessVice
-  - Voluptia
+  - gods/vices
+  - gods/vice-excess
+  - deity/voluptia
 ---
 *[vo-luhp-shah]*
 

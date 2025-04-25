@@ -2,9 +2,9 @@
 title: Tunera
 draft: false
 tags:
-  - Religion
-  - God
-  - TheNewGods
+  - gods/newgods
+  - deity/tunera
+  - lineage/statera
 ---
 *[too-neh-rah]*
 ## Basic Information

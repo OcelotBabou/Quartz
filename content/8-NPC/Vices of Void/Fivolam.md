@@ -2,10 +2,9 @@
 title: Fivolam
 draft: false
 tags:
-  - Religion
-  - God
-  - VoidVice
-  - Fivolam
+  - gods/vices
+  - gods/vice-void
+  - deity/fivolam
 ---
 *[fee-voh-lahm]*
 

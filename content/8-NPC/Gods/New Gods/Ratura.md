@@ -2,10 +2,9 @@
 title: Ratura
 draft: false
 tags:
-  - Religion
-  - God
-  - TheNewGods
-  - TheAscendedChurch
+  - gods/newgods
+  - deity/ratura
+  - religion/ascended-church
 ---
 *[rah-too-rah]*
 

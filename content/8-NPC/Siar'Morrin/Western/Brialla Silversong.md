@@ -2,7 +2,11 @@
 title: Brialla Silversong
 draft: false
 tags:
-  - NPC
+  - character/npc
+  - race/human
+  - status/entertainer
+  - faction/mithrallica
+  - kingdom/mesokini
 ---
 *[Bree-ah-lah Sil-ver-song]*
 

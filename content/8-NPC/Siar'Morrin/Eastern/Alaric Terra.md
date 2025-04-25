@@ -2,9 +2,12 @@
 title: King Alaric Terra
 draft: false
 tags:
-  - NPC
-  - NewBirania
-  - EasternSiarMorrin
+  - character/npc
+  - race/human
+  - status/royalty
+  - faction/new-birania
+  - region/new-birania
+  - family/terra
 ---
 *[al-uh-rik terr-uh]*
 

@@ -2,9 +2,9 @@
 title: Poraal Oir
 draft: false
 tags:
-  - Religion
-  - God
-  - TheElementalEnvoys
+  - gods/elemental-envoys
+  - deity/poraal-oir
+  - element/air
 ---
 *[poh-rahl ohr]*
 ## Basic Information

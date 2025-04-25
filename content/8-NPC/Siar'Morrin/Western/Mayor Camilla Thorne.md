@@ -2,9 +2,10 @@
 title: Camilla Thorne
 draft: false
 tags:
-  - NPC
-  - WesternSiarMorrin
-  - RidgebackForest
+  - character/npc
+  - race/human
+  - status/leader
+  - region/ridgeback-forest
 ---
 *[cam-mill-ah thorn]*
 

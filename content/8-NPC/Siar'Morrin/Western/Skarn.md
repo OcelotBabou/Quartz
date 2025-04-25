@@ -2,10 +2,12 @@
 title: Skarn, Keeper of Ruins
 draft: false
 tags:
-  - NPC
-  - DonatusStultitia
-  - WesternSiarMorrin
-  - Gnoll
+  - character/npc
+  - race/gnoll
+  - status/guard
+  - faction/bloodfang-clan
+  - region/donatus-stultitia
+  - deity/spatalos
 ---
 *[]*
 

@@ -2,10 +2,10 @@
 title: Marcus Ferris Sulla
 draft: false
 tags:
-  - NPC
-  - Agroma
-  - WesternSiarMorrin
-  - FortLogos
+  - character/npc
+  - race/human
+  - status/military
+  - region/fort-logos
 ---
 *[mar-kus fer-ris sull-ah]*
 

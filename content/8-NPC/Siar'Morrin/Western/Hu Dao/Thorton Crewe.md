@@ -2,7 +2,11 @@
 title: Thorton Crewe
 draft: false
 tags:
-  - NPC
+  - character/npc
+  - race/human
+  - status/merchant
+  - faction/hu-dao
+  - region/agroma
 ---
 *[]*
 
