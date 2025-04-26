@@ -45,7 +45,6 @@ tags: []
 - Misc.
 	- [[Oath Keepers]]
 ## 6. **Player** **Races**
-
 - [[Alberine]]
 - [[Aquarian]]
 - [[Bacchin]]
@@ -57,13 +56,28 @@ tags: []
 - [[Human]]
 - [[Kitsune]]
 - [[Ratfolk]]
-## 7. **Campaign**
+
+## 7. **NPC**
+- Siar'Morrin
+	- Eastern
+		- [[Alaric Terra]]
+		- [[Damian Tyarch Kordis]]
+		- [[Eron Vaelor]]
+		- [[Fionn Domhail]]
+		- [[Galla Ipato]]
+		- [[Harold Virent]]
+		- [[Idris Elara]]
+	- Western
+	- Northern
+
+
+## 8. **Campaign**
 - [[Campaign Focused]]
 - [[Hu Dao Caravan]]
 - [[Map of Hu Dao]]
 - [[Siar'Morrin Overview]]
 - [[Whole Statera Overview]]
-## 8. **Changes**
+## 9. **Changes**
 
 
 This is a blank Quartz installation.
