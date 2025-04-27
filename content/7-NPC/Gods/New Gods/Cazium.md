@@ -67,8 +67,9 @@ Cazium's birth was a celebration of the world's own artistry—a deity whose ver
 
 ## Quotes
 
-- **Key Quotes**:
-“In every stone lies the potential for greatness.”
 "Craft with reverence, for in the mundane resides the divine.”
 
 ## Background
+
+**[[Dwarf]]**
+To the dwarves Cazium is not merely a god — he is the ultimate ideal, the perfect craftsman from whom all skill and artistry originate. They believe that Cazium was born not just from the earth itself, but as a divine embodiment of the dwarven spirit long before the first dwarf ever walked Staterum. His veins of molten ore and his gemlike eyes are seen as reflections of the dwarves’ own deep connection to the stone and soil. Dwarven myths claim that it was Cazium who first taught their ancestors the secrets of shaping stone and forging metal, whispering his techniques into the dreams of the first great smiths. His presence, to them, is a quiet and enduring one — not loud and boastful like some gods, but steady and eternal, like the mountains themselves. 

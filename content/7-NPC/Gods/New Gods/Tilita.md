@@ -18,7 +18,9 @@ tags:
 
 ## Physical Description
 
-- **Appearance**: Tilita is often depicted as a full-figured, maternal presence, embodying the essence of fertility and femininity. Her form is voluptuous, radiating a sense of strength and nurturing warmth rather than seduction. She has a serene and welcoming expression, with a gentle smile that evokes a sense of comfort and safety. Her skin is a radiant, sun-kissed tan, evoking the warmth of the sun that nourishes and sustains life. Her deep brown hair, rich and lustrous, cascades over her shoulders down to near the ground, intertwined with blooming flowers. 
+- **Appearance**: 
+
+Tilita is often depicted as a full-figured, maternal presence, embodying the essence of fertility and femininity. Her form is voluptuous, radiating a sense of strength and nurturing warmth rather than seduction. She has a serene and welcoming expression, with a gentle smile that evokes a sense of comfort and safety. Her skin is a radiant, sun-kissed tan, evoking the warmth of the sun that nourishes and sustains life. Her deep brown hair, rich and lustrous, cascades over her shoulders down to near the ground, intertwined with blooming flowers. 
 - **Height**: 186cm 
 - **Weight**: Would be rude to ask. 
 - **Distinguishing Features**: Tilita's eyes shimmer with the vibrant green of new leaves. 
@@ -32,9 +34,14 @@ tags:
 
 ## Relationships
 
-- **Allies**: [[Aruinbe]], [[Mavera]], [[Oikos]]
-- **Rivals/Enemies**: [[Ormos]], ..., 
-- **Attitude towards Mortals**: Views them as her children, offering protection and guidance, especially to mothers and young women. 
+**Family**:
+- [[Aruinbe]]: Relationship unknown
+
+**Rivals/Enemies**: 
+- [[Ormos]]: Tilita harbors a deep and unwavering hatred for Ormos, viewing him as a relentless harbinger of violence and death. To her, he is responsible for countless mortal lives lost—the very children she seeks to nurture and protect—making him the embodiment of all she opposes.
+- [[Alber]]: Tilita’s rivalry with Alber is more sorrowful than hostile. Once allies in the nurturing of life, Tilita believes Alber has allowed anger and grief to harden her heart. Though she still fights for the preservation of nature, Tilita mourns what she sees as Alber’s loss of gentleness and the abandonment of the nurturing spirit they once shared.
+
+**Attitude towards Mortals**: Views them as her children, offering protection and guidance, especially to mothers and young women. 
 
 ## Mythology and Worship
 
@@ -54,7 +61,7 @@ Tilita, born from the union of love and consequence, emerged as the Goddess of F
 
 ## Significant Historical Impact
 
-- **Major Plot Points in World History**: 
+- **Major Plot Points in World History**: Unlike many of the other gods whose deeds are marked by grand battles or cataclysmic events, Tilita’s legacy is one of quiet, enduring presence. She has never sought to dominate history through dramatic intervention; instead, she has been a constant, calming protector of mortals throughout the ages. Though no single story of heroism stands out in the annals of legend, her unwavering support has been felt across Staterum—nurturing fledgling civilizations, protecting the vulnerable, and offering strength during times of hardship. Her influence, though often unseen, is woven deeply into the fabric of mortal survival and prosperity.
 - **Artifacts**: The Garland of Renewal: It is said that whoever wears this sacred garland at the time of their death will be granted a new beginning. 
 
 ## Quotes

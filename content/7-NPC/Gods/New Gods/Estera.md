@@ -32,8 +32,8 @@ Her hair, a fiery cascade of vibrant red locks, frames her face and spills over 
 ## Personality
 
 - **Traits**: Passionate, vibrant, and generous
-- **Strengths**: Brings warmth and fosters growth, encourages celebration and joy
-- **Weaknesses**: Can be overly intense, and overbearing
+- **Strengths**: Radiates warmth and vitality, fostering life, growth, and exuberance wherever her influence falls. She inspires joy, passion, and the drive to seize the fullness of life, encouraging communities to flourish and celebrate their prosperity.
+- **Weaknesses**: Her fierce passion can make her overbearing, often expecting others to match her intensity and zeal. She has a domineering streak, believing strongly that her way is best, and can be fiery and quick-tempered when her ideals are challenged.
 - **Goals and Motivations**: To celebrate life at its peak, promoting abundance, joy, and the glory of the sun. 
 
 ## Relationships
@@ -43,8 +43,10 @@ Her hair, a fiery cascade of vibrant red locks, frames her face and spills over 
 - **[[Tunera]]**: Sister, Estera finds Tunera a tad dull compared to her own vibrant and energetic nature. While they maintain a cordial relationship, Estera often feels that Tunera's contemplative and subdued demeanor doesn't quite sync with her own lively spirit. Nonetheless, they share a familial bond that keeps their interactions amicable.
 - **[[Invera]]**: Sister, Invera, embodying the cold and reticent traits of winter, stands in stark contrast to Estera's warm and exuberant personality. Their differences make it challenging for them to relate to each other, resulting in a relationship that, while not openly antagonistic, lacks closeness and warmth.
 - **[[Mavera]]**: Sister, Estera shares the closest bond with Mavera, the youngest of the seasonal sisters. She is protective of Mavera and appreciates her fresh, optimistic view of the world. However, Estera’s intense nature can sometimes be overwhelming for Mavera, who embodies the gentle and renewing qualities of spring. Despite this, their relationship is the most affectionate among the siblings, filled with mutual care and understanding.
+
 **Rivals/Enemies**:
 - **[[Ooscara]]**: Estera harbors a deep-seated mistrust and animosity towards Ooscara, whom she views as a malevolent counterpart to her own nurturing warmth. Known as the Queen of Ice in the frigid realms of Northern Siar'Morrin, Ooscara represents an extreme of cold and frost. Unlike her sister Invera, who Estera acknowledges as a necessary part of the world's natural cycle, she sees Ooscara as a dangerous entity.
+
 **Attitude towards Mortals**: Estera has a complex view of mortals. While she is generally indifferent, she harbors a special fondness for those who embrace life with zeal and passion, mirroring her own vibrant nature. To her, many mortals seem to squander their brief lives, which leads to her occasional disdain. However, she has a particular affinity for the Vindri people of the [[Windswept Marches]] and the centaurs of [[Hybla Gratis]], drawn to their robust celebration of life. Additionally, the chaotic yet ephemeral lives of the ratfolk fascinate her, finding their intensity intriguing despite their short lifespan.
 
 ## Mythology and Worship

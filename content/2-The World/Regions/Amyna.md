@@ -7,7 +7,7 @@ tags:
 *[ah-me-nuh]*
 ### 1. **Overview**
 
-Welcome to Amyna, a region renowned for housing the [[Paleomyna Wall]], an architectural marvel and the largest single structure in the world. Stretching across the landscape, this immense wall forms a formidable defense line against the ancient and formidable [[trogs]] from the Anteanus Peninsula. The presence of the Paleomyna Wall has catalyzed the development of numerous cities and settlements along its length, evolving into bustling urban centers that cater to the needs of the soldiers who perpetually man the wall.
+Welcome to Amyna, a region renowned for housing the [[Paleomyna Wall]], an architectural marvel and the largest single structure in the world. Stretching across the landscape, this immense wall forms a formidable defense line against the ancient and formidable [[Trogs]] from the Anteanus Peninsula. The presence of the Paleomyna Wall has catalyzed the development of numerous cities and settlements along its length, evolving into bustling urban centers that cater to the needs of the soldiers who perpetually man the wall.
 
 ![[Wall P.webp]]
 

@@ -41,10 +41,12 @@ Adorned with elements of her domain, Alber wears no crafted garments but is inst
 **Family**: 
 - **[[Theri'an]]**: Brother. Agra shares a unique relationship with Theri'an, blending rivalry and camaraderie. Unlike her typical reserved or indifferent demeanor towards other gods, Theri'an's shared wild side and occasional ruthlessness resonates with Alber, and the two are often depicted in stories as working side by side. 
 - **[[Agra]]**: The connection between Agra and Alber is less clear. Some believe Agra may be Alber’s mother, given their shared dominion over nature. Others theorize that Alber is not a seperate goddess, rather she represents a wrathful aspect of Agra, a side brought forth by humanity’s relentless destruction of the natural world. 
+
 **Rivals/Enemies**: 
 Unlike many of her divine counterparts, Agra's enmity is less focused on the machinations of gods or even the vices and more directed towards mortal empires that threaten the natural world.
 - **[[Dahri Empire]]**: Agra has harbored a longstanding animosity towards the Dahri Empire, primarily due to their extensive deforestation and environmental destruction, particularly in the [[Vahshi Forest]]. This conflict has not only fueled a bitter feud but also precipitated numerous wars. Agra views the Dahri as a persistent blight on the landscape.
 - **[[Riben]]**: Emerging more recently as a focal point of Agra’s ire, Riben has drawn her wrath through their bold encroachments and disregard for the sanctity of the Vahshi Forest. As this empire's activities increasingly threaten the ecological balance, they have become the primary target of Agra. 
+
 **Attitude towards Mortals**: Alber is both nurturing and wrathful. She can be a protector to those who respect and care for nature, but she shows fierce anger towards those who exploit or destroy it. Her interactions with mortals are often driven by their actions towards the environment.
 
 ## Mythology and Worship
@@ -76,4 +78,10 @@ As civilizations rose and the influence of other gods expanded, Alber remained a
 “To tame nature is to enslave it; to protect it is to honour it.”
 
 ## Background
+
+**[[Alberine]]**
+To the Alberine, Alber is more than a goddess — she is the very spirit of the Vahshi Forest itself. They view her with deep reverence, honoring her as both a nurturing provider and a fierce protector. Her presence is felt in every whisper of the trees and every beast that roams their ancestral home. While she offers bountiful life to those who respect her realm, the Alberine know well that her wrath can be equally devastating when provoked. Her daughter is said to still reside deep within the forest, serving as an intermediary between Alber and the Alberine, maintaining the fragile harmony between mortal settlements and the untamed wilderness.
+
+**The [[Dahri Empire]]:**  
+Among the people of the Dahri Empire, Alber is not recognized as a deity but rather as a symbol of the deadly wilderness embodied by the Vahshi Forest. To the Dahri, "Alber" is less a goddess and more a whispered name for the unseen terrors that thwart their expansion — the feral beasts, the cursed trees, and the treacherous mists that claim whole expeditions. In their eyes, she represents the unchecked savagery of nature, an obstacle to be conquered rather than revered. The name Alber is invoked in curses and tales of the many soldiers, settlers, and explorers who have vanished within the forest's endless green shadows.
 

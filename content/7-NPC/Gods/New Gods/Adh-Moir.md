@@ -38,9 +38,11 @@ Adh-Moir is often depicted as a jovial figure, ever-smiling, with a pair of dice
 
 **Family**: 
 - **[[Dorna]]**: Father, little is known about Adh-Moir's relation with his supposed father. Not much is known about any of Adh-Moir's relationships though. 
+
 **Rivals/Enemies**: 
 - [[Paysius]], Adh-Moir views his interactions with Paysius more as a diversion than a rivalry. He takes a certain pleasure in toying with the Vice of Arrogance, often belittling and provoking him at every turn to showcase his superiority.
 - Entropy, Adh-Moir remains enigmatic about his true adversary but he has on rare occasion mentioned that Entropy is the only entity he truly considers a threat in the cosmos.
+
 **Attitude towards Mortals**: Views them with a playful detachment, enjoying the drama of their fortunes and misfortunes as if they were pieces in a game.
 
 ## Mythology and Worship

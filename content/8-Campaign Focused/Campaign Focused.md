@@ -16,6 +16,7 @@ Here is all the regions and characters obviously tied to the campaign.
 - [[Whole Statera Overview]]
 
 **Gods**
+- [[The New Gods]]
 - [[The Old Gods]]
 - [[The Ancients]]
 - [[The Vices]]
