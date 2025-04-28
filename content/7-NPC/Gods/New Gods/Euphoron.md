@@ -59,21 +59,25 @@ Determined to shape his son’s destiny away from the pitfalls of excess that Vo
 - **Major Cults and Religious Practices**: Unlike the rigid, temple-bound practices of many gods, worship of Euphoron is _alive_ — it's in the laughter of a crowded tavern, the joyous singing of travelers around a fire, or the grand revelries that sweep through towns on festival days. True worshippers of Euphoron believe that joy itself is a sacred act. Formal temples to Euphoron are rare; most who revere him do so through acts of merrymaking, communal feasting, and music. However, there are roving groups known as the Gilded Hands, wandering bards, minstrels, brewers, and jesters who see spreading joy as a holy duty.
 - **Festivals**: 
 	- **The Night of Endless Song**:  Held on the first full moon of summer, this night-long festival sweeps across cities and villages alike. It begins with a single song in the town square, and by midnight, the entire town is expected to be singing, dancing, and sharing stories. Tradition holds that those who do not lift their voice in song, even briefly, risk falling into a year of melancholy. Great feasts are held, goblets overflow, and at the peak of the night, lanterns are released into the sky, symbolizing the lifting of mortal burdens into the heavens.
-	- **The Baccharié**:  
-    Less structured but equally beloved, the Baccharié is a spontaneous festival, declared whenever a major hardship (like a plague, siege, or long drought) ends. It is a _pure_ celebration of survival and resilience, where work is abandoned for a day and the people pour into the streets. Euphoron is said to attend in spirit, blessing those who remember to celebrate life's victories, no matter how small.
-- **Clergy and Temples**: (Description of priests, holy orders, and sacred sites dedicated to the deity)
+	- **The Baccharié**: Less structured but equally beloved, the Baccharié is a spontaneous festival, declared whenever a major hardship (like a plague, siege, or long drought) ends. It is a _pure_ celebration of survival and resilience, where work is abandoned for a day and the people pour into the streets. Euphoron is said to attend in spirit, blessing those who remember to celebrate life's victories, no matter how small.
+- **Clergy and Temples**: As mentioned, Euphoron has few true temples. More often you will find annexed rooms within bustling theaters, lively taverns, or city halls. Permanent temples are rare, but **temporary shrines** to Euphoron spring up spontaneously during large celebrations or important festivals — often simple offerings of wine, garlands, and candles placed on makeshift altars. The exception and most renowned temple dedicated to Euphoron is found in Kastelli. This structure, more a great amphitheater than a traditional temple, hosts grand performances, feasts, and celebrations in his honor
 
 ## Significant Historical Impact
 
-- **Major Plot Points in World History**: (Key moments when this god significantly influenced the world’s history)
-- **Artifacts**: (Relics or magical items associated with the deity)
+- **Major Plot Points in World History**: Long ago, Euphoron descended upon the [[Vahshi Forest]], where he shared in a season of endless revelry with the Alberine people. His joy, his music, and his boundless celebration left a lasting impression on many of the [[Alberine]]. Inspired by Euphoron's spirit a group of Alberine chose to leave behind the solemn guardianship of the forest and follow the god across the seas.  Guided by his laughter and the songs of his followers, they eventually arrived in Siar'Morrin, where they founded the city of Kastelli. Over generations, these Alberine evolved into a new people — the [[Bacchin]]. 
+- **Artifacts**: 
+	- **Goblet of Endless Revelry**: A brilliant golden goblet, rimmed with tiny gemstones. Once filled, the cup will never run dry so long as it is passed among friends.
+	- **The Baccharié Lute**: This finely crafted lute, strung with silvered chords, carries the chaotic joy of Euphoron’s spirit. When played, it can charm enemies forcing them to dance uncontrollably.
 
 ## Quotes
 
-- **Key Quotes**: (Iconic sayings or teachings attributed to the deity)
+"Mot hai ba yoooooo!!!"
 
 ## Background
 
-- **Legends and Lore**: (Lesser-known tales and esoteric knowledge about the deity)
+**[[Bacchin]]**
+To the Bacchin, Euphoron is not merely a god — he is the very spirit of life itself. He is seen as the joyful heartbeat of existence, the laughter after hardship, and the vibrant song that carries through the valleys of Kastelli. Daily life for the Bacchin is steeped in devotion to Euphoron, with festivals, performances, and small moments of revelry woven into even the most mundane tasks.  Even Bacchin who leave Kastelli to settle elsewhere hold him close to their hearts, often establishing small shrines in their new homes, businesses, and theaters, ensuring that the joy and freedom he embodies travels with them no matter how far they roam.
 
-This template should provide a comprehensive overview that can be used to detail each god within your pantheon, giving depth and context to their roles within your fantasy world.
+**Balancekeepers**  
+The Balancekeepers — a strict sect of the [[Church of Statera]] based in [[Mesokini]] — view Euphoron with deep suspicion. To them, he treads dangerously close to embodying the same unchecked excess as his mother, Voluptia. They argue that Euphoron's influence weakens moral fiber, encouraging indulgence and recklessness under the guise of celebration.  
+Within Mesokini, Euphoron is seen not as a joyful god, but as a cautionary figure — a symbol of what happens when passion and pleasure are left unrestrained. His cults are suppressed, his festivals shunned, and his worshipers often treated with disdain, viewed as bearers of corruption and frivolity in a kingdom that prizes order and restraint.

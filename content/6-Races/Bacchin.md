@@ -3,6 +3,8 @@ title: Bacchin
 draft: false
 tags:
   - race/bacchin
+  - region/new-birania
+  - deity/euphoron
 ---
 *[]*
 
@@ -10,7 +12,7 @@ tags:
 
 Bacchins have long been known as a friendly and welcoming race, their cheerful demeanor and open-hearted nature earning them a special place in the histories of Staterum. Legend tells that it was the Bacchins who first welcomed humanity to Siar’Morrin, offering their hospitality and forging bonds of friendship that have endured through the ages. This early connection has left an indelible mark on Bacchin society, and even now, they are a common and beloved presence in human settlements across the land. From bustling trade cities to quiet rural villages, Bacchins are often found mingling with their taller neighbors, bringing their unique blend of joy and mischief wherever they go.
 
-Though their roots lie with the Alberine, the Bacchins’ path diverged long ago when a group of them chose to follow [[Euphoron]], the God of Alcohol and Merriment. According to ancient tales, Euphoron offered them his blessings of tranquility, joy, and endless revelry in exchange for their boundless curiosity and adventurous nature. While their Alberine kin ventured deep into the untamed jungles, the Bacchins embraced a simpler, more peaceful existence. This choice shaped them into the merry, carefree people they are today, their lives marked by celebration and harmony rather than strife or exploration.
+Though their roots lie with the Alberine, the Bacchins’ path diverged long ago when a group of them chose to follow [[Euphoron]], the God of Alcohol and Merriment. According to ancient tales, Euphoron, moved by their boundless curiosity and lively spirits, offered them his blessings—promising a life filled with tranquility, joy, and endless celebration. Rather than journeying deeper into the untamed jungles like their Alberine kin, these followers embraced a simpler, more harmonious way of life. Guided by Euphoron’s influence, they eventually settled in the fertile lands of Siar'Morrin, where they founded the vibrant city of Kastelli. Here, their culture blossomed, shaping them into the merry, carefree people known today, their lives marked not by strife or hardship, but by constant celebration, community, and revelry.
 
 The Bacchins that haven't integrated into human society typically reside in secluded, tranquil villages nestled in woodland glades or tranquil valleys. Their homes are humble yet vibrant, adorned with colorful decorations and the spoils of their many feasts. While their communities are known for their hedonistic tendencies, Bacchins maintain strong values of kindness and generosity, welcoming all who come in peace to join their festivities. Music, dance, and laughter are ever-present, and their legendary feasts are known to bring together travelers from far and wide.
 

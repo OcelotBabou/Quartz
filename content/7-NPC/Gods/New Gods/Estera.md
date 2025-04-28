@@ -67,7 +67,7 @@ In the nascent days of Staterum, when the earth was still young and malleable un
 
 ## Quotes
 
-"Life is a flame, burnbrightly, or be forgotten."
+"Life is a flame, burn brightly, or be forgotten."
 
 ## Background
 
