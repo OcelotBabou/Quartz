@@ -23,7 +23,6 @@ tags:
 Clypeus appears as a towering figure clad in heavy, immaculately maintained armor that seems fused to his very being. His form is broad and solid, like a walking fortress, with every plate of his armor etched with intricate designs of walls, gates, and battlements. His presence emanates a palpable sense of immovability, as if the very earth would refuse to move beneath his feet.
 
 The most iconic feature of Clypeus is the colossal tower shield he bears—an unbreakable slab of gleaming metal that stands as tall as he does. His face is rarely seen, often hidden behind a solid, expressionless helmet with a narrow, glowing slit where his eyes would be, emanating a soft silver light.
-
 - **Height**: 233cm
 - **Weight**: Unknown
 - **Distinguishing Features**: His massive tower shield that radiates divine protection

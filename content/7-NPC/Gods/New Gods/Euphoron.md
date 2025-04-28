@@ -27,16 +27,23 @@ Euphoron is depicted as a vibrant and joyous figure, embodying the spirit of cel
 
 ## Personality
 
-- **Traits**: (Key personality traits)
-- **Strengths**: (Divine powers and positive traits)
-- **Weaknesses**: (Any known divine limitations or emotional vulnerabilities)
-- **Goals and Motivations**: (What drives this god? What are their divine objectives?)
+- **Traits**: Exuberant, carefree, magnetic, and deeply compassionate
+- **Strengths**: Euphoron can inspire happiness even in the darkest of times. His divine presence can banish sorrow, strengthen bonds between mortals, and renew weary spirits. He is able to ward off despair and revitalise hope through celebration and joy.
+- **Weaknesses**: Euphoron often struggles with long-term thinking, preferring immediate joy over future consequences. His indulgence can sometimes lead to excess, neglect of responsibilities, and vulnerability to manipulation by those who exploit his trusting nature.
+- **Goals and Motivations**: Euphoron is driven by the belief that joy, connection, and communal revelry are essential for life to flourish. His divine mission is to remind mortals (and gods) alike that even amidst hardship, moments of celebration, laughter, and unity are what make existence worthwhile.
 
 ## Relationships
 
-**Family**: (Other gods or celestial beings they align with)
-**Rivals/Enemies**: (Antagonistic relationships within the pantheon)
-**Attitude towards Mortals**: (How they generally treat or interact with their followers and other mortals)
+**Family**: 
+- **[[Aruinbe]]**: Father. Euphoron holds deep admiration and gratitude for Aruinbe, seeing only the goodness, compassion, and unconditional love that he believes defines his father. To Euphoron, Aruinbe represents the wellspring of all the joy he seeks to spread.
+- **[[Voluptia]]**: Mother. Euphoron's feelings towards Voluptia are far more complicated. At best, he feels pity for her — a being consumed by her own excesses — and at worst, he harbors a quiet resentment for the constant temptation she represents within him. Fighting the latent pull toward unchecked indulgence is Euphoron’s greatest ongoing battle, and while he rarely speaks of her, those closest to him know the inner struggle her legacy has left behind.
+
+**Rivals/Enemies**: 
+- **[[Voluptia]]**: Though she is his mother, Euphoron views Voluptia as one of his greatest adversaries. Her embodiment of unrestrained indulgence and temptation stands in stark contrast to his ideal of joy tempered with care. He sees her influence as a threat to the purity of celebration and strives constantly to resist her legacy.
+- **[[Anhedonia]]**: Euphoron despises Anhedonia, the Vice of Insensibility. In her, he sees the death of joy, passion, and all the vibrant emotions that give life meaning. Where Euphoron inspires song and laughter, Anhedonia extinguishes it with cold indifference, making her one of his most hated foes.
+- **[[Pathupem]]**: While his disdain for Pathupem is less fiery than for others, Euphoron views Apathy as a silent, creeping enemy. He sees it as a quiet killer of celebration — the slow erosion of spirit that leads to lifelessness. In Euphoron's eyes, to succumb to apathy is to betray life's fundamental joys.
+
+**Attitude towards Mortals**: Euphoron is among the most active and beloved of the gods in mortal life. He delights in walking unseen among festivals, taverns, weddings, and celebrations, reveling in the joy of the moment alongside mortals. To him, mortals are precious sparks of life, capable of incredible passion, creativity, and exuberance. He believes joy is their natural state and sees it as his divine duty to nurture and protect that spirit.
 
 ## Mythology and Worship
 
@@ -49,8 +56,11 @@ During a rare lapse in vigilance by [[Alache]], the Vice of lust and desire, [[V
 The consequences of her visit soon became evident, with Voluptia returned to her domain, bearing a child born of her brief union with Aruinbe. This child was Euphoron, a being infused with the essence of joy and celebration but also tinged with the potential for excess. Aruinbe, troubled by the thought of his son being raised in a realm dominated by the Vices, sought the assistance of Dorna and Eris. In a bold and daring mission, reminiscent of the legendary quests of old, the two gods ventured into the realm of Excess and rescued the newborn Euphoron, bringing him safely to Staterum.
 
 Determined to shape his son’s destiny away from the pitfalls of excess that Voluptia embodied, Aruinbe and his divine peers nurtured Euphoron among the gods of Staterum. Under their guidance, Euphoron grew to embody the spirit of celebration and merrymaking in its most positive light. His divine essence became a source of happiness and joy, fostering mirth and revelry wherever he went.
-- **Major Cults and Religious Practices**: (Description of main worship practices and any associated cults)
-- **Festivals**: (Special times of the year dedicated to this deity, including rituals and celebrations)
+- **Major Cults and Religious Practices**: Unlike the rigid, temple-bound practices of many gods, worship of Euphoron is _alive_ — it's in the laughter of a crowded tavern, the joyous singing of travelers around a fire, or the grand revelries that sweep through towns on festival days. True worshippers of Euphoron believe that joy itself is a sacred act. Formal temples to Euphoron are rare; most who revere him do so through acts of merrymaking, communal feasting, and music. However, there are roving groups known as the Gilded Hands, wandering bards, minstrels, brewers, and jesters who see spreading joy as a holy duty.
+- **Festivals**: 
+	- **The Night of Endless Song**:  Held on the first full moon of summer, this night-long festival sweeps across cities and villages alike. It begins with a single song in the town square, and by midnight, the entire town is expected to be singing, dancing, and sharing stories. Tradition holds that those who do not lift their voice in song, even briefly, risk falling into a year of melancholy. Great feasts are held, goblets overflow, and at the peak of the night, lanterns are released into the sky, symbolizing the lifting of mortal burdens into the heavens.
+	- **The Baccharié**:  
+    Less structured but equally beloved, the Baccharié is a spontaneous festival, declared whenever a major hardship (like a plague, siege, or long drought) ends. It is a _pure_ celebration of survival and resilience, where work is abandoned for a day and the people pour into the streets. Euphoron is said to attend in spirit, blessing those who remember to celebrate life's victories, no matter how small.
 - **Clergy and Temples**: (Description of priests, holy orders, and sacred sites dedicated to the deity)
 
 ## Significant Historical Impact
