@@ -37,9 +37,13 @@ Dorna is often depicted as a dynamic figure, swirling with multiple colors, his 
 
 ## Relationships
 
-- **Allies**: 
-- **Rivals/Enemies**: Eris, God of Law
-- **Attitude towards Mortals**: Views them as potential agents of change and creativity, often pushing them towards growth through trials. Has obvious preference for elves over the other mortal races. 
+**Family**: 
+
+
+**Rivals/Enemies**: Eris, God of Law
+
+
+**Attitude towards Mortals**: Views them as potential agents of change and creativity, often pushing them towards growth through trials. Has obvious preference for elves over the other mortal races. 
 
 ## Mythology and Worship
 

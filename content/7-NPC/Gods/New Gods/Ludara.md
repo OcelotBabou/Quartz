@@ -38,7 +38,10 @@ Ludara is depicted as a tall, slender figure with an ethereal presence that comm
 - **[[Eris]]**: Father. Ludara has a complex relationship with Eris. While she respects him as her creator and values his wisdom, she often finds his methods overly strict and his demeanor too serious, which she publicly criticizes as boring and limiting. Despite this, she understands the importance of his role and his contributions to the cosmos.
 - **[[Dorna]]**: Uncle. Ludara's favorite among the gods, she adores Dorna for his carefree nature and his embrace of chaos and fun. She sees in him a kindred spirit, whose whimsical and free-thinking ways resonate deeply with her own. This alignment in their personalities makes Dorna both a mentor and a partner in mischief.
 - **[[Sanara]]**: Sister. Ludara and Sanara share a sibling rivalry that is as intense as it is complex. Ludara sees herself as superior, often acting sassy and condescending towards Sanara, whom she believes wastes her intellectual potential. Despite this, Ludara is fiercely protective of Sanara, first to speak in her defense if ever criticised. She also views her as one of the few beings capable of matching her in intellectual games and strategic thought.
-**Rivals/Enemies**: Generally views herself superior to others, but does have long running beef with [[Matiodox]]. 
+
+**Rivals/Enemies**: 
+- [[Matiodox]]: Generally Ludara views herself superior to others, but does have long running beef with Matiodox... He thinks he's all that.
+
 **Attitude towards Mortals**: Enjoys challenging mortals to put them in their place, secretly watches over and guides them despite outwardly denying any deep care or connection.
 
 ## Mythology and Worship

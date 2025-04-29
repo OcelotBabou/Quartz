@@ -37,6 +37,7 @@ Gratia is depicted as a stunningly radiant figure, her form seemingly sculpted f
 **Family**: 
 - **[[Dorna]]**: Father. Gratia adores her father’s wild, free-spirited nature and finds inspiration in his unrestrained creativity. She often draws from his playful side but tempers it with a more structured sense of grace.
 - **[[Mavera]]**: Mother. Gratia reveres her mother and finds great joy during the springtime when Mavera’s influence is strongest. They share a profound bond rooted in the renewal and blossoming of life.
+- **[[Kakurcia]]**: Half-Brother, To Gratia, Kakurcia is a figure of quiet mystery — a powerful, brooding presence that lingers at the edges of the natural world she so adores. Though their approaches differ greatly — hers through beauty and nurturing, his through mastery and predation — she feels a strong kinship with him rooted in their mutual love of nature. She holds a quiet admiration for his strength and respect for the wild, even if she sometimes finds his relentless and solitary demeanor unsettling.
 
 **Rivals/Enemies**:
 - **[[Ratura]]**: More a frenemy, Ratura is Gratia’s most persistent rival. Their relationship is one of competitive friendship—both deities see themselves as the pinnacle of artistry and beauty. Their frequent arguments over who is truly the “fairest and most inspiring” of the gods are legendary, and many a bard’s tale recounts the sparks and splendour of their timeless rivalry.

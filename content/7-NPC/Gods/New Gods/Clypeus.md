@@ -63,7 +63,7 @@ Moved by his valor, Statera herself descended upon the battlefield. In recogniti
 ## Significant Historical Impact
 
 **Major Plot Points in World History**: 
-- During the early stages of the Age of Darkness, when demonic forces first poured into Staterum, it was Clypeus—then still a mere construct—who orchestrated the unbreakable defense of Paleomyna Wall. For seventy days and nights without rest, he repelled wave after wave of horrors, refusing to let even a single breach occur.
+- During the early stages of the Age of Darkness, when demonic forces first poured into Staterum, it was Clypeus—then still a mere construct—who orchestrated the unbreakable defense of Paleomyna Wall during the [[Siege of Solway]]. For seventy days and nights without rest, he repelled wave after wave of horrors, refusing to let even a single breach occur.
 - In the aftermath of the Age of Darkness, Clypeus came across an impressive warrior known as Parthos Calipus. Upon this warrior Clypeus bestowed his blessing, charging him and his bloodline with the sacred duty of protecting Siar'Morrin from the lingering threats of the dark. From this action the Rift Watch was born. 
 **Artifacts**: 
 - The Watchers Shield: This massive, almost immovable shield with an eye etched into its centre. 
