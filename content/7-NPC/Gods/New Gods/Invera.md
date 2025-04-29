@@ -25,6 +25,7 @@ Invera, the embodiment of winter, is portrayed as a figure of timeless elegance,
 Her hair is long and flows like a cascade of icicles, each strand shimmering with a silvery sheen that mimics the delicate formations of frost. It frames her face in an icy veil, enhancing her ethereal, ageless beauty. Invera's eyes are a penetrating shade of glacier blue, clear and deep, holding the stillness and mystery of frozen lakes in their gaze.
 
 She is draped in robes of shimmering whites and icy blues, their fabrics ethereal and light, moving with the fluid grace of falling snow. These garments are adorned with patterns that resemble frostwork on winter windows, intricate and delicate. The fabric catches the light to sparkle like freshly fallen snow under the morning sun. 
+
 - **Height**: Ethereal and imposing like a winter storm
 - **Weight**: Seemingly insubstantial, like a cold wind
 - **Distinguishing Features**: Jewelry made from crystalline ice and sapphire. 
@@ -58,6 +59,7 @@ She is draped in robes of shimmering whites and icy blues, their fabrics etherea
 In the formative years of Staterum, the world bore witness to the profound grief of its creator, Statera. She had lost her beloved husband, a stalwart companion in the early days of creation, to the cunning and malice of the Vices. His unexpected demise left a void in Statera's heart, her sorrow echoing through the cosmos and manifesting in the world's very climate. Initially overwhelmed by fiery rage, Statera's emotions gradually cooled into a reflective melancholy, and as her internal turmoil deepened, the world felt the encroaching chill of her despair.
 
 This profound sadness brought about the world's first winter, as Statera’s heart turned cold and isolated. From this frosty solitude emerged Invera, crystallized from the icy stillness that had gripped the land. Invera was the embodiment of the season's harsh yet majestic beauty, bringing with her a necessary pause for the natural world. This season of rest was critical for conservation and introspection, preparing all life for the eventual renewal of spring. 
+
 - **Major Cults and Religious Practices**: In Northern Siar’Morrin, where the grip of winter is most keenly felt, Invera is revered as a necessary force of stillness and preparation. Communities aligned with the Seasonal Sisters understand that her season is not one of cruelty, but of protection—preserving life through dormancy and reflection. Worship practices are quieter and more solemn than those of her sisters, involving acts of endurance, introspection, and careful stewardship of dwindling resources during the harsh months.
 - **Festivals**: 
 	- **Vetr Festival**: Marking the full arrival of winter and Invera’s reign, the Vetr Festival is a subdued but vital tradition. Communities gather to share preserved food, exchange stories of perseverance, and give thanks for the strength to endure. Central to the festival is the ritual "Offering of the Last Flame," where the final outdoor bonfire of the year is ceremonially extinguished, symbolizing the respectful surrender to winter’s rule and a promise to endure until spring’s return.

@@ -23,6 +23,7 @@ tags:
 Clypeus appears as a towering figure clad in heavy, immaculately maintained armor that seems fused to his very being. His form is broad and solid, like a walking fortress, with every plate of his armor etched with intricate designs of walls, gates, and battlements. His presence emanates a palpable sense of immovability, as if the very earth would refuse to move beneath his feet.
 
 The most iconic feature of Clypeus is the colossal tower shield he bears—an unbreakable slab of gleaming metal that stands as tall as he does. His face is rarely seen, often hidden behind a solid, expressionless helmet with a narrow, glowing slit where his eyes would be, emanating a soft silver light.
+
 - **Height**: 233cm
 - **Weight**: Unknown
 - **Distinguishing Features**: His massive tower shield that radiates divine protection
@@ -65,6 +66,7 @@ Moved by his valor, Statera herself descended upon the battlefield. In recogniti
 **Major Plot Points in World History**: 
 - During the early stages of the Age of Darkness, when demonic forces first poured into Staterum, it was Clypeus—then still a mere construct—who orchestrated the unbreakable defense of Paleomyna Wall during the [[Siege of Solway]]. For seventy days and nights without rest, he repelled wave after wave of horrors, refusing to let even a single breach occur.
 - In the aftermath of the Age of Darkness, Clypeus came across an impressive warrior known as Parthos Calipus. Upon this warrior Clypeus bestowed his blessing, charging him and his bloodline with the sacred duty of protecting Siar'Morrin from the lingering threats of the dark. From this action the Rift Watch was born. 
+
 **Artifacts**: 
 - The Watchers Shield: This massive, almost immovable shield with an eye etched into its centre. 
 	- +3 Shield
@@ -78,10 +80,13 @@ Moved by his valor, Statera herself descended upon the battlefield. In recogniti
 ## Background
 
 **[[The Rift Watch]]**  
+
 To the Rift Watch, Clypeus is more than a divine protector — he is the spirit of their founding purpose. His legendary resolve in the face of overwhelming darkness during the Age of Darkness is seen as the spark that led to the creation of their order. They revere him not just for his physical might, but for his unwavering commitment to shielding those who could not shield themselves. Within their teachings, Clypeus represents the highest ideal: to be the shield that stands between innocence and annihilation. Every member of the Rift Watch swears their oaths with his name on their lips, vowing to embody his resilience and unyielding resolve in all they do.
 
 **The Soldiers of Paleomyna Wall**  
+
 Among the soldiers who defend Paleomyna Wall, Clypeus is regarded almost as the Wall itself made divine. They see in him the embodiment of steadfastness, endurance, and sacrifice. To them, Clypeus is the immovable guardian who asks for no glory and seeks no reward — only the knowledge that those behind him remain safe. His story serves as a reminder of the oaths they took and the protection their sacrifices offer to the rest of Siar'Morrin. 
 
 **[[Elves]]**
+
 Among the Elves, the name Clypeus is recognized but interpreted through a different lens. In their ancient tongue, "Clypeus" once referred to the divine protection afforded by Gahrian and Alache's eternal vigil over the realms. Elven scholars believe that mortal traditions, prone to twisting and confusing ancient stories, have misunderstood and personified this old concept into a separate god. Nevertheless, they view the worship of Clypeus not as heresy, but as a natural extension of devotion to the Ancients. His ideals of defense, vigilance, and protection mirror the original purpose Gahrian and Alache once stood for, and so Clypeus is quietly honored among them as a reflection of the first guardians.

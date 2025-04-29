@@ -23,6 +23,7 @@ tags:
 - **Appearance**: 
 
 Adh-Moir is often depicted as a jovial figure, ever-smiling, with a pair of dice in one hand and a flipped coin in the other. He wears a cloak of shifting colors that seems to change depending on the viewer's luck. 
+
 - **Height**: 177cm (Variable)
 - **Weight**: 77kg (Variable)
 - **Distinguishing Features**: Remarkably, no two descriptions of his appearance ever align, except for his mischievous smile, consistently described as both unnerving and inviting and his dichromatic eyes
@@ -56,6 +57,7 @@ This darkness was not merely a place but a canvas of the cosmos’s deepest myst
 Adh-Moir, from his first appearance, was an enigma. His features bore the mark of celestial heritage, yet his eyes whispered of abysses untold and cosmos uncharted. His demeanor was not of a newborn deity but of a being who seemed ancient, as if his soul had been forged in the crucibles of time itself.
 
 The circumstances of Adh-Moir's conception and birth are draped in mystery. Rumors among the gods suggested that Dorna encountered ancient entities or forces in the darkness, primeval entities that predate even the oldest of the gods, fundamental being of the universe itself. Despite the speculations, Dorna never confirmed any theory about his son’s origins, and Adh-Moir himself remained aloof and blasé about his history. 
+
 - **Major Cults and Religious Practices**: Adh-Moir has no dedicated religions and few temples, rather he is called upon by gamblers and those in precarious situations. His failure to answer the majority of pleas, is out weighed by the praise earned at an unexpected turn of good fortune. 
 - **Festivals**: There are no large scale festivals dedicated to Adh-Moir, yet he often plays a role in other deities festivities. 
 - **Clergy and Temples**: Temples are few, usually more like taverns or casinos than traditional religious sites, unofficially created and operated by those few that have devoted themselves to Adh-Moir. Those devoted to him are often seen as tricksters and soothsayers, looking to use his blessing for personal gain. 

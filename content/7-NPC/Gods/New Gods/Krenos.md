@@ -18,7 +18,10 @@ tags:
 
 ## Physical Description
 
-- **Appearance**: Krenos is depicted as a towering, muscular figure, embodying the raw power and unyielding strength of a titan. His skin is a deep, bronzed hue, reflecting the might and resilience of forged metal. His eyes are intense and fierce, glowing with a powerful inner light that signifies his immense strength. His hair is a wild mane, of shaggy brown hair that reaches to his waist. He wears minimal armor that highlights his muscular form, adorned with symbols of strength and power. His limbs are thick and powerful, and his hands are massive, capable of crushing stone. Krenos is often depicted wielding his colossal warhammer "Obcillo."
+- **Appearance**: 
+
+Krenos is depicted as a towering, muscular figure, embodying the raw power and unyielding strength of a titan. His skin is a deep, bronzed hue, reflecting the might and resilience of forged metal. His eyes are intense and fierce, glowing with a powerful inner light that signifies his immense strength. His hair is a wild mane, of shaggy brown hair that reaches to his waist. He wears minimal armor that highlights his muscular form, adorned with symbols of strength and power. His limbs are thick and powerful, and his hands are massive, capable of crushing stone. Krenos is often depicted wielding his colossal warhammer "Obcillo."
+
 - **Height**: 313cm
 - **Weight**: 210kg
 - **Distinguishing Features**: His bronzed, metallic-like skin, glowing eyes, wild mane of hair, and his colossal warhammer "Obcillo."
@@ -52,6 +55,7 @@ It was within this boundless expanse that Gahrian, was brought before this force
 Krenos, The Mighty, was gifted with unparalleled strength and the essence of brute force. His form was that of a titan, a colossal figure sculpted from the cosmic energies of raw power. His skin shone like bronzed metal, tough and invincible, and his eyes blazed with the fierce light of stars. His brother Sthenos, though equally formidable, contrasted Krenos in the manifestation of their shared power. While Krenos embodied the overt might and force, Sthenos represented the enduring, unbreakable will of the cosmos.
 
 Together, these titanic brothers were bound by the prophecy that spoke of a looming threat known simply as Entropy—a fundamental force of the universe, an entity that would one day seek to unravel the very fabric of existence, to turn all back into the void from which it came. This dark prophecy foretold that only the combined might of Krenos and Sthenos could stand against Entropy, preserving the universe from returning to chaos and nothingness, at least for a time.
+
 - **Major Cults and Religious Practices**: Krenos is worshipped mostly among soldiers, gladiators, blacksmiths, and anyone who venerates physical might and endurance. His followers engage in feats of strength competitions, ritualized sparring matches, and construction of massive stone monuments to honor him. It is common for warriors to carve the symbol of the clenched fist onto their shields or breastplates before battle as a prayer for his strength.
 - **Festivals**: 
 	- The "Trial of Titans" is an annual festival held in [[Fort Logos]], where challengers compete in contests of might, endurance, and resilience. These competitions culminate in the raisng of Krenos' Fist, a symbolic event in which competitors hauls the largest boulder they can must up the slopes of the [[Ridgeback Mountains]] 

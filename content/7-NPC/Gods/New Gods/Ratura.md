@@ -23,6 +23,7 @@ tags:
 - **Appearance**: 
 
 Ratura is depicted as an ethereal and beautiful goddess, her presence a testament to the muses of creativity and expression. Draped in flowing robes that shimmer with celestial hues of deep purples, vibrant blues, and gleaming silvers. Her delicate frame is almost otherworldly, suggesting a being composed more of thought and spirit than flesh. Ratura's eyes, large and luminous, sparkle with a brilliance of inspiration, while her hair cascades in a waterfall of silver curls. Her hands, slender and poised, appear as if perpetually in the motion of weaving new worlds from her imagination, gesturing as though conducting an invisible orchestra or sketching unseen masterpieces into being.
+
 - **Height**: 181cm
 - **Weight**: 62kg
 - **Distinguishing Features**: Often shown with a musical instrument or a book, her hands depicted in the act of creation, either writing a new poem or strumming melodies that could stir the soul.
@@ -60,6 +61,7 @@ Ratura's compositions were not mere songs or stories; they were epic tales that 
 Observing Ratura's profound impact on humanity, Eolas recognized that her protégé's gifts were far greater than she had anticipated. Ratura had become not only a master of the arts but also a natural leader, her visionary works inspiring progress and unity among the people. Eolas realized that Ratura's calling was to guide humanity in the realms of art and expression—areas that were becoming increasingly vital to the cultural and spiritual growth of Staterum. 
 
 Eolas approached Statera proposing that that Ratura was destined for a greater purpose beyond her mortal origins; she was to be a divine teacher, a beacon for humanity in their pursuit of beauty and understanding through the arts. Statera, witnessing the profound unity and inspiration Ratura had fostered among the mortals, agreed with Eolas's insight, bestowing divinity upon Ratura. 
+
 - **Major Cults and Religious Practices**: 
 	- **The [[Ascended Church]]**: This is the principal sub-religion where Ratura is worshipped alongside her adoptive siblings, Mercio and Vilcren. It is predominant in Western Siar'Morrin and is known for its structured rituals that blend the domains of commerce, nature, and the arts. The church has a hierarchical clergy system and extensive temples dedicated to collective worship.
 	- **The [[Circle of Mirth]]**: A more informal cult that emphasizes the enjoyment of life and the arts. Known colloquially as the 'fun gods', it includes artists, musicians, and performers focused on spreading joy. This group organizes public performances and creative events, aiming to alleviate the strains of everyday life through artistic expression.
@@ -78,6 +80,3 @@ Eolas approached Statera proposing that that Ratura was destined for a greater p
 
 ## Background
 
-- **Legends and Lore**: (Lesser-known tales and esoteric knowledge about the deity)
-
-This template should provide a comprehensive overview that can be used to detail each god within your pantheon, giving depth and context to their roles within your fantasy world.

@@ -25,6 +25,7 @@ Alber is depicted as a towering figure, crafted from the very essence of the pri
 Alber's eyes are a vivid and penetrating green, glowing with a primal and powerful light that reflects the depth and vitality of the natural world. While her body is muscular and robust, mirroring the strength of the oldest trees whose roots have delved deep into the earth. Her arms and legs are like the trunks of mighty oaks, showcasing her physical strength and her rooted connection to the earth. Her movements, though powerful, carry the grace of a creature perfectly in tune with the natural world. 
 
 Adorned with elements of her domain, Alber wears no crafted garments but is instead cloaked in a mantle of foliage that changes with the seasons. In spring and summer, it flourishes with the vibrant colors of flowers and fresh leaves; in autumn, it turns to the golds and reds of falling leaves; and in winter, it bears the whites and grays of frost and snow. 
+
 - **Height**: 300cm
 - **Weight**: 190kg
 - **Distinguishing Features**: Her bark-like skin, and her hair made of flowing vines.
@@ -62,6 +63,7 @@ The forests, teeming with life and mystery, called out for protection. In respon
 As Alber walked the untrodden paths of her nascent world, her steps sowed the seeds of countless plants and trees, her breath infused the air with the freshness of pine and earth, and her voice became the wind that rustled through the leaves. Her presence alone was enough to sanctify the natural order, preserving the sanctity of the wild places against the encroaches of those who would seek to tame them.
 
 As civilizations rose and the influence of other gods expanded, Alber remained a constant force, a reminder of the world's inherent wildness and beauty. Her creation was not an act but a consequence of the world's deep need for balance between the untamed and the cultivated, between the chaos of growth and the order imposed by civilization.
+
 - **Major Cults and Religious Practices**: The majority of Alber's followers are found in the major forest around the world. In particular, [[Agra Island]] is known for devotion to Alber, with numerous temples and religious members found here. 
 - **Festivals**: Festivals dedicated to Alber are often tied to the cycles of nature, such as the changing of the seasons or the full moon. Celebrations might include feasts, dance, and offerings of natural materials. The festivals serve to honor the wild and reaffirm the bond between mortals and nature.
 - **Clergy and Temples**: Priests and priestesses of Alber are often druidic in nature, living closely with the wilderness they revere. Temples dedicated to Alber are usually open-air sanctuaries, integrated into the natural environment rather than constructed structures. They may be located in deep forests, atop mountain peaks, or by sacred natural springs. 
@@ -80,8 +82,10 @@ As civilizations rose and the influence of other gods expanded, Alber remained a
 ## Background
 
 **[[Alberine]]**
+
 To the Alberine, Alber is more than a goddess — she is the very spirit of the Vahshi Forest itself. They view her with deep reverence, honoring her as both a nurturing provider and a fierce protector. Her presence is felt in every whisper of the trees and every beast that roams their ancestral home. While she offers bountiful life to those who respect her realm, the Alberine know well that her wrath can be equally devastating when provoked. Her daughter is said to still reside deep within the forest, serving as an intermediary between Alber and the Alberine, maintaining the fragile harmony between mortal settlements and the untamed wilderness.
 
 **The [[Dahri Empire]]:**  
+
 Among the people of the Dahri Empire, Alber is not recognized as a deity but rather as a symbol of the deadly wilderness embodied by the Vahshi Forest. To the Dahri, "Alber" is less a goddess and more a whispered name for the unseen terrors that thwart their expansion — the feral beasts, the cursed trees, and the treacherous mists that claim whole expeditions. In their eyes, she represents the unchecked savagery of nature, an obstacle to be conquered rather than revered. The name Alber is invoked in curses and tales of the many soldiers, settlers, and explorers who have vanished within the forest's endless green shadows.
 

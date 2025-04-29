@@ -54,6 +54,7 @@ Her hair, a fiery cascade of vibrant red locks, frames her face and spills over 
 - **Creation Myth**: 
 
 In the nascent days of Staterum, when the earth was still young and malleable under the hands of the gods, Statera, the Goddess of Balance, was struck by a profound tragedy—the loss of her beloved husband to the dark schemes of the Vices. Overwhelmed by grief, her emotions began to manifest into the world itself, influencing the fabric of creation. The first surge of feeling was a fiery rage, a burning fury against the injustice she suffered. This intense emotion sparked into existence Estera, born of fire and passion, embodying the fierce warmth and unyielding light of summer. Estera’s arrival marked the world’s first encounter with the scorching power of the sun, her radiant energy fueling growth and sustaining life, even in the face of sorrow.
+
 - **Major Cults and Religious Practices**: In Northern Siar'Morrin, where the seasonal changes are most pronounced, the worship of Estera and her sisters is deeply interwoven with the life cycle of the communities. These regions operate in harmony with the transitioning seasons, each goddess's influence palpably felt. Worship involves both communal and individual practices that honor the goddesses' roles in nurturing and transitioning the environment and its people.
 - **Festivals**: 
 	- **Sumari Festival**: The Sumari festival celebrates the transition from spring to summer, marking Mavera's handover to Estera. This festival is vibrant and full of life, symbolizing the peak of growth and the beginning of summer's warmth. Activities during Sumari include colorful parades, music, and dance that last until the early hours of the morning, reflecting the boundless energy of Estera.
@@ -72,7 +73,9 @@ In the nascent days of Staterum, when the earth was still young and malleable un
 ## Background
 
 **The [[Windswept Marches]]**  
+
 For the people of the Windswept Marches, Estera holds a pivotal place in their lives and traditions. With her arrival comes the bounty of harvest, the comfort of warmth, and the height of productivity, but also the understanding that her time is fleeting. Her presence serves as a constant reminder of the importance of timely work and seizing opportunity before it passes. Where other lands might treat the changing of seasons with casual indifference, the folk of the Marches regard Estera’s coming and going as sacred. They celebrate her arrival with vigor and meet her departure with solemn gratitude, knowing that her blessings must be cherished and fully utilized before the cycle turns anew.
 
 **The [[Paloto Swamplands]]**  
+
 Among the [[ratfolk]] of the Paloto Swamplands, Estera and her sisters are seen through a more abstract lens. While they recognize and respect the gods revered by other peoples, Estera’s presence feels distant and intangible. The stable, humid climate of the swamplands dulls the marked changes of the seasons, making her influence harder to perceive. As a result, many ratfolk view her more as a symbolic marker of the year's passing rather than a deity with direct impact on their lives. Some scholars and mystics among them suggest that Estera’s hand may still guide the world subtly beyond their understanding, while the more pragmatic see her as little more than symbolism, important to others but peripheral to the ever-steady rhythm of their marshy home.

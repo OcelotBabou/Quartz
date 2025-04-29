@@ -23,6 +23,7 @@ Cazium stands as a monumental figure, his form blending the rugged essence of th
 Cazium's beard is an an elaborate braid made from chains of precious metals, that cascades down his broad chest. Adorning his robust form is a smith’s apron, said to be crafted from the hide of an ancient dragon and imbued magical properties that protect him from the sparks of his forge.
 
 His arms, muscular and strong, are not merely for show. They carry the weight of creation—forging stars, shaping realms, and crafting the artifacts that hold the universe together. These arms are covered in intricate carvings and runes, each etched into his stone skin, glowing with a soft turquoise light. These runes are ancient scripts, spells of crafting and creation that only a deity of his stature could wield.
+
 - **Height**: 450cm
 - **Weight**: Roughly 6 tonnes
 - **Distinguishing Features**: His most notable features are his stone-like skin, gem-like eyes, and his intricately braided metallic beard.
@@ -37,8 +38,10 @@ His arms, muscular and strong, are not merely for show. They carry the weight of
 ## Relationships
 
 **Family**: Unknown
+
 **Rivals/Enemies**: 
 - **[[Listunos]]**: Cazium harbors a profound disdain for Listunos, the Vice of Greed, whose penchant for hoarding and accumulating wealth starkly contrasts with Cazium's ethos of spreading beauty and art. Cazium believes that masterful creations and the earth’s natural beauty should be accessible to all, not locked away or monopolized for the benefit of the few.  Further, Listunos targeted Cazium directly, with Listunos's aggressive pursuit culminated in a notable conflict where he not only defeated Cazium but, according to rumors, may have even succeeded in capturing him
+
 **Attitude towards Mortals**: Cazium is both a patron and a challenge to mortals. He provides the materials and inspiration for artistic and crafting endeavors but expects that his followers will seek out and appreciate the deeper beauty in their creations. He is less involved in day-to-day mortal affairs, focusing more on those who pursue excellence in craftsmanship.
 
 ## Mythology and Worship
@@ -54,6 +57,7 @@ Deep within the most ancient and hidden chambers of the world's heart, where pre
 As the figure emerged, it was clear that this was no ordinary creation. This was Cazium, born from the heart of the world, the divine embodiment of all the earth's creative and destructive powers. His first breaths were the hot gusts of forge fires; his first movements echoed the tectonic shifts of the planet. Cazium stood, a towering figure of stone and metal, his eyes set with gems that glinted with the deep knowledge of the earth.
 
 Cazium's birth was a celebration of the world's own artistry—a deity whose very existence was a tribute to the beauty and strength of the earth. With a hammer forged from the core's metals and a will as unbreakable as the ores that composed his body, Cazium set about his divine task.
+
 - **Major Cults and Religious Practices**: Worship of Cazium is often found among artisans, miners, and those who work with precious materials. His followers may engage in practices that honor the earth’s resources and seek to enhance their skills in creating beautiful and functional works. Rituals often involve crafting ceremonies, offerings of precious materials, and prayers for inspiration and skill.
 - **Festivals**: Festivals dedicated to Cazium celebrate the beauty and craftsmanship of the world. These may include art exhibitions, craftsmanship contests, and ceremonies that showcase the finest works created from natural resources. Such events serve to honor the artistry inspired by Cazium and the beauty drawn from the earth.
 - **Clergy and Temples**: Temples dedicated to Cazium are often grand structures made of stone and adorned with intricate carvings and precious materials. The clergy are typically skilled artisans and craftsmen who dedicate their lives to perfecting their craft and creating works that reflect Cazium’s divine inspiration. These temples also serve as centers of learning and creativity for those who wish to follow in his footsteps.
@@ -71,5 +75,6 @@ Cazium's birth was a celebration of the world's own artistry—a deity whose ver
 
 ## Background
 
-**[[Dwarf]]**
+**[[Dwarves]]**
+
 To the dwarves Cazium is not merely a god — he is the ultimate ideal, the perfect craftsman from whom all skill and artistry originate. They believe that Cazium was born not just from the earth itself, but as a divine embodiment of the dwarven spirit long before the first dwarf ever walked Staterum. His veins of molten ore and his gemlike eyes are seen as reflections of the dwarves’ own deep connection to the stone and soil. Dwarven myths claim that it was Cazium who first taught their ancestors the secrets of shaping stone and forging metal, whispering his techniques into the dreams of the first great smiths. His presence, to them, is a quiet and enduring one — not loud and boastful like some gods, but steady and eternal, like the mountains themselves. 

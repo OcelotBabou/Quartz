@@ -27,6 +27,7 @@ Mercio is depicted garbed in opulent attire that commands respect and admiration
 His face bears a sharp, calculating expression, with keen eyes that seem to assess the value of all they behold. These eyes, a deep, burnished gold, gleam with the acumen of a seasoned trader, reflecting his innate ability to navigate the complex world of trade and negotiation. His hair is neatly styled, silver streaks lending him an air of distinguished authority, while a well-groomed beard frames his jawline, adding to his regal and commanding presence.
 
 Around his neck hangs a heavy golden chain from which dangles a medallion embossed with the symbol of a merchant’s scale, on his fingers, rings embedded with various precious stones sparkle, each gem representing different facets of wealth and commerce. Mercio’s overall demeanor is one of unyielding confidence and sharp wit, making him both revered and respected among gods and mortals alike.
+
 - **Height**: 190cm
 - **Weight**: 102kg
 - **Distinguishing Features**: Gold streaks through his beard. Opulent clothing, decorated with gold trinkets. 
@@ -67,6 +68,7 @@ Together, Mercio and Biran propelled Vitaurum and its surrounding regions into a
 In gratitude for his monumental contributions to human society, King Biran brought Mercio to the sacred peak of Mon Olympus to meet [[Statera]]. Impressed by his wisdom and the significant impact of his work, Statera saw in Mercio the embodiment of progress and prosperity. She offered him a place among the gods, recognizing that his talents could benefit all of Staterum.
 
 Mercio ascended to divinity, taking his place in the pantheon as the god of commerce and trade. His divine realm became a beacon of innovation and economic thought, guiding humanity in their endeavors of trade and prosperity. Mercio, once a clever child of the streets, now watches over the markets and merchants of Staterum, ensuring that fairness and ingenuity continue to drive the world’s economies.
+
 - **Major Cults and Religious Practices**: Mercio is worshipped primarily by the financially elite, merchants, and anyone involved in commerce. His followers believe that proper homage to Mercio can bring prosperity and protect against financial ruin. His worship often involves rituals that symbolize wealth and success, such as offering gold coins and precious commodities at his shrines. This act has become a sign of wealth and power, with followers working to outcompete with what they are able to offer up to Mercio. 
 - **Festivals**: 
 	- **Festival of Scales**: This major annual festival aligns with the close of Autumn, a time when merchants across the region calculate their earnings from the busy trade seasons leading into the more subdued winter months. The week is filled with parades, music, and opulent celebrations, with attendees encouraged to wear golden attire, symbolizing the wealth and success accumulated throughout the year. Originally a showcase for the affluent to flaunt their prosperity, the Festival of Scales has paradoxically become a favorite among the less wealthy as well. For them, it offers a rare opportunity to partake in the extravagances usually reserved for the rich, enjoying the lavish food, entertainment, and festivities funded by the upper echelons of society.
@@ -78,13 +80,17 @@ Mercio ascended to divinity, taking his place in the pantheon as the god of comm
 	- Mercio's other great achievement was the founding of Ploutos, a city that once stood as a bustling hub of trade at the crossroads between the Biranian and Dahri empires. Known as the wealthiest city of its era, Ploutos symbolized the pinnacle of trade and economic prosperity. However, this city has been lost to time, now romoured to lie somewhere within the borders of [[The Western Scar]]. 
 - **Artifacts**:
 	- **Chrysostom's Coin**: This seemingly ordinary gold coin is embossed with the intricate symbol of Mercio. The coin possesses the fabled ability, turning any base metal it touches into pure gold.
-	- 
+
 ## Quotes
 
 "Give a man a fish, and you're a poor salesman, never give commodities away for free. Fool."
 
 ## Background
 
-- **Legends and Lore**: (Lesser-known tales and esoteric knowledge about the deity)
+**[[Agroma]]**
 
-This template should provide a comprehensive overview that can be used to detail each god within your pantheon, giving depth and context to their roles within your fantasy world.
+In Agroma, the worship of Mercio is ingrained into the very stones of the market squares. Merchant guilds and trading houses view him not merely as a patron, but as a _foundational architect_ of their prosperity. The city's famous merchant families claim direct spiritual lineage to Mercio’s teachings, upholding codes of fair trade, strategic alliances, and measured ambition. His principles are taught alongside reading and arithmetic, and every child of the merchant class learns to offer their first earned coin at one of his many gilded shrines.
+
+**The [[Dahri Empire]]**
+
+To the rulers of the Dahri Empire, Mercio is a dangerous idol. They respect his skill and influence but disdain his worship among the merchant classes, viewing it as encouraging disloyalty to the state and a rise of individual power over imperial control. Propaganda often paints Mercio as a cunning manipulator who would erode the natural hierarchies of society if left unchecked — a whispering threat more potent than any open rebellion.

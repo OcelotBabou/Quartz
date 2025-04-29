@@ -21,6 +21,7 @@ tags:
 - **Appearance**: 
 
 Ludara is depicted as a tall, slender figure with an ethereal presence that commands attention. Her raven black hair cascades in waves down her back, providing a stark contrast to her pale, almost luminescent complexion. Her eyes, a deep emerald green, sparkle with a mix of mischief and intellect, reflecting her cunning and wit. Ludara's attire is as dramatic as her personality: she wears a long, flowing violet robe that trails behind her with an air of regality. The robe is hooded, adding an element of mystery, and is often clasped with a brooch shaped like her symbol. Her overall demeanor exudes dignity and a touch of haughtiness, coupled with an undeniable confidence that is evident in every poised step she takes.
+
 - **Height**: 188cm 
 - **Weight**: Unknown
 - **Distinguishing Features**: Her striking emerald eyes and her long violet robe.
@@ -40,7 +41,7 @@ Ludara is depicted as a tall, slender figure with an ethereal presence that comm
 - **[[Sanara]]**: Sister. Ludara and Sanara share a sibling rivalry that is as intense as it is complex. Ludara sees herself as superior, often acting sassy and condescending towards Sanara, whom she believes wastes her intellectual potential. Despite this, Ludara is fiercely protective of Sanara, first to speak in her defense if ever criticised. She also views her as one of the few beings capable of matching her in intellectual games and strategic thought.
 
 **Rivals/Enemies**: 
-- [[Matiodox]]: Generally Ludara views herself superior to others, but does have long running beef with Matiodox... He thinks he's all that.
+- **[[Matiodox]]**: Generally Ludara views herself superior to others, but does have long running beef with Matiodox... He thinks he's all that.
 
 **Attitude towards Mortals**: Enjoys challenging mortals to put them in their place, secretly watches over and guides them despite outwardly denying any deep care or connection.
 
@@ -53,6 +54,7 @@ In the wake of Eolas’s transformation into a Vice, Eris, who had been profound
 Seeking assistance, Eris turned to his brother Dorna, whose mastery over chaos made him uniquely suited to channel the untamable energies of the immaterial. Together, they ventured beyond the boundaries of the material realm, where reality dissolves into the potentialities of creation. Dorna, embracing his natural affinity for the unpredictable, served as the conduit for the wild energies that Eris sought to harness.
 
 Through Dorna, the raw power of the immaterial was tempered, allowing Eris to shape it with precision and intent. As they worked, the energies infused with the remnants of Eolas’s knowledge began to coalesce, mingled with the chaotic essence that Dorna channeled. From this confluence, Lucara was born—a deity embodying not only the depth of knowledge but also the whimsy and unpredictability Dorna's chaotic heritage. Under Eris’s meticulous guidance, she developed a keen affinity for puzzles, games, and strategy, using these playful yet profound domains to navigate and influence the world around her.
+
 - **Major Cults and Religious Practices**: Followers include a secretive cult of intellectual elites who engage in high-stakes games and challenges. The [[Kitsune]] of [[Yorudo]] hold her in high regard, admiring her cunning and strategic mind.
 - **Festivals**: The Telling of Ages is a prestigious annual festival hosted in [[Vitaurum]], showcasing a variety of games and intellectual challenges. The highlight of the event is the competition in 'Ages of Destiny,' a renowned strategy game that attracts the brightest minds from across Staterum. Participants vie not only for the honor of being the champion but also for the ultimate prize—a direct blessing from Ludara herself, which is bestowed upon the winner in a grand ceremony that concludes the festival. 
 - **Clergy and Temples**: Temples are rare, with most followers worshiping at small shrines or carrying personal trinkets symbolizing her domain.
@@ -70,6 +72,14 @@ Through Dorna, the raw power of the immaterial was tempered, allowing Eris to sh
 
 ## Background
 
-- **Legends and Lore**: (Lesser-known tales and esoteric knowledge about the deity)
+**[[Kitsune]]**  
 
-This template should provide a comprehensive overview that can be used to detail each god within your pantheon, giving depth and context to their roles within your fantasy world.
+Among the Kitsune, Ludara is held in the highest esteem. Their oral histories and ancient songs claim descent from the Goddess herself, attributing their innate charm, wit, and cunning to her divine influence. To the Kitsune, Ludara’s true brilliance lies not in overt displays of power but in her masterful ability to subtly steer the course of fate. They revere her as the secret hand that shapes history without seeking credit, a patron of cleverness and adaptability who teaches that true strength lies in the mind, not the muscle. Many Kitsune see themselves as living embodiments of her ideals—charming tricksters, quick-thinking survivors, and unseen architects of destiny.
+
+**[[New Birania]]**  
+
+In the halls of New Birania, Ludara is revered not just as a deity of riddles and games but as a critical advisor and silent architect behind many of Statera’s victories. Scholars, strategists, and leaders alike study her teachings and celebrate her cunning, seeing in her a reflection of New Birania’s own values of ingenuity, subtle diplomacy, and resilience. To them, Ludara is not simply a trickster, but a wise friend of Statera, a constant companion whose brilliance helped weave the careful balances that allow civilization to flourish.
+
+**[[Balancekeepers]]**  
+
+To the Balancekeepers of Mesokini, Ludara is viewed with deep suspicion. They see her not as a beacon of wisdom but as a charlatan whose only true talent lies in convincing others of her cleverness. In their view, she trades in distractions and illusions, fostering instability rather than order. Some within their ranks even quietly speculate that her chaotic tendencies border dangerously close to those of the Vices. Though this accusation is rarely spoken aloud, it reflects the Balancekeepers' firm belief that true wisdom lies with deities like Ratura and Mercio, whose contributions are tangible and grounded—unlike Ludara’s shadowy manipulations.

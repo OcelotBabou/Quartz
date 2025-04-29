@@ -21,6 +21,7 @@ tags:
 - **Appearance**: 
 
 Gratia is depicted as a stunningly radiant figure, her form seemingly sculpted from perfection itself. Her features are delicate yet pronounced, with flawless skin that carries a subtle inner glow. Her hair cascades down her back in soft waves of spun gold, often adorned with living blossoms that change with her moods. She is usually draped in flowing robes of silk and gossamer, dyed in vibrant pastels and shimmering hues, each garment seeming to dance with an unseen breeze. Her very presence is mesmerizing, her every movement imbued with effortless poise and charm.
+
 - **Height**: 183cm
 - **Weight**: Light and graceful, her weight is often described as "lighter than a petal" in artistic depictions.
 - **Distinguishing Features**: Her sparkling emerald eyes, said to capture the essence of hope and inspiration, and a faint, fragrant aura of blooming flowers that follows wherever she goes.
@@ -57,6 +58,7 @@ It was here, amid the ethereal landscapes of the Fae realm, that Mavera’s ligh
 Their union, a beautiful confluence of change and charm, eventually led to the birth of two daughters, each embodying aspects of their divine parents. Gratia, the younger of the two, was born amidst a particularly vibrant spring, where flowers bloomed with unprecedented beauty and the air shimmered with a captivating allure. She emerged as the Goddess of Grace, Beauty, and Charisma, inheriting Mavera’s life-giving radiance and Dorna’s enchanting allure.
 
 Gratia grew to embody the essence of her namesake—grace in all its forms. Her presence was said to enhance the beauty of the surroundings, her grace making the flowers bloom more radiantly and the sun shine a little brighter. Her symbol, a blooming rose, represents not just physical beauty but the allure that comes from a balanced spirit and a charismatic heart.
+
 - **Major Cults and Religious Practices**: Gratia's followers are often found among communities that live in close harmony with the natural world. Peace-loving druids, gentle rangers, and humble artisans who shape their works from the gifts of nature all offer her their quiet devotion. Her worship is less formalized than that of many gods; instead, it thrives in the small, beautiful moments of creation — a flourishing garden, a perfectly crafted wreath, or a song carried on the breeze. These acts of natural artistry are seen as prayers made manifest. Her cults emphasize the belief that true beauty comes from nurturing, not conquering, the world.
 - **Festivals**: The Festival of Blooming Grace is the most prominent celebration dedicated to Gratia. Held during the peak of spring, it is a joyous event where mortals craft intricate floral displays, weave vines into living sculptures, and offer songs and poetry in her honor. It is a time of community, peaceful competition, and the celebration of beauty in all its natural forms.
 - **Clergy and Temples**: Temples dedicated to Gratia are less constructions of stone and mortar and more masterpieces of living art. Sacred orchards, shaped groves, and great vines trained into ornate archways serve as her places of worship. These living sanctuaries are maintained by druids, herbalists, and caretakers who tend to the natural beauty, seeing it as both act of devotion and living embodiment of Gratia's grace. Every petal, every leaf, and every crafted bower is a testament to her belief that true artistry is born from nature's bounty, not imposed upon it.
@@ -73,10 +75,13 @@ Gratia grew to embody the essence of her namesake—grace in all its forms. Her 
 ## Background
 
 **Peoples of the [[Ridgeback Forest]]:**  
+
 Among the scattered communities of the Ridgeback Forest, where the bond between mortal and nature is still strong, Gratia holds a special place in the hearts of the people. They see her not as a distant, imperious goddess, but as a gentle protector — a spirit who blesses their simple, fulfilling lives devoted to the land. To them, Gratia embodies the joy found in quiet moments: the bloom of a rare flower, the song of a bird at dawn, the weaving of vines into homes. She is honored through festivals of thanks, daily offerings of crafted garlands, and the maintenance of the living temples hidden deep within the woods.
 
 **[[Cia'an]] of the [[Sabhaile Forest]]:**  
+
 While many Cia'an of the Sabhaile Forest are too restless or proud to devote themselves fully to Gratia's serene ideals, they nonetheless recognize her importance within the natural order. Among the young and the romantic, her influence is particularly strong; songs are sung in her honor during spring festivals, and dances are held beneath the first blossoms of the season. Gratia's gentle hand is seen as part of the great cycle heralded by her mother, Mavera, marking the world's renewal and stirring the passions and hopes of the next generation. Even those who do not follow her closely offer her respect when the forest stirs with new life.
 
 **The [[Ascended Church]]:**  
+
 To the scholars and clergy of the Ascended Church, Gratia is often viewed with a subtle disdain. In their eyes, she is but a pale reflection of Ratura — a crude, natural imitation of the true sophistication and artistry embodied by the Ascended Gods. While they acknowledge that Gratia holds some sway over nature’s untamed beauty, they see this as inherently inferior to the refined, human-driven creativity that Ratura inspires. To them, Gratia's worship represents the primitive admiration of simple things, suitable for peasants and drifters, but unworthy of the higher pursuits of civilization.

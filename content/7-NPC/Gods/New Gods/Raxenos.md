@@ -33,8 +33,13 @@ tags:
 
 ## Relationships
 
-- **Allies**: [[Eolas]]
-- **Rivals/Enemies**: [[Eris]], [[Lepsis]]
+**Family**: 
+- Unknown
+
+**Rivals/Enemies**: 
+- [[Eris]]
+- [[Lepsis]]
+
 - **Attitude towards Mortals**: Views mortals as vessels of potential knowledge. He is willing to share his insights with those who seek wisdom but often demands a high price.
 
 ## Mythology and Worship
@@ -48,7 +53,7 @@ As the most recent of the Gods, and due to his role in the Age of Darkness ([[Ao
 
 ## Significant Historical Impact
 
-- **Major Plot Points in World History**: Raxenos's influence has led to both great advancements and terrible disasters. His role in the Age of Darkness, is undoubtably what his is most infamous for. 
+- **Major Plot Points in World History**: Raxenos's influence has led to both great advancements and terrible disasters. His role in the Age of Darkness, is undoubtedly what his is most infamous for. 
 - **Artifacts**: 
 	- The Eye of Raxenos, 
 	- The Tome of Eternity,

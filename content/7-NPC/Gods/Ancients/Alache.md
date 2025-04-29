@@ -23,6 +23,7 @@ Image
 Alache in his traditional form is the embodiment of the unseen and the unknown, a deity cloaked entirely in shadows. His form is fluid and intangible, merging seamlessly with the darkness around him, making it difficult to discern where his outline begins or ends. The darkness that envelops Alache is not merely absence of light but a living, breathing presence that whispers secrets and watches the world with a quiet, all-knowing gaze. His eyes, when they choose to reveal themselves, shine like cold stars against the pitch black of his form, piercing through the shadows to observe the realm of mortals. His head is adorned with a dark elongated helmet, more a silhouette than a solid object. Encircling this helmet is a dark halo, reminiscent of an eclipse, that emits a dark light of its own. 
 
 Alache's more humanoid depiction presents him as a strikingly handsome figure, with skin as pale and luminous as moonlight. This form is designed to interact more directly with those who worship him, providing a relatable visage that embodies his divine qualities. His hair is long, flowing like liquid night, spilling over his shoulders in waves of soft darkness that contrast with his pale skin. His eyes retain their mysterious glow, reflective and deep, suggesting an understanding of the deepest secrets of the universe. His garments in this form are elegant and flowing, made of fabrics that seem to absorb light. The dark halo remains a constant, hovering behind his head, it's centre a true darkness, that seems to engulf all light around it. 
+
 - **Height**: Varies, often difficult to determine due to shadowy nature.
 - **Weight**: Variable
 - **Distinguishing Features**: His dark halo that seems omits an ominous dark light. Dark, flowing garments that blend into the shadows.
@@ -57,9 +58,7 @@ This emergence was not heralded by fanfare nor witnessed by celestial beings. In
 As the eons passed, Alache’s form gained substance and definition. He did not simply step into existence but rather grew organically from the darkness itself, his essence intertwined with the fundamental forces that compose reality. He became a deity not of light or flame but of the profound, all-encompassing shadow that exists between and beyond, holding dominion over the secrets that reside in the dark.
 
 - **Major Cults and Religious Practices**: The Tenebrim Elves maintain hidden shrines where silent ceremonies are conducted under the cover of night. These rituals emphasise the virtues of secrecy and the wisdom found in silence.
-
 - **Festivals**: The Night of Shadows, observed during the Winter Solstice, the exact occurrences of this festival are a well kept secret, with few even knowing of it existence. 
-
 - **Clergy and Temples**: Temples are often underground or in dark forests, designed to be sanctuaries of peace and introspection. 
 
 ## Significant Historical Impact
@@ -75,13 +74,16 @@ As the eons passed, Alache’s form gained substance and definition. He did not 
 
 ## Background
 
-**Tenebrim Elves:** 
+**[[Tenebrim]] [[Elves]]:** 
+
 For the Tenebrim Elves, Alache and his brother Gahrian are not just gods but the co-creators of the cosmos. Their theology posits that Gahrian's unchecked ego initially led to the creation of the original vices. Alache, acting as the counterbalance, helped reel in his brother’s ambitions, and together, they banished these vices to a dark realm. They continue to safeguard Staterum by maintaining the seal over these corrupt beings, taking turns to watch over the realm, Alache during the night as the moon, and Gahrian during the day as the sun.
 
 [[Ascended Church]]:
+
 Contrastingly, The Ascended Church holds a more skeptical view of Alache and Gahrian. To them, these figures are merely different aspects of Statera, interpreted by the elves under varying lights. They regard the elven narrative of Alache and Gahrian as co-creators and vigilant guardians as a misguided attempt to attribute some of Statera’s expansive influence to lesser deities. Members of The Ascended Church believe that if such pivotal gods truly existed, they would be more prominently recognized and revered within their teachings.
 
 [[Riben]]: 
+
 To Riben, with its emphasis on scientific and empirical understanding, the divine attributes of Alache and Gahrian are met with skepticism. In their eyes, the sun and the moon are not governed by deities but are celestial bodies following natural, albeit not fully understood, paths. This perspective reduces Alache and Gahrian to mere symbols in ancient stories, seen as quaint explanations from a less enlightened time.
 
 Traditional Depiction

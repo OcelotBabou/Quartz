@@ -21,6 +21,7 @@ tags:
 - **Appearance**: 
 
 Euphoron is depicted as a vibrant and joyous figure, embodying the spirit of celebration and merrymaking. He has a radiant, almost ethereal glow that seems to emanate from his entire being. His skin is a warm, golden hue, shimmering as if kissed by the sun. His eyes sparkle with a contagious happiness, reflecting the light and energy of countless festivities. He has a mane of wild, curly hair that flows freely, often adorned with flowers and garlands. Euphoron is often seen wearing colorful, flowing garments that dance with the movement. He is rarely seen without his goblet in hand, perpetually over flowing with wine. 
+
 - **Height**: 201cm
 - **Weight**: 101kg
 - **Distinguishing Features**: His wild, curly hair adorned with flowers and garlands, and his goblet of unending wine. 
@@ -56,6 +57,7 @@ During a rare lapse in vigilance by [[Alache]], the Vice of lust and desire, [[V
 The consequences of her visit soon became evident, with Voluptia returned to her domain, bearing a child born of her brief union with Aruinbe. This child was Euphoron, a being infused with the essence of joy and celebration but also tinged with the potential for excess. Aruinbe, troubled by the thought of his son being raised in a realm dominated by the Vices, sought the assistance of Dorna and Eris. In a bold and daring mission, reminiscent of the legendary quests of old, the two gods ventured into the realm of Excess and rescued the newborn Euphoron, bringing him safely to Staterum.
 
 Determined to shape his son’s destiny away from the pitfalls of excess that Voluptia embodied, Aruinbe and his divine peers nurtured Euphoron among the gods of Staterum. Under their guidance, Euphoron grew to embody the spirit of celebration and merrymaking in its most positive light. His divine essence became a source of happiness and joy, fostering mirth and revelry wherever he went.
+
 - **Major Cults and Religious Practices**: Unlike the rigid, temple-bound practices of many gods, worship of Euphoron is _alive_ — it's in the laughter of a crowded tavern, the joyous singing of travelers around a fire, or the grand revelries that sweep through towns on festival days. True worshippers of Euphoron believe that joy itself is a sacred act. Formal temples to Euphoron are rare; most who revere him do so through acts of merrymaking, communal feasting, and music. However, there are roving groups known as the Gilded Hands, wandering bards, minstrels, brewers, and jesters who see spreading joy as a holy duty.
 - **Festivals**: 
 	- **The Night of Endless Song**:  Held on the first full moon of summer, this night-long festival sweeps across cities and villages alike. It begins with a single song in the town square, and by midnight, the entire town is expected to be singing, dancing, and sharing stories. Tradition holds that those who do not lift their voice in song, even briefly, risk falling into a year of melancholy. Great feasts are held, goblets overflow, and at the peak of the night, lanterns are released into the sky, symbolizing the lifting of mortal burdens into the heavens.
@@ -76,8 +78,10 @@ Determined to shape his son’s destiny away from the pitfalls of excess that Vo
 ## Background
 
 **[[Bacchin]]**
+
 To the Bacchin, Euphoron is not merely a god — he is the very spirit of life itself. He is seen as the joyful heartbeat of existence, the laughter after hardship, and the vibrant song that carries through the valleys of Kastelli. Daily life for the Bacchin is steeped in devotion to Euphoron, with festivals, performances, and small moments of revelry woven into even the most mundane tasks.  Even Bacchin who leave Kastelli to settle elsewhere hold him close to their hearts, often establishing small shrines in their new homes, businesses, and theaters, ensuring that the joy and freedom he embodies travels with them no matter how far they roam.
 
 **Balancekeepers**  
+
 The Balancekeepers — a strict sect of the [[Church of Statera]] based in [[Mesokini]] — view Euphoron with deep suspicion. To them, he treads dangerously close to embodying the same unchecked excess as his mother, Voluptia. They argue that Euphoron's influence weakens moral fiber, encouraging indulgence and recklessness under the guise of celebration.  
 Within Mesokini, Euphoron is seen not as a joyful god, but as a cautionary figure — a symbol of what happens when passion and pleasure are left unrestrained. His cults are suppressed, his festivals shunned, and his worshipers often treated with disdain, viewed as bearers of corruption and frivolity in a kingdom that prizes order and restraint.

@@ -26,6 +26,7 @@ In his traditional form, Gahrian is the embodiment of the first light that ever 
 Gahrian’s humanoid depiction brings him closer to the beings that worship him. In this form, he embodies the beauty and splendor of a sunny day, his appearance strikingly handsome and radiant. His skin shimmers like molten gold, his eyes are bright as the sky on a cloudless noon, and his hair flows like rays of sunlight, each strand imbued with a life of its own. 
 
 In this form he is seen wearing ornate golden armour, a masterpiece of divine craftsmanship, fit for the sovereign of the skies. It is intricately designed, featuring elaborate motifs that represent the cycles of the sun and the orbits of celestial bodies. Each piece of the armor is crafted from celestial gold, polished to a mirror sheen that reflects and amplifies his inherent light. Around his head, Gahrian wears a radiant crown, akin to a halo, that emits a soft but powerful glow. While his cloak, flowing and ethereal, appears as though woven from the very essence of light itself.
+
 - **Height**: A giant even by the standards of Gods
 - **Weight**: Variable
 - **Distinguishing Features**: A large multi-ringed halo emanating light. Pure white robes that flow like wispy clouds. 
@@ -60,6 +61,7 @@ Gahrian, born from this primal radiance, became the embodiment of the first dawn
 Gahrian’s touch did more than bring light; it sparked the very engine of life. Where his rays touched, barren worlds stirred with potential, awakening to the possibilities of existence. Life, in its myriad forms, began to take root and flourish under his watchful gaze. 
 
 Each sunrise is a daily reenactment of Gahrian’s original ascent, a ritual that reaffirms his vigilance and his unwavering commitment to light and life. The first light of each morning recalls the moment when Gahrian dispelled the ancient darkness, a daily reminder to those with open eyes of his foundational role in the cosmos.
+
 - **Major Cults and Religious Practices**: The Order of the Solar Halo, a prominent cult amongst the Lux Elves. 
 - **Festivals**: Festival of Gahrian, celebrated on the first day of spring, this festival marks the return of Gahrian's strength and the resurgence of light over darkness. Solis Maxim, celebrated during the summer solstice, when Gahrians power is said to be at its zenith. 
 - **Clergy and Temples**: Few commonly know temples to Gahrian remain, however discreet shrines in his honour can be found wherever Lux elves reside. 
@@ -80,12 +82,15 @@ Each sunrise is a daily reenactment of Gahrian’s original ascent, a ritual tha
 ## Background
 
 **[[Lux Elves]]** 
+
 Gahrian is the ultimate creator of light and life itself. At the dawn of existence, he emerged from the primordial light, setting the celestial bodies into motion and igniting the sun. Each day, as the sun rises, it reenacts Gahrian’s first ascent into the heavens, reminding us of his enduring vigilance and power. As guardians of his light, we celebrate his creativity and protection, which nourish and sustain all forms of life across Staterum."
 
 **[[Cia'an]]** 
+
 To the Cia'an, Gahrian is revered as Soillse, the Sun God who conquers the cold each spring. He was once the lover of [[Invera]], the harsh Goddess of Winter. Seeing the suffering her reign caused, Soillse turned against her, driving her back with his life-giving warmth. Each year, as winter retreats and spring blooms anew, they celebrate Soillse’s triumph, which brings growth and renewal to their world.
 
 **[[Dwarves]]** 
+
 In the eyes of the Dwarves, the Sun is not a deity but the greatest creation of [[Cazium]], the dwarven god of craftsmanship. When the world was veiled in darkness, Cazium forged the Sun from the finest gold found deep within the earth. This celestial jewel, hung in the sky, illuminates the world and powers the dwarven forges. To the dwarves, it symbolizes the pinnacle of divine artistry, embodying the skill and ingenuity of Cazium’s handiwork.
 
 Ancient Depiction
