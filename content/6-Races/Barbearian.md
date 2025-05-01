@@ -8,9 +8,9 @@ tags:
 ---
 ![[Barbearian.webp]]
 
-Amidst the stark, icy expanse of the Chorkas Forest, the Barbearians endure, a race of formidable humanoid bears carved from the relentless cold and isolation. Each Barbearian bears the weight of their ancestry, with fur as thick as the snow-laden pines and eyes that gleam with a fierce inner fire. Their bodies are massive and muscular, adaptations forged by both the harsh climate and their tumultuous history.
+Amidst the stark, icy expanse of the [[Chorkas Forest]], the Barbearians endure, a race of formidable humanoid bears carved from the relentless cold and isolation. Each Barbearian bears the weight of their ancestry, with fur as thick as the snow-laden pines and eyes that gleam with a fierce inner fire. Their bodies are massive and muscular, adaptations forged by both the harsh climate and their tumultuous history.
 
-Once kin to the Alberine, the Barbearians' lineage took a dark turn during an age-old conflict, now lost to the annals of time. In this desperate era, they turned to Ormos, the Vice of Rage, embracing his corrupting gifts to gain strength. This power, however, came at a great cost—their ability to control their own fury. Now, even in the silence of the frozen woods, they are prone to bouts of uncontrollable rage, a peril to friend and foe alike.
+Once kin to the Alberine, the Barbearians' lineage took a dark turn during an age-old conflict, now lost to the annals of time. In this desperate era, they turned to [[Ormos]], the Vice of Rage, embracing his corrupting gifts to gain strength. This power, however, came at a great cost—their ability to control their own fury. Now, even in the silence of the frozen woods, they are prone to bouts of uncontrollable rage, a peril to friend and foe alike.
 
 Isolated in the Chorkas Forest, far removed from the civilizations of the world, the Barbearians seek redemption for their ancestors' folly. Their society is one of atonement and strength, where every individual strives to overcome the rage within, hoping to one day cleanse their lineage of Ormos's foul taint. They dream of a future where they can reintegrate into Alberine society, returning to the fold as equals and leaving behind the shadows of their past.
 

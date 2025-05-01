@@ -18,10 +18,13 @@ tags:
 
 ## Physical Description
 
-- **Appearance**: (Description of the god’s most common form seen by worshipers or depicted in religious art)
-- **Height**: (If applicable)
-- **Weight**: (If applicable)
-- **Distinguishing Features**: (Unique attributes such as glowing eyes, ethereal voice, etc.)
+- **Appearance**: 
+
+Thanapoli is depicted as a tall, robed figure shrouded in twilight hues. His face is always veiled, obscured in shadow save for two faint lights where eyes might be. His cloak trails into mist, fading away behind him. 
+
+- **Height**: Unknown
+- **Weight**: Unknown
+- **Distinguishing Features**: 
 
 ## Personality
 
@@ -32,9 +35,13 @@ tags:
 
 ## Relationships
 
-- **Allies**: (Other gods or celestial beings they align with)
-- **Rivals/Enemies**: (Antagonistic relationships within the pantheon)
-- **Attitude towards Mortals**: (How they generally treat or interact with their followers and other mortals)
+**Family**: 
+- **Bastem**: Some legends claim he is the child of Bastem, the lost God of Death, but details are scant. 
+
+**Rivals/Enemies**: 
+- Unknown
+
+**Attitude towards Mortals**: Thanapoli does not speak to mortals unless their time has come. He shows no malice, only duty. For the dying, he is a silent companion. For the living, he is a presence best uninvited. Though feared, his guidance is always gentle, and his justice absolute.
 
 ## Mythology and Worship
 
@@ -46,21 +53,22 @@ It is said that Thanapoli emerged from the shadow of Bastem, the ancient God of 
 
 Legend holds that as the mortal numbers grew, Bastem was unable to maintain their role as reaper of lives, and ferryman to the the after life. To Statera they pleaded their case, and in her benevolence, Statera gifted them a disciple, Thanapoli. Thanapoli ensured that the transition from the mortal coil was neither chaotic nor cruel but a passage guided by care and respect. His role was not to hasten death but to provide sanctuary and passage once life had relinquished its hold. Despite his critical role however, few dare speak his name, least they draw his unwanted attention to their household. 
 
-- **Major Cults and Religious Practices**: (Description of main worship practices and any associated cults)
-- **Festivals**: (Special times of the year dedicated to this deity, including rituals and celebrations)
-- **Clergy and Temples**: (Description of priests, holy orders, and sacred sites dedicated to the deity)
+- **Major Cults and Religious Practices**: Thanapoli has no grand temples. His worship is quiet, often private. His followers, tend graveyards, maintain funerary rites, and recite the Lament of Passage for the dying.
+- **Festivals**: 
+	- **Funeral Rites**: While not considered a festival, nearly all funerals—regardless of region or belief—include silent prayers and offerings to Thanapoli. Family and friends seek his guidance to ensure the soul of the departed finds safe and untroubled passage to the afterlife.
+- **Clergy and Temples**: Thanapoli’s clergy are few and cloaked, often mistaken for mourners themselves. His temples are graveyards and mausoleums—places meant to endure. No prayers are spoken aloud. Inscriptions carved in stone and offerings are the only rites.
 
 ## Significant Historical Impact
 
-- **Major Plot Points in World History**: (Key moments when this god significantly influenced the world’s history)
-- **Artifacts**: (Relics or magical items associated with the deity)
+- **Major Plot Points in World History**: Unknown
+- **Artifacts**: Unknown
 
 ## Quotes
 
-- **Key Quotes**: (Iconic sayings or teachings attributed to the deity)
+“To live is to walk toward me. I do not hurry. I do not wait.”
 
 ## Cultural Reverence
 
-- **Legends and Lore**: (Lesser-known tales and esoteric knowledge about the deity)
+Thanapoli transcends the myriad cultures of Staterum. His name may not be spoken in daily life, and few erect grand monuments in his honor, yet across kingdoms, tribes, and faiths, one truth remains constant: death is his domain.
 
-This template should provide a comprehensive overview that can be used to detail each god within your pantheon, giving depth and context to their roles within your fantasy world.
+Regardless of belief, there is sanctity in funeral rites. Whether in grand tombs or humble graves, rites invoking Thanapoli—silently or symbolically—are observed by all. His presence is not celebrated, but acknowledged with solemnity and care. No one seeks his attention in life, yet all respect his role at the end.
