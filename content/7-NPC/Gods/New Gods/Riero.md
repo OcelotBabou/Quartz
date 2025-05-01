@@ -30,18 +30,22 @@ He is typically depicted clad in his full panoply, encased in heavy yet ornately
 ## Personality
 
 - **Traits**: Disciplined, tactical, unyielding, valorous
-- **Strengths**: Master tactician, inspires courage and fearlessness in his followers
-- **Weaknesses**: His warlike nature can make diplomacy difficult, sometimes seeing conflicts as the first solution and only solution
+- **Strengths**: A master of battlefield strategy and personal combat; his presence inspires discipline, courage, and unshakable resolve in warriors; unwavering in his pursuit of honourable warfare and protection of the innocent.
+- **Weaknesses**: Views the world too often through the lens of conflict, leading to rigid thinking and missed diplomatic solutions; bears the weight of his past with stoic silence, often refusing guidance or compromise. 
 - **Goals and Motivations**: To uphold the virtues of honour and valour in combat, ensuring that war is waged justly and that warriors act with integrity and bravery.
 
 ## Relationships
 
 **Family**: 
-- **[[Eris]]**: Creator/Father Figure, Riero views Eris with deep respect and admiration, considering him a mentor and guiding force. He is profoundly loyal to Eris, attributing his existence and purpose to his creator's vision. He also considers himself Eris' personal guard and sworn protector. Consequently,  Eris' disappearance after the Age of Darkness hit him harder than most.
+- **[[Eris]]**: Creator/Father, Riero views Eris with deep respect and admiration, considering him a mentor and guiding force. He is profoundly loyal to Eris, attributing his existence and purpose to his creator's vision. He also considers himself Eris' personal guard and sworn protector. Consequently,  Eris' disappearance after the Age of Darkness hit him harder than most.
+- **[[Sanara]]**: Half-Sister, 
+- **[[Ludara]]**: Half-Sister, 
+
 **Rivals/Enemies**: 
 - **[[Kakurcia]]**: Despite their rivalry, Riero and Kakurcia share a mutual respect forged in countless battles and challenges. They often test each other's skills in friendly hunts and combat, pushing each other to greater heights. This rivalry is complex, blending competition with camaraderie, making them frequent allies in times of war.
 - **[[Aperkepsi]]**: The conflict with Aperkepsi during the Age of Darkness is a dark chapter in Riero's history. He holds a significant grudge against Aperkepsi for the defeat that not only tested his limits but also highlighted vulnerabilities in his strategies. This defeat has fueled a desire for vengeance, which Riero sees as a personal failure to overcome.
 - **[[Dellesis]]**: Dellesis represents everything Riero despises—cowardice and the erosion of martial honor. Riero's disdain for Dellesis is intense, viewing his influence as a corruption that undermines the very essence of valor and bravery that Riero champions.
+
 **Attitude towards Mortals**: Riero's relationship with mortals is characterized by a dichotomy of admiration and responsibility. He values bravery and strategic minds, often engaging with mortal warriors who exhibit these traits. His favorites include races known for their martial prowess, such as the Ci'an and orcs. However, he harbors a certain pity for those who fall victim to the horrors of war, distinguishing between those who fight with honor and those who succumb to its ravages.
 ## Mythology and Worship
 
@@ -78,8 +82,16 @@ Through these duels, Eris and Dorna came to realize a profound truth: the realm 
 
 "The true strength of a warrior lies in the wisdom to know when peace must prevail."
 
-## Background
+## Cultural Reverence
 
-- **Legends and Lore**: (Lesser-known tales and esoteric knowledge about the deity)
+**[[Amyna]]**
 
-This template should provide a comprehensive overview that can be used to detail each god within your pantheon, giving depth and context to their roles within your fantasy world.
+To the disciplined legions of Amyna, Riero is both father and ideal. His doctrines are etched into their training manuals and whispered as prayers before battle. The Paleomyna Wall is inscribed with his tenets—valor, precision, sacrifice. Stories of his legendary stand against the demon lord Aperkepsi are told not as myths, but as military case studies. Every campaign is viewed as a chance to emulate his flawless tactics and uphold his honor. For these soldiers, Riero is not simply a god—they believe he walks among them in spirit, judging their resolve and rewarding the brave. His faith is not ornamental—it is doctrine, enforced with the same discipline he embodies.
+
+**[[Agroma]]**
+
+The agricultural heartland of Agroma does not forget the debt it owes to Riero. It was his watchful presence in both the Age of War the Age of Darkness that kept their fields safe from pillage, his shield that turned back invasion, his glaive that frightened away would-be raiders. Riero is praised as a savior—but quietly, at a distance. For while they honor his strength, they fear his attention. To draw the gaze of Riero too closely is to invite the winds of war. He is a beloved protector, but one whose blessing is courted with careful reverence and never provoked.
+
+**[[Dahri Empire]]**
+
+In the chronicles of the Dahri Empire, Riero is remembered not as a god, but as a monster. A ruthless invader whose campaigns bled their empire near to collapse. They name him the Crimson General, the butcher of the Coral Coast, the despoiler of Dahri’s western cities. His strategies—celebrated as brilliant by his followers—are viewed here as sadistic: sieges that starved entire provinces, tactical retreats that lured defenders into killing fields, “pacifications” that slaughtered thousands. Worse still, the survivors watched in horror as foreign lands deified him, turning atrocity into worship. Even today, among the Dahri, his name is spoken with fury, his statues defaced when found, his worship outlawed. To them, Riero is not divine—he is a war crime sanctified.

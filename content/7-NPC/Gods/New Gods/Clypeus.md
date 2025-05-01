@@ -77,7 +77,7 @@ Moved by his valor, Statera herself descended upon the battlefield. In recogniti
 
 "Stand firm, for in your steadfastness, others will find their hope."
 
-## Background
+## Cultural Reverence
 
 **[[The Rift Watch]]**  
 

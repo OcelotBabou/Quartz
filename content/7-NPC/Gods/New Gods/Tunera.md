@@ -60,7 +60,7 @@ The world itself seemed to respond to Statera's shifting emotions, the once brig
 
 - **Key Quotes**: (Iconic sayings or teachings attributed to the deity)
 
-## Background
+## Cultural Reverence
 
 - **Legends and Lore**: (Lesser-known tales and esoteric knowledge about the deity)
 

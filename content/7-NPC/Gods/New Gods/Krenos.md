@@ -64,7 +64,7 @@ Together, these titanic brothers were bound by the prophecy that spoke of a loom
 ## Significant Historical Impact
 
 - **Major Plot Points in World History**: 
-	- Krenos played a critical role during the Age of Excess, when he ascended the summit of Mon Olympus to defend [[Statera]] against Matiodox. Though Krenos fought valiantly, he was ultimately overwhelmed — not only by Matiodox himself, but by the vast legions of demonic forces at his command. Despite his defeat and being cast down from the summit, Krenos, alongside his brother Sthenos, succeeded in buying Statera the precious time needed to escape.
+	- Krenos played a critical role during the Age of Darkness, when he ascended the summit of Mon Olympus to defend [[Statera]] against Matiodox. Though Krenos fought valiantly, he was ultimately overwhelmed — not only by Matiodox himself, but by the vast legions of demonic forces at his command. Despite his defeat and being cast down from the summit, Krenos, alongside his brother Sthenos, succeeded in buying Statera the precious time needed to escape.
 - **Artifacts**: 
 	- **Obcillo, the Titan's Hammer**: This colossal warhammer can crush mountains and shatter barriers both magical and physical.
 
@@ -72,7 +72,7 @@ Together, these titanic brothers were bound by the prophecy that spoke of a loom
 
 "The weak can never forgive. Forgiveness is the attribute of the strong."
 
-## Background
+## Cultural Reverence
 
 **[[Agroma]]**
 

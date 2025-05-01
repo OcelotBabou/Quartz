@@ -65,7 +65,7 @@ Upon Kakurcia’s return, Dorna, delighting in the unexpected outcome and recogn
 ## Significant Historical Impact
 
 - **Major Plot Points in World History**: 
-	- [[Siege of Solway]]: During the brutal Siege of Solway, where the first demonic vanguard clashed against Paleomyna Wall, Kakurcia and Riero fought side by side. While the defenders stood resolute in defense, it was Kakurcia and Riero who led a devastating flanking attack against the demonic forces. Together, they hunted down and defeated [[Ormos]], severing the head of the enemy’s vanguard and forcing the remaining demons into a temporary retreat.
+	- [[Siege of Solway]]: During the brutal Siege of Solway, where the first demonic vanguard clashed against Paleomyna Wall, Kakurcia and Riero fought side by side. While the defenders stood resolute in defense, it was Kakurcia and Riero who led a devastating flanking attack against the demonic forces. Together, they hunted down and defeated [[Aperkepsi]], severing the head of the enemy’s vanguard and forcing the remaining demons into a temporary retreat.
 - **Artifacts**: 
 	- **Whisperstep Boots**: These supple leather boots, allow the wearer to move with eerie silence and supernatural speed.
 	- **Veyrien, the Bow of the Wild Hunt**: Is good bow
@@ -74,7 +74,7 @@ Upon Kakurcia’s return, Dorna, delighting in the unexpected outcome and recogn
 
 "To hunt is to understand the delicate balance of life and death and our role within it"
 
-## Background
+## Cultural Reverence
 
 **[[Cia'an]]**
 

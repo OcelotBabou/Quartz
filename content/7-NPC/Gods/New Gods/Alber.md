@@ -79,7 +79,7 @@ As civilizations rose and the influence of other gods expanded, Alber remained a
 
 “To tame nature is to enslave it; to protect it is to honour it.”
 
-## Background
+## Cultural Reverence
 
 **[[Alberine]]**
 

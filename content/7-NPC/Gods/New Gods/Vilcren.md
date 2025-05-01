@@ -27,6 +27,7 @@ Vilcren, revered as a nurturing goddess, personifies the fertility and richness 
 Her hair, a luxurious cascade of golden locks, flows around her like a river of grain. Each strand shimmers with the vitality of well-tended fields swaying in the breeze. Her hair is interwoven with an array of flowers, a living crown that not only enhances her beauty but also serves as a symbol of her divine position. 
 
 Vilcren’s face is gentle yet commanding, with a serene expression that reflects her wisdom and her maternal nature. Her eyes, a vibrant shade akin to the rich soil, radiate warmth and understanding, offering comfort and guidance to those who seek her aid.
+
 - **Height**: 176cm
 - **Weight**: 64kg
 - **Distinguishing Features**: Adorned in a verdant robe adorned with blossoming flora, their long golden hair that cascades nearly to the ground.
@@ -64,6 +65,7 @@ As their friendship flourished, Siar introduced Vilcren to his sister [[Agra]], 
 With these heavenly gifts, Vilcren returned to her people and introduced them to agriculture, teaching them how to sow, cultivate, and harvest. Under her guidance, humanity transitioned from scattered bands of hunter-gatherers to settled agriculturalists, their societies blossoming as robust communities rooted in the newfound stability that farming provided.
 
 Years passed, and Vilcren's legacy as the mother of agriculture grew legendary. When her mortal life neared its end, [[Statera]] herself visited Vilcren. Moved by her dedication and the profound impact she had on humanity, Statera offered Vilcren a place among the gods. Accepting this divine ascension, Vilcren rose from her mortal confines to become a deity, tasked with guiding and protecting the agricultural endeavors of the world, ensuring that the soils of Staterum would forever yield abundance and life.
+
 - **Major Cults and Religious Practices**: (Vilcren is venerated widely among agricultural societies across Staterum, especially within rural regions and smaller communities where farming remains the cornerstone of survival. Her worship is often humble and deeply personal—prayers whispered over newly planted seeds, offerings of the first harvest fruits left at small shrines, and seasonal rituals honoring her for the bounty she helps bestow.
 - **Festivals**: The most significant celebration dedicated to Vilcren is the **Festival of First Plough**, held at the start of the planting season. During this festival, communities gather to consecrate the fields, bless the tools of farming, and hold feasts using the last of the previous year's stores to symbolize faith in the coming season’s abundance.
 - **Clergy and Temples**: Temples dedicated solely to Vilcren are typically modest—crafted from wood, stone, and living plants—and often serve dual purposes as communal gathering halls or granaries. However, in many regions, Vilcren is most commonly worshipped alongside her siblings, Mercio and Ratura, within shared temples. These combined sanctuaries symbolize the culmination of human achievement, blending prosperity, creativity, and the fruitful bounty of the earth.
@@ -81,7 +83,7 @@ Years passed, and Vilcren's legacy as the mother of agriculture grew legendary. 
 
 "Tend the soil with care, and it shall tend to you. Prosperity is not seized — it is sown, nurtured, and earned with patience."
 
-## Background
+## Cultural Reverence
 
 **[[Agroma]]**
 In the fertile heartlands of Agroma, Vilcren is revered as the quiet architect of their prosperity. Farmers, young and old alike, often claim distant ties to her mortal lineage, a mark of pride and tradition that weaves through generations. Long before the rise of the Ascended Church, Vilcren’s name was spoken in gratitude during sowing and harvest festivals. Even now, amid shifting religious tides, her presence remains deeply embedded in the rhythms of the land — an enduring symbol of patience, labor, and the silent pact between mortal hands and fertile earth.

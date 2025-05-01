@@ -15,11 +15,14 @@ tags:
 - **Title**: The Arcane Seeker, The Veil Piercer
 - **Alignment**: Neutral 
 - **Symbol**: An open book with a swirling vortex
-- **Primary Worship Area**: 
+- **Primary Worship Area**: No where
 
 ## Physical Description
 
-- **Appearance**: Raxenos is often depicted as a tall, slender figure cloaked in robes that shimmer with arcane energy. His visage is enigmatic, with eyes that glow with an otherworldly light, often shifting colors. He is very aged, with a gaunt features and a hunched back. 
+- **Appearance**: 
+
+Raxenos is often depicted as a tall, slender figure cloaked in robes that shimmer with arcane energy. His visage is enigmatic, with eyes that glow with an otherworldly light, often shifting colors. He is very aged, with a gaunt features and a hunched back. 
+
 - **Height**: 191cm
 - **Weight**: 71kg
 - **Distinguishing Features**: His eyes are his most striking feature, glowing and shifting colors. He carries a staff topped with a swirling orb.
@@ -27,8 +30,8 @@ tags:
 ## Personality
 
 - **Traits**: Inquisitive, enigmatic, obsessive
-- **Strengths**: Mastery of arcane arts, unparalleled knowledge of the mystical and unknown
-- **Weaknesses**: His obsession with forbidden knowledge makes him vulnerable to corruption and moral compromise
+- **Strengths**: Mastery of arcane arts, unparalleled knowledge of the mystical and unknown, and the ability to transcend magical boundaries thought impossible by even elder gods. His presence distorts the arcane fields around him, making magical anomalies common in his vicinity.
+- **Weaknesses**: His obsession with forbidden knowledge makes him vulnerable to corruption and moral compromise. His curiosity overrides caution, often leading him to disregard the wellbeing of mortals or the natural order in his pursuit of secrets.
 - **Goals and Motivations**: To uncover all secrets of the universe, regardless of the cost. His pursuit of knowledge sometimes blinds him to the consequences of his actions.
 
 ## Relationships
@@ -37,10 +40,10 @@ tags:
 - Unknown
 
 **Rivals/Enemies**: 
-- [[Eris]]
-- [[Lepsis]]
+- [[Eris]]: Eris sees Raxenos's disregard for the consequences of unchecked knowledge as reckless and dangerous. During the Age of Darkness, Eris was said to be a main opponent to Raxenos
+- [[Lepsis]]: The god of Despair finds fertile ground in the aftermath of Raxenos’s failed experiments and unleashed horrors. Raxenos loathes Lepsis not just as an enemy but as a parasite who feeds on his mistakes. More than this though, he fears Lepsis, going out of his way to avoid the attention of this anceint being. 
 
-- **Attitude towards Mortals**: Views mortals as vessels of potential knowledge. He is willing to share his insights with those who seek wisdom but often demands a high price.
+**Attitude towards Mortals**: Views mortals as vessels of potential knowledge. He is willing to share his insights with those who seek wisdom but often demands a high price.
 
 ## Mythology and Worship
 
@@ -53,11 +56,12 @@ As the most recent of the Gods, and due to his role in the Age of Darkness ([[Ao
 
 ## Significant Historical Impact
 
-- **Major Plot Points in World History**: Raxenos's influence has led to both great advancements and terrible disasters. His role in the Age of Darkness, is undoubtedly what his is most infamous for. 
+- **Major Plot Points in World History**: 
+	- **The Age of Darkness**: His ascension through a pact with Eolas and the ritual that pierced the veil allowing the demonic forces to invade. While many blame him solely, some scholars argue his ritual was corrupted mid-casting by darker forces. 
 - **Artifacts**: 
-	- The Eye of Raxenos, 
-	- The Tome of Eternity,
-	- The Staff of Raxenos,
+	- The Eye of Raxenos, A crystal orb that floats beside powerful wizards who channel his teachings. It allows the user to see invisible creatures, magic auras, and glimpse into other planes—but too much use can cause madness.
+	- The Tome of Eternity, Said to contain the blasphemous finding Raxenos uncovered during and post ascension. 
+	- The Staff of Raxenos, Raxenos' personal staff and arcane conduit, to wield this staff is to wield untold power, but at what cost?
 
 
 ## Quotes

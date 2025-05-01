@@ -21,6 +21,7 @@ tags:
 - **Appearance**: 
 
 Tilita is often depicted as a full-figured, maternal presence, embodying the essence of fertility and femininity. Her form is voluptuous, radiating a sense of strength and nurturing warmth rather than seduction. She has a serene and welcoming expression, with a gentle smile that evokes a sense of comfort and safety. Her skin is a radiant, sun-kissed tan, evoking the warmth of the sun that nourishes and sustains life. Her deep brown hair, rich and lustrous, cascades over her shoulders down to near the ground, intertwined with blooming flowers. 
+
 - **Height**: 186cm 
 - **Weight**: Would be rude to ask. 
 - **Distinguishing Features**: Tilita's eyes shimmer with the vibrant green of new leaves. 
@@ -55,6 +56,7 @@ The next time Aruinbe's heart wandered, the spell took effect, transforming his
 ephemeral love into a lasting legacy. To his astonishment, his union with a mortal maiden resulted in the birth of a child, Tilita. This event marked the beginning of a new order in the cosmos, where love would invariably link to creation and caretaking.
 
 Tilita, born from the union of love and consequence, emerged as the Goddess of Fertility, Maternity, and Femininity. She was imbued with the power to oversee these realms, ensuring that the seeds of love would always flourish under her watchful eyes. Her birth brought balance to Aruinbe's life, teaching him the weight of his actions. Tilita's birth a lesson in the harmony of the heart's yearnings and life's duties. Tilita's role not just to promote growth and life but also to remind all beings of the responsibilities that come with affection and desire. 	
+
 - **Major Cults and Religious Practices**: The Sisters of Bloom, a section of the [[Church of Statera]] that focuses on childbirth and parenting. These sisters work around Siar'Morrin, both to care for expecting mothers, and to help ensure safe delivery of the next generation. 
 - **Festivals**: The Festival of Blooms, celebrated at the start of spring, where communities gather in fields and gardens to plant new life and celebrate fertility with music, dance, and communal meals. In some regions such as the [[Windswept Marches]], Mavera has taken the position as primary deity for this festival. 
 - **Temples**: Temples dedicated solely to Tilita are rare but not unheard of. More commonly, shrines are built by individuals or couples planning a family, and most cities feature a permanent shrine or a dedicated section within larger temples. The temples that do exist are lush, vibrant places where all forms of life are welcomed. These sanctuaries serve not only as places of worship but also as havens for those struggling, embodying Tilita’s nurturing essence.
@@ -68,7 +70,7 @@ Tilita, born from the union of love and consequence, emerged as the Goddess of F
 
 “Being a mother is learning about strengths you didn’t know you had.”
 
-## Background
+## Cultural Reverence
 
 **[[Ascended Church]]** 
 In the teachings of the Ascended Church, Tilita is revered as a paramount goddess, the eldest daughter of [[Vilcren]] and Aruinbe. Her divine heritage combines the profound energies of her parents: from Vilcren, the goddess who cultivates life from the earth, and from Aruinbe, the god of love, who ignites the spark of passion in the hearts of all beings. Tilita was bestowed with the unique ability to cultivate life from mortals, a gift that manifests through the miracle of childbirth and the nurturing of families. She embodies the intersection of earthly bounty and divine love, overseeing the growth of all life with a mother’s grace and wisdom. Her role is crucial, for it ensures the continuation of life and the perpetuation of divine love in its most tangible forms.

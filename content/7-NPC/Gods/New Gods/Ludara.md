@@ -70,7 +70,7 @@ Through Dorna, the raw power of the immaterial was tempered, allowing Eris to sh
 
 "The best way to predict the future is to create it."
 
-## Background
+## Cultural Reverence
 
 **[[Kitsune]]**  
 

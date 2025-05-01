@@ -31,9 +31,9 @@ Ratura is depicted as an ethereal and beautiful goddess, her presence a testamen
 ## Personality
 
 - **Traits**: Creative, inspiring, whimsically unpredictable
-- **Strengths**: Can inspire profound creativity in her followers, elevating their artistic abilities to divine levels
-- **Weaknesses**: Aloof and single minded… until distracted
-- **Goals and Motivations**: To enrich the world with beauty and truth through art and to inspire mortals to express their innermost thoughts and feelings.
+- **Strengths**: Ratura has the extraordinary ability to ignite divine creativity in mortals, unlocking artistic talents and insights that seem almost otherworldly. Her inspiration often results in masterpieces—be they songs, poems, paintings, or stories—that can sway the hearts of nations or preserve profound truths across generations. She is also incredibly perceptive, able to glimpse the soul of a person through the art they create. 
+- **Weaknesses**: Ratura is notoriously aloof, often retreating into her own imaginative world. She becomes easily absorbed in the flow of inspiration, which can make her seem detached or indifferent to mortal concerns beyond the arts. Her focus, though fierce when directed, is fickle; if another muse captures her attention, she can abandon her previous project—or even her followers—without warning, chasing the next spark of brilliance.
+- **Goals and Motivations**: Ratura is driven by a relentless desire to enrich the world through authentic beauty, creativity, and the honest expression of the soul. She sees art as the highest form of truth—a language that transcends mortal and divine boundaries. Her ultimate aim is to ensure that even as civilizations rise and fall, the heartbeat of creativity endures, leaving behind timeless echoes of wonder, sorrow, and hope.
 
 ## Relationships
 
@@ -71,12 +71,22 @@ Eolas approached Statera proposing that that Ratura was destined for a greater p
 
 ## Significant Historical Impact
 
-- **Major Plot Points in World History**: (Key moments when this god significantly influenced the world’s history)
-- **Artifacts**: (Relics or magical items associated with the deity)
-
+- **Major Plot Points in World History**: 
+	- Ratura's ascension is deeply entwined with the earliest flourishing of human society. While still mortal, she is said to have inspired the first great works of poetry, performance, and sculpture across the fertile heartlands of early human civilization. Ratura’s teachings laid the foundation for art, language, and written history, fostering a cultural legacy that continues to shape the modern world.
+	- Ratura is credited by scholars and faithful alike with preserving the oral and written histories of the early days of human expansion. Though few physical records from that time survive, it is said that her divine influence ensured certain myths, tales, and truths were passed down through centuries of retelling. Tragically, many of these accounts were lost or distorted during the Age of Darkness and the chaos that followed. Among followers of Ratura and the academic world alike, the disappearance of these records is seen as a devastating cultural wound. 
+- **Artifacts**: 
+	- **Echoes of the First Verse**: A delicate lyre, strung with threads of starlight, said to be "a vibe" to listen to.
+	- **The Codex Veritatem**: Said to be the first true written history of Staterum, the _Codex Veritatem_ was composed by Ratura herself during the First Age of Humanity. This artifact is rumored to contain not only the accurate retelling of early human expansion, but also divine insights, mythic truths, and forgotten events that no longer exist in any other source. Whether it remains a single bound tome or has been fractured into scattered pages hidden across Staterum is the subject of endless academic debate. Scholars and archivists from across the realms would offer kingdoms’ worth of gold for even a scrap of it. 
 ## Quotes
 
-- **Key Quotes**: (Iconic sayings or teachings attributed to the deity)
+"Paint with purpose, write with truth, and speak only when beauty or honesty demands it."
 
-## Background
+## Cultural Reverence
 
+**Balancekeepers:**
+
+To the Balancekeepers, Ratura is a symbol of the _pinnacle of human refinement_. Among the gods, she is viewed not only as one of the Ascended but as the epitome of what humanity can become when intellect, discipline, and artistic expression are brought into harmony. Her reverence for language, structure, and immortal beauty in all forms mirrors the Balancekeepers’ own ideals of order and legacy. They uphold her works as foundational texts in their schools and seminaries, and her teachings are seen as proof of humanity’s superiority in culture and sophistication over other races. To them, Ratura is not just a goddess—she is the _standard_ by which the progress of civilization is measured.
+
+**[[Yorudo]]**:
+
+Among the people of Yorudo, a culture that traditionally holds itself apart from the established pantheon, Ratura is not worshipped in the conventional sense—but she is _revered_. Artists, poets, dancers, and maskmakers of Yorudo speak of her with quiet respect, an ever-present inspiration behind the greatest creative works. Though they follow their own traditions and spirits, they often view her contributions as invaluable. In the prestigious _Night Lantern Festival_, held once a decade, performers dedicate their pieces to Ratura’s unseen influence, acknowledging the debt modern artistry owes to her. In this way, she exists on the edges of their faith—but in the heart of their craft.

@@ -47,6 +47,7 @@ As the primal energies of creation swirled through Staterum, Contrabastem reache
 Theri'an was more than just a deity; he was the embodiment of the primal life force that courses through every vein of the natural world. His creation marked the dawn of true mortal life in Staterum, heralding an era where the land thrummed with the footsteps of creatures both great and small. As the Lord of All Beasts, Theri'an possessed an intrinsic understanding of the natural world, an unspoken bond with every creature that roamed the wilds.
 
 His form mirrored the diversity of the life he protected. It is said that Theri'an could shift his shape to match any beast, from the mightiest dragons soaring in the sky to the smallest critters hidden beneath the leaves.
+
 - **Major Cults and Religious Practices**: (Description of main worship practices and any associated cults)
 - **Festivals**: (Special times of the year dedicated to this deity, including rituals and celebrations)
 - **Clergy and Temples**: (Description of priests, holy orders, and sacred sites dedicated to the deity)
@@ -60,7 +61,7 @@ His form mirrored the diversity of the life he protected. It is said that Theri'
 
 - **Key Quotes**: (Iconic sayings or teachings attributed to the deity)
 
-## Background
+## Cultural Reverence
 
 - **Legends and Lore**: (Lesser-known tales and esoteric knowledge about the deity)
 

@@ -76,7 +76,7 @@ This profound sadness brought about the world's first winter, as Statera’s hea
 
 "In stillness lies strength; in silence, wisdom; in winter, the promise of renewal."
 
-## Background
+## Cultural Reverence
 
 **[[Nordholt]]**
 

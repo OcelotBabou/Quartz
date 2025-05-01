@@ -85,7 +85,7 @@ Mercio ascended to divinity, taking his place in the pantheon as the god of comm
 
 "Give a man a fish, and you're a poor salesman, never give commodities away for free. Fool."
 
-## Background
+## Cultural Reverence
 
 **[[Agroma]]**
 

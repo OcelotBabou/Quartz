@@ -73,7 +73,7 @@ However, as the harshness of winter began to wane and Statera's heart slowly tha
 
 "Life stirs not with thunder, but with the gentle kiss of morning’s first light."
 
-## Background
+## Cultural Reverence
 
 **[[Nordholt]]**  
 

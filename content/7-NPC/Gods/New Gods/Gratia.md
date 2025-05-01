@@ -72,7 +72,7 @@ Gratia grew to embody the essence of her namesake—grace in all its forms. Her 
 
 "Beauty is not found in perfection alone, but in the soul that dares to create."
 
-## Background
+## Cultural Reverence
 
 **Peoples of the [[Ridgeback Forest]]:**  
 

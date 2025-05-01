@@ -73,7 +73,7 @@ Cazium's birth was a celebration of the world's own artistry—a deity whose ver
 
 "Craft with reverence, for in the mundane resides the divine.”
 
-## Background
+## Cultural Reverence
 
 **[[Dwarves]]**
 
