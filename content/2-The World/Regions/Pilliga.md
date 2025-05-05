@@ -52,8 +52,12 @@ This local force works in coordination with the New Biranian military to ensure 
 
 ### 8. **Notable Locations**
 
-- One is a settlement on the south of the river, a decent bit of trade exits here, crossing into the great dividing forest, and picking up additional rare supplies for NB here. 
-- Another is the fort city on the Eastern edge that marks the start of the Pilliga stretch of the Journey West, and acts as a defence against the bandits of Briggis. 
+- [[Narrowmere]]: Located on the southern border of Pilliga, just just south of the Fluvitae River, this bustling trade post connects Pilliga with the Great Dividing Forest. Known for its role in acquiring rare herbs and timber from the forest’s edge, it has become an essential hub for caravan resupply and cultural exchange.
+- [[Fort Drestan]]: A heavily fortified settlement on Pilliga’s eastern edge, Fort Drestan marks the beginning of the westward route across the arid plains. It serves as both a military bastion against the bandits of Collis Brigantium and a critical checkpoint for those entering the vast interior.
+- [[Westrun]]: Situated on the western bank of the Fluvitae River, opposite Fort Logos' eastern counterpart [[Eastwatch]]. A key waypoint for east-west trade, the city bustles with activity, managing river traffic and facilitating the movement of goods and travelers along the increasingly vital trade corridor.
+- [[Bellbrook]]: Nestled near a wide oxbow lake halfway down the Fluvitae, Bellbrook is famed for its sprawling inn known simply as "The Watering Hole." The town thrives as a midway sanctuary for drovers, merchants, and adventurers traversing the long and arduous route through Pilliga, offering a brief but welcome taste of comfort amid the dust and heat of the plains.
+- The [[Badlands]]: Stretching westward toward the Mirage Plains, the Badlands are an increasingly desolate, craggy subregion where dust storms and rocky outcrops dominate. With minimal vegetation and harsh terrain, few dare to linger long.
+- The [[Riverlands]]: Nestled against the foothills of the Protoramus Range, this relatively fertile stretch is webbed with small tributaries feeding into the Fluvitae. Known for hardy crops and scattered homesteads, the Riverlands represent Pilliga’s best hope for agricultural self-sufficiency.
 
 ### 9. **Significant Characters**
 

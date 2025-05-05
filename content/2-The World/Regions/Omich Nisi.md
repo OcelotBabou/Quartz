@@ -48,7 +48,10 @@ The military aspect of Omich-Nisi is unstructured yet effective. Each pirate cre
 
 ### 8. **Notable Locations**
 
-List and describe significant cities, landmarks, or mysterious places within the region. This can include capitals, cultural sites, and areas of particular danger or interest.
+- [[Gale's Cradle]]: Gale’s Cradle is a hidden harbour built within the hollowed heart of one of Omich-Nisi’s central islands. Accessed only through a narrow, tidally submerged sea tunnel the pirates have carved docks, barracks, and taverns directly into the stone.
+- [[Virellos]]: The southernmost and largest of the Mist Islands, Virellos is a towering landmass cloaked in thick, ancient forest. It forms a natural barrier to the rest of the archipelago, encircling and protecting the inner isles. 
+- The [[Skybridges]]: Spanning between the jagged peaks of the islands, the **Skybridges** are a marvel of pirate ingenuity. These suspended walkways connect the high settlements and lookout points across the archipelago.
+- 
 
 ### 9. **Significant Characters**
 

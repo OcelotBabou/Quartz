@@ -38,7 +38,11 @@ The military presence in the Western Scar is robust, consisting entirely of the 
 
 ### 8. **Notable Locations**
 
-List and describe significant cities, landmarks, or mysterious places within the region. This can include capitals, cultural sites, and areas of particular danger or interest.
+- The [[Rift Scar]]: The original location the tear in reality opened during the Age of Darkness, the Rift Scar pulses with chaotic energy. Small, temporary rifts frequently erupt across this scorched terrain. 
+- [[Hanging Shardfields]]: Here, massive stone formations, some the size of fortresses, hang suspended in the air—twisted and cracked as if thrown into the sky by a cataclysm and then frozen mid-flight.
+- [[Mawcliff Warrens]]: At the far eastern edge, where the land crumbles toward the endless sea, cliffs rise like broken teeth. Their surfaces are riddled with gaping, jagged tunnels that lead into a nightmarish labyrinth.
+- [[Val'Kharet]]: Also known as the shifting city, is a enigmatic city of indulgence. Opulent, otherworldly, and ever-changing, it appears without pattern to weary travelers, offering ecstasy, excess, and everything the soul might crave.
+- The [[Silent Spire]]: A spiraling black spire of unknown origin sits alone in the Rift Scar’s nothern edge, surrounded by complete silence—no wind, no footsteps, not even the sound of one’s own breath
 
 ### 9. **Significant Characters**
 

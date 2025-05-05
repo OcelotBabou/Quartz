@@ -25,6 +25,7 @@ Hodophis is depicted as a fearsome, elemental figure, perfectly embodying the ra
 His visage is bestial with sharp, predatory features that evoke a sense of ancient and wild power. His eyes blaze like twin coals, piercing through darkness with an intense, fiery gaze that can ignite fear and respect in equal measure. Powerful, muscular limbs end in sharp, talon-like claws, capable of rending stone and metal alike. A long, serpentine tail whips behind him, tipped with a spade of smoldering rock that leaves embers trailing in its wake.
 
 Hodophis’s mane and eyebrows are composed of ever-burning flames, adding to his intimidating appearance. The heat radiating from his body can be felt from a distance, warming the air around him and occasionally bursting into small flares when he is angered or agitated. Despite his fearsome appearance, there is an undeniable allure to his presence, a magnetic pull that embodies the thrill of danger and the promise of epic tales.
+
 ![[Pasted image 20240711140157.jpg]]
 - **Height**: 242cm
 - **Weight**: Variable
@@ -44,7 +45,9 @@ Hodophis’s mane and eyebrows are composed of ever-burning flames, adding to hi
 - **[[Lasair]]**: Mother. The bond between Hodophis and Lasair was once profoundly strong, rooted in a deep mutual respect for the elemental force of fire that they both wield. However, after a significant falling out whose details are whispered in hushed tones among the gods, their relationship cooled considerably. While Hodophis continues to respect Lasair's domain and her contributions to the primordial forces, he remains distant, engaging with her with a blend of deference and detachment, his true feelings about her kept closely guarded.
 - **[[Etnake]]**: Sister. Hodophis harbors a complex blend of admiration and apprehension towards Etnake, recognizing her as a powerful embodiment of their elemental lineage. Her unpredictable and explosive nature both intrigues and alarms him, making their interactions a careful dance around her mood swings. Despite this, he views her as an essential ally and a formidable force within the pantheon, representing the raw power of fire in its most unbridled form.
 - **[[Oikos]]**: Sister. His relationship with Oikos contrasts sharply with his ties to Etnake. Oikos, embodying the nurturing warmth of fire, draws out Hodophis's protective instincts. He cherishes her compassionate nature and her dedication to safeguarding the weak, though he sometimes wishes she would embrace more of the adventurous spirit he holds dear. Nevertheless, he supports her unconditionally, proud of her ability to showcase the gentler side of their fiery heritage.
-**Rivals/Enemies**: (Antagonistic relationships within the pantheon)
+
+**Rivals/Enemies**: 
+
 **Attitude towards Mortals**: (How they generally treat or interact with their followers and other mortals)
 
 ## Mythology and Worship

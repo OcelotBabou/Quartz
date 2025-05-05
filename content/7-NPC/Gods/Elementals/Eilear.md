@@ -44,7 +44,7 @@ Eilear’s eyes are deep and captivating, mirroring the rich, mysterious blues o
 
 **Rivals/Enemies**: 
 - **[[Poraal Oir]]**: As the god who commands the storms and winds, Poraal Oir often disrupts the serene and isolated realms that Eilear oversees. The powerful storms that Poraal Oir brings can wreak havoc on the tranquil islands under Eilear's protection, undermining the peace and stability Eilear strives to maintain.
-- 
+
 **Attitude towards Mortals**: Eilear maintains a stance of reserved detachment from most mortal affairs, however, beneath his aloof exterior lies a guardian spirit inclined towards acts of quiet benevolence, particularly towards those in peril on the seas. 
 
 ## Mythology and Worship

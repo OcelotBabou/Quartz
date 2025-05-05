@@ -53,7 +53,9 @@ Outside the fort, while the surrounding towns and cities enjoy substantial auton
 
 ### 8. **Notable Locations**
 
-List and describe significant cities, landmarks, or mysterious places within the region. This can include capitals, cultural sites, and areas of particular danger or interest.
+- [[Fort Logos (City)]]: An imposing stronghold carved into the only natural pass through the Ridgeback Mountains, Fort Logos serves as the final bulwark between southern Siar’Morrin and the unforgiving desert wastes to the north. Both a city and fortress, it stands as a symbol of discipline, order, and eternal vigilance.
+- [[Thapsos]]: Nestled in the fertile eastern valleys beneath the Ridgeback Mountains, Thapsos is a verdant contrast to the harshness of the fort itself. Here, decorated veterans of Fort Logos are granted land in recognition of their service. 
+- [[Eastwatch]]: Sitting directly opposite [[Westrun]] on the Fluvitae River, Eastwatch is the last major settlement before travelers embark on the arid stretch southward through [[Pilliga]]. 
 
 ### 9. **Significant Characters**
 

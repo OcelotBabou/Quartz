@@ -88,7 +88,7 @@ In response to this growing disregard for the sanctity of nature, Agra made a so
 
 To the Harpies of Tribe Agra, she is the Earth's Bounty, the mother who nourishes all. In the earliest days, her touch brought life to the barren, her tears turned deserts into gardens. They remember her sacrifices, her retreat driven by sorrow as her groves were felled and her meadows paved over. Agra’s Groves, the sacred sanctuaries where her tears fell, remain vibrant and untouched by decay, protected by her lingering essence. These places are proof of her enduring love and power, a testament to the care she continues to extend towards all living beings, despite their trespasses against her.
 
-Pirates of Isla Thera
+**Pirates of [[Isla Thera]]**
 
 The the Pirates of Isla Thera, the tales of Agra Island are just that, tales. They have heard the talk of a deity, Agra, who watches over the mysterious island to the far west, nurturing the land and protecting it from invaders. Stories claim she imbues the soil with richness and the forests with life, making the island a paradise of natural bounty. But the learned pirates' see these stories as nothing more than myths, spun by primitive islanders to scare off would-be plunderers. The idea of some divine guardian is a convenient deterrent, nothing more. While they respect the sea and its mysteries, they remain skeptical of divine tales used to ward off pirates. Agra is a legend, crafted to protect treasures that might not even exist.
 
