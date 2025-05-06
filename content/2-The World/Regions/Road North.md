@@ -7,7 +7,7 @@ tags:
 *[rohd north]*
 ### 1. **Overview**
 
-Welcome to the Road North, a region defined by its stark transformation from desolation to a gradual rebirth. This corridor, which stretches between the devastated lands of the Western Rift and the heart of Siar’Morrin, carries the scars of its past while tentatively embracing the possibilities of renewal. The land, once rendered barren by cataclysmic forces, now witnesses a tenacious reclamation by nature. While life slowly creeps back, restoring the color and vibrancy to the landscape, the memory of destruction lingers, serving as a somber reminder of the region's turbulent history.
+The Road North is less a defined territory and more a fractured corridor of renewal—a stretch of land scarred by the Age of Darkness ([[AoD]]), reaching from the southern edge of [[The Western Scar]] to the gates of [[New Birania]]. Once a smouldering wasteland, the region now marks a slow but resolute return to life. Ash-choked earth has begun to yield to creeping grasses, hardy shrubs, and scattered wildflowers, as nature reclaims what ruin left behind. Though travel between the north and south has dwindled in since the AOD, the Road North remains the primary overland artery connecting the two halves of Siar’Morrin, bypassing the treacherous mountains that loom to the East.
 
 ### 2. **Geography**
 
@@ -37,7 +37,10 @@ The military’s role in the Road North is multifaceted, involving both defense 
 
 ### 8. **Notable Locations**
 
-List and describe significant cities, landmarks, or mysterious places within the region. This can include capitals, cultural sites, and areas of particular danger or interest.
+- [[Dravenhold]]: Perched upon the fractured remains of an ancient bridge that once spanned the chasm between North and South, Dravenhold is a newly constructed stronghold and de facto capital of the Road North.
+- [[Pythor's Keep]]: Situated amid the broken highlands of the Northern Front, Pythor's Keep is a model of precision and order. Region Captain Aeneas oversees this fortress with strict military efficiency, turning its outposts into hubs of coordination and control.
+- [[Sentinel’s Crown]]: This solitary watchtower stands high upon the rocky slopes of the Neoramus Range, marking the eastern extent of Draven’s claim. Known as Sentinel’s Crown, the tower offers unmatched views over the recovering lands below and is a vital early-warning post.
+- The [[Bleeding Verge]]: Along the western edge of the Road North lies a lawless region known as the Bleeding Verge. Here, makeshift camps and hidden enclaves cling to the fractured terrain, and life is defined by mistrust and survival.
 
 ### 9. **Significant Characters**
 
