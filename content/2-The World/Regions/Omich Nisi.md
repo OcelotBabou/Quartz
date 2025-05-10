@@ -28,7 +28,7 @@ Over time, these initial survivors turned their newfound mastery of the islands 
 
 ### 4. **Political Structure**
 
-While Omich-Nisi lacks a formal government structure, it operates under a unique form of leadership governed by the pirate factions that dominate the archipelago. Among these factions, the Mist Walkers stand out as particularly influential, wielding more power than the others due to their exclusive access to a sacred shrine dedicated to Porral Oir, the Elemental God of Storms. This faction's deep connection to such a potent deity not only enhances their navigational and combat capabilities through storm magic but also grants them a revered status among all pirate groups within the islands.
+While Omich-Nisi lacks a formal government structure, it operates under a unique form of leadership governed by the pirate factions that dominate the archipelago. Among these factions, the Mist Walkers stand out as particularly influential, wielding more power than the others due to their exclusive access to a sacred shrine dedicated to Rezza Oir, the Elemental God of Winds. This faction's deep connection to such a potent deity not only enhances their navigational and combat capabilities through storm magic but also grants them a revered status among all pirate groups within the islands.
 
 This faction effectively acts as the de facto leaders of Omich-Nisi's pirate community, especially in times of crisis or when a need arises for arbitration between competing groups. In such instances, their word carries significant weight, and their decisions are generally respected by the other factions. This leadership role, however, is situational and largely informal; it is invoked during specific circumstances that require unified action or conflict resolution. Outside of these contexts, each pirate faction maintains its autonomy, operating independently unless their interests align or a common threat necessitates collaboration.
 
@@ -50,8 +50,9 @@ The military aspect of Omich-Nisi is unstructured yet effective. Each pirate cre
 
 - [[Gale's Cradle]]: Gale’s Cradle is a hidden harbour built within the hollowed heart of one of Omich-Nisi’s central islands. Accessed only through a narrow, tidally submerged sea tunnel the pirates have carved docks, barracks, and taverns directly into the stone.
 - [[Virellos]]: The southernmost and largest of the Mist Islands, Virellos is a towering landmass cloaked in thick, ancient forest. It forms a natural barrier to the rest of the archipelago, encircling and protecting the inner isles. 
-- The [[Skybridges]]: Spanning between the jagged peaks of the islands, the **Skybridges** are a marvel of pirate ingenuity. These suspended walkways connect the high settlements and lookout points across the archipelago.
-- 
+- [[Thalmonstrom]]: Off the western tip of Virellos, Thalmonstrom rages endlessly — a colossal, maelstrom that churns the sea like a wrathful sentinel. This ever-turning vortex guards the western approach to Omich Nisi, its presence both feared and respected by those who sail nearby.
+- The Skybridges: Spanning between the jagged peaks of the islands, the Skybridges are a marvel of pirate ingenuity. These suspended walkways connect the high settlements and lookout points across the archipelago.
+- [[Muit Island]]: Just beyond the official borders of Omich Nisi lies Muit Island, a volcanic and fertile land often considered part of the archipelago by association. Revered as the ancient homeland of the Tabaxi, it remains largely undisturbed — a sacred place most seafarers avoid out of respect for the traditions of the Tabaxi. 
 
 ### 9. **Significant Characters**
 

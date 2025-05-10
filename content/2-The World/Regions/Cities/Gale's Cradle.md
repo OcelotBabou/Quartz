@@ -31,9 +31,9 @@ Gale’s Cradle is the nerve center of piracy in the Mist Islands. While many sm
 **Notable Features:**
 
 - **The Drowned Gate:** The tidal sea tunnel that grants access to Gale’s Cradle. At high tide, it vanishes beneath the waves, and even at low tide rumours suggest only returning captains know the secrets to navigating it.
-- **Poraal’s Echo:** A temple at the highest peak on the island, ancient in origin and dedicated to [[Poraal Oir]]. It is said from this temple that the Mist Walkers gain their immense magical power.
+- **Rezza’s Echo:** A temple at the highest peak on the island, ancient in origin and dedicated to [[Rezza Oir]]. It is said from this temple that the Mist Walkers gain their immense magical power.
 - **The Broken Chain Inn:** A raucous cliffside tavern halfway up the eastern wall, favored by mid-ranking captains and storm priests. Brawls are common; duels, inevitable.
-- 
+- **Spider Pits**: Deep within the cliffside lie the Spider Pits, where the pirates of Omich-Nisi raise massive spiders for their silk. Harvested and woven into flexible ropes, this silk is essential for the bridges, pulleys, and rigs that span the misty heights of the islands.
 
 **Local Legends or Stories:** 
 
