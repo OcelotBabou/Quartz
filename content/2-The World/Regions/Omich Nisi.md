@@ -50,7 +50,7 @@ The military aspect of Omich-Nisi is unstructured yet effective. Each pirate cre
 
 - [[Gale's Cradle]]: Gale’s Cradle is a hidden harbour built within the hollowed heart of one of Omich-Nisi’s central islands. Accessed only through a narrow, tidally submerged sea tunnel the pirates have carved docks, barracks, and taverns directly into the stone.
 - [[Virellos]]: The southernmost and largest of the Mist Islands, Virellos is a towering landmass cloaked in thick, ancient forest. It forms a natural barrier to the rest of the archipelago, encircling and protecting the inner isles. 
-- [[Thalmonstrom]]: Off the western tip of Virellos, Thalmonstrom rages endlessly — a colossal, maelstrom that churns the sea like a wrathful sentinel. This ever-turning vortex guards the western approach to Omich Nisi, its presence both feared and respected by those who sail nearby.
+- Thalmonstrom: Off the western tip of Virellos, Thalmonstrom rages endlessly — a colossal, maelstrom that churns the sea like a wrathful sentinel. This ever-turning vortex guards the western approach to Omich Nisi, its presence both feared and respected by those who sail nearby.
 - The Skybridges: Spanning between the jagged peaks of the islands, the Skybridges are a marvel of pirate ingenuity. These suspended walkways connect the high settlements and lookout points across the archipelago.
 - [[Muit Island]]: Just beyond the official borders of Omich Nisi lies Muit Island, a volcanic and fertile land often considered part of the archipelago by association. Revered as the ancient homeland of the Tabaxi, it remains largely undisturbed — a sacred place most seafarers avoid out of respect for the traditions of the Tabaxi. 
 
