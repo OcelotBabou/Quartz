@@ -18,7 +18,7 @@ tags:
 - **Symbol**: A heart wrapped and pinned with chains
 - **Primary Worship Area**: 
 
-![[Chyntum Sym.webp]]
+![[Chysymbol.png]]
 
 ## Physical Description
 

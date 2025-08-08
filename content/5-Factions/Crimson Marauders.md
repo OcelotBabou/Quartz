@@ -9,11 +9,13 @@ tags:
 ### 1. **Basic Info**
 
 - **Name**: The Crimson Marauders
-- **Symbol**: A skull with two crossed sabers behind it, all in crimson.
+- **Symbol**: A heart pierced with two crossed sabers, chains wrap the saber hilts and drape from them.
 - **Leader**: Captain [[Brax the Ironfisted]]
 - **Headquarters**: [[Fort Albazin]]
 - **Primary Role**: Initially mercenaries, now known for banditry and raiding along trade routes in Western Siar’Morrin.
 - **Notable Traits**: Fierce reputation, increasingly seen as outlaws rather than legitimate mercenaries.
+
+![[ChatGPT Image Aug 8, 2025, 04_06_56 PM.png]]
 
 ### 2. **Overview**
 

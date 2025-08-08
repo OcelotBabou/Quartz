@@ -57,7 +57,7 @@ This local force works in coordination with the New Biranian military to ensure 
 - [[Westrun]]: Situated on the western bank of the Fluvitae River, opposite Fort Logos' eastern counterpart [[Eastwatch]]. A key waypoint for east-west trade, the city bustles with activity, managing river traffic and facilitating the movement of goods and travelers along the increasingly vital trade corridor.
 - [[Bellbrook]]: Nestled near a wide oxbow lake halfway down the Fluvitae, Bellbrook is famed for its sprawling inn known simply as "The Watering Hole." The town thrives as a midway sanctuary for drovers, merchants, and adventurers traversing the long and arduous route through Pilliga, offering a brief but welcome taste of comfort amid the dust and heat of the plains.
 - The [[Badlands]]: Stretching westward toward the Mirage Plains, the Badlands are an increasingly desolate, craggy subregion where dust storms and rocky outcrops dominate. With minimal vegetation and harsh terrain, few dare to linger long.
-- The [[Riverlands]]: Nestled against the foothills of the Protoramus Range, this relatively fertile stretch is webbed with small tributaries feeding into the Fluvitae. Known for hardy crops and scattered homesteads, the Riverlands represent Pilliga’s best hope for agricultural self-sufficiency.
+- The [[Avalon]]: Nestled against the foothills of the Protoramus Range, this relatively fertile stretch is webbed with small tributaries feeding into the Fluvitae. Known for hardy crops and scattered homesteads, the Riverlands represent Pilliga’s best hope for agricultural self-sufficiency.
 
 ### 9. **Significant Characters**
 
