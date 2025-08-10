@@ -36,10 +36,18 @@ Avalon remains the agricultural heart of Pilliga, producing the majority of the 
 
 **Notable Features:**
 
--  
+- **Burrowcliffe**: The capital of Pilliga, Burrowcliffe is built into and against a series of steep escarpments at the base of the **[[Protoramus Range]]**. Originally a fortified farming hub, it has grown into the administrative and economic heart of the Riverlands, and a symbol of the 'old wealth' within Pilliga. 
+- **Oikos Springs:** A famous cluster of mineral-rich hot springs just outside Burrowcliffe, nestled at the foot of the mountains. Fed by geothermal heat and meltwater seepage, Oikos Springs are a place of both relaxation and tradition
+- **Asterfen Flats:** A broad expanse where alluvial fan plains spread into seasonal wetlands, Asterfen Flats is among the most fertile farmland in Avalon. In the wet season, it becomes a shimmering patchwork of shallow water and marsh, by dry season, the waters recede, revealing rich silt fields.
+- **The Thalassa Terraces:** A monumental feat of agriculture, the Thalassa Terraces reshape the lower slopes of the Protoramus Range into layered steps of cultivated land. Stretching for kilometres, these terraces allow farming far up the mountain face, capturing meltwater in a network of channels and reservoirs.
+- **Erythra Spring:** Perhaps the most famous of Avalon’s karst springs, Erythra bubbles up from deep within the foothills, its waters tinted a faint red from mineral traces in the surrounding rock. Rumours have long swirled about its origins, fuelled by its mysterious and sudden appearance, seemingly sprouting right out from the rocky ground. 
 
 **Local Legends or Stories:** 
 
+Among the darker tales told in Avalon is that of Erythra Spring. According to rumour, its sudden and unexplained emergence marks the site of a shallowly buried portal to the Vice realms. In this telling, the water flows from those violent and corrupted lands — the faint red tint not from harmless minerals, but from the lingering blood of endless slaughter. If one is able to trace back along this spring to its origins it is said they will discover a secret passage into these cursed realms. 
+
+In gentler contrast is the legend of Oikos Springs. Locals claim the waters were blessed in ancient times by the Hearth Mother Oikos herself, making the springs a place where no violence can be done. Those who come in peace, it is said, will find their wounds mended and their spirits eased in the warm, mineral-rich pools. But to draw blood or raise arms within sight of the steam is to invite swift and certain retribution.
 
 **Current Status:** 
 
+Avalon remains a vital cornerstone of Pilliga’s survival, its fertile fields and mountain-fed waters continuing to sustain the region. Though shifting trade patterns have drawn some of its population toward the Fluvitae, its towns remain prosperous, its estates wealthy, and its agricultural output unmatched. In a land where most settlements cling to survival, Avalon endures as a place of relative comfort — and as the keeper of Pilliga’s oldest traditions.

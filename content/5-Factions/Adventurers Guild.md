@@ -7,37 +7,49 @@ tags:
   - continent/western-siarmorrin
   - continent/northern-siarmorrin
 ---
-### 1. **Overview**
+## 1. **Overview**
 
-The Adventurers Guild stands as a beacon of opportunity and camaraderie in the world of Siar'Morrin. With its network of bases strategically positioned across the land, it serves as a hub for adventurers seeking employment and purpose. Tasked with handling missions and odd jobs of all kinds, the guild acts as a vital link between those in need and the capable souls willing to lend their skills.
+The Adventurers Guild is a beacon of opportunity and camaraderie across Siar’Morrin, linking those in need with capable individuals willing to lend their skills. Its network of guildhalls and outposts provides adventurers with resources, lodging, and missions ranging from minor errands to high-risk expeditions. Recognised for reliability and professionalism, the guild is respected in most regions and serves as a stabilizing force in times of unrest.
 
-### 2. **History**
+- **Type:** Guild
+- **Base of Operations:** Vitaurum
+- **Core Purpose/Focus:** Coordinating and supplying skilled individuals for tasks that require exceptional ability, from monster hunting to diplomacy and exploration.
+- **Reputation:** Widely respected for integrity and results, though sometimes seen by rivals as overly controlling or politically involved.
+- **Symbol:** (Pending final design – likely to incorporate a sword and quill crossed before a rising sun, symbolising both action and wisdom.)
 
-Founded centuries ago, the Adventurers Guild was reborn in its current form after the turmoil of the Age of Darkness, by the legendary figure [[Iblis]]. Iblis, once a trusted servant to the deity Eris, was gifted a second chance at life, and used this opportunity to stablished the guild as a force for stability and order. The guild has since played a pivotal role in the reconstruction of Siar'Morrin. It has not only facilitated the matching of skilled individuals with essential jobs, but also served as a foundational pillar of law and order. By maintaining a network of adventurers ready to tackle the challenges of a rebuilding world, the guild has provided both hope and direct support to those struggling to recover. Its presence has helped to keep society stable and guided many who might otherwise have lost their way amid the chaos
+## 2. **History**
 
-### 3. **Leadership and Structure**
+Founded centuries ago, the guild took its current form after the turmoil of the Age of Darkness ([[AoD]]), rebuilt under the guidance of [[Iblis]], a legendary figure once in service to the deity [[Eris]]. Given a second chance at life, Iblis dedicated himself to creating a force that could restore order and provide purpose in a fractured world. Since then, the guild has played a pivotal role in reconstruction, maintaining stability, and guiding those who might otherwise be lost to lawlessness. Its presence has helped shape communities, bolster trust between regions, and preserve a measure of peace in uncertain times.
 
-The Adventurers Guild is structured with a hierarchical yet flexible leadership system, headed by Iblis. Below him, the guild is divided into regional chapters, each overseen by a captain who manages local operations. These leaders are responsible for assigning missions, maintaining guild standards, and overseeing the training and support of guild members. Leadership positions within the guild are often filled through meritocratic means, emphasizing skill, experience, and dedication.
+## 3. **Structure & Organization**
 
-### 4. **Culture and Beliefs**
+The guild operates under a hierarchical yet flexible system:
 
-The culture within the Adventurers Guild is deeply influenced by the principles of law, order, and structured hierarchy. Although direct worship of Eris is not mandatory, the guild’s operations and ethical guidelines reflect his virtues. Members are expected to adhere to a strict code of conduct that emphasizes fairness, justice, and responsibility, principles that guide their actions and decisions.
+- **Guildmaster:** Iblis – supreme leader and symbolic figurehead.
+- **Regional Captains:** Oversee chapters in their territories, assign missions, enforce standards, and manage training.
+- **Support Staff:** Quartermasters, archivists, medics, and trainers who maintain operations and member readiness.
+- **Members:** Admitted through a rigorous entry trial assessing skill, integrity, and alignment with guild values.
 
-The entry trials for new members are a fundamental aspect of the guild's culture, designed to assess not only physical prowess and skill but also integrity and moral alignment with the guild's core values. This vetting process reinforces the guild's reputation for reliability and trustworthiness, making it a respected institution across Siar'Morrin.
+## 4. **Culture & Practices**
 
-### 5. **Geographical Territory**
+The guild embodies the principles of law, order, and responsibility, mirroring Eris’s virtues without enforcing direct worship. Members follow a strict code of conduct centered on fairness, justice, and reliability. The initiation trial is a defining cultural element, ensuring that all members meet high moral and professional standards. Guild credit, earned through missions, reinforces loyalty by offering in-house benefits such as lodging, rare items, and information
 
-The Adventurers Guild operates across all of Siar'Morrin, except for the North-Western corner, the Ridgeback Mountains acting as a natural perimeter to their jurisdiction. A key aspect to their success are the guildhalls and outposts strategically placed in major cities and near significant geographical or historical sites. These locations serve as bases for launching expeditions, providing support to travelers, and facilitating trade and information exchange between different regions of the realm.
+## 5. **Key Figures**
 
-### 6. **Alliances and Rivalries**
-
-- **New Birania**:
-The guild is often closely linked to New Birania, with some speculating that the guild operates as a means for New Birania to spread its influence. Despite these rumors, the two maintain a healthy relationship and mutual respect.
-
-- **The Shattered Kingdoms:**
-Recently, the Adventurers Guild has intensified its efforts in the Shattered Kingdoms, a region marked by turmoil and fragmentation. These lands have become a focal point for the guild’s support, aimed at stabilizing the area and aiding in its reconstruction. Despite these efforts, not all local kingdoms view the guild’s presence favorably; some perceive their intervention as meddling, causing a mix of gratitude and resentment among the various factions within the Shattered Kingdoms.
-
-- **Lone Wolf Pack Guild**:
-The Adventurers Guild views the Lone Wolf Pack Guild (LWPG) as renegades and amateurs in the adventuring scene. However, they acknowledge the positive aspects of the LWPG and have thus far avoided direct intervention in their practices, maintaining a cautious but non-confrontational stance.
-
+- **Guildmaster:** Iblis – Rebuilder of the guild, former servant of Eris, and a living symbol of second chances.
 - 
+
+
+## 6. **Geographic Influence**
+
+- **Areas of Operation:** Active across the majority of Siar’Morrin, excluding the far North-West beyond the Ridgeback Mountains.
+- **Allies & Enemies:**
+    - **Ally:** [[New Birania]] – cooperative relationship, though some suspect mutual political leverage.
+    - **Ally/Rival:** The [[Shattered Kingdoms]] – welcomed in some areas, resented in others.
+    - **Rival:** [[Lone Wolf Pack Guild]] – seen as undisciplined and reckless, though not openly opposed.
+
+## 7. **Resources & Capabilities**
+
+- **Military Strength:** No formal standing army, but can call upon a vast pool of trained adventurers when needed.
+- **Economic Power:** Operates numerous guildhalls, inns, and supply outposts across the continent. Primary income comes from contract fees, a cut of members’ earnings, and internal trade within the guild network.
+- **Special Assets:** A far-reaching intelligence network, regional cooperation agreements with local rulers, and an internal credit system that incentivises loyalty and long-term membership.

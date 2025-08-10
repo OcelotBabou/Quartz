@@ -6,42 +6,58 @@ tags:
   - BiranianGuard
   - NewBirania
 ---
-### 1. **Basic Info**
+## 1. **Overview**
 
-- **Name**: The Biranian Guard
-- **Symbol**: A set of scales mad of a sword and shield
-- **Leader**: Legatus [[Eron Vaelor]]
-- **Headquarters**: [[Vitaurum]]
-- **Primary Role**: Protecting New Birania and its allies from both internal and external threats, and maintaining a sophisticated intelligence network.
-- **Notable Traits**: Disciplined military structure, dual focus on defense and intelligence operations.
+The Biranian Guard is the elite military and intelligence arm of [[New Birania]], charged with defending the realm and its allies from both internal and external threats. Renowned for its discipline, strategic precision, and vast intelligence network, the Guard operates openly as a powerful military force and covertly as a silent hand guiding political stability.
+
+- **Type:** Elite Military & Intelligence Organization
+- **Base of Operations:** [[Vitaurum]]
+- **Core Purpose/Focus:** Safeguarding New Birania’s sovereignty, securing allies, and preemptively neutralizing threats through a blend of military might and covert operations.
+- **Reputation:** Highly respected and often feared; seen as a guarantor of stability by allies and a shadowy influence by detractors.
+- **Symbol:** A set of scales formed from a sword and shield.
 
 ![[BiranianGuardsym.webp]]
 
-### 2. **Overview**
+## 2. **History**
 
-The Biranian Guard is the elite military and intelligence unit of [[New Birania]], established in the aftermath of the Age of Darkness ([[AoD]]). Tasked with protecting the realm and its allies, the Guard has evolved to include a sophisticated intelligence network, allowing it to preempt and neutralize threats both within and beyond its borders.
+Formed in the immediate aftermath of the Age of Darkness ([[AoD]]), the Biranian Guard originated from the most skilled veterans of New Birania’s defenses. In its early years, the Guard’s focus was straightforward: patrolling borders, reinforcing defenses, and striking back against hostile incursions. As the realm recovered and political complexities deepened, the Guard adapted, establishing the Intelligence Network to meet new challenges. This covert branch expanded the Guard’s capabilities beyond the battlefield, enabling it to shape events from the shadows, deter potential threats before they arose, and maintain New Birania’s strategic advantage.
 
-### 3. **History**
+## 3. **Structure & Organization**
 
-Initially formed from the ranks of the best guards following the AoD, the Biranian Guard was crucial in stabilizing New Birania as it struggled to rebuild. Originally, their duties were straightforward: overseeing patrols, organizing defenses, and leading counterattacks against immediate threats. As New Birania's political landscape became more complex, the need for a more nuanced approach to security became apparent. This led to the establishment of the Intelligence Network, a specialized force within the Guard focused on gathering information and operating clandestinely to maintain regional stability and steer the country toward favorable outcomes.
+The Guard is commanded by Legatus [[Eron Vaelor]] and is divided into two primary branches:
 
-### 4. **Leadership and Structure**
+- **Defense Corps:** Oversees direct military operations. Organized into a hierarchical cohort system for clear chains of command and rapid mobilization.
+- **Intelligence Network:** Operates through specialized, decentralized cells for surveillance, counter-espionage, and information analysis.      
 
-The Biranian Guard is currently overseen by Legatus [[Eron Vaelor]], with two main branches under its command: the Defense Corps and the Intelligence Network. Each branch is managed by a Tribune who reports directly to the Legatus, ensuring that the Guard’s operations are cohesive and aligned with national security objectives. Below this level, the two branches maintain their own independent structure, the Defense Corps operates with a hierarchical and linear command structure, designed to facilitate clear, direct orders and rapid response to threats. The Defense Corps employs a structured cohort system, designed to scale the command and control effectively as unit sizes increase. 
-The Intelligence Network features a more flexible and decentralized organizational structure to support its covert and varied nature of operations. This branch is divided into cells, each specializing in different aspects of intelligence gathering, such as surveillance, counter-espionage, and information analysis.
+Each branch is led by a Tribune who reports directly to the Legatus. While the Defense Corps and Intelligence Network operate independently day-to-day, both coordinate closely for unified national security objectives.
 
-### 5. **Culture and Beliefs**
-
-Members of the Biranian Guard are selected for their dedication, skill, and loyalty. The culture within the Guard emphasizes honor, duty, and a relentless commitment to the protection of New Birania. Training is rigorous, aiming not only to maintain physical and tactical excellence but also to cultivate a deep understanding of intelligence operations and covert strategies.
-
-### 6. **Geographical Territory**
-
-Headquartered in [[Vitaurum]], the Biranian Guard’s influence extends across Siar’Morrin. The Defense Corps is visible in their patrols and garrison presence, while the Intelligence Network operates more subtly, with agents embedded across the continent, often working undercover to gather crucial information and influence outcomes.
-
-### 7. **Alliances and Rivalries**
+## 4. **Culture & Practices**
 
 
+The Biranian Guard embodies the values of honor, loyalty, and vigilance. Members are chosen for exceptional skill, unwavering dedication, and a proven commitment to the realm’s safety. Upon acceptance into its ranks, every recruit must choose one of two distinct paths.
 
+Those who join the Defense Corps face a brutal but thorough regime of physical conditioning, weapons mastery, and tactical training. Their curriculum focuses on battlefield strategy, formation discipline, and the rapid deployment of force in response to threats. The corps’ standards are exacting, and only those with the strength, endurance, and presence of mind to endure the rigors of the field can thrive.
 
+By contrast, those who enter the Intelligence Network speak little of their initiation. The details of their training are kept deliberately obscure, known only to those who have endured it. What is clear is that it shapes agents into masters of subtlety—adept in surveillance, infiltration, and manipulation, with minds trained to sift truth from deception.
 
+Regardless of branch, all members swear an unbreakable oath: to protect New Birania above all personal interests. This creed is embodied in the Guard’s guiding doctrine, _“Visible strength, unseen hand”_—a balance between the overt show of military might and the quiet influence of covert operations. It is this duality that defines the Biranian Guard and ensures its presence is felt across Siar’Morrin, whether seen or unseen.
 
+## 5. **Key Figures**
+
+- **Legatus Eron Vaelor**: Commander of the Guard, celebrated for unifying the Defense Corps and Intelligence Network into a seamless force.
+- **Tribune :** 
+- **Tribune Jareth Solane**: Director of the Intelligence Network, a master strategist and elusive figure rarely seen in public.
+
+## 6. **Geographic Influence**
+
+- **Areas of Operation:** Eastern Siar’Morrin, with concentrated activity in New Birania and allied territories.
+- **Allies & Enemies:**
+    - **Ally:** New Birania (primary patron and beneficiary).
+    - **Ally:** The Adventurers Guild, frequent operational collaboration, valued for their flexibility and regional presence, often acting where the Guard cannot operate overtly.
+    - 
+
+## 7. **Resources & Capabilities**
+
+- **Military Strength:** A core force of elite soldiers organized into rapid-response cohorts, supported by specialized units.
+- **Economic Power:** Funded directly by New Birania’s treasury; additionally benefits from covert economic influence through intelligence assets.
+- **Special Assets:** Extensive intelligence network, highly mobile elite strike forces, advanced training facilities, and encrypted communications systems.
