@@ -16,8 +16,8 @@ tags:
 - **Species**: Human
 - **Gender**: Female
 - **Age**: 35 years
-- **Occupation**: Head Glacimancer
-- **Affiliation**: Glacimancers of the Arctic Expanse, Council of Agroma
+- **Occupation**: Elder Spokesperson of GST
+- **Affiliation**: GST, Council of Agroma
 - **Home Region**: The Arctic Expanse
 
 **Physical Description**
@@ -41,7 +41,7 @@ tags:
 
 - **Early Life**: Born in the harsh, beautiful landscapes of the Arctic Expanse, Elena was identified early for her potent magical abilities and trained under the esteemed elders of her community.
 - **Education**: Received personal tutelage from experienced glacimancery elders within the Arctic Expanse, in additional to education within Austfjell on diplomacy and economics.
-- **Key Events**: Led a delegation of Glacimancers to Agroma, initially as part of a pilot project to aid in food preservation. Her success in this role led to her permanent position as their representative.
+- **Key Events**: Succeeded her father as GST’s Elder Spokesperson after his passing. Since assuming the role, she has significantly expanded the company’s influence and broadened its reach across Siar’Morrin, establishing GST as a dominant force in both trade and politics. 
 - **Relationships**: Maintains strong ties with her homeland while building new alliances in Agroma. She is respected by her peers for her expertise and her ability to negotiate on behalf of her community. Is good friends with [[Remona Raturian]]. 
 
 **Skills and Abilities**
