@@ -6,37 +6,54 @@ tags:
   - KnightsofFireoath
   - RidgebackMountains
 ---
-### 1. **Basic Info**
+## 1. **Overview**
 
-- **Name**: The Knights of Fireoath
-- **Symbol**: A flaming sword buried in a black heart
-- **Leader**: 
-- **Headquarters**: Fortress of [[Pyrehold]], located on the Eastern edge of the [[Ridgeback Mountains]]
-- **Primary Role**: Dedicated to eradicating demonic influences and any associations with the vices through extreme and often ruthless measures.
-- **Notable Traits**: Known for their zealotry and harsh tactics, which ultimately led to their decline and presumed destruction during the Age of Darkness ([[AoD]]).
+The Knights of Fireoath were once a storied and formidable order, created to defend Siar’Morrin from demonic corruption and the influence of the Vices. In their early years they were hailed as noble protectors, a beacon of hope in times of chaos. Over the centuries, however, their methods grew increasingly harsh and xenophobic. By the dawn of the Age of Darkness ([[AoD]]), their once-gallant reputation had been eclipsed by fear, as they pursued their mission with ruthless fanaticism. Their dramatic fall from grace ended in their presumed destruction, leaving only ruins and legends of their firebound zeal.
 
-### 2. **Overview**
+- **Type:** Knightly Order
+- **Base of Operations:** [[Fortress Pyrehold]], eastern edge of the [[Ridgeback Mountains]]
+- **Core Purpose/Focus:** Eradication of demonic influence and the corruption of the Vices, often through uncompromising violence.
+- **Reputation:** Once admired as heroes, later reviled as zealots whose methods sowed fear as much as they offered protection.
+- **Symbol:** A flaming sword buried in a black heart.
 
-The Knights of Fireoath were once a storied and formidable order of knights in Siar’Morrin, known for their valor and gallantry. In ancient time they were seen as a beacon of hope for the people of Siar'Morrin. However, over time they became increasingly ruthless and anthropocentric. Their reputation, built on fierce loyalty and ruthless execution of their duties, became marred by their increasingly merciless methods which ultimately contributed to their dramatic fall from grace.
 
-### 3. **History**
 
-Founded during the Age of War millennia ago the knights were created to fight the growing influence of the Vices feed by time of tremendous suffering and hardship. Their early victories and the order's strict code of conduct earned them widespread respect and admiration. However, their tactics grew harsher over their millennia of service, eventually leading to widespread fear and resentment. Notorious incidents such as the burning of [[Nordholt]] and the near extermination of the Centaurs of Hybla showed the true depths the xenophobic order had fallen to. Many believe that the Knights were ultimately destroyed during the Age of Darkness, swallowed by the very chaos they once fought against.  
+## 2. **History**
 
-### 4. **Leadership and Structure**
+Founded during the Age of War, the Knights of Fireoath arose to battle the growing spread of the Vices amid an age of suffering and strife. Their strict code of conduct and early victories brought them widespread admiration, earning the trust of kings, priests, and common folk alike. For centuries they embodied the ideal of righteous defence.
 
-The Knights of Fireoath were led by a High Paladin, a role passed down to those deemed most zealous and capable in their crusade against darkness. The order was structured hierarchically, with ranks that members could ascend by demonstrating their prowess and unyielding adherence to the order’s harsh doctrines. This rigid command structure often led to extreme decisions, with little room for mercy or dissent.
+Yet with time, their cause darkened. Their campaigns became marked by brutality, their code twisted into a justification for excess zeal. The burning of [[Nordholt]] and the near-extermination of the [[Centaur]]s of [[Hybla Gratis]] stand as grim examples of their descent into mercilessness. By the Age of Darkness, the order’s name evoked fear as much as faith. Many believe their fortress and their order alike were consumed in that era’s chaos, destroyed by the very forces they had once sworn to resist.
 
-### 5. **Culture and Beliefs**
+## 3. **Structure & Organization**
 
-The culture within the Knights of Fireoath was one of intense devotion and severe discipline. They were bound by a code that prioritized the eradication of evil above all else, often interpreting this mission with a literal and fiery zeal. Their belief in their righteous cause justified their severe actions, which they viewed as necessary to cleanse the land of corruption.
-It is worth noting however, the order was not always like this, becoming more extreme and severe over a long period of time. 
+The Knights were governed by a rigid and hierarchical command system:
 
-### 6. **Geographical Territory**
+- **High Paladin:** The supreme leader of the order, chosen for zealous devotion and uncompromising adherence to the creed.
+- **Paladins of the Flame:** Senior commanders responsible for overseeing crusades and maintaining doctrinal purity.
+- **Firebound Knights:** The backbone of the order, sworn warriors who dedicated their lives to the eradication of perceived corruption.
+- **Initiates:** Aspirants trained in both martial discipline and ideological doctrine, gradually hardened into the order’s fanatic worldview.  
 
-Before their disappearance, the Knights of Fireoath operated primarily across all of Eastern Siar'Morrin, their location in the Ridgeback Mountains affording them easy access to both the North and South. The Fortress headquarter [[Pyrehold]], was positioned on the very Eastern edge of the Ridgeback Mountains. 
+## 4. **Culture & Practices**
 
-### 7. **Alliances and Rivalries**
 
-- **Alliances**: In their early years, the Knights were supported by various monarchies and religious groups that valued their role as protectors and purifiers.
-- **Rivalries**: Over time, their extreme methods alienated many, including those they once protected. They were particularly despised by virtually all non-human races, often leading to brutal conflicts.
+The Knights of Fireoath cultivated a culture of fanatical devotion and unyielding discipline. Their guiding creed held that the eradication of evil justified all means, no matter how severe. To them, mercy was weakness, and compromise an opening for corruption to spread.
+
+Life within the order was harsh and ascetic. Members trained relentlessly, purged worldly attachments, and embraced fire as both a weapon and a symbol of purification. Over centuries, this creed hardened into zealotry, transforming once-honourable traditions into rituals of uncompromising severity. While their origins lay in noble intentions, the relentless pursuit of their cause drove them to extremes that alienated allies and horrified those they once defended.
+
+## 5. **Key Figures**
+
+- **High Paladin Solomon Khalifa**: The final known leader of the Knights during the Age of Darkness. Following the burning of Nordholt he became a despondent leader, relegating duties to the paladins beneath him.  
+
+Most names have been forgotten, or purged from history following the Age of Darkness. 
+## 6. **Geographic Influence**
+
+- **Areas of Operation:** Primarily active around the borders between north and eastern Siar'Morrin, launching campaigns north and south from their mountain stronghold.
+- **Allies & Enemies:**
+    - **Enemies:** Any that would give quarter to the Vices in any regard. 
+    
+
+## 7. **Resources & Capabilities**
+
+- **Military Strength:** Unknown
+- **Economic Power:** Unknown
+- **Special Assets:** Accounts claim the Paladin wielded relics imbued with holy fire, capable of incredible destruction. 
