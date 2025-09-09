@@ -15,7 +15,7 @@ tags:
 - **Title**: The Illuminator, Guardian of the Day, Dayman
 - **Alignment**: Excess
 - **Symbol**: A radiant sun with beams extending outward
-- **Primary Worship Area**: [[Hu Dao]], 
+- **Primary Worship Area**: Dovus and [[Hu Dao]], 
 
 ## Physical Description
 
@@ -62,7 +62,7 @@ Gahrian’s touch did more than bring light; it sparked the very engine of life.
 
 Each sunrise is a daily reenactment of Gahrian’s original ascent, a ritual that reaffirms his vigilance and his unwavering commitment to light and life. The first light of each morning recalls the moment when Gahrian dispelled the ancient darkness, a daily reminder to those with open eyes of his foundational role in the cosmos.
 
-- **Major Cults and Religious Practices**: The Order of the Solar Halo, a prominent cult amongst the Lux Elves. 
+- **Major Cults and Religious Practices**: The [[Clergy of the Sun God]] 
 - **Festivals**: Festival of Gahrian, celebrated on the first day of spring, this festival marks the return of Gahrian's strength and the resurgence of light over darkness. Solis Maxim, celebrated during the summer solstice, when Gahrians power is said to be at its zenith. 
 - **Clergy and Temples**: Few commonly know temples to Gahrian remain, however discreet shrines in his honour can be found wherever Lux elves reside. 
 

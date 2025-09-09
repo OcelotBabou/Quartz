@@ -5,43 +5,55 @@ tags:
   - Faction
   - WesternSiarMorrin
 ---
-### 1. **Basic Info**
+### 1. **Overview**
 
-- **Name:** The Rat Pack  
-- **Symbol:** A stylised rat's head encircled by two crossed swords  
-- **Leader:** [[Skadin Blackfur]]
-- **Headquarters:** [[Flown]]
-- **Core Philosophy:** Initially founded to promote the valour and competence of Ratfolk mercenaries, striving to showcase their skills and loyalty.
+The Rat Pack is a mercenary guild of Ratfolk origin, once celebrated as a shining example of honour, loyalty, and Ratfolk valour. Founded by the legendary [[Virag Greytail]] and his companion **Boris Whiptail**, it sought to prove the worth of Ratfolk on the battlefield and dismantle the stereotypes that plagued their people. For a time, it succeeded—earning prestige across Western Siar’Morrin for its efficiency and discipline.
 
-### 2. **Overview**
+In recent decades, however, the guild has strayed from its founding vision. With leadership passing into less scrupulous hands, the Rat Pack has taken darker contracts—assassinations, sabotage, and covert operations—that have stained its reputation. Today, many see it less as a proud guild and more as a gang of mercenaries-for-hire
 
-The Rat Pack was established by [[Virag Greytail]], alongside his friend Boris Whiptail and other respected Ratfolk mercenaries. Designed as a guild to elevate the status of Ratfolk within the mercenary world, it influence has grown tremendously since its founding. The group initially focused on reputable contracts that would highlight the Ratfolk's skills and contributions, actively combating stereotypes and prejudices against their kind. However, a recent shift has seen a turn in the contracts it takes and has increasingly been garnering a negative reputation, to the point it is now viewed more as a gang than a guild. 
+- **Type:** Mercenary Guild
+- **Base of Operations:** Flown
+- **Core Purpose/Focus:** Originally to elevate Ratfolk through honourable service; now more profit-driven, taking both legitimate and underhanded contracts.
+- **Reputation:** Once admired as a guild of valour; now infamous for ruthless pragmatism.
+- **Symbol:** A stylised rat’s head encircled by two crossed swords.
 
-### 3. **History**
+### 2. **History**
 
-- **Founding:** The Rat Pack was founded by Virag Greytail after his reputation as a skilled mercenary grew. He gathered a trusted group of Ratfolk mercenaries, aiming to create a collective that could take on larger and more impactful contracts.
-- **Rise to Repute:** The guild quickly gained a reputation for efficiency and reliability, handling various contracts that ranged from guard duties to complex military operations.
-- **Post-Retirement Changes:** After Virag's retirement, the leadership of the Rat Pack shifted to less scrupulous members. This change in leadership marked a gradual shift in operations towards less ethical contracts, including assassinations and sabotage, tarnishing their once-honorable name.
+The Rat Pack was established by **Virag Greytail** at the height of his fame. Seeking to prove Ratfolk competence and loyalty, he assembled a band of skilled mercenaries, creating a collective able to take on larger and more prestigious contracts. Under Virag and his closest companions, the guild grew rapidly. Their reputation for reliability, discipline, and integrity attracted contracts from cities, kingdoms, and trade guilds across Western Siar’Morrin. A portion of their earnings was funnelled into [[Furrowton]], laying the foundations for the Ratfolk city that thrives today.
 
-### 4. **Leadership and Structure**
+When Virag passed leadership to his trusted ally Boris Whiptail, the guild continued to thrive, though its tone began to shift—less idealistic, more pragmatic. After Boris’s death the guild fell into a cycle of unstable leadership, plagued by mysterious circumstances often cutting the many guild masters rule short. Successive guildmasters pushed for profit and expansion, accepting contracts of increasingly questionable morality. Over time, the Rat Pack’s name became synonymous with ruthless efficiency rather than noble service.
 
-The Rat Pack is structured with a guildmaster at the top, followed by lieutenants who manage different squads based on the nature of the contracts. Virag was the original guildmaster, respected for his leadership and moral compass. However, more eager for active duty and exploration rather than administrative duties, Virag passed leadership onto Boris Whiptail. Following the death of Boris, and the retirement of Virag, the guild saw a rapid succession of guildmasters, each contributing to its gradual decline in principles.
+### 3. **Leadership and Structure**
 
-### 5. **Culture and Beliefs**
+The Rat Pack is structured with a guildmaster at the top, followed by lieutenants who manage different squads based on the nature of the contracts. Virag was the original guildmaster, respected for his leadership and moral compass.
+
+- **Guildmaster:** The supreme authority; currently **Skadin Blackfur**, a sharp but controversial leader whose rule reflects the Pack’s pragmatic, profit-driven turn.
+- **Lieutenants:** Commanders responsible for overseeing specific squads, specialising in fields such as bodyguard work, sabotage, or assassination.
+- **Squads:** Operational units of Ratfolk mercenaries, tightly knit and often bonded through long service together.
+- **Agents:** ISkilled individuals deployed for contracts requiring discretion, precision, or specialised talents. Agents often work alone or in small cells, excelling in subterfuge, assassination, or delicate negotiations where a full squad would draw too much attention.
+
+### 4. **Culture and Beliefs**
 
 Originally, the Rat Pack held a strong belief in honour, loyalty, and the showcasing of Ratfolk valour. The guild celebrated its successes by directing a percentage of all rewards towards the funding of [[Furrowton]], in the name of expanding Ratfolk influence and integration into the wider world. with festivals in Tanglethorn, which reinforced community and mutual respect among its members. 
 
 The religious beliefs within the Rat Pack were significantly shaped by Virag's personal devotion to [[Eris]]. This reverence influenced the guild's early principles, emphasising righteous conduct and the pursuit of just causes. However, as is typical of mercenaries, worship also extended to the worship of [[Riero]], [[Kakurcia]], and uniquely amongst Ratfolk mercenaries [[Theri'an]].  
 
-However, with the change in leadership and shift towards more secular and profit-driven objectives, the guild's religious ties have waned. 
+Today, much of that spirit has faded. Under current leadership, the Pack’s culture is increasingly secular and transactional. Loyalty is still valued (although rare), but contracts and profit often come before principle. Among the rank-and-file, there remains pride in Ratfolk resilience, but the grand vision of honour has been replaced by a reputation for ruthless efficiency.
 
-### 6. **Geographical Territory**
+### 5. **Key Figures**
 
-Originally the Rat Pack was founded where [[Furrowton]] now stands, setting the foundations for the city that has since flourished. As the guild grew and its ambitions stretched beyond the Ratfolk communities, the headquarters were relocated to [[Flown]], a strategic location that better facilitated interactions and operations across Siar'Morrin. Currently, the Rat Pack's influence and operational reach extend across the majority of Western Siar'Morrin, with their reputation and network allowing them to secure rare contracts from as far as [[Avatolika]]. 
+- **Virag Greytail (Retired):** Founder, revered by many as the embodiment of the Pack’s original vision.
+- **Boris Whiptail (Deceased):** Virag’s companion and first successor, whose era was marked by pragmatism and expansion.
+- **Skadin Blackfur (Current Guildmaster):** A shrewd but divisive leader, credited with maintaining the Pack’s relevance but criticised for embracing questionable contracts.
 
-With the [[Shattered Kingdoms]]’ ongoing tensions and complex political landscape, the current management of the Rat Pack sees potential for further expansion. Their aim is to leverage the guild’s capabilities in mercenary services to play a more significant role in the underhanded politicking and power struggles prevalent in the Shattered Kingdoms.
+### 6. **Geographic Influence**
 
-### 7. **Alliances and Rivalries**
+- **Areas of Operation:** Originally founded on the edge of the [[Paloto Swamplands]], the guild later relocated its headquarters to Flown for greater access to major contracts. Today, its influence extends across much of Western Siar’Morrin, with networks reaching as far as [[Avatolika]].
+- **Allies & Enemies:**
+    - **Enemies:** 
 
-- **Alliances:** [[Agroma]] although current shift has caused tensions. 
-- **Rivalries:** [[Crimson Marauders]] [[Ascended Church]] 
+### 7. **Geographic Influence**
+
+- **Military Strength:** Numerous squads of seasoned Ratfolk mercenaries, renowned for cunning, adaptability, and fierce loyalty to their comrades.
+- **Economic Power:** Significant, though tied to mercenary contracts rather than independent wealth. Their willingness to take almost any job ensures steady income.
+- **Special Assets:** Stealth, subterfuge and agents embedded in virtually all corners of Western Siar'Morrin. 
