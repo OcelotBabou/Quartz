@@ -1,11 +1,11 @@
 ---
-title: Example Title
+title: Cult of Excess
 draft: false
 tags: []
 ---
 ## 1. **Overview**
 
-The Cult of Excess is the most powerful and widespread cult in **Staterum**, a force of indulgence, corruption, and unchecked destruction. Unlike most cults, they make little effort to conceal themselves, often appearing in a sudden eruption of violence and chaos before vanishing just as abruptly. Their brazen nature makes them difficult to predict or contain, and were it not for their long-standing, mutually destructive rivalry with the **Cult of Shadows**, their influence might have already consumed much of the continent.
+The Cult of Excess is the most powerful and widespread cult in Staterum, a force of indulgence, corruption, and unchecked destruction. Unlike most cults, they make little effort to conceal themselves, often appearing in a sudden eruption of violence and chaos before vanishing just as abruptly. Their brazen nature makes them difficult to predict or contain, and were it not for their long-standing, mutually destructive rivalry with the [[Cult of Shadows]], their influence might have already consumed much of the continent.
 
 - **Type:** Cult
 - **Base of Operations:** Unknown

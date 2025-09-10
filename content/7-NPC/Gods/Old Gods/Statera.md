@@ -13,7 +13,7 @@ tags:
 - **Domain**: Balance, Harmony, Justice
 - **Title**: The Divine Equilibrium, Matron of Balance
 - **Alignment**: Lawful Neutral
-- **Symbol**: 
+- **Symbol**: A white circle within a larger black circle
 - **Primary Worship Area**: All of Siar'Morrin
 
 ## Physical Description

@@ -29,22 +29,10 @@
 - Others — TBD
     
 
----
-
-### 🧪 Arcane / Knowledge Factions
-
-- **Elementum Arcanum** – Mage order (in development).
-    
-- **[Unnamed Mage Order]** – Second mage organisation to complement the Elementum Arcanum.
-    
-- **The Truth Bound** – Lore keepers; guardians of the full history of Staterum and the Gods.
-    
 
 ---
 
-### ⚒ Trade & Economic Guilds
 
-- **GST (Glacimancer Storage & Transport Co.)** – Already detailed.
     
 - **Future Trade Guilds:** TBD — (possibilities include smithing, stonecutting, luxury goods, spice/silk caravans, or even dwarven mining syndicates).
     
@@ -77,9 +65,6 @@
 
 ### 🔮 Cults & Religious Sects
 
-- **Cult of Shadows** – Needs full fleshing out (counterpart to Cult of Excess).
-    
-- **Cult of Raxenos** – Followers of the god of forbidden knowledge and wizardry.
     
 - **The Fictors** – Kobold cult devoted to **Dath-Gea**, the Dream Dragon.
     
@@ -99,11 +84,6 @@
 
 Would you like me to now **draft a simplified Noble House template** (lighter than the guild/military/religious ones, since houses are more dynastic/political), so we can start filling out **House Terra** as your first example?
 
-##### You said:
-
-Yes please, what are the essentials for a Noble House template
-
-###### ChatGPT said:
 
 Great question — a **Noble House** doesn’t need as much granularity as a military or religious faction, but it does need to capture its **identity, influence, and legacy** in a way that makes it playable and story-rich. Here’s a streamlined template I suggest for your Noble Houses (I’ll keep it flexible so you can apply it across humans, elves, dwarves, etc.):
 
