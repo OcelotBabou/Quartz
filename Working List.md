@@ -1,3 +1,5 @@
+
+Fortis Academy and Marcatura academy
 ### Noble Houses
 
 #### Humans
@@ -27,14 +29,6 @@
 - Harpies — TBD
     
 - Others — TBD
-    
-
-
----
-
-
-    
-- **Future Trade Guilds:** TBD — (possibilities include smithing, stonecutting, luxury goods, spice/silk caravans, or even dwarven mining syndicates).
     
 
 ---

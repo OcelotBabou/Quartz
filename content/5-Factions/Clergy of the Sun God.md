@@ -23,7 +23,7 @@ Despite these hardships, the Clergy harbours no bitterness toward younger races.
 
 ## 3. **Structure & Organization**
 
-The Clergy is notable for its anatomically based hierarchy, reflecting both the body of the faithful and the radiant aspects of Gahrian’s light. Each branch has a leader of equal standing, though the **Voice** is widely acknowledged as the practical head of the organisation.
+The Clergy is notable for its anatomically based hierarchy, reflecting both the body of the faithful and the radiant aspects of Gahrian’s light. Each branch has a leader of equal standing, though the Voice is widely acknowledged as the practical head of the organisation.
 
 - **The Voice:** Speakers and missionaries, responsible for spreading Gahrian’s teachings, leading rituals, and serving as the clergy’s public face.
 - **The Eyes:** Sentinels and advisors who watch for threats, dissent, or corruption—acting not as inquisitors but as healers of divisions, seeking to correct and restore rather than punish.
