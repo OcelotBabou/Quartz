@@ -1,7 +1,11 @@
 ---
 title: House Terra
 draft: false
-tags: []
+tags:
+  - faction/noblehouse
+  - region/new-birania
+  - faction/new-birania
+  - race/human
 ---
 *[]*
 

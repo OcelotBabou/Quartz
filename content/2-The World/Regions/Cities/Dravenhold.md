@@ -11,7 +11,7 @@ tags:
 
 **Overview:** 
 
-Lucien’s Hold is the emerging capital of the Road North, built atop the ruins of an ancient bridge that once spanned the chasm dividing northern and southern Siar’Morrin. Commanded by [[Lucien Draven]], it serves as both a fortified city and a symbol of [[New Birania]]’s ambition to reconnect the continent.
+Lucien’s Hold is the emerging capital of the [[Road North]], built atop the ruins of an ancient bridge that once spanned the chasm dividing northern and southern Siar’Morrin. Commanded by [[Lucien Draven]], it serves as both a fortified city and a symbol of [[New Birania]]’s ambition to reconnect the continent.
 
 **Description:** 
 

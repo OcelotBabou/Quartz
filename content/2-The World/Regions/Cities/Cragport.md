@@ -30,7 +30,7 @@ Today, Cragport is not only a critical economic center but also a symbol of the 
 
 - **The Cliffside Markets:** Tiered markets that cascade down the cliffs, offering everything from freshly caught seafood to imported luxuries. These markets are a bustling mosaic of culture and commerce, where traders and locals mingle.
 - **The Harbor Fort:** An ancient fort that guards the entrance to the harbor, equipped with ballista and watchtowers that stand vigilant against any threats from the sea.
-- **Mariner’s Shrine:** A historic shrine located at the highest point of the city, dedicated to Ooscie and his sons, offering sailors a place to seek blessings before voyaging into the treacherous waters.
+- **Mariner’s Shrine:** A historic shrine located at the highest point of the city, dedicated to [[Ooscie]] and her sons, offering sailors a place to seek blessings before voyaging into the treacherous waters.
 - **Shipwrights' Quarter:** The heart of Cragport’s maritime industry, where master craftsmen build and repair vessels using age-old techniques passed down through generations.
 
 **Local Legends or Stories:**

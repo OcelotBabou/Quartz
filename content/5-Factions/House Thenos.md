@@ -1,7 +1,10 @@
 ---
 title: House Thenos
 draft: false
-tags: []
+tags:
+  - race/human
+  - faction/noblehouse
+  - region/shadow-aisle-mountains
 ---
 *[]*
 

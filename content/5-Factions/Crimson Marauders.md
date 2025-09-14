@@ -2,9 +2,8 @@
 title: Crimson Marauders
 draft: false
 tags:
-  - Faction
-  - CrimsonMarauders
-  - Agroma
+  - faction/military
+  - race/human
 ---
 ## 1. **Overview**
 

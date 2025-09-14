@@ -2,8 +2,9 @@
 title: The Rat Pack
 draft: false
 tags:
-  - Faction
-  - WesternSiarMorrin
+  - faction/military
+  - faction/commerce
+  - race/ratfolk
 ---
 ### 1. **Overview**
 

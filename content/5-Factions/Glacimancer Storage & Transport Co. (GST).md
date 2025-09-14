@@ -2,6 +2,8 @@
 title: Glacimancer Storage & Transport Co. (GST)
 draft: false
 tags:
+  - faction/glacimancer
+  - faction/commerce
 ---
 *[]*
 

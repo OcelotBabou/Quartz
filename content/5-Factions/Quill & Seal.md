@@ -1,7 +1,9 @@
 ---
 title: Quill & Seal
 draft: false
-tags: []
+tags:
+  - faction/commerce
+  - kingdom/vasae
 ---
 *[]*
 

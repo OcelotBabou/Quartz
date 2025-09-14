@@ -1,7 +1,10 @@
 ---
 title: House Farmus
 draft: false
-tags: []
+tags:
+  - faction/noblehouse
+  - faction/commerce
+  - race/human
 ---
 *[]*
 

@@ -2,6 +2,7 @@
 title: Elementum Arcanum
 draft: false
 tags:
+  - faction/institute
 ---
 *[]*
 ## 1. **Overview**

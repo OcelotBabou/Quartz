@@ -1,7 +1,8 @@
 ---
 title: Aurivane Academy
 draft: false
-tags: []
+tags:
+  - faction/institute
 ---
 *[]*
 

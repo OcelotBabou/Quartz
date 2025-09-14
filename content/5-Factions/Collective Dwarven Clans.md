@@ -1,7 +1,9 @@
 ---
 title: Clan Stonevien, Clan Onyxborn & Clan Emberforge
 draft: false
-tags: []
+tags:
+  - faction/noblehouse
+  - race/dwarf
 ---
 *[]*
 

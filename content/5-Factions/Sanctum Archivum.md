@@ -1,7 +1,9 @@
 ---
 title: Sanctum Archivum
 draft: false
-tags: []
+tags:
+  - faction/institute
+  - faction/religious
 ---
 *[]*
 

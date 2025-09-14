@@ -2,9 +2,7 @@
 title: Lone Wolf Pack Guild
 draft: false
 tags:
-  - Faction
-  - EasternSiarMorrin
-  - LoneWolfPackGuild
+  - faction/guild
 ---
 ### 1. **Overview**
 

@@ -2,16 +2,14 @@
 title: Guild Venator
 draft: false
 tags:
-  - Faction
-  - GuildVenator
-  - WesternSiarMorrin
+  - faction/guild
 ---
 ### 1. **Overview**
 
 Guild Venator is a prestigious and highly disciplined hunting organisation, regarded across Siar’Morrin as a benchmark of professionalism in the craft. Established centuries ago by master hunters and artisans, the guild is known for its meticulous standards, elite training, and strong ethical code. A significant portion of its membership is made up of [[Tenebrim]] [[elves]], whose unrivalled senses and deep connection to nature make them invaluable trackers and guides.
 
 - **Type:** Guild
-- **Base of Operations:** Flown, Agroma
+- **Base of Operations:** [[Flown]], [[Agroma]]
 - **Core Purpose/Focus:** To uphold the highest standards in hunting, tracking, and wildlife management across Siar’Morrin.
 - **Reputation:** Widely respected for professionalism and skill, though sometimes criticised as elitist.
 - **Symbol:** 
@@ -20,7 +18,7 @@ Guild Venator is a prestigious and highly disciplined hunting organisation, rega
 
 Guild Venator was founded by a coalition of renowned hunters seeking to standardise and elevate their profession. From its earliest days, the guild implemented strict codes of conduct, ensuring that members operated with skill, efficiency, and respect for the natural world. Over the centuries, it survived the challenges of shifting political climates, dangerous wilderness territories, and rival organisations.
 
-Its longstanding ties to the Tenebrim elves have been both a strength and a liability. Their skills and cultural knowledge are a cornerstone of the guild’s success, yet in recent years, prejudice and political tension in Western Siar’Morrin have made operations increasingly difficult. Despite this, Guild Venator has maintained its reputation as the foremost authority in professional hunting. 
+Its longstanding ties to the Tenebrim elves and [[House Aurorus]] have been both a strength and a liability. Their skills and cultural knowledge are a cornerstone of the guild’s success, yet in recent years, prejudice and political tension in Western Siar’Morrin have made operations increasingly difficult. Despite this, Guild Venator has maintained its reputation as the foremost authority in professional hunting. 
 
 ### 3. **Structure & Organization**
 
@@ -48,8 +46,8 @@ While professionalism is paramount, camaraderie among members is strong, reinfor
 - **Areas of Operation:** Primarily active in the western regions of Siar’Morrin, with a network of bases in forests, mountains, and other wilderness areas. Headquarters are located in Flown, Agroma, serving primarily as an administrative and political hub.
 - **Allies & Enemies:**
     - **Ally:** Agroma – values the guild’s structured approach to wildlife management and resource control.
-    - **Rival:** The Ascended Church – views the guild as elitist and critical of its close association with Tenebrim elves.
-    - **Rival:** Lone Wolf Pack Guild – regarded as undisciplined and unprofessional.
+    - **Rival:** The [[Ascended Church]] – views the guild as elitist and critical of its close association with Tenebrim elves.
+    - **Rival:** [[Lone Wolf Pack Guild]] – regarded as undisciplined and unprofessional.
 
 ### 7. **Resources & Capabilities**
 

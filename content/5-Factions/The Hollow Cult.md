@@ -2,6 +2,7 @@
 title: Hollow Cult
 draft: false
 tags:
+  - faction/cult
 ---
 *[]*
 

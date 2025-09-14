@@ -2,6 +2,8 @@
 title: Cult of Shadows
 draft: false
 tags:
+  - faction/cult
+  - gods/vice-void
 ---
 *[]*
 ## 1. **Overview**

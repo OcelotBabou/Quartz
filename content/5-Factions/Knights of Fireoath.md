@@ -2,9 +2,8 @@
 title: The Knights of Fireoath
 draft: false
 tags:
-  - Faction
-  - KnightsofFireoath
-  - RidgebackMountains
+  - faction/military
+  - race/human
 ---
 ## 1. **Overview**
 

@@ -2,6 +2,8 @@
 title: Cult of Raxenos
 draft: false
 tags:
+  - faction/cult
+  - deity/raxenos
 ---
 *[]*
 

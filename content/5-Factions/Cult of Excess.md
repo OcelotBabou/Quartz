@@ -1,7 +1,9 @@
 ---
 title: Cult of Excess
 draft: false
-tags: []
+tags:
+  - faction/cult
+  - gods/vice-excess
 ---
 ## 1. **Overview**
 

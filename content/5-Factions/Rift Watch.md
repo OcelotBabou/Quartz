@@ -2,9 +2,8 @@
 title: The Rift Watch
 draft: false
 tags:
-  - Faction
-  - RIftWatch
-  - WesternScar
+  - faction/military
+  - region/western-scar
 ---
 # 1. **Overview**
 

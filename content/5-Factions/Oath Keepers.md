@@ -2,6 +2,8 @@
 title: Oath Keepers
 draft: false
 tags:
+  - faction/religious
+  - deity/eris
 ---
 ### 1. **Overview**
 

@@ -1,7 +1,8 @@
 ---
 title: The Truth Bound
 draft: false
-tags: []
+tags:
+  - faction/religious
 ---
 *[]*
 

@@ -2,10 +2,9 @@
 title: The Church of Statera
 draft: false
 tags:
-  - Faction
-  - Religion
-  - Statera
-  - TheChurchofStatera
+  - faction/religious
+  - faction/new-birania
+  - deity/statera
 ---
 ## 1. **Overview**
 

@@ -2,6 +2,10 @@
 title: Clergy of the Sun God
 draft: false
 tags:
+  - faction/religious
+  - deity/gahrian
+  - race/elf
+  - subrace/lux
 ---
 ### 1. **Overview**
 

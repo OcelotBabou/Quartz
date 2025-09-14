@@ -1,7 +1,9 @@
 ---
 title: The Iron Concord
 draft: false
-tags: []
+tags:
+  - race/dwarf
+  - faction/commerce
 ---
 *[]*
 

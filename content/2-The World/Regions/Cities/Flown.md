@@ -24,7 +24,7 @@ Flown was originally founded in ages long past, its early days marked by modest 
 
 **Significance:** 
 
-As the capital of Agroma, Flown is of immense importance. Politically, it houses the Grand Assembly Hall, where the Triumvirate govern Agroma. It also houses the Triumvirate Institute, the most prestigious academy found outside of [[Vitaurum]]. Economically, Flown is a center for trade and industry, benefiting from its access to the rich resources of Lake Novus Mare, and access to the numerous canals and rivers that crisscross Agroma. 
+As the capital of Agroma, Flown is of immense importance. Politically, it houses the Grand Assembly Hall, where the Triumvirate govern Agroma. It also houses the [[Triumvirate Institute]], the most prestigious academy found outside of [[Vitaurum]]. Economically, Flown is a center for trade and industry, benefiting from its access to the rich resources of Lake Novus Mare, and access to the numerous canals and rivers that crisscross Agroma. 
 
 **Notable Features:**
 
@@ -38,8 +38,8 @@ Map of Flown
 
 **Local Legends or Stories:** 
 
-One of the most cherished legends in Flown is that of the "Ascended Gods." According to this revered tale, the gods Mercio, Vilcren, and Ratura, the pillars of humanity and key figures in Agroman culture, are said to have founded the city of Flown. It is believed that these gods bestowed special blessings upon the city, ensuring its prosperity and protection.
-Another popular story is that of the "Eagle of Flown," a legendary bird that is said to have guided the Ascended Gods to the fertile lands Agroma in days long past. 
+One of the most cherished legends in Flown is that of the "Ascended Gods." According to this revered tale, the gods [[Mercio]], [[Vilcren]], and [[Ratura]], the pillars of humanity and key figures in Agroman culture, are said to have founded the city of Flown. It is believed that these gods bestowed special blessings upon the city, ensuring its prosperity and protection.
+Another popular story is that of the "Eagle of Flown," a legendary bird that is said to have guided the Ascended Gods to the fertile lands of Agroma in days long past. 
 
 **Visitors' Experience:** 
 

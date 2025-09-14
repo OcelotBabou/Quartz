@@ -1,7 +1,10 @@
 ---
 title: House Aurorus
 draft: false
-tags: []
+tags:
+  - faction/noblehouse
+  - race/elf
+  - subrace/tenebrim
 ---
 *[]*
 

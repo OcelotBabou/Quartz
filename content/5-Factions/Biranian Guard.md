@@ -2,9 +2,10 @@
 title: Biranian Guard
 draft: false
 tags:
-  - Faction
-  - BiranianGuard
-  - NewBirania
+  - faction/military
+  - continent/eastern-siarmorrin
+  - region/new-birania
+  - faction/new-birania
 ---
 ## 1. **Overview**
 
