@@ -7,15 +7,15 @@ tags:
 *[um-bra-vahl-lay]*
 ### 1. **Overview**
 
-Umbravalle is an isolated and rugged region on the fringes of the infamous Western Scar. Surrounded by natural fortifications such as the Montis Custos Range to the north and Petrae Range to the south, Umbravalle is often perceived as a land of barbarians by the rest of Siar’Morrin. This strategic and imposing geography has profoundly shaped the character and perceptions of this misunderstood region.
+Umbravalle is an isolated and rugged region on the fringes of the infamous Western Scar. Surrounded by natural fortifications such as the Neoramus Range to the north and Petrae Range to the south, Umbravalle is often perceived as a land of barbarians by the rest of Siar’Morrin. This strategic and imposing geography has profoundly shaped the character and perceptions of this misunderstood region.
 
 ### 2. **Geography**
 
-Umbravalle's geography is dominated by harsh, imposing landscapes that challenge the survival and adaptability of its inhabitants. The towering Montis Custos Range and formidable Petrae Range create natural barriers that have historically isolated the region. The River Serinara, defining its western boundary, and the proximity to the eerie Western Scar to the east, further accentuate its seclusion and the mystique that surrounds it. This challenging environment has fostered a community uniquely adapted to the rugged terrains, from the steep cliffs to the dense, forested valleys.
+Umbravalle's geography is dominated by harsh, imposing landscapes that challenge the survival and adaptability of its inhabitants. The towering Neoramus Range and formidable Petrae Range create natural barriers that have historically isolated the region. The River Serinara, defining its western boundary, and the proximity to the eerie Western Scar to the east, further accentuate its seclusion and the mystique that surrounds it. This challenging environment has fostered a community uniquely adapted to the rugged terrains, from the steep cliffs to the dense, forested valleys.
 
 ### 3. **History**
 
-Umbravalle’s history is deeply intertwined with the cataclysmic events of the Age of Darkness (AoD), which left neighboring areas like the Western Scar devastated. During this period, many refugees sought safety in the protective embrace of the Montis Custos Range, finding refuge among the (need name) Clan of dwarves. As the immediate threats of the AoD receded, these survivors ventured down to repopulate the fertile but abandoned lands of Umbravalle and expand towards the shores of Mirrorwater Lake, adapting their lifestyles to integrate with the land and waters that offered them sanctuary.
+Umbravalle’s history is deeply intertwined with the cataclysmic events of the Age of Darkness ([[AoD]]), which left neighboring areas like the Western Scar devastated. During this period, many refugees sought safety in the protective embrace of the Neoramus Range, finding refuge among the Onyxborn Clan of dwarves. As the immediate threats of the AoD receded, these survivors ventured down to repopulate the fertile but abandoned lands of Umbravalle and expand towards the shores of Mirrorwater Lake, adapting their lifestyles to integrate with the land and waters that offered them sanctuary.
 
 ### 4. **Political Structure**
 

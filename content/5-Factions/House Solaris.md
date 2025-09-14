@@ -38,11 +38,11 @@ Within Dovus, however, House Solaris remains synonymous with light, faith, and a
     - **Auriel Solaris:** A radiant knight and paladin of Gahrian, beloved by the common folk for his deeds but criticised for his unflattering (at times tiresome) idealism.
     - **Selira Solaris:** A scholar of divine mysteries, tasked with curating Solaris family archives and keeping record of Lux elven history.
     - **Thalor Solaris:** Youngest, pragmatic and politically shrewd, often seen in Furrowton handling the family’s dwindling affairs in Western Siar’Morrin.
-        
+    
 - **Cadet Branches:**
     
-    - **The Dragon Teeth Line** — distant cousins whose isolation has diluted their direct relevance to Solaris politics.
-    - **Furrowton Line** — minor branch maintaining Lux elven presence in Western Siar’Morrin, increasingly embattled and isolated, yet staunch allies of the [[Ratfolk]] and their battle to be recognized in Siar'Morrin .
+    - **The Dragon Teeth Line**: Distant cousins whose isolation has diluted their direct relevance to Solaris politics.
+    - **Furrowton Line**: Minor branch maintaining Lux elven presence in Western Siar’Morrin, increasingly embattled and isolated, yet staunch allies of the [[Ratfolk]] and their battle to be recognized in Siar'Morrin .
 
 ## 5. **Culture & Reputation**
 

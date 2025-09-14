@@ -12,7 +12,7 @@ The Iron Concord is the largest and most influential metallurgical guild in Siar
 Their vast influence in the extraction and working of metal grants them immense power: kingdoms that defy the Concord often find their supply of steel drying up, while allies enjoy unmatched access to dwarven craftsmanship.
 
 - **Type:** Guild 
-- **Base of Operations:** [Placeholder — Major dwarven city in the Ridgeback Mountains]
+- **Base of Operations:** [[Grun'Croi]], [[Ridgeback Mountains]]
 - **Core Purpose/Focus:** Control of metal production, trade, and advanced warfare technologies.
 - **Reputation:** Respected for quality and reliability, resented for monopolistic practices.
 - **Symbol:** A mountain split to reveal a glowing anvil within.
@@ -29,10 +29,10 @@ Not all clans agreed. Some say the Iron Concord was founded by diplomacy and sha
 
 ## 3. **Structure & Organization**
 
-The Concord is divided into several major **branches**, each fulfilling a specialised role:
+The Concord is divided into several major branches, each fulfilling a specialised role:
 
 - **Cazium’s Anvil (Crafting Division):** The public storefront and franchised smiths. Famous for their quality and consistency, though accused of monopolising trade and crushing independents.
-- **The Deep Veins (Mining Division):** Operates extensive mines across Siar’Morrin, including [Placeholder: Ridgeback mountains and other sites]. Controls ore flow and ensures raw materials are always available.
+- **The Deep Veins (Mining Division):** Operates extensive mines across Siar’Morrin, including Grun'Croi. Controls ore flow and ensures raw materials are always available.
 - **The Iron Host (Military Contracts Division):** Specialists in forging arms, armour, and siege engines for kingdoms and mercenary companies. Contracts often include deployment of Concord engineers to oversee use.
 - **The Ember Vault (Research Division):** A semi-secret branch focused on metallurgical innovation and enchanted arms. Rumours suggest they experiment with fusing divine and arcane magic into weapons.
 

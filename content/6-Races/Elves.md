@@ -18,7 +18,7 @@ Elves can live well over 700 years, giving them a broad perspective on events th
 
 Elves have long been regarded as some of the closest allies to humans and numerous other mortal races. However, a recent shift in the geopolitical landscape of Statera has seen elves facing increasing prejudice and suspicion from certain factions. Rumors of ancient alliances questioned and misunderstandings about their magical abilities have led to tensions in some regions.
 
-**Age:** Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically c1aims adulthood and an adult name around the age of 100 and can live to be 750 years old.
+**Age:** Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically c1aims adulthood and an adult name around the age of 50 and generally live to around 750 - 1000 years old, although this is by no means to upper limit.
 
 **Alignment:** Elven alignment is heavily influenced by sub-race. Lux elves are generally more aligned with excess while Tenebrim are aligned with void, while Dorna elves embody chaos. 
 
