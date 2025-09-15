@@ -19,7 +19,9 @@ The citizens of Taenarius are a motley crew, comprised of numerous races from ac
 
 **History:** 
 
-The history of Taenarius is one of resilience and adaptation. Founded by a group of settlers who noticing the migration path of the many beast that venture into the plains in the wet period, setting out to take advantage of this rich resource. Over time, the inhabitants developed an intricate underground network to protect themselves from the extreme weather and Gnoll threats. The city's reliance on the rainy season for sustenance has shaped its culture and way of life, making the people of Taenarius adept at making the most of the brief periods of abundance.
+The true origins of Taenarius are difficult to trace, with no definitive record of who first carved its foundations into the edge of the Mirage Plains. What is certain is that the city has stood for centuries, its people surviving through resilience and adaptation to one of the harshest environments in Siar’Morrin. Oral traditions preserve fragments of its beginnings, though they differ on the details.
+
+Some claim that [[dwarves]] fleeing the [[Shadow Aisle Mountains]] stumbled upon this place during their exile, others tell of a band of warriors ambushed by Ankhegs, who turned the creatures’ own burrows into a fortress. Most scholars believe there is truth in both tales, woven together over time. Whether born of dwarven exiles, desperate warriors, or some forgotten alternative, Taenarius has always been a place defined by necessity, endurance, and the ability to transform hardship into sanctuary. Its people see the uncertainty not as weakness, but as proof that Taenarius belongs to all who find refuge within its walls.
 
 **Significance:** 
 
@@ -35,7 +37,7 @@ Its strategic location on the edge of the Mirage Plains allows it to act as a ga
 
 **Local Legends or Stories:**
 
-Two main legends tell the tale of Taenarius' creation. One story claims that [[dwarves]] fleeing the [[Shadow Aisle Mountains]] found themselves stranded on the Mirage Plains. In their time of desperation, they discovered salvation in the migrating herds and the ensuing wet period. Seeing this as a divine sign, they decided to establish a new home on the plains, carving out the underground city of Taenarius with their unparalleled craftsmanship. The dwarves' resourcefulness and determination laid the foundation for the city’s enduring legacy.
+Two main legends tell the tale of Taenarius' creation. One story claims that dwarves fleeing the Shadow Aisle Mountains found themselves stranded on the Mirage Plains. In their time of desperation, they discovered salvation in the migrating herds and the ensuing wet period. Seeing this as a divine sign, they decided to establish a new home on the plains, carving out the underground city of Taenarius with their unparalleled craftsmanship. The dwarves' resourcefulness and determination laid the foundation for the city’s enduring legacy.
 The alternate story recounts how a band of lost warriors was ambushed by Ankhegs. Turning the tables on their attackers, the warriors not only fought off the Ankhegs but also chased them into their underground burrows. After clearing out the Ankhegs, the warriors found the burrows to be well-positioned, likely chosen by the Ankhegs to take advantage of the migrating beasts. Following this tradition, they inhabited the land, expanding and fortifying the burrows to create the city of Taenarius.
 
 **Visitors' Experience:** 

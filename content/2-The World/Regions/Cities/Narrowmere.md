@@ -10,7 +10,7 @@ tags:
 
 **Overview:** 
 
-Situated on the southern border of Pilliga, just beyond the banks of the Fluvitae River, Narrowmere serves as a bustling trade post and cultural gateway between the arid interior and the lush expanse of the Great Dividing Forest. Originally little more than a waystation for cautious foragers and timber scouts, the outpost has grown into a thriving settlement. Narrowmere’s economy hinges on the careful acquisition of rare herbs, medicinal plants, and valuable timber from the forest’s outer fringe — a dangerous but lucrative venture.
+Situated on the southern border of [[Pilliga]], just beyond the banks of the Fluvitae River, Narrowmere serves as a bustling trade post and cultural gateway between the arid interior and the lush expanse of the Great Dividing Forest. Originally little more than a waystation for cautious foragers and timber scouts, the outpost has grown into a thriving settlement. Narrowmere’s economy hinges on the careful acquisition of rare herbs, medicinal plants, and valuable timber from the forest’s outer fringe — a dangerous but lucrative venture.
 
 **Description:** 
 

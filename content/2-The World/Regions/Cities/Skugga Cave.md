@@ -11,7 +11,7 @@ tags:
 
 **Overview:** 
 
-Skugga Cave, a spectacular subterranean complex within Sabhaile Forest, serves as the ancestral home of the Skugga Pack. This extensive cave system has been expertly transformed into a thriving village, showcasing the Skugga Pack's resourcefulness and deep connection to their environment.
+Skugga Cave, a spectacular subterranean complex within [[Sabhaile Forest]], serves as the ancestral home of the Skugga Pack. This extensive cave system has been expertly transformed into a thriving village, showcasing the Skugga Pack's resourcefulness and deep connection to their environment.
 
 **Description:** 
 
@@ -19,13 +19,21 @@ The village within Skugga Cave is a marvel of natural architecture and [[Cia'an]
 
 Living quarters are carved into the cave's walls, ranging from modest alcoves for single inhabitants to larger, family-sized chambers. Each dwelling is uniquely decorated with natural materials found within the forest, such as wood, stone, and woven plant fibers, creating cozy, inviting homes.
 
-The cave’s natural features are complemented by Kobold craftsmanship. Stalactites and stalagmites are integrated into the structural design, serving as natural pillars and supports. Bioluminescent fungi are cultivated and strategically placed to provide a natural lighting solution, casting an ethereal glow that enhances the cave’s mystical ambiance.
+The cave’s natural features are complemented by Cia'an craftsmanship. Stalactites and stalagmites are integrated into the structural design, serving as natural pillars and supports. Bioluminescent fungi are cultivated and strategically placed to provide a natural lighting solution, casting an ethereal glow that enhances the cave’s mystical ambiance.
 
 **History:**
 
+The origins of Skugga Cave are shrouded in antiquity, with no clear record of its first occupation. The Skugga Pack claim to have dwelt here for as long as memory stretches, their oral traditions tying the cave to the time when [[Theri'an]], God of Beasts, still walked the mortal world. According to these tales, Skugga Cave was once his earthly refuge, a sanctum where he communed with the wilds of Sabhaile Forest.
+
+Archaeological traces within the cavern—ancient fire pits, primitive tools, and faded wall etchings—hint at centuries of continuous habitation. Over generations, the Skugga Pack carved deeper into the mountain, steadily expanding their subterranean village. Each era left its mark: early crude shelters hollowed from stone, the later integration of Cia’an artistry, and eventually the fully realised halls and quarters that stand today.
+
+The cave’s history is not without conflict. It has been defended time and again from rival packs, would-be conquerors, and natural threats. In every telling, the Pack swears that Skugga Cave would be defended to the last breath before ever being surrendered, for to lose it would be to sever themselves from their very identity.
 
 **Significance:**
 
+For the Skugga Pack, Skugga Cave is more than a home—it is the heart of their heritage and the wellspring of their cultural identity. Every stone bears the imprint of their ancestors’ labor, and every chamber echoes with the voices of generations past. The legends of Theri’an and Fi’an root the Pack’s spiritual life firmly within these walls, making the cave both a physical sanctuary and a sacred site.
+
+Strategically, Skugga Cave offers both security and sustenance: defensible from its mountain vantage, yet fertile within through its cultivated mushroom caverns and natural springs. Socially, it serves as the unifying hearth of the Pack, the place where communal life, ritual, and governance converge. 
 
 **Notable Features:**
 

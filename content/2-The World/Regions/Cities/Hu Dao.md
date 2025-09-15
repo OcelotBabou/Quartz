@@ -10,9 +10,9 @@ tags:
 
 **Overview:** 
 
-Hu Dao is a strategically significant town located on an island in the south of Dao Lake, where the waters split into two major riverways, forming natural barriers that make the town both defensible and vital for trade. Its location provides a direct connection to the heart of Agroma via the southern river and serves as a gateway to the northern borders along the [[Ridgeback Forest]]. 
+Hu Dao is a strategically significant town located on an island in the south of Dao Lake, where the waters split into two major riverways, forming natural barriers that make the town both defensible and vital for trade. Its location provides a direct connection to the heart of [[Agroma]] via the southern river and serves as a gateway to the northern borders along the [[Ridgeback Forest]]. 
 
-Beyond its strategic value, Hu Dao has gained prominence as the cultural center for the worship of [[Gahrian]], the Elven Sun God, within human settlements. This is an unusual distinction, as Gahrian is typically venerated only among Lux Elves. The influence of the significant Elven population in Hu Dao has fostered this unique cultural integration, blending human and Elven traditions in ways rarely seen elsewhere in Agroma.
+Beyond its strategic value, Hu Dao has gained prominence as the cultural center for the worship of [[Gahrian]], the Elven Sun God, within human settlements. This is an unusual distinction, as Gahrian is typically venerated only among [[Lux]] [[Elves]]. The influence of the significant Elven population in Hu Dao has fostered this unique cultural integration, blending human and Elven traditions in ways rarely seen elsewhere in Agroma.
 
 **Description:** 
 

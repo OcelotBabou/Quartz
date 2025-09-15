@@ -26,7 +26,7 @@ Iterdeep holds significant strategic and historical importance as the primary ga
 
 - **The Gates of Iterdeep:** The formidable gates that once welcomed traders and travelers now stand closed, symbolizing the region's isolation.
 - **The King’s Stronghold:** A majestic fortress built into the mountains, serving as the residence and seat of power for the ruling monarch.
-- **Perfidus River:** A crucial waterway that flows from the mountains to Lake Novus Mare, once a vital trade route now largely unused.
+- **Perfidus River:** A crucial waterway that flows from the mountains to [[Lake Novus Mare]], once a vital trade route now largely unused.
 - **Ruins of the Shrines:** Remnants of the once-sacred shrines to Gaharian and Mercio, now abandoned and destroyed.
 
 **Local Legends or Stories:** 

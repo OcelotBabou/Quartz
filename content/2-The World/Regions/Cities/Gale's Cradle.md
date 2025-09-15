@@ -10,7 +10,7 @@ tags:
 
 **Overview:** 
 
-Gale’s Cradle is the elusive heart of the Mist Walker Pirates in Omich-Nisi — a concealed haven carved into the very bones of the mist-shrouded archipelago. Hidden within one of the many islands, this secret harbour is more fortress than port, protected not only by isolation and geography, but by the mysterious mists that perpetually coats this region and the alien currents that flow between the islands. 
+Gale’s Cradle is the elusive heart of the Mist Walker Pirates in [[Omich Nisi]] — a concealed haven carved into the very bones of the mist-shrouded archipelago. Hidden within one of the many islands, this secret harbour is more fortress than port, protected not only by isolation and geography, but by the mysterious mists that perpetually coats this region and the alien currents that flow between the islands. 
 
 **Description:** 
 

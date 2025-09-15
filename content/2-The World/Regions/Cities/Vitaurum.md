@@ -11,7 +11,7 @@ tags:
 
 **Overview:** 
 
-Vitaurum is the capital city of New Birania, renowned for its historical significance, economic prowess, and religious importance. Serving as the heart of the region and a beacon of hope and progress in Eastern Siar’Morrin, Vitaurum embodies the enduring spirit and resilience of the Biranian people.
+Vitaurum is the capital city of [[New Birania]], renowned for its historical significance, economic prowess, and religious importance. Serving as the heart of the region and a beacon of hope and progress in Eastern Siar’Morrin, Vitaurum embodies the enduring spirit and resilience of the Biranian people.
 
 **Description:** 
 
@@ -28,16 +28,16 @@ As the political, economic, and spiritual heart of New Birania, Vitaurum plays a
 **Notable Features:**
 
 - **The Royal Palace:** The seat of the King, an architectural marvel symbolizing the city's historical grandeur and political power.
-- **Grand Temple of Statera:** The central place of worship and spiritual guidance, attracting pilgrims from all over the realm and serving as the headquarters of the Church of Statera.
+- **Grand Temple of Statera:** The central place of worship and spiritual guidance, attracting pilgrims from all over the realm and serving as the headquarters of the [[Church of Statera]].
 - **Vitaurum Market:** A vibrant hub of commerce where goods from across Siar’Morrin and beyond are exchanged, reflecting the city's economic vitality.
 - **Celestial Plaza:** A grand public square known for its celestial-themed architecture and the massive orrery at its center, serving as the heart of civic life.
-- 
+- **[[Aurivane Academy]]**: The foremost center of arcane learning in Staterum, renowned for its prestigious faculty and tradition of producing the realm’s greatest magi. 
 
 **Local Legends or Stories:**
 
-**The Golden Age:** Legends speak of a time when the gods walked among the people of Vitaurum, blessing the city with prosperity and divine favor. It is said that during this Golden Age, Vitaurum was a city of unparalleled beauty and abundance, a testament to the close relationship between the gods and the Biranian people.
+Legends speak of a time when the gods walked among the people of Vitaurum, blessing the city with prosperity and divine favor. It is said that during this Golden Age, Vitaurum was a city of unparalleled beauty and abundance, a testament to the close relationship between the gods and the Biranian people.
 
-**The Eternal Guard:** According to legend, Biran the founder of Vitaurum and the Biranian Empire continues to watch over and protect the city. It times of great peril Biran is said to return in the form of a colossal avatar to protect the city.
+According to legend, Biran the founder of Vitaurum and the Biranian Empire continues to watch over and protect the city. It times of great peril Biran is said to return in the form of a colossal avatar to protect the city.
 
 **Visitors' Experience:** 
 

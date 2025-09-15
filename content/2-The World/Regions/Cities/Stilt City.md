@@ -9,7 +9,7 @@ tags:
 ---
 **Overview:** 
 
-Stilt City, a marvel of Ratfolk engineering, stands as one of the oldest and most iconic settlements within the [[Paloto Swamplands]]. Renowned for its intricate stilt architecture, the city is not only a testament to Ratfolk resilience and ingenuity but also houses the famed Great Library, purported to contain all the secrets of Ratfolk advancement and history.
+Stilt City, a marvel of [[Ratfolk]] engineering, stands as one of the oldest and most iconic settlements within the [[Paloto Swamplands]]. Renowned for its intricate stilt architecture, the city is not only a testament to Ratfolk resilience and ingenuity but also houses the famed Great Library, purported to contain all the secrets of Ratfolk advancement and history.
 
 **Description:** 
 

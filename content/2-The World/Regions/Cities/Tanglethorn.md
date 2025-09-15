@@ -9,7 +9,7 @@ tags:
 ---
 **Overview:** 
 
-Tanglethorn, the vibrant capital of the Ratfolk, lies nestled in the lush expanses of the Paloto Swamplands, at the southernmost tip of Siar'Morrin. As the central seat of power, it is home to the Ratfolk Triumvirate and serves as the political, cultural, and economic core of Ratfolk society. Although its landward sides are shielded by the dense swamplands, making it seemingly isolated, Tanglethorn's bustling harbor provides vital maritime connections to the Mare Sanctum Sea. This strategic position enables direct access to numerous coastal settlements. 
+Tanglethorn, the vibrant capital of the [[Ratfolk]], lies nestled in the lush expanses of the [[Paloto Swamplands]], at the southernmost tip of Siar'Morrin. As the central seat of power, it is home to the Ratfolk Triumvirate and serves as the political, cultural, and economic core of Ratfolk society. Although its landward sides are shielded by the dense swamplands, making it seemingly isolated, Tanglethorn's bustling harbor provides vital maritime connections to the Mare Sanctum Sea. This strategic position enables direct access to numerous coastal settlements. 
 
 **Description:** 
 
@@ -32,7 +32,7 @@ As the bustling capital of the Ratfolk within the Paloto Swamplands, Tanglethorn
 - **Council Hall:** This imposing structure is where the triumvirate convenes to deliberate and decide on matters of state. Its halls have witnessed many of the most significant decisions in Ratfolk history.
 - **The Alchemists' Quarter:** Known for its volatile yet vital contributions to Ratfolk society, this district is teeming with laboratories and shops. It is a place of both great innovation and occasional chaos, with alchemists pushing the boundaries of their craft, often with explosive results.
 - **Tanglethorn Harbor:** This bustling port is the city’s lifeline to the Mare Sanctum Sea and beyond. It facilitates the trade that sustains the city and connects Tanglethorn to the wider world, despite recent declines in activity due to growing anti-Ratfolk sentiments.
-- **Tree of Sideron:** At the city’s spiritual heart stands the ancient Tree of Sideron, a massive tree that is central to Ratfolk mythology and revered as a source of mystical energy. It is a focal point for community gatherings, festivals, and spiritual ceremonies.
+- **Tree of Sideron:** At the city’s spiritual heart stands the ancient Tree of [[Sideron]], a massive tree that is central to Ratfolk mythology and revered as a source of mystical energy. It is a focal point for community gatherings, festivals, and spiritual ceremonies.
 
 
 **Local Legends or Stories:** 
