@@ -22,7 +22,7 @@ The riverfront is dominated by sprawling shipyards and repair docks, their gantr
 
 Westrun’s origins are modest — once a small timber town nestled along the Fluvitae River, known primarily for harvesting and exporting the region’s prized hardwoods. In earlier days, its lumber was carried upriver to Fort Logos or shipped all the way to [[Vitaurum]], its reputation built not on size, but on quality.
 
-That changed with the expansion of the Pilliga trade corridor. Westrun found itself in a position of unexpected advantage: abundant hardwood, existing infrastructure, and a reputation for craftsmanship. With the financial backing of Lord Farmus of Agroma, the settlement transformed almost overnight. Docks were expanded, shipyards rose, and trade houses relocated to the western bank.
+That changed with the expansion of the Pilliga trade corridor. Westrun found itself in a position of unexpected advantage: abundant hardwood, existing infrastructure, and a reputation for craftsmanship. With the financial backing of [[House Farmus]] of Agroma, the settlement transformed almost overnight. Docks were expanded, shipyards rose, and trade houses relocated to the western bank.
 
 Today, Westrun balances its traditional pride in woodworking with aggressive economic growth, having positioned itself as both the central shipbuilder and logistical powerhouse of the Fluvitae. What began as a timber outpost has grown into one of the most vital industrial settlements in Pilliga — quietly monopolising river trade while Eastwatch watches from across the water.
 

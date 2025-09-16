@@ -27,6 +27,13 @@ tags: []
 - Religious 
 	- [[Ascended Church]]
 	- [[Church of Statera]]
+	- [[Clergy of the Sun God]]
+	- [[Oath Keepers]]
+	- [[Truth Bound]]
+- Commerce
+	- [[Glacimancer Storage & Transport Co. (GST)]]
+	- [[Iron Concord]]
+	- [[Quill & Seal]]
 - Guilds
 	- [[Adventurers Guild]]
 	- [[Guild Venator]]
@@ -38,12 +45,22 @@ tags: []
 - Mercenaries
 	- [[Crimson Marauders]]
 	- [[Rat Pack]]
-- Magic
+- Institute
 	- [[Elementum Arcanum]]
+	- [[Aurivane Academy]]
+	- [[Sanctum Archivum]]
 - Criminal Syndicates and Cults
 	- [[Cult of Raxenos]]
-- Misc.
-	- [[Oath Keepers]]
+	- [[Cult of Excess]]
+	- [[Cult of Shadows]]
+	- [[The Hollow Cult]]
+- Noble Houses.
+	- [[House Aurorus]]
+	- [[House Farmus]]
+	- [[House Solaris]]
+	- [[House Terra]]
+	- [[House Thenos]]
+	- [[Collective Dwarven Clans]]
 ## 6. **Player** **Races**
 - [[Alberine]]
 - [[Aquarian]]
