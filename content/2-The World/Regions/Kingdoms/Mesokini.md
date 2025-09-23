@@ -11,7 +11,7 @@ tags:
 
 ### 1. **Overview**
 
-Mesokini stands as the largest and most powerful kingdom within the Shattered Kingdoms. Nestled between the Protoramus and [[Mesoramus Range]]s, its northern boundary is marked by the shimmering expanse of [[Lake Serenith]]. This strategic position has earned Mesokini the nickname "Gateway to the North," a title reflecting its critical role as a bridge between the southern realms of Siar'Morrin and the northern territories. 
+Mesokini stands as the largest and most powerful kingdom within the [[Shattered Kingdoms]]. Nestled between the Protoramus and [[Mesoramus Range]]s, its northern boundary is marked by the shimmering expanse of [[Lake Serenith]]. This strategic position has earned Mesokini the nickname "Gateway to the North," a title reflecting its critical role as a bridge between the southern realms of Siar'Morrin and the inner northern territories. 
 
 Viewed by some as an agitator, Mesokini is infamous for inciting the [[Schism Wars]], the conflict that fractured the region and severed ties with [[New Birania]]. The kingdom wears its reputation openly, making no attempt to hide its disdain for New Biranian influence and advocating for further autonomy and removal from its shadow.
 
@@ -31,15 +31,15 @@ To understand the Shattered Kingdoms, one must first delve into the history of M
 
 However, roughly 80 years ago, dissent began to fester within Mesokini. Driven by dreams of a more powerful Mesokini assuming the mantle of leadership over Siar’Morrin, factions advocating independence and dominance began to rise. What started as whispers of discontent soon erupted into a full-blown civil war, as the kingdom fractured over its future. These ambitions gave rise to the [[Schism Wars]], with Mesokini at its center.
 
-As the war expanded, both sides sought aid from neighboring kingdoms, dragging much of the region into the conflict. The once-stable relationship between New Birania and Mesokini disintegrated as New Birania intervened, attempting to quell the unrest and protect its influence. The turning point came with the efforts of King [[Alaric Terra]] of New Birania, whose extraordinary diplomacy brokered a tenuous peace. This agreement, however, came at a significant cost, New Birania’s influence over the Shattered Kingdoms was drastically curtailed, and Mesokini emerged with greater autonomy and ambition.
+As the war expanded, both sides sought aid from neighboring kingdoms, dragging much of the region into the conflict. The once-stable relationship between New Birania and Mesokini disintegrated as New Birania intervened, attempting to quell the unrest and protect its influence. The turning point came with the efforts of the newly appointed King of New Birania, King [[Alaric Terra]], whose extraordinary diplomacy brokered a tenuous peace. This agreement, however, came at a significant cost, New Birania’s influence over the Shattered Kingdoms was drastically curtailed, and Mesokini emerged with greater autonomy and ambition.
 
 Since the end of the Schism Wars, Mesokini’s leadership has worked tirelessly to erode New Birania’s remaining foothold in the region. Its rulers have championed a vision of independence for the Shattered Kingdoms, positioning Mesokini as their de facto leader and distancing the region from its former ties.
 
 ### 4. **Political Structure**
 
-Mesokini operates under a unique and enigmatic system of governance centered around the mysterious figure known as the Faceless King. This ruler, whose identity is shrouded in secrecy, remains hidden from the public eye, their existence known only to two trusted emissaries who serve as the kingdom’s conduits of power. These emissaries, referred to as the Eyes of the King and the Voice of the King, are the sole individuals permitted to interact directly with the Faceless King.
+Mesokini operates under a unique and enigmatic system of governance centered around the mysterious figure known as the Faceless King. This ruler, whose identity is shrouded in secrecy, remains hidden from the public eye, their identity known only to two trusted emissaries who serve as the kingdom’s conduits of power. These emissaries, referred to as the Veil of the King and the Echo of the King, are the sole individuals permitted to interact directly with the Faceless King.
 
-The Eyes of the King act as the ruler's agents in the field, gathering intelligence, monitoring the kingdom’s affairs, and ensuring that the king's will is upheld across Mesokini. Meanwhile, the Voice of the King delivers proclamations, laws, and decrees, serving as the kingdom’s public face of authority. Together, they embody the king's omnipresence, maintaining order and executing governance while protecting their master's anonymity.
+The Veil of the King act as the ruler's agents in the field, gathering intelligence, monitoring the kingdom’s affairs, and ensuring that the king's will is upheld across Mesokini. Meanwhile, the Echo of the King delivers proclamations, laws, and decrees, serving as the kingdom’s public face of authority. Together, they embody the king's omnipresence, maintaining order and executing governance while protecting their master's anonymity.
 
 This system has created a culture of both awe and suspicion among the populace. The secrecy surrounding the Faceless King has sparked numerous rumors, ranging from the mundane to the fantastical, with some believing the king died long ago and the emissaries took the opportunity to seize power, while others claim the Faceless King is a divine being with unmatched wisdom.
 
@@ -55,9 +55,9 @@ In Mesokini, secrecy and control are deeply embedded in its culture, particularl
 
 For commoners, life varies greatly depending on their location within the kingdom. In the isolated spurs, communities rely on self-sufficiency and are deeply connected to the land, while the agricultural south provides the food and resources that sustain Mesokini’s wealth. Along the shores of Lake Serenith, mercantile life dominates, with bustling markets and trade hubs that reflect the region's prosperity and strategic importance.
 
-A defining feature of Mesokini’s society is its unique and fervent religious subfaction of the Church of Statera, known as the Balancekeepers. This group is distinguished by their extreme zeal, often taking measures that outsiders might view as radical or even fanatical to preserve what they perceive as balance in Statera's name. Their influence permeates both governance and daily life, ensuring that actions taken within Mesokini are aligned with their interpretation of divine equilibrium.
+A defining feature of Mesokini’s society is its unique and fervent religious subfaction of the [[Church of Statera]], known as the Balancekeepers. This group is distinguished by their extreme zeal, often taking measures that outsiders might view as radical or even fanatical to preserve what they perceive as balance in Statera's name. Their influence permeates both governance and daily life, ensuring that actions taken within Mesokini are aligned with their interpretation of divine equilibrium.
 
-Additionally, Mesokini enforces a strict cultural aversion to the practice of other religions or the worship of gods outside Statera's domain. This intolerance is not codified into law but is deeply ingrained in societal norms, leading to social ostracism or worse for those who stray from the kingdom’s religious orthodoxy.
+Additionally, Mesokini enforces a strict cultural aversion to the practice of other religions or the worship of gods outside [[Statera]]'s domain. This intolerance is not codified into law but is deeply ingrained in societal norms, leading to social ostracism or worse for those who stray from the kingdom’s religious orthodoxy.
 
 ### 7. **Military**
 
@@ -74,8 +74,8 @@ However, this safety comes with a price. Strict enforcement of the kingdom’s l
 ### 9. **Significant Characters**
 
 - Faceless King: 
-- Eyes of the King:
-- Voice of the King: 
+- Veil of the King:
+- Echo of the King: 
 
 ### 10. **Current Issues and Future Prospects**
 

@@ -13,7 +13,7 @@ tags:
 
 Avatolika, nestled along the eastern edge of [[Lake Serenith]], is a modest kingdom heavily reliant on lake-based industries such as fishing and trade. Its eastern borders are less defined, gradually transitioning into the [[North Road Barrens]], a sparsely populated and rugged area. 
 
-Recently, Avatolika’s already strained economy has been further tested by escalating tensions with its western neighbor, [[Vesae]]. At the heart of the conflict lies a contentious territorial dispute over [[Star Fall Island]], a central island in Lake Serenith, with both sides accusing the other of aggression. This aggression has led to preposterous and excessive tariffs imposed on Avatolika goods.  
+Recently, Avatolika’s already strained economy has been further tested by escalating tensions with its western neighbor, [[Vasae]]. At the heart of the conflict lies a contentious territorial dispute over [[Star Fall Island]], a central island in Lake Serenith, with both sides accusing the other of aggression. This aggression has led to preposterous and excessive tariffs imposed on Avatolika goods.  
 
 With tensions at a boiling point, many see conflict as inevitable. For the people of Avatolika, it is viewed not merely as a political struggle but as a fight for survival, a desperate defense of their rights and sovereignty against what they perceive as Vesae's oppressive tactics.
 
@@ -34,7 +34,6 @@ However, the kingdom's current conflict with Vesae has brought it into the spotl
 While recognised as a singular region, Avatolika lacks a central ruler or overarching authority. Instead, the kingdom is composed of a network of self-governing villages and towns, each led by a lord, chief or similar position. Despite this independence, Avatolika is bound together by a strong cultural identity, shared history, and common ancestry. These ties foster a deep sense of unity and mutual respect among its people, enabling them to cooperate effectively when faced with external threats or challenges, such as the escalating tension with Vesae. 
 
 In response to the escalating conflict, a temporary council composed of the most powerful and influential leaders in Avatolika has been formed. This council coordinates efforts to manage the region’s defenses, mediate disputes, and present a unified stance in external matters. While some question how long this council will remain intact, others view it as a sign that Avatolika is adapting to the pressures of the modern age without compromising its deeply ingrained traditions.
-
 
 ### 5. **Economy**
 
@@ -62,18 +61,18 @@ As tensions with Vesae escalate, Avatolika has been actively growing its militar
 
 ### 8. **Notable Locations**
 
-- Avatolika: The largest city in the region and the current seat of the Council of Leaders. Located where the Capilli River flows into Lake Serenith, Avatolika serves as the region’s military and administrative centre. 
-- Lunor Crossing: A modest village situated near Avatolika’s northern border, Lunor Crossing serves as the primary point of interaction with the centaurs of Hybla Gratis. The centaurs, wary of human intentions, conduct all trade and diplomacy exclusively in this village. 
-- Star Fall Island: The contested island at the heart of Lake Serenith, Star Fall Island is a strategic location vital to regional trade. Both Avatolika and Vesae claim ownership, and the dispute over the island has fueled tensions between the two kingdoms.
+- **Avatolika**: The largest city in the region and the current seat of the Council of Leaders. Located where the Capilli River flows into Lake Serenith, Avatolika serves as the region’s military and administrative centre. 
+- **Lunor Crossing**: A modest village situated near Avatolika’s northern border, Lunor Crossing serves as the primary point of interaction with the centaurs of Hybla Gratis. The centaurs, wary of human intentions, conduct all trade and diplomacy exclusively in this village. 
+- **[[Star Fall Island]]**: The contested island at the heart of Lake Serenith, Star Fall Island is a strategic location vital to regional trade. Both Avatolika and Vesae claim ownership, and the dispute over the island has fueled tensions between the two kingdoms.
 
 ### 9. **Significant Characters**
 
-- Fionn Domhail: A charismatic and pragmatic leader, Fionn serves as the de facto head of the Council. Originally, Lord of Avatolika city, Fionn has maintained his position as the most powerful of the leaders of Avatolika. 
-- Eillis Chathain: Leader of Bournehave, Eilis serves as a voice of opposition on the council. She opposes war, favoring diplomatic resolutions and a focus on fostering self-reliance within the region.
-- Ruadhan Airt: The only council member not originally a city leader, Ruadhan was a former member of the [[Rift Watch]], and a well respected military leader. He believes a strong military presence is the only way to ensure Avatolika's survival against Vesae and other potential threats. 
-- Laufi Haolan: Chief of Barrenhold, the most eastern of Avatolika's settlements, Laufi is a rough man, tasked with the protection of the regions edges against the corrupted forces that lie in the lands beyond. Like Raudhan, he is a strong endorser of increasing the regions military might. 
-- Cliona Laigh: The religious representative on the council, Cliona is the Elder of Lochraine. Although traditionally, a pacifist Cliona believes that to preserve the sanctity of Lake Serenith and the culture of the Avatolika people, war is inevitable. As such she works to foster support from the remaining Naiads and Oosice for the upcoming conflict.
-- Brian Cearhail: Brian is the Chief of Lunor Crossing, and largely regarded as the bridge between centaur and humans. His respectful approach and understanding of centaur culture have earned him the rare trust of these elusive beings, making him an indispensable figure in maintaining the fragile relationship between Avatolika and Hybla Gratis.
+- **Fionn Domhail**: A charismatic and pragmatic leader, Fionn serves as the de facto head of the Council. Originally, Lord of Avatolika city, Fionn has maintained his position as the most powerful of the leaders of Avatolika. 
+- **Eillis Chathain**: Leader of Bournehave, Eilis serves as a voice of opposition on the council. She opposes war, favoring diplomatic resolutions and a focus on fostering self-reliance within the region.
+- **Ruadhan Airt**: The only council member not originally a city leader, Ruadhan was a former member of the [[Rift Watch]], and a well respected military leader. He believes a strong military presence is the only way to ensure Avatolika's survival against Vesae and other potential threats. 
+- **Laufi Haolan**: Chief of Barrenhold, the most eastern of Avatolika's settlements, Laufi is a rough man, tasked with the protection of the regions edges against the corrupted forces that lie in the lands beyond. Like Raudhan, he is a strong endorser of increasing the regions military might. 
+- **Cliona Laigh**: The religious representative on the council, Cliona is the Elder of Lochraine. Although traditionally, a pacifist Cliona believes that to preserve the sanctity of Lake Serenith and the culture of the Avatolika people, war is inevitable. As such she works to foster support from the remaining Naiads and Oosice for the upcoming conflict.
+- **Brian Cearhail**: Brian is the Chief of Lunor Crossing, and largely regarded as the bridge between centaur and humans. His respectful approach and understanding of centaur culture have earned him the rare trust of these elusive beings, making him an indispensable figure in maintaining the fragile relationship between Avatolika and Hybla Gratis.
 
 ### 10. **Current Issues and Future Prospects**
 

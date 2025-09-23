@@ -9,7 +9,7 @@ tags:
 
 Agroma is the agricultural heartland of Siar’Morrin, stretching from the tranquil shores of [[Lake Novus Mare]] to the rugged coastline of the Periculosus Ocean. Celebrated as a bastion of productivity, its vast fertile plains are blanketed with fields of grain, orchards, and pastures that not only sustain the local population but also drive the regional economy, with trade to the East.
 
-![[agroma.webp]]
+![[Agroma map.jpg]]
 ### 2. **Geography**
 
 The geography of Agroma is dominated by vast, flat plains that are ideal for agriculture but also prone to flooding due to the region's numerous rivers. These waterways, essential for irrigation, become both a blessing and a risk in heavy rainfall seasons. To manage this, Agroma has constructed an intricate system of dykes and canals, engineering marvels that control water flow and protect the land.
@@ -27,6 +27,8 @@ Agroma's political system is uniquely structured around a tripartite council, wi
 Agroma’s economy is predominantly agricultural, with extensive fields and orchards forming the backbone of the region's prosperity. Supporting this primary industry are burgeoning sectors in food processing and agricultural technology, which contribute to economic stability and growth. The region’s unified governance has attracted investment, leading to infrastructure improvements and a boost in trade, particularly with neighboring regions.
 
 A key factor enhancing Agroma’s economic prowess is its innovative partnership with the glacimancers of the [[Arctic Expanse]]. This collaboration has revolutionized the transportation of perishable goods, utilizing advanced ice magic to preserve freshness during transit. This has not only extended the reach of Agroma’s agricultural products but also increased the profitability of trade with the East. The ability to efficiently transport food over long distances without spoilage has positioned Agroma as a critical food supplier, bolstering its economic standing and enhancing its strategic importance in the broader regional economy.
+
+![[agroma.webp]]
 
 ### 6. **Culture and Society**
 
