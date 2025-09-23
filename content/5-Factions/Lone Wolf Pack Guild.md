@@ -4,25 +4,57 @@ draft: false
 tags:
   - faction/guild
 ---
-### 1. **Overview**
+## 1. **Overview**
 
-The Lone Wolf Pack Guild thrives in the wild, untamed regions of Eastern Siar'Morrin. Known for its rugged and unpolished approach, it attracts individuals who are robust and self-reliant. The guild serves as a line of defense for the frontier communities, ensuring their safety from the constant threats posed by the wilderness.
+The Lone Wolf Pack Guild is a band of outcasts, survivalists, and wildfolk who have turned the frontier into both their home and their battlefield. They are hunters, trackers, and defenders of the untamed, safeguarding scattered settlements in Eastern Siar’Morrin from monsters, raiders, and worse.
 
-### 2. **History**
+Unlike their rivals in [[Guild Venator]], the Lone Wolf Pack shuns polish and hierarchy, embracing the chaos and freedom of the wilds. Their creed is simple: survive, fight, and protect the pack. With the recent addition of [[Cailean Varkalir]], a rumoured demi-god of the wolf-folk Cia’an, their reputation has grown from local hunters to something approaching myth.
 
-Founded by a group of exiles and survivalists, The Lone Wolf Pack Guild has always embraced the chaotic nature of the wild. Under the leadership of NAME, the guild has refined its focus to not only surviving but mastering the wilderness. Their history is marked by a gradual ascent from mere survivors to a formidable force within the hunting community. Further, the recent addition of [[Cailean Varkalir]], a Cia'an demi-god, has further bolstered their reputation.
+- **Type:** Guild
+- **Base of Operations:** [[Narrowmere]], [[Pilliga]]
+- **Core Purpose/Focus:** To defend frontier settlements, master the wilderness, and live free from the constraints of civilization.
+- **Reputation:** Viewed as capable but unruly. Admired by frontier folk for their protection, but often dismissed by nobles and rival guilds as crude and undisciplined.
+- **Symbol:** A wolf’s head silhouetted against a crescent moon.
 
-### 3. **Leadership and Structure**
+## 2. **History**
 
-- Information on how the faction is organized and governed. Describe the leadership hierarchy and any notable leaders, past and present.
+The Lone Wolf Pack Guild was born of exile and necessity. Its founders were poachers, criminals, and misfits cast out from cities who found kinship in the wilderness. What began as scattered survival bands grew under the leadership of Kaelric Dorn, who forged the guild’s identity: a pack bound not by blood, but by choice.
 
-### 4. **Culture and Beliefs**
+Over decades, the Pack shifted and formed into what it is now, a force for good that frontier folk could not ignore. They defended villages from marauding beasts, cut down bandit gangs, and hunted creatures others feared to face. Yet their methods — brutal, unrefined, and often disdainful of law — won them little love from nobles or competing guilds.
 
-Members of The Lone Wolf Pack Guild are known for their fierce independence and deep respect for nature. They live by a code that values the freedom to roam and the right to defend their territory. The guild culture celebrates strength, bravery, and loyalty to the pack, but otherwise lacks a cohesive or defined collective culture. 
+In recent years, the Pack’s fortunes shifted when Cailean Varkalir joined their ranks. His rumoured divine heritage and leadership in great hunts have elevated their standing, making them less a rabble of exiles and more a brotherhood set on making a difference in for those living in the harshest corners of Staterum.
 
-### 5. **Geographical Territory**
+## 3. **Structure & Organization**
 
-Operating primarily in the eastern wilds of Siar'Morrin, their territory is dotted with bases hidden away in forests and hills, serving as waypoints for members on their travels and hunts. Their headquarters are located within the Pistos region, on the boarder of Crespon Forest.
+The Pack rejects rigid hierarchy, instead modeling itself after wolf packs: loose, shifting, but bound by loyal:
 
-### 6. **Alliances and Rivalries**
+- **Alpha:** The guild’s figurehead and leader, chosen not by lineage but by strength, reputation, and the loyalty they command. This position is liable to change and shift, based on guild needs. 
+- **Beta:** Veteran hunters who lead small packs, when jobs require conjoined efforts.
+- **The Pack:** Ordinary members, hunters, and survivalists, that make up the bulk of the guild. 
+- **Omega:** Essentially the hired help, that oversee the mundane operations of the guild.  
 
+## 4. **Culture & Practices**
+
+
+The Lone Wolf Pack Guild embodies the paradox of their name: independence balanced with loyalty to the pack. Each member is fiercely self-reliant, yet bound by an unspoken code of comradery and respect. The Pack also represents the largest gathering of [[Cia'an]] outside [[Sabhaile Forest]], offering a place of familiarity and belonging for those exiled, estranged, or otherwise forced to leave their ancestral homeland. Within the guild, these wolf-folk find kinship among others who live by fang, claw, and survival, their traditions interwoven naturally into the guild’s own.
+
+They celebrate victories with wild feasts and boisterous revelry, often carrying on through the night and into the following day—sometimes for days on end. To them, civilization breeds weakness, while the wild breeds strength and offers truth. This often puts them at odds with more structured groups — particularly Guild Venator, whose polished professionalism they deride as hollow. 
+
+Their guiding belief: _the pack survives where the lone wolf dies, but the pack only thrives if each wolf stands strong on their own._
+
+## 5. **Key Figures**
+
+- Alpha Hrothgar Fenwolf, 
+- [[Cailean Varkalir]]. 
+## 6. **Geographic Influence**
+
+- **Areas of Operation:** The Pack ranges primarily across the eastern wilds of Siar’Morrin. It's headquarters situated on the outskirts of [[Narrowmere]], bordering [[The Great Dividing Forest]].
+- **Allies & Enemies:**
+    - **Rival**: [[Guild Venator]], seen as over-refined elitists who hoard contracts and disrespect the Pack’s ways.
+    
+
+## 7. **Resources & Capabilities**
+
+- **Military Strength:** The guild fields no formal army, but its ranks include some of the most seasoned hunters, trackers, and survivalists in Eastern Siar’Morrin. Small packs strike with precision, leveraging ambushes, terrain mastery, and guerrilla tactics to overwhelm larger foes. Their reputation alone can deter bandits and monstrosities alike.
+- **Economic Power:** Modest compared to formal guilds, their wealth comes from frontier contracts, monster bounties, and barter with isolated settlements. What they lack in coin, they make up for in practical self-sufficiency — hides, furs, and wildcraft keep the guild sustained without heavy reliance on outside markets.
+- **Special Assets:** Their greatest strength lies in their knowledge of the wilderness. The Pack maintains a network of hidden lodges and caches across the frontier, stocked with supplies and weapons. They also boast the largest concentration of Cia’an hunters outside Sabhaile Forest, whose keen senses and wolf-born instincts give them an edge in tracking, ambush, and night warfare.

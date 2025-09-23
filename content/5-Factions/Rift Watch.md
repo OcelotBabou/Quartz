@@ -11,7 +11,7 @@ The Rift Watch is a specialised corps of rangers and warriors tasked with defend
 
 - **Type:** Ranger Corps / Military Order
 - **Base of Operations:** Three main bases, stationed along the border of the Western Scar
-- **Core Purpose/Focus:** TContainment of the Western Scar, eradication of cult activity, and protection of Siar’Morrin from demonic influence.
+- **Core Purpose/Focus:** Containment of the Western Scar, eradication of cult activity, and protection of Siar’Morrin from demonic influence.
 - **Reputation:** Revered as guardians and demon-hunters, though sometimes criticised for severity and mistrust of outsiders.
 - **Symbol:** An eye within a jagged rift
 

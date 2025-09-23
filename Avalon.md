@@ -10,7 +10,7 @@ tags:
 
 **Overview:** 
 
-**Avalon** forms the fertile eastern edge of **[[Pilliga]]**, nestled in the foothills of the towering **[[Protoramus Range]]**. Crisscrossed with melt-fed tributaries and underpinned by deep aquifers, it boasts the richest soil in an otherwise harsh and arid land. In earlier ages, Avalon was the beating heart of Pilliga — home to the vast majority of its population and the seat of its agricultural wealth.
+Avalon forms the fertile eastern edge of **[[Pilliga]]**, nestled in the foothills of the towering **[[Protoramus Range]]**. Crisscrossed with melt-fed tributaries and underpinned by deep aquifers, it boasts the richest soil in an otherwise harsh and arid land. In earlier ages, Avalon was the beating heart of Pilliga — home to the vast majority of its population and the seat of its agricultural wealth.
 
 Though it still holds considerable influence and remains the stronghold of much of the region’s “old wealth,” Avalon’s dominance is slowly waning. In recent generations, more and more of its people have migrated toward the **[[Fluvitae River]]**, seeking to capitalise on the booming trade that flows along its banks.
 

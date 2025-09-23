@@ -5,26 +5,38 @@ tags:
   - faction/religious
   - deity/eris
 ---
-### 1. **Overview**
+### ## 1. **Overview**
 
-The Oath Keepers are a faction of Neutral Lawful Devils tasked with enforcing the oaths made by mortals. Operating from the Void Realm, they intervene when oaths are broken, claiming the souls of the oathbreakers. They are seen as enforcers of justice or brutal reapers, depending on the perspective.
+The Oath Keepers are a faction of lawful devils who manifest in the mortal realm to enforce the weight of promises. When mortals swear an oath of significance—whether in court, temple, or contract—the Oath Keepers are bound to it, ensuring the word is honoured. When those oaths are broken, the Oath Keepers come to collect, dragging the perjured soul into their dominion within the Void Realm.
 
-### 2. **History**
+They are both dreaded and respected: enforcers of incorruptible law, yet alien in their mercilessness. To invoke an oath in their name is to bind oneself in chains that cannot be broken without dire consequence.
 
-The origins of the Oath Keepers are shrouded in mystery and contradiction. Some legends suggest they have always existed, serving as the Vices' primary means of claiming mortal souls. Others tell of a time when they were a force for good under the guidance of [[Eris]], working to correct and enforce oaths honorably until his disappearance led them astray. Yet another belief posits them as a neutral entity, dispatching the damned to a purgatory where they must work to regain their lost honour.
+- **Type:** Misc. 
+- **Base of Operations:** The Void Realm
+- **Core Purpose/Focus:** To enforce the sanctity of oaths sworn by mortals, punishing oathbreakers and claiming their souls.
+- **Reputation:** Feared and enigmatic; regarded as impartial arbiters by some, merciless devourers of souls by others.
+- **Symbol:** 
 
-### 3. **Leadership and Structure**
+## 2. **History**
 
-The leadership structure of the Oath Keepers is elusive and complex. While there appears to be a hierarchy, with more powerful members dispatched to handle more significant breaches or powerful individuals, the identity of any central leader remains a closely guarded secret.
+The origins of the Oath Keepers are steeped in contradiction. Some accounts claim they have existed since the dawn of mortal speech, an inevitable consequence of promises given weight by divine witness. Others say they once served under the god [[Eris]], maintaining his doctrines of justice and honour until his disappearance during the Age of Darkness left them without guidance.
 
-### 4. **Culture and Beliefs**
+## 3. **Leadership & Structure**
 
-The Oath Keepers are bound by a rigid code that prioritises the enforcement of oaths above all else. Their culture is characterized by a solemn dedication to their duty, viewing themselves as the ultimate arbiters of moral rectitude. They hold no celebrations or rituals, focusing solely on their mission. To them, every broken oath is a stain upon the soul that must be cleansed either through retribution or redemption.
+The hierarchy of the Oath Keepers is opaque. While lesser Keepers handle ordinary cases—minor contracts, broken promises of trade—more powerful entities appear for grievous violations or oaths sworn by kings, generals, or magi. 
 
-### 5. **Geographical Territory**
+## 4. **Culture & Practices**
 
-The Oath Keepers operate across the entire realm of Staterum but are based within the Void Realm. This shadowy, nebulous area serves as their fortress and gateway, from where they monitor and intervene in the mortal world.
+The Oath Keepers exist for one purpose alone: to enforce promises. They celebrate nothing, feast on no rituals, and practice no faith beyond their code. To them, every oath is a sacred bond, and every violation a corruption to be purged.
 
-### 6. **Alliances and Rivalries**
+When summoned or invoked, they appear as cold witnesses, silently watching the agreement unfold. Once bound, they act without pity or delay—though some claim rare cases of redemption are permitted, where oathbreakers are tasked with impossible labours to restore their word.
 
-They remain a true neutral force within Staterum, no alliances or rivalries only the enforcement of oaths. 
+## 5. **Key Figures**
+
+- N/A
+
+## 6. **Geographic Influence**
+
+- **Areas of Operation:** The Oath Keepers claim no mortal territory. Their realm lies within the Void realm, from here, they dispatch themselves into Staterum, called by broken vows or witnessed seals.
+- **Allies & Enemies:**
+    - **Ally:** [[Quill & Seal]], though the guild denies any pact, most oaths sealed in their presence seem to carry the weight of the Oath Keepers’ gaze. Whether partner, tool, or coincidence, the relationship remains shrouded. 
