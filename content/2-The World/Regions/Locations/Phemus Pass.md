@@ -9,7 +9,7 @@ tags:
 ---
 **Overview:** 
 
-Phemus Pass is a crucial stretch of road that borders the northern edge of [[Phemus Reach]]. It connects Portum with the eastern regions and once served as an essential route for those seeking to journey west across the Periculosus Ocean. However, the pass now lies largely abandoned, with only a few desperate merchants from [[Portum]] attempting to re-establish its viability.
+Phemus Pass is a crucial stretch of road that borders the northern edge of [[Phemus Reach]]. It connects [[Portum]] with the eastern regions and once served as an essential route for those seeking to journey west across the Periculosus Ocean. However, the pass now lies largely abandoned, with only a few desperate merchants from Portum attempting to re-establish its viability.
 
 **Description:** 
 

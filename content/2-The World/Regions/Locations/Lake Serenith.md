@@ -37,7 +37,9 @@ In addition to its economic and ecological value, the lake holds deep cultural a
 
 - **Star Rise/Fall Island**: A small but strategically vital island at the center of Lake Serenith, it is the focal point of the conflict between Vasae and Avatolika. To Vasae, it is Star Rise Island, symbolising prosperity and dominance over the lake. To Avatolika, it is Star Fall Island, a reminder of Vasae's perceived encroachments and injustices.
 - **Temple of Ooscie**: Nestled on a tranquil island off the shores of Avatolika, near the city of Lachraine, this ancient temple is dedicated to [[Ooscie]]. The temple is a spiritual center for many inhabitants of Lake Serenith, particularly sailors and merchants that travel Lake Serenith. Its intricate carvings, reflecting the myths of Ooscie and her Naiad children, and the ever-flowing spring within its walls are said to hold divine blessings.
-- 
+- **Naiads’ Island**: Said to lie somewhere along the lake’s western edge, this elusive island is shrouded in mystery. Sailors returning from journeys across the lake sometimes claim to have set foot upon its shores, describing enchanting groves, crystalline springs, and the presence of naiads who dwell in its waters. Yet no chart nor expedition has ever been able to locate it again, and many who boast of having visited are later unable to find their way back.
+- **The Thrysa Delta**: At the lake’s southern reach, the Thrysa River branches into a sprawling labyrinth of swamps and marshes, forming the lifeblood of [[Vasae]]. This delta is a place of both danger and opportunity: nutrient-rich soils nurture rare herbs and crops found nowhere else, while shifting channels and sudden floods make navigation treacherous.
+- **The Drowned Spires**: Off the lake’s northeastern shore lies a half-submerged ruin — the crumbled remains of what many believe to be a city from the Age of Expansion. Jagged stone towers and weatherworn spires rise eerily from the water, visible only when storms drive the lake’s surface low. Fishermen tell of shadows moving among the ruins and strange lights flickering beneath the waves.
 
 
 **Local Legends or Stories:**

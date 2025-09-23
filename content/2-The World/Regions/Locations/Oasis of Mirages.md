@@ -9,7 +9,7 @@ tags:
 ---
 **Overview:** 
 
-The Oasis of Mirages is a temporary and elusive oasis in [[Donatus Stultitia]] that appears during the brief rainy season. Known for its stunning transformation and the myriad of creatures that flock to its shores in the rainy season. However, this period is short, and in the dry season it's waters dry, yet its image remains casting a far reaching mirage. This illusion has mislead many weary adventurers to its shore, only to find a dry dust bowl. 
+The Oasis of Mirages is a temporary and elusive oasis in [[Donatus Stultitia]] that appears during the brief rainy season, and is the source of Donatus Stultitia's more commonly known name as the Mirage Plains. Known for its stunning transformation and the myriad of creatures that flock to its shores in the rainy season. However, this period is short, and in the dry season it's waters dry, yet its image remains casting a far reaching mirage. This illusion has mislead many weary adventurers to its shore, only to find a dry dust bowl. 
 
 **Description:** 
 
