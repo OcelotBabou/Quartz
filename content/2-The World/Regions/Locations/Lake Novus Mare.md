@@ -11,11 +11,11 @@ tags:
 
 **Overview:** 
 
-Lake Novus Mare, a vast freshwater lake on the eastern border of Agroma, is a cornerstone of the region’s geography and economy. This crucial water body serves as a lifeline for the surrounding communities, supporting agriculture, trade, and local culture.
+Lake Novus Mare, a vast freshwater lake on the eastern border of [[Agroma]], is a cornerstone of the region’s geography and economy. This crucial water body serves as a lifeline for the surrounding communities, supporting agriculture, trade, and local culture.
 
 **Description:** 
 
-Renowned for its crystal-clear waters, Lake Novus Mare is a picturesque setting framed by rolling hills and expansive fertile plains. The lake bustles with activity as fishing boats crisscross its vast surface and vibrant markets thrive along its shores. It receives fresh inflows from the Perfidus River, originating in the [[Shadow Aisle Mountains]] to the east, and the Dao River from the north. The lake’s waters are a junction of vitality, feeding into three rivers: the Vilcilous and Minatus Rivers, which journey westward towards the Periculosus Ocean, and the Sacer River, which flows southward into the Mare Sanctum Ocean. This trifurcation not only enhances the lake’s beauty but also supports an extensive network of trade routes that are vital for regional commerce.
+Renowned for its crystal-clear waters, Lake Novus Mare is a picturesque setting framed by rolling hills and expansive fertile plains. The lake bustles with activity as fishing boats crisscross its vast surface and vibrant markets thrive along its shores. It receives fresh inflows from the Perfidus River, originating in the [[Shadow Aisle Mountains]] to the east, and the Dao River from the north. The lake’s waters are a junction of vitality, feeding into four rivers: the Vilcilous, Minatus, and Aetir rivers which journey westward towards the Periculosus Ocean, and the Sacer River, which flows southward into the Mare Sanctum Ocean. This quadfurcation not only enhances the lake’s beauty but also supports an extensive network of trade routes that are vital for regional commerce.
 
 **History:**
 

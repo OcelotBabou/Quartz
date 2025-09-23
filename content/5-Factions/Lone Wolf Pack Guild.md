@@ -44,8 +44,11 @@ Their guiding belief: _the pack survives where the lone wolf dies, but the pack 
 
 ## 5. **Key Figures**
 
-- Alpha Hrothgar Fenwolf, 
-- [[Cailean Varkalir]]. 
+- **Alpha Hrothgar Fenwolf:** Current leader of the guild, Hrothgar is a scarred veteran of great repute in the guild. Though advancing in years, his cunning and ferocity keep him firmly in command.
+- **[[Cailean Varkalir]]:** Cailean’s presence has elevated the guild’s status to near-mythic levels. He rarely fights alongside packs, instead roaming alone across the wilds, answering threats that no ordinary hunter could face.
+- **Beta Ragna Blackbriar:** A fierce and uncompromising hunter that oversees operations primarily within the [[Shattered Kingdoms]]. Known to be initially standoffish, yet excessively affectionate to those they consider friends.  
+- **Omega Branik Mossfoot:** A hulking half-orc with a gentle demeanor, Branik manages the guild’s supplies and upkeep. Despite his low station as Omega, he is indispensable: ensuring caches are stocked, lodges repaired, and rooms keep clean. 
+
 ## 6. **Geographic Influence**
 
 - **Areas of Operation:** The Pack ranges primarily across the eastern wilds of Siar’Morrin. It's headquarters situated on the outskirts of [[Narrowmere]], bordering [[The Great Dividing Forest]].

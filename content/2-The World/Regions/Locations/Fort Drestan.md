@@ -24,7 +24,7 @@ Inside the fortress, military precision governs layout. Stone barracks, storage 
 
 **History:** 
 
-Fort Drestan was founded long ago during the Age of War (AW), at a time when the Biranian Empire was striving to consolidate its territorial gains across the continent. Its original purpose was strategic: perched on the eastern rise overlooking the vast Pilligan basin, the fort commanded sweeping views of the interior while remaining well-hidden from the east by the forested hill country beyond. This natural concealment, paired with defensible high ground, made it an ideal location for an eastern bastion.
+Fort Drestan was founded long ago during the Age of War (AoW), at a time when the Biranian Empire was striving to consolidate its territorial gains across the continent. Its original purpose was strategic: perched on the eastern rise overlooking the vast Pilligan basin, the fort commanded sweeping views of the interior while remaining well-hidden from the east by the forested hill country beyond. This natural concealment, paired with defensible high ground, made it an ideal location for an eastern bastion.
 
 What was once a forward outpost has since become a keystone of regional stability. The hills to the east, now known as **[[Collis Brigantium]]**, gradually devolved into a haven for exiles, deserters, and raiding bands — their rugged terrain perfect for ambushes and lawless enclaves. As this threat grew, Fort Drestan's role evolved from passive observation to active defence. Its towers now serve as watchpoints against bandit movement, and its garrison regularly dispatches patrols to deter raids and prevent the chaos of Collis Brigantium from spilling into the more stable lands of Pilliga.
 

@@ -10,7 +10,7 @@ tags:
 
 **Overview:** 
 
-Along the western edge of the Road North lies the Bleeding Verge—a fractured and forsaken borderland where civilization thins and the wilderness reclaims its hold. This harsh region marks the eastern fringe of the [[Shattered Kingdoms]], yet even the hardened people of [[Avatolika]] have never truly settled it, choosing instead the more fertile borders of [[Lake Serenith]]. In the Bleeding Verge, survival is tenuous, and community a luxury. The land is dotted with ramshackle camps, forgotten ruins, and secret enclaves where the outcast, the hunted, and the desperate dwell. Whether fleeing justice, war, or something darker, all who find themselves here share one thing: no where else to go.
+Along the western edge of the [[Road North]] lies the Bleeding Verge—a fractured and forsaken borderland where civilization thins and the wilderness reclaims its hold. This harsh region marks the eastern fringe of the [[Shattered Kingdoms]], yet even the hardened people of [[Avatolika]] have never truly settled it, choosing instead the more fertile borders of [[Lake Serenith]]. In the Bleeding Verge, survival is tenuous, and community a luxury. The land is dotted with ramshackle camps, forgotten ruins, and secret enclaves where the outcast, the hunted, and the desperate dwell. Whether fleeing justice, war, or something darker, all who find themselves here share one thing: no where else to go.
 
 **Description:** 
 
@@ -18,7 +18,7 @@ The Bleeding Verge is a land of broken ground and bitter winds. Rain is scarce, 
 
 Despite its dangers, the Verge offers cover and obscurity, making it a haven for outlaws, rogue mages, disbanded soldiers, and those fleeing persecution or judgment. It’s a patchwork of half-buried strongholds, tent cities, and nomadic bands, all bound by fragile truces and the unspoken understanding that trust is a currency best spent cautiously.
 
-To add onto it's inhospitably demonic presence in the Bleeding Verge remains disturbingly strong for two key reasons. First, the region is considered too barren to justify a full cleansing—unlike other tainted lands, it was never thoroughly purged, only monitored to ensure they do not spread. Second, the Verge shares its northern boundary with the chasm, which while not the source of the Rift itself is believed to harbor many horrors left behind from the Age of Darkness. On rare occasions, these beings crawl out from its depths, launching brutal and unexpected raids into the Verge or toward vulnerable lands beyond.
+To add onto it's inhospitably demonic presence in the Bleeding Verge remains disturbingly strong for two key reasons. First, the region is considered too barren to justify a full cleansing—unlike other tainted lands, it was never thoroughly purged, only monitored to ensure they do not spread. Second, the Verge shares its northern boundary with the chasm, which while not the source of the Rift itself is believed to harbor many horrors left behind from the Age of Darkness ([[AoD]]). On rare occasions, these beings crawl out from its depths, launching brutal and unexpected raids into the Verge or toward vulnerable lands beyond.
 
 **History:** 
 

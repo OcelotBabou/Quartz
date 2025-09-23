@@ -52,7 +52,7 @@ Ideas so far
 ### 9. **Significant Characters**
 
 - [[Gorath Hamma]], Tribal leader of Giants: Gorath Hamma commands respect with his immense strength and brutal tactics. 
-- [[Garul Clubba]], Giant sage: Garul Clubba stands out for her relative intelligence among giants, serving as a keeper of ancient knowledge and advisor. 
+- [[Garul Clubba]], Giant oracle: Garul Clubba stands out for her relative intelligence among giants, serving as a keeper of ancient knowledge and advisor. 
 - [[Thornak]], Ogre menace: Notorious for his brutal raids on border settlements, Thornak is a fearsome ogre whose relentless attacks have instilled fear among the residents of Hu Dao and beyond.
 - [[Gorak]], Phemus Pass lurker: Gorak, the lithe and greedy giant, exploits his agility and strategic position atop [[Goraks Perch]] to ambush unsuspecting travelers and merchants
 

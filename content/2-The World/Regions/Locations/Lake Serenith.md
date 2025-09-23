@@ -11,13 +11,13 @@ tags:
 
 **Overview:** 
 
-Lake Serenith is the lifeblood of the Shattered Kingdoms, serving as a critical resource for transport, agriculture, and sustenance. Spanning an immense area, it dominates the geography of Eastern Siar'Morrin, its sheer size giving it the appearance of an ocean when viewed from its shores. With its vast waters and numerous tributaries feeding into it, the lake influences the climate, fosters diverse ecosystems, and supports the livelihoods of many who live along its shores. As a focal point of commerce, culture, and diplomacy, the lake stands as both a unifying force and a source of contention among the kingdoms that surround it.
+Lake Serenith is the lifeblood of the [[Shattered Kingdoms]], serving as a critical resource for transport, agriculture, and sustenance. Spanning an immense area, it dominates the geography of Eastern Siar'Morrin, its sheer size giving it the appearance of an ocean when viewed from its shores. With its vast waters and numerous tributaries feeding into it, the lake influences the climate, fosters diverse ecosystems, and supports the livelihoods of many who live along its shores. As a focal point of commerce, culture, and diplomacy, the lake stands as both a unifying force and a source of contention among the kingdoms that surround it.
 
 **Description:** 
 
 Spanning an area so vast that its opposite shores vanish into the horizon, Lake Serenith resembles an inland sea. Standing on its banks, one feels a sense of awe at its immense size, with waves gently lapping against the shores and a seemingly endless expanse of water stretching to the horizon. Fed by numerous rivers and natural springs, its ecosystem supports an abundance of life, both above and below the water. Surrounding the lake, fertile lands sustain unique crops and bustling communities that rely on its resources. Many settlements and cities dot its shoreline, with some built on stilts or floating platforms, adapting to its vast wetlands and marshy areas.
 
-The lake’s weather systems dominate the region, with prevailing easterly winds carrying storms and heavy rains to its western shores, fostering marshlands like those of [[Vasae]]. To the north and east, drier lands transition into the harsher terrains of [[Avatolika]] and the North Road Barrens. Scattered fishing villages, trade ports, and larger cities all rely on the lake’s bounty and accessibility, while its depths are shrouded in mystery, inspiring numerous local legends. 
+The lake’s weather systems dominate the region, with prevailing easterly winds carrying storms and heavy rains to its western shores, fostering marshlands like those of [[Vasae]]. To the north and east, drier lands transition into the harsher terrains of [[Avatolika]] and the [[Road North]] Barrens. Scattered fishing villages, trade ports, and larger cities all rely on the lake’s bounty and accessibility, while its depths are shrouded in mystery, inspiring numerous local legends. 
 
 **History:** 
 
@@ -42,7 +42,7 @@ In addition to its economic and ecological value, the lake holds deep cultural a
 
 **Local Legends or Stories:**
 
-There are many stories surrounding Lake Serenith, but one of the most enduring is the tale of **Star Fall/Rise Island**, named for the similar yet opposing legends held by the kingdoms of **Avatolika** and **Vasae**. To the **Avatolikans** in the west, the island is known as **Star Fall Island**, a sacred resting place where the stars descend into the waters at dawn to sleep, their nightly duties fulfilled. In contrast, the **Vasaeans** of the east call it **Star Rise Island**, believing it to be the birthplace of the stars, where they emerge from the depths each evening to light up the heavens.
+There are many stories surrounding Lake Serenith, but one of the most enduring is the tale of Star Fall/Rise Island, named for the similar yet opposing legends held by the kingdoms of Avatolika and Vasae. To the Avatolikans in the west, the island is known as Star Fall Island, a sacred resting place where the stars descend into the waters at dawn to sleep, their nightly duties fulfilled. In contrast, the Vasaeans of the east call it Star Rise Island, believing it to be the birthplace of the stars, where they emerge from the depths each evening to light up the heavens.
 
 Despite their differing views, both kingdoms share a belief in the island’s mystical connection to the stars. They tell of celestial beings left behind, taking human form during the day and roaming the island as guardians of its sacred nature. These "starfolk" are said to watch over the balance between the heavens and the world below, and to befriend one is to find eternal peace in life. 
 

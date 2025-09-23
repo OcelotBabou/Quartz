@@ -10,7 +10,7 @@ tags:
 
 **Overview:** 
 
-Nestled beside a wide oxbow lake halfway down the Fluvitae River, Bellbrook is a small, unassuming settlement that would likely go unnoticed if not for one thing: _The Watering Hole_. This massive and notoriously lively inn has made Bellbrook a legendary rest stop for drovers, merchants, adventurers, and riverfolk alike — a welcome reprieve from the dust-choked trails and humid waterways that cut through Pilliga.
+Nestled beside a wide oxbow lake halfway down the Fluvitae River, Bellbrook is a small, unassuming settlement that would likely go unnoticed if not for one thing: _The Watering Hole_. This massive and notoriously lively inn has made Bellbrook a legendary rest stop for drovers, merchants, adventurers, and riverfolk alike — a welcome reprieve from the dust-choked trails and humid waterways that cut through [[Pilliga]].
 
 **Description:** 
 
