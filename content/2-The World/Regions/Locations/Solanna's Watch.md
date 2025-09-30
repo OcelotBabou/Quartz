@@ -10,7 +10,7 @@ tags:
 
 **Overview:** 
 
-Solanna’s Watch marks the northernmost boundary of New Birania and has long been a critical strategic location. Positioned between the [[Mesoramus Range]] and Invera River, it serves as the only viable passage northward from New Birania without risking crossing the Ivera River into Sjøplyndrere territory. Once a proud fortress and key defensive barrier, Solanna’s Watch was decimated during the Age of Darkness ([[AoD]]) when demonic forces poured forth from the Rift and overran the region.
+Solanna’s Watch marks the northernmost boundary of [[New Birania]] and has long been a critical strategic location. Positioned between the [[Mesoramus Range]] and Invera River, it serves as the only viable passage northward from New Birania without risking crossing the Ivera River into Sjøplyndrere territory. Once a proud fortress and key defensive barrier, Solanna’s Watch was decimated during the Age of Darkness ([[AoD]]) when demonic forces poured forth from the Rift and overran the region.
 
 Today, the ruined fort has become a contested battleground, fought over by three forces: a garrison left behind by [[Lucien Draven]], tasked with rebuilding and securing the site for New Birania; a Sjøplyndrere warband aiming to claim the fort to control trade routes and impose passage tolls; and remnants of the original demonic forces, who have regrouped in the nearby mountains and are determined to reclaim the fort as a foothold for renewed chaos. This volatile power struggle has left Solanna’s Watch in a perpetual state of conflict, the victors influencing the primary route to Northern Siar'Morrin.
 

@@ -7,7 +7,7 @@ tags:
 *[ay-gear coast]*
 ### 1. **Overview**
 
-On the Eastern edge of Siar’Morrin is the Aegir Coast, a rugged and breathtaking region, known for its dramatic cliffs and the relentless pounding of the ocean waves. The Aegir Coast is a place of raw power and untamed beauty. Here, the sea carves the land with both fury and artistry, shaping a coastline that is both a challenge and a spectacle. Despite the harsh and unforgiving nature of the coastline, several cities have taken root along its shores, their inhabitants creating a life amidst the tumult of the ocean, relying on the bounty of the sea for sustenance and trade.
+On the North-Eastern edge of Siar’Morrin is the Aegir Coast, a rugged and breathtaking region, known for its dramatic cliffs and the relentless pounding of the ocean waves. The Aegir Coast is a place of raw power and untamed beauty. Here, the sea carves the land with both fury and artistry, shaping a coastline that is both a challenge and a spectacle. Despite the harsh and unforgiving nature of the coastline, several cities have taken root along its shores, their inhabitants creating a life amidst the tumult of the ocean, relying on the bounty of the sea for sustenance and trade.
 
 ![[Aegircoast.webp]]
 
@@ -34,7 +34,7 @@ The Aegir Coast's economy is fundamentally anchored in maritime activities, pred
 
 The Aegir Coast is a region defined by its rugged natural environment and the resilient character of its people. Residents of the coast are known for their stoicism and fortitude, traits honed by generations living in close communion with the sea's capricious moods. The harsh coastal climate and the demanding daily interaction with the ocean have shaped a community that values strength, resilience, and a deep respect for the natural world.
 
-Religiously, the people of the Aegir Coast hold a complex set of beliefs centered around oceanic deities. Ooscie, known as the Ocean Father, is revered as a protector and provider, integral to their way of life. The coastal inhabitants regularly conduct rituals and offer sacrifices to appease Ooscie  and his sons, seeking their blessing for safe voyages and abundant catches. However, his forsaken daughter, Ooscara, is viewed with fear and disdain. Known as the bringer of winter and relentless winds, worshiping Ooscara is considered taboo, believed to invite disaster and bad luck upon oneself and one's community.
+Religiously, the people of the Aegir Coast hold a complex set of beliefs centered around oceanic deities. [[Ooscie]], known as the Ocean Father, is revered as a protector and provider, integral to their way of life. The coastal inhabitants regularly conduct rituals and offer sacrifices to appease Ooscie  and his sons, seeking their blessing for safe voyages and abundant catches. However, his forsaken daughter, [[Ooscara]], is viewed with fear and disdain. Known as the bringer of winter and relentless winds, worshiping Ooscara is considered taboo, believed to invite disaster and bad luck upon oneself and one's community. This has lead to poor relations with the glacimancer of the [[Arctic Expanse]], with travelers from this region often finding themselves barred access to many of the cities within this region. 
 
 While the people of the Aegir Coast share a common reverence for the sea, their society is marked by a rugged individualism that celebrates personal achievements and resilience. This has led to a culture that prizes tales of survival and bravery, often passed down through generations in the form of stories and songs. Despite the harsh conditions, there is a vibrant cultural scene that thrives on crafts, music, and art, much of it inspired by the sea and the tales of those who navigate its waters.
 
@@ -60,7 +60,10 @@ Coordination among these disparate forces is managed by the Transitional Governa
 ![[AegirCity.webp]]
 ### 9. **Significant Characters**
 
-Introduce key figures associated with the region, such as rulers, heroes, or villains. Include brief descriptions of their roles and impacts on the region.
+- **Lyara "Wave-Singer" Corven:** Council representative of Cragport, Lyara is a sorceress of formidable renown whose mastery over water magic has safeguarded Cragport for decades. Though her body has grown frail with age, her presence in council chambers carries immense weight.
+- **Marlin Tideholm**: Warden of Stormwatch, a seasoned sailor turned watch commander, Marlin oversees Stormwatch Keep and its critical role in monitoring the coastline for storms and raiders. Known for his stern discipline and almost uncanny ability to “smell” a storm before it forms.
+- **High Abbess Serina:** The spiritual leader of the monastery on Tideholm, Abbess Serina is revered for her wisdom and dedication to preserving the fragments of knowledge lost in the Age of Darkness. 
+- **Elrik Wrecker:** A controversial figure, Elrik is both a folk hero and a villain, depending on whom you ask. Born into a family with ties to the wreckers of old, he has embraced his ancestors’ reputation while reshaping it—he uses his mastery of treacherous waters to guide ships safely through, but demands steep fees in return.
 
 ### 10. **Current Issues and Future Prospects**
 

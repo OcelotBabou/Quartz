@@ -51,7 +51,9 @@ Given their isolation and the natural barriers provided by their environment, th
 
 ### 9. **Significant Characters**
 
-Introduce key figures associated with the region, such as rulers, heroes, or villains. Include brief descriptions of their roles and impacts on the region.
+- [[Elena Frostbreathe]]: Elena is one of the most renowned Glacimancers living beyond the Expanse. Appointed as the Elder Spokesperson of  [[Glacimancer Storage & Transport Co. (GST)]], she is tasked with balancing the delicate demands of foreign trade with the secrecy of her people’s traditions. Calm, calculating, and endlessly diplomatic, Elena has help lead the company into a period of boom. 
+- [[Yvra the White]]: Yvra, Priestess of Ooscara, presides over ceremonies at the Everfrost Spire and is among the most feared and enigmatic figures of the Arctic Expanse. To her followers, Yvra is a vessel through which Ooscara’s will is made manifest — her blessings bring safe passage, her wrath calls the blizzard.
+- **Korr Valdyr:** Korr is infamous far beyond the Expanse, a ruthless Iceborne reaver whose longships have carved a bloody path along the southern coasts. Often allying with the Hafjord and Austfjell raiders of Nordholt, he commands fearsome respect for his daring strikes and unmatched skill in glacimancy. Within the Expanse, many curse him, fearing that his raids tie their people to Nordholt’s lawless marauders and invite vengeance upon their homeland.
 
 ### 10. **Current Issues and Future Prospects**
 

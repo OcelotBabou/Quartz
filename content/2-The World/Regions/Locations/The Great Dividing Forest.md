@@ -9,7 +9,7 @@ tags:
 ---
 **Overview:** 
 
-The Great Dividing Forest forms the natural northwestern boundary of [[New Birania]], standing as both a geographical and symbolic barrier between the sprawling plains of the [[Pilliga]] and the more developed territories of the east. On its eastern side, large sections have been cleared for settlement and agriculture, though pockets of untouched forest remain, home to reclusive druids and scattered elven enclaves who work to preserve the natural balance. One notable exception is the dense, sacred forest that surrounds [[Kastelli]], the ancestral home of the Bacchins, expansion into this region being strictly forbidden. In stark contrast, the western expanse of the forest is wild and untamed, dominated by feral beasts and mysteries that deter would be explorers.
+The Great Dividing Forest forms the natural northwestern boundary of [[New Birania]], standing as both a geographical and symbolic barrier between the sprawling plains of the [[Pilliga]] and the more developed territories of the east. On its eastern side, large sections have been cleared for settlement and agriculture, though pockets of untouched forest remain, home to reclusive druids and scattered elven enclaves who work to preserve the natural balance. One notable exception is the dense, sacred forest that surrounds [[Kastelli]], the ancestral home of the [[Bacchin]]s, expansion into this region being strictly forbidden. In stark contrast, the western expanse of the forest is wild and untamed, dominated by feral beasts and mysteries that deter would be explorers.
 
 **Description:** 
 
@@ -19,6 +19,7 @@ The majority of the forest, by contrast, is breathtakingly lush, with conditions
 **History:** 
 
 In ages past, humans, driven by ambition, delved too deeply into the Great Dividing Forest’s abundant resources, disrupting its delicate balance and provoking the ire of its native inhabitants. The natives who called the forest home, unwilling to see its sacred expanse further diminished, confronted the intruders. However, desiring peace and cooperation rather than conflict, an agreement was reached between the various species.
+
 Under this pact, certain areas of the forest were granted to humanity for settlement and resource use, while vast portions were designated as protected lands, preserved under the stewardship of the native species. Over the centuries, this arrangement has endured, with both sides honouring the boundaries established long ago. While tensions have occasionally flared, particularly during times of hardship, the pact has largely remained.
 
 **Significance:** 

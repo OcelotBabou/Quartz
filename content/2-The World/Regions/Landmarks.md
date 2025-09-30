@@ -28,7 +28,7 @@ tags:
 - [[The Canals]]
 - [[The Echoing Abyss]]
 - [[The Forgotten Pools]]
-- [[The Lost City of Kharzhum]]
+- [[The Lost City of Khar'Croi]]
 - [[The Ruins of Donatus]]
 - [[The Twilight Glades]]
 - [[Thunder Plateau]]

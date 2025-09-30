@@ -9,7 +9,7 @@ tags:
 ---
 **Overview:** 
 
-Skeleton Grove is the haunting remnants of an ancient forest that once thrived on the outskirts of the Ruins of Donatus. Now, all that remains are the preserved husks of once-impressive trees, creating a stark and eerie landscape. This grove stands as a warning of proximity to [[The Ruins of Donatus]].
+Skeleton Grove is the haunting remnants of an ancient forest that once thrived on the outskirts of [[the Ruins of Donatus]]. Now, all that remains are the preserved husks of once-impressive trees, creating a stark and eerie landscape. This grove stands as a warning of proximity to the Ruins of Donatus.
 
 **Description:**
 

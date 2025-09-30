@@ -10,7 +10,7 @@ tags:
 
 **Overview:** 
 
-Virellos is the largest and southernmost of the Mist Islands, a towering landmass of dense forest and jagged cliffs that forms a natural curtain between the open seas and the heart of the Omich-Nisi archipelago. It stands like a sentinel at the edge of the mists, absorbing the brunt of storms and deterring unwanted visitors with its harsh terrain and impenetrable canopy.
+Virellos is the largest and southernmost of the Mist Islands, a towering landmass of dense forest and jagged cliffs that forms a natural curtain between the open seas and the heart of the [[Omich Nisi]] archipelago. It stands like a sentinel at the edge of the mists, absorbing the brunt of storms and deterring unwanted visitors with its harsh terrain and impenetrable canopy.
 
 **Description:** 
 
@@ -18,7 +18,7 @@ A land of shadow and silence, Virellos is dominated by towering trees with moss-
 
 **History:** 
 
-Virellos' history is steeped in legend, with some claiming it was once the dwelling place of [[Rezza Oir]] during her time in Staterum. The towering peaks and sheer cliffs of Omich-Nisi offered her solitude, while the racing winds provided the perfect currents to glide upon. Now, however, the land lies eerily still, its air thick with mist that never stirs.
+Virellos' history is steeped in legend, with some claiming it was once the dwelling place of [[Rezza Oir]] during her time in Staterum. The towering peaks and sheer cliffs of Omich-Nisi offered her solitude, while the racing winds provided the perfect currents to glide upon. Now, however, the land lies eerily still, its air thick with mist that never stirs, covering much of its landscape.
 
 The island's isolation and rugged terrain have preserved it as a haven for bizarre and ancient fauna. Even the pirates of Omich-Nisi, known for colonizing the most hostile of shores, have largely left Virellos untouched. Its dense forests, treacherous ravines, and prowling predators have made it a place best admired from afar.
 

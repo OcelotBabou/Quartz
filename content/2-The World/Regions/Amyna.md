@@ -51,11 +51,13 @@ The military organization in Amyna is robust, particularly focused on the defens
 - [[Troianos]]: As the capital city of Amyna and the seat of the region's military command, Troianos is the political and strategic heart of the region. It is positioned near the central section of the Paleomyna Wall, optimized for rapid deployment of troops along the wall.
 - [[Solway]]: Situated along the northernmost edge of the Paleomyna Wall, Solway is recognized as the economic powerhouse of Amyna. Its strategic location has historically afforded it unique access to trade routes coming from the northern territories and extensive maritime trade via the Sea of Calanthe.
 - [[Anteanus Peninsula]]: The Anteanus Peninsula is a stark, rugged stretch of land that serves as the ancient homeland of the trogs. It is characterized by its steep cliffs, rocky terrain, and a labyrinth of limestone caves that have been the trogs' lairs for millennia.
-- Serinara Delta: At the northern end of Amyna, where the River Serinara meets the Sea of Calanthe, lies the Serinara Delta. This area is a blend of fertile agricultural land and challenging marshes, providing both a natural resource base and a defensive barrier against northern threats.
+- **Serinara Delta**: At the northern end of Amyna, where the River Serinara meets the Sea of Calanthe, lies the Serinara Delta. This area is a blend of fertile agricultural land and challenging marshes, providing both a natural resource base and a defensive barrier against northern threats.
 
 ### 9. **Significant Characters**
 
-Introduce key figures associated with the region, such as rulers, heroes, or villains. Include brief descriptions of their roles and impacts on the region.
+- **General Caelus Varikon:** The supreme military leader of Amyna, General Varikon commands from Troianos and oversees the defense of the Paleomyna Wall. A stern and pragmatic strategist, he is as much a politician as a soldier, managing the delicate balance between the independent city-states while keeping their militias unified in times of crisis.
+- **Alexis Solmyre**: A celebrated devotee of Kakurcia, High Huntress Alexis has lead many great hunts into the Anteanus Peninsula. Fearless and cunning, she is admired for her ability to track and kill even the most elusive of foes. 
+- **Damarion Skrall:** The spiritual heart of Amyna’s devotion to Riero, Arch-Priest Skall presides over the Temple of Skulls in Troianos. Tall and gaunt, with a voice that resonates like a war drum, he leads ceremonies that sanctify the spilling of trog blood as holy war
 
 ### 10. **Current Issues and Future Prospects**
 

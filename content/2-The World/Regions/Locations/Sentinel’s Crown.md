@@ -10,7 +10,7 @@ tags:
 
 **Overview:** 
 
-Sentinel’s Crown is a lone watchtower perched high along the cragged ridges of the Neoramus Range. Isolated and windswept, this towering structure watches over the vast valleys and broken passes below, keeping vigilant guard against threats from the deeper mountains and the West, with sprawling views across the majority of the Road North. 
+Sentinel’s Crown is a lone watchtower perched high along the cragged ridges of the Neoramus Range. Isolated and windswept, this towering structure watches over the vast valleys and broken passes below, keeping vigilant guard against threats from the deeper mountains and the West, with sprawling views across the majority of the [[Road North]]. 
 
 **Description:** 
 
@@ -20,9 +20,9 @@ Inside, its chambers are spartan but sturdy—carved straight into the stone wit
 
 **History:** 
 
-Like many of the most enduring structures still standing in the modern age, Sentinel’s Crown was built long before the onset of the Age of Darkness—during a time when monumental craftsmanship and grand, time-intensive projects were still viable pursuits rather than luxuries. Constructed with precision and purpose, its role as a watchtower and early warning bastion has remained largely unchanged through the ages.
+Like many of the most enduring structures still standing in the modern age, Sentinel’s Crown was built long before the onset of the Age of Darkness ([[AoD]])—during a time when monumental craftsmanship and grand, time-intensive projects were still viable pursuits rather than luxuries. Constructed with precision and purpose, its role as a watchtower and early warning bastion has remained largely unchanged through the ages.
 
-When the Age of Darkness engulfed the land, Sentinel’s Crown was among the earliest sites to be cut off from the surrounding world. Ironically, this isolation may have saved it. With its remote location and the chaos drawing demonic forces to more populous targets, the tower escaped the worst of the destruction. Though its garrison was lost and the paths to it fell into ruin, the structure itself remained virtually unscathed—its stonework so expertly laid that even time and neglect could do little to erode its integrity.
+When the Age of Darkness engulfed the land, Sentinel’s Crown was among the earliest sites to be cut off from the surrounding world. Ironically, this isolation may have saved it. With its remote location and the chaos of the many wars drawing demonic forces to more populous targets, the tower escaped the worst of the destruction. Though its garrison was lost and the paths to it fell into ruin, the structure itself remained virtually unscathed—its stonework so expertly laid that even time and neglect could do little to erode its integrity.
 
 Now reclaimed and repurposed, it stands once more as a silent sentinel, watching from the heights as it has for centuries.
 

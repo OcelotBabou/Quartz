@@ -1,1 +1,44 @@
-{}
+{
+	"nodes":[
+		{"id":"af9a88d16e98acee","type":"text","text":"Learning Outcome","x":-360,"y":-60,"width":180,"height":60,"color":"5"},
+		{"id":"04c83425a8158b7a","type":"text","text":"General Capabilities","x":-560,"y":-60,"width":140,"height":60,"color":"5"},
+		{"id":"07460b87e4da5c10","type":"text","text":"Cross-Curricular Priorities","x":-395,"y":50,"width":250,"height":60,"color":"5"},
+		{"id":"ee80071164917075","type":"text","text":"NSW Syllabus Creative Arts Outcomes","x":-380,"y":-171,"width":220,"height":60,"color":"5"},
+		{"id":"d6147e4f9197871e","type":"text","text":"Content ","x":-100,"y":-111,"width":116,"height":50,"color":"6"},
+		{"id":"b996b77bfee38bab","type":"text","text":"Skills ","x":-100,"y":-3,"width":116,"height":53,"color":"6"},
+		{"id":"b880274b6d8a7a8d","type":"text","text":"Assessments","x":100,"y":-60,"width":140,"height":60,"color":"1"},
+		{"id":"b0fc29bca80baa5f","type":"text","text":"Formative","x":160,"y":81,"width":120,"height":58,"color":"1"},
+		{"id":"4ed510122dec2f3c","type":"text","text":"Summative ","x":160,"y":-201,"width":120,"height":60,"color":"1"},
+		{"id":"dd920018a2286f03","type":"text","text":"Lesson Plans","x":640,"y":-63,"width":160,"height":50,"color":"4"},
+		{"id":"a156488cb92ad0c0","type":"text","text":"Assessment Rubric","x":337,"y":-196,"width":220,"height":50,"color":"1"},
+		{"id":"a56c7065f4832bbd","type":"text","text":"Making\nAppreciating\nExhibiting","x":-122,"y":-280,"width":160,"height":84,"color":"6"},
+		{"id":"ed85ab038d1557bb","type":"text","text":"Experimenting\nAnalysing\nReflecting\nPresenting","x":-122,"y":124,"width":160,"height":136,"color":"6"},
+		{"id":"44d4cb84ea4a9e10","type":"text","text":"Art Journals\nKWL Charts\nPeer/Teacher Feedback\nTeacher Observation\n","x":337,"y":41,"width":220,"height":138,"color":"1"},
+		{"id":"bcb69a30e77a2d37","type":"text","text":"NESA Common Grade Scale ","x":364,"y":-315,"width":166,"height":70,"color":"1"},
+		{"id":"cab4a87dfd8f9ad4","type":"text","text":"Appreciating ","x":-20,"y":543,"width":150,"height":50},
+		{"id":"5f97642313cf9c21","type":"text","text":"Exhibiting","x":160,"y":543,"width":150,"height":50},
+		{"id":"1a2d0a0020400a91","type":"text","text":"**Lesson 1: Country Through Techniques.**\nExplore colour, line, pattern and texture to express place.\n","x":-385,"y":660,"width":191,"height":179},
+		{"id":"159b33591689bde2","type":"text","text":"**Lesson 2: Country Through Symbols.**\nDesign and test personal symbols to show meaning.\n","x":-165,"y":660,"width":191,"height":179},
+		{"id":"1d3789760ff81e54","type":"text","text":"**Lesson 3: Country Through Materials.**\nPlan and refine using varied media and feedback.\n","x":55,"y":660,"width":191,"height":179},
+		{"id":"7f7e5adaa2d3fe23","type":"text","text":"**Lesson 4: Presentation.**\nPrepare and present art with clear audience focus.\n","x":275,"y":660,"width":191,"height":179},
+		{"id":"fb4007868e960103","type":"text","text":"Making ","x":-194,"y":543,"width":150,"height":50}
+	],
+	"edges":[
+		{"id":"d8cd7994d3202616","fromNode":"b880274b6d8a7a8d","fromSide":"top","toNode":"4ed510122dec2f3c","toSide":"bottom"},
+		{"id":"256323c5d0264205","fromNode":"b880274b6d8a7a8d","fromSide":"bottom","toNode":"b0fc29bca80baa5f","toSide":"top"},
+		{"id":"a05478688489c176","fromNode":"ee80071164917075","fromSide":"bottom","toNode":"af9a88d16e98acee","toSide":"top"},
+		{"id":"28600c6bf637ab32","fromNode":"04c83425a8158b7a","fromSide":"right","toNode":"af9a88d16e98acee","toSide":"left"},
+		{"id":"ac4ca8dfa168679f","fromNode":"07460b87e4da5c10","fromSide":"top","toNode":"af9a88d16e98acee","toSide":"bottom"},
+		{"id":"95f4234d5abd5c5d","fromNode":"af9a88d16e98acee","fromSide":"right","toNode":"d6147e4f9197871e","toSide":"left"},
+		{"id":"76a2c2220f216ab3","fromNode":"af9a88d16e98acee","fromSide":"right","toNode":"b996b77bfee38bab","toSide":"left"},
+		{"id":"24b44cedb882159e","fromNode":"b996b77bfee38bab","fromSide":"right","toNode":"b880274b6d8a7a8d","toSide":"left"},
+		{"id":"ad8f0747cd5a5ebf","fromNode":"d6147e4f9197871e","fromSide":"right","toNode":"b880274b6d8a7a8d","toSide":"left"},
+		{"id":"485b6cce9b9c6e54","fromNode":"b0fc29bca80baa5f","fromSide":"right","toNode":"44d4cb84ea4a9e10","toSide":"left"},
+		{"id":"3ba27c0f19f9e15d","fromNode":"44d4cb84ea4a9e10","fromSide":"right","toNode":"dd920018a2286f03","toSide":"bottom"},
+		{"id":"3f37ed835942dfca","fromNode":"4ed510122dec2f3c","fromSide":"right","toNode":"a156488cb92ad0c0","toSide":"left"},
+		{"id":"665572495cfb539f","fromNode":"a156488cb92ad0c0","fromSide":"right","toNode":"dd920018a2286f03","toSide":"top"},
+		{"id":"540d11693b0687e0","fromNode":"bcb69a30e77a2d37","fromSide":"bottom","toNode":"a156488cb92ad0c0","toSide":"top"},
+		{"id":"41fd0fbfbc99d280","fromNode":"a56c7065f4832bbd","fromSide":"bottom","toNode":"d6147e4f9197871e","toSide":"top"},
+		{"id":"489fa2cd0c524040","fromNode":"ed85ab038d1557bb","fromSide":"top","toNode":"b996b77bfee38bab","toSide":"bottom"}
+	]
+}

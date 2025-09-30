@@ -50,7 +50,7 @@ However, despite these natural defenses, the coast is not without its threats. T
 
 ### 9. **Significant Characters**
 
-Introduce key figures associated with the region, such as rulers, heroes, or villains. Include brief descriptions of their roles and impacts on the region.
+- 
 
 ### 10. **Current Issues and Future Prospects**
 

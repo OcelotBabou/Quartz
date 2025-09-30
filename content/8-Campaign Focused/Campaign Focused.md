@@ -10,16 +10,14 @@ Here is all the regions and characters obviously tied to the campaign.
 **Regions**
 - [[Western Siar'Morrin]]
 - [[Eastern Siar'Morrin]]
+	- **More specifically**:
+	- [[Agroma]]
+	- [[Pilliga]]
+	- [[New Birania]]
 
 **Politics Overview**
 - [[Siar'Morrin Overview]]
 - [[Whole Statera Overview]]
-
-**Gods**
-- [[The New Gods]]
-- [[The Old Gods]]
-- [[The Ancients]]
-- [[The Vices]]
 
 **Key NPC**
 
@@ -55,8 +53,8 @@ Family Members
 
 **Specific for Players**
 - Brandon ([[Virag Greytail]]) [[Paloto Swamplands]], [[Eris]], [[Ratfolk]]
-- Mammo [[Riben]] or [[Yorudo]], [[Kitsune]]
+- Mammo 
 - Jondo
-- Tobes [[Paloto Swamplands]], [[Eastern Siar'Morrin]], [[Geppettin]], [[Gunslinger]]
+- Tobes
 - [[Rhaegar Varkalir]] [[Sabhaile Forest]] + [[New Birania]] + [[Cia'an]]
 - Jaryd 

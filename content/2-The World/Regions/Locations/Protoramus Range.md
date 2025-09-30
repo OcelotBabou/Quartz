@@ -15,7 +15,7 @@ The Protoramus Range forms the initial section of the greater Ramus Mountain Ran
 
 **Description:** 
 
-The Protoramus Range is the longest stretch of the Greater Ramus Range, characterised by its towering peaks and rugged terrain. A defining feature of the range is the stark contrast in elevation between its eastern and western slopes. On the western side, the mountains rise steeply above the arid Pilliga Plains, casting them in a perpetual rain shadow. Meanwhile, the eastern slopes descend more gently into the higher-elevation lands of the [[Shattered Kingdoms]], creating a dramatic natural divide. This unique topography shapes the ecosystems on either side, fostering dry scrublands to the west and the lush Dusk Forest to the east.
+The Protoramus Range is the longest stretch of the Greater Ramus Range, characterised by its towering peaks and rugged terrain. A defining feature of the range is the stark contrast in elevation between its eastern and western slopes. On the western side, the mountains rise steeply above the arid Pilliga Plains, casting them in a perpetual rain shadow. Meanwhile, the eastern slopes descend more gently into the higher-elevation lands of the [[Shattered Kingdoms]], creating a dramatic natural divide. This unique topography shapes the ecosystems on either side, fostering dry scrublands to the west and the lush [[Dusk Forest]] to the east.
 
 **History:** 
 

@@ -45,7 +45,7 @@ Bor’Tarnay lacks a formal military presence but maintains a militia capable of
 
 ### 9. **Significant Characters**
 
-Introduce key figures associated with the region, such as rulers, heroes, or villains. Include brief descriptions of their roles and impacts on the region.
+- 
 
 ### 10. **Current Issues and Future Prospects**
 
