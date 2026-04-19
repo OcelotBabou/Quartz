@@ -43,10 +43,14 @@ tags:
 ## Mythology and Worship
 
 - **Creation Myth**: 
-	Originally, Ormos was counted among the New Gods, embodying the raw survival instincts and primal aspects of humanity—those of fight, flight, and the fierce will to live. He was revered as a protector and a patron of those facing the harshest conditions, where the line between life and death was thin, and only the fiercest instincts could ensure survival. 
-	However, during a pivotal era marked by rapid advancements and  transformation within the mortal realms, the Ascended Gods—deities representing the triumphs and innovations of humanity—began to see Ormos's primal nature as an impediment to their vision of progress and enlightenment. They believed that for humanity to evolve beyond its primitive roots, it must shed the raw and untamed aspects that Ormos represented.
-	In a calculated move, the Ascended Gods betrayed Ormos, orchestrating circumstances that publicly undermined his importance and tainted his influence. Feeling abandoned and deceived, Ormos's sense of betrayal festered into a deep-seated rage. His despair and fury at being cast aside drove him away from the New Gods and into the darker corners of the divine realm, where he encountered the Vices.
-	The Vices, recognizing his potential as a force of destruction and chaos, welcomed him with open arms. They fed his anger and nurtured his resentment, slowly twisting him into his current bestial form, far removed from his original divine aspect.
+ 
+Originally, Ormos was counted among the New Gods, embodying the raw survival instincts and primal aspects of humanity—those of fight, flight, and the fierce will to live. He was revered as a protector and a patron of those facing the harshest conditions, where the line between life and death was thin, and only the fiercest instincts could ensure survival. 
+
+However, during a pivotal era marked by rapid advancements and  transformation within the mortal realms, the Ascended Gods—deities representing the triumphs and innovations of humanity—began to see Ormos's primal nature as an impediment to their vision of progress and enlightenment. They believed that for humanity to evolve beyond its primitive roots, it must shed the raw and untamed aspects that Ormos represented.
+
+In a calculated move, the Ascended Gods betrayed Ormos, orchestrating circumstances that publicly undermined his importance and tainted his influence. Feeling abandoned and deceived, Ormos's sense of betrayal festered into a deep-seated rage. His despair and fury at being cast aside drove him away from the New Gods and into the darker corners of the divine realm, where he encountered the Vices.
+
+The Vices, recognizing his potential as a force of destruction and chaos, welcomed him with open arms. They fed his anger and nurtured his resentment, slowly twisting him into his current bestial form, far removed from his original divine aspect.
 - **Major Cults and Religious Practices**: His followers include berserkers, warriors, and those who find strength in anger. There are some amongst the [[Barbearian]] that still worship him, as well as many [[Orcs]] that respect the strength he represents. 
 - **Rituals**: Rituals often involve bloodletting or tests of endurance to prove one's worthiness to Ormos. Additionally, many of his followers engage in rituals practices in the heat of battle, the act of slaying their enemies seen as the purest form of devotion. 
 - **Clergy and Temples**: Worshippers of Ormos do not believe in stationary temples or sedentary religious practices. The closest they get to temples are large constructed shrines, pulled by beasts of Ormos, that they can ride into battle. 

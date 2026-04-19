@@ -42,7 +42,15 @@ tags:
 
 ## Mythology and Worship
 
-- **Creation Myth**: Paysius was born when Gahrian defeated Tefylion, one of the incorpreal deities that predated the universe, dragging his soul into the material plane. To give this soul form, he imbued it with the excess arrogance held within himself. Thus creating the fourth Vice of Excess. As with its siblings Paysius would go on to seek war with its counter part in the Vices of Void, leading to great destabilization in the universe. Eventually, recognizing the folly of their creations Gahrian and Alache would defeat the Vices and banish them to their separate planes. 
+- **Creation Myth**: 
+
+Paysius was not born in the manner of most gods, nor did he arise naturally from the shaping of Staterum. His origin instead lies in one of the earliest divine conflicts, when **[[Gahrian]]** defeated **Tefylion**, one of the Incorporeals that predated the universe itself. Rather than allowing Tefylion’s essence to dissipate beyond creation, Gahrian dragged the defeated being’s soul into the material plane.
+
+Yet a soul without form could not exist there for long. To grant it shape and permanence, Gahrian imbued it with the excess arrogance that dwelt within his own divine nature. Through this act, **Paysius** was created—the fourth of the **Vices of Excess**, born not from mortal failing, but from the unchecked flaw of a god.
+
+Like his siblings, Paysius soon turned his nature toward conflict. Drawn by instinct and opposition, he sought war against his counterpart among the **Vices of Void**, and their clashes contributed greatly to the instability of the young and still-burgeoning universe. Such struggles threatened to unravel what the gods had only just begun to shape.
+
+In time, **Gahrian** and **[[Alache]]**, recognizing the danger and folly of what had been made, brought the Vices low. Unable—or unwilling—to wholly destroy them, the two gods instead banished the Vices to their own separate planes, removing them from the material world and restoring a measure of order to creation.
 - **Major Cults and Religious Practices**: His followers are often found among those that have fluked success in their lives, or inherited positions of power. 
 - **Rituals**: Paysius has many rituals, often overly intricate, complex and lengthy. 
 - **Clergy and Temples**: Temples dedicated to Paysius appear grandiose and lavish to his worshippers, however, to outside viewers they appear as little more than hovels or rundown structures, with the lavish decorations being mere illusions or poorly executed facades. The grandeur perceived by the worshippers is a manifestation of their collective arrogance and delusion, blinding them to the true state of their surroundings. Ironically, this works greatly to their advantage however, as it makes it far more difficult to discover them. 

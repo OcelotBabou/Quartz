@@ -42,7 +42,20 @@ tags:
 
 ## Mythology and Worship
 
-- **Creation Myth**: Aperkepsi was born from the first war that humanity waged—a deity manifested from their collective rush towards conflict and the chaotic fervor of battle. He arose from the spilled blood and adrenaline, embodying the spirit of those first reckless charges.
+- **Creation Myth**: 
+
+When humanity first reached beyond its own borders and sought to claim a greater place in Staterum, it did so with lofty ideals and the naivety of a young people who did not yet understand the price of dominion. Thus, when the first great and inevitable war between humanity and the elder races arose, mortals faltered. The scale of such conflict was beyond them—its horrors unfamiliar, its consequences still unseen. Many sought peace, while others shrank back in fearful doubt.
+
+But there was one who understood the cost—  
+and did not hesitate.
+
+He led humanity into war. And when even his warriors faltered at the final step, gazing into the terror before them, he hurled himself into the fray. Not from hatred, nor from courage, but because violence was the only truth he had come to trust. His fury broke the last fragile moments where peace might have endured, and where others wavered, his certainty carried them with him into bloodshed.
+
+He became a force of devastation. Each battle fed the next, each victory driving him further into the storm of his own making. Even when struck down, broken and bleeding, he rose again—not through strength, but through refusal. He did not know how to yield, only how to continue. Yet even such a fearsome warrior has their limits. When met in ambush, his soldiers fleeing he refused to back down, and out number countless times over he was finally slain. 
+
+Yet even in death, he did not pause. When his spirit was drawn toward the beyond, toward judgment and rest, he did as he always had—he rushed forward. He struck at death itself. A force so relentless, so destructive and reckless, that even the order of the afterlife could not contain it. And so, he was cast out. 
+
+Returned to Staterum, he was no longer a man, but something fractured—an echo of motion without thought, a will without direction. Where he passed, conflict followed. Where stillness lingered, he shattered it. He no longer fought for victory, nor survival, nor purpose. He fought because he could not do anything else.
 - **Major Cults and Religious Practices**: Worship of Aperkepsi is uncommon and typically frowned upon, as it often involves risky endeavors and the courting of danger. However, cults that do honor him are seldom long lived, rushing their plans and getting in over their heads is a trade mark of the followers of Aperkepsi. 
 - **Rituals**: Aperkepsi's followers, particularly warriors, observe a ritual known as the "Charge of Fervor" on the eve of significant battles. This ritual is believed to channel the deity’s chaotic energy, imbuing participants with reckless bravery and propelling them to the forefront of battle with astonishing speed.
 - **Clergy and Temples**: As mentioned, temples and religions dedicated to Aperkepsi are seldom well considered or strategically placed. As a result they are generally short lived, and quickly destroyed. 

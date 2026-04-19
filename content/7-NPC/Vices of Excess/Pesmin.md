@@ -42,7 +42,17 @@ tags:
 
 ## Mythology and Worship
 
-- **Creation Myth**: In the early days of the world, wise elders told a parable about Pesmin to warn against the dangers of holding grudges. Pesmin was the form given to represent grudges and spite. Over generations, the story of Pesmin morphed from a cautionary tale into a belief in his actual existence. The line between parable and reality blurred, and Pesmin was no longer seen as just a concept but as a living demon to be feared.
+- **Creation Myth**:
+
+In the early days, while our understanding of the world remained at large a mystery, wise elders told a parable about Pesmin to warn against the dangers of holding grudges. 
+
+The earliest accounts speak of a man who could not let go of a wrong done to him. He carried it with him, nurtured it, fed it, until it consumed his thoughts and twisted his actions. In time, it is said, he became unrecognizable. His skin grew cold, his eyes lifeless and his body gaunt. Where once stood a man, there remained only something bitter and hollow, a vessel for spite.
+
+From this story, the elders gave the name **Pesmin**—not to a being, but to the idea itself. A warning that grudges, left to fester, would grow beyond one’s control and destroy themselves from within. 
+
+However, as generations passed, the distinction between metaphor and reality began to erode. The name persisted, but its meaning shifted. What was once a cautionary tale became a figure. What was once a lesson became a presence. In time, Pesmin was no longer spoken of as a condition of the soul, but as a living entity—something that lurked in moments of resentment, something that whispered to those unwilling to forgive.
+
+Now those foolish enough to hold onto antiquated and superstitious beliefs fear Pesmin, and believe that  every grudge carried too long draws him closer. 
 - **Major Cults and Religious Practices**: Cults dedicated to Pesmin are secretive and often hidden in the shadows of society. Although times of peace seeks to eradicate his presence in Staterum, his favour is inevitably called upon following times of great trial and war. 
 - **Festivals**: The Night of Release, a festival held by the [[Church of Statera]], this festival seeks to reduce the influence of Pesmin, by releasing past grudges from the year, and seeking to forgive those that have done wrong. 
 - **Rituals:** Ritual of Vengeful Shadows, a dark and solemn ceremony performed by those consumed by spite and seeking retribution against someone who has wronged them. The ritual instills a supernatural sense of direction and determination in the seeker, allowing them to track down their perceived wrongdoer with uncanny accuracy.

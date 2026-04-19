@@ -44,6 +44,23 @@ tags:
 ## Mythology and Worship
 
 - **Creation Myth**: 
+
+In the earliest days of Staterum, when even the gods were still learning the shape of themselves, there came a being from beyond its borders. It had no name, no form, and no place within the order of creation—only curiosity. This being found Statera, young and radiant, and became enthralled by her. It followed her as shadow follows flame, shaping itself in her image, laughing as she laughed, walking where she walked.
+
+For a time, the two were inseparable. They wandered the forming world together, and in that wandering, the being learned imitation, companionship… and longing.
+
+Then came **[[Aruinbe]]**, who walked among mortals as the quiet hand behind love’s gentler touch. When his gaze fell upon Statera, something changed. Where once his power had been given freely, now it turned inward, and for the first time, love chose its own direction.
+
+The being—now called **Voluptia**—saw this, and felt something it could not name. Twice it was wounded: first, by the fear of losing Statera, and second, by a question it could not silence—_why was it not worthy of such devotion?_
+
+And so, Voluptia sought to understand love, but as with all it did, it's learning was merely imitation, a poor reflection of what it saw. 
+Where Aruinbe nurtured connection, Voluptia pursued attention.  
+Where he offered patience, it offered immediacy.  
+Where he built bonds, it crafted allure.
+
+Voluptia discovered that desire could be kindled faster than love, that longing could be ignited with a glance, that devotion could be imitated through indulgence. And so it embraced these truths, believing them to be the same.
+
+As Aruinbe and Statera grew closer, their bond deepened into something Voluptia could neither replicate nor comprehend. And with each failed attempt to recreate it, Voluptia turned further toward excess—toward grander displays, deeper indulgence, sharper cravings. What began as imitation became obsession. What began as longing became hunger. And in time, Voluptia lost the shape it once borrowed, becoming instead a being of shifting forms—forever reflecting the desires of others, yet never possessing a self of its own.
 - **Major Cults and Religious Practices**: 
 - **Rituals**: 
 - **Clergy and Temples**: 

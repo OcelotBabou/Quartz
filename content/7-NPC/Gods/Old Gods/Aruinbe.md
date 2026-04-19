@@ -59,6 +59,3 @@ Among all the deities in the pantheon, with their rich and often enigmatic creat
 
 ## Background
 
-- **Legends and Lore**: (Lesser-known tales and esoteric knowledge about the deity)
-
-This template should provide a comprehensive overview that can be used to detail each god within your pantheon, giving depth and context to their roles within your fantasy world.

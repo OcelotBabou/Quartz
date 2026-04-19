@@ -42,7 +42,15 @@ tags:
 
 ## Mythology and Worship
 
-- **Creation Myth**:  When humanity spread across Staterum, their rapid expansion and desolation of the natural world for resources left many areas barren and destroyed by their wastefulness and myopic nature. From the desolate and ruined lands, Spatalos was born, embodying humanity's wasteful tendencies and excessive greed. He emerged as a skeletal figure, a manifestation of the very essence of profligacy and excess that had ravaged the land. Spatalos stands as a grim reminder of the consequences of unchecked consumption and the relentless pursuit of indulgence.
+- **Creation Myth**: 
+
+When humanity spread across **Staterum**, their rise was swift and unrelenting. Forests fell, rivers were redirected, and the bones of the earth were stripped bare in pursuit of progress and prosperity. What began as survival became expansion, and what was taken out of necessity soon gave way to excess.
+
+In those early days, it is said there once existed a lesser god—now forgotten—who embodied the balance of consumption and renewal. A quiet force that ensured what was taken was returned, and that the land endured even as it was used. But humanity, in its hunger, did not see this balance, nor heed its warnings. They took without restraint, and in time, the god that once safeguarded the natural order was diminished, starved of purpose, and ultimately undone by the very excess it sought to temper.
+
+From its death, something else took root.
+
+Where life had once flourished, the land became hollow. Where balance had once been maintained, only waste remained. And from this desolation Spatalos was born. His form, skeletal and gaunt, bore none of the vitality of the being that came before. He was the echo of balance, corrupted into endless consumption—the embodiment of indulgence without purpose, hunger without end. Spatalos does not create, nor sustain. He consumes, and in consuming, leaves only ruin in his wake. It is said that where he walks, the land remembers what it has lost, and what remains begins to wither in quiet resignation.
 - **Major Cults and Religious Practices**: The main worshipers of Spatalos are the Gnolls of [[Donatus Stultitia]], said to have been born from his corruption. 
 - **Rituals**: Although not much is known of the specifics of Gnoll practices, every year there is a major raid, with numerous Gnoll tribes gathering for this sole expedition. During this raid, many hostages are taken, assumed to be used in thier dark rituals to Spatalos. 
 - **Clergy and Temples**: Beyond the Gnolls, worship of Spatalos is very rare, as only fools seek to bring to inevitable despair that follows in his wake. 
