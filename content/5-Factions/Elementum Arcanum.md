@@ -49,7 +49,7 @@ Nonetheless, the Arcanum presents itself not only as a centre of study but as a 
 
 - **High Magister Caeloran Veyne**: Current head of the Arcanum, a stern and pragmatic leader whose military background serving at Fort Logos, ensures the institute maintains discipline.
 - **Archon of Flame, Serathis Pyrelane**: Charismatic and feared, known for seeing fire as both weapon and purifier.
-- **Archon of Tides, Mirella Veydris**: A patient and wise Cia'an healer whose research pushes the boundaries of life itself, seeking to restore the dead through elemental power. A pursuit many view as perilous, yet one she believes is the next evolution of healing magic.
+- **Archon of Tides, Mirella Veydris**: A patient and wise Cia'an healer whose research explores the delicate balance between Water and Death, preserving life by quieting decay, slowing disease and extending the body's fleeting vitality.
 - **Archon of Stone, Tharek Ironmantle**: A stoic dwarf whose endurance and unyielding nature have earned him legendary respect.
 - **Archon of Winds, Elirian Dawnwhisper**: An eccentric Lux elf whose experiments with planar travel court both wonder and disaster.
 

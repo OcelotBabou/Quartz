@@ -9,7 +9,7 @@ The Old Gods represent a pivotal tier in the pantheon of Staterum, serving as ce
 
 ![[oldgods.webp]]
 
-### 2. **Deities*
+### 2. **Deities**
 
 - [[Statera]]
 - [[Eris]]
